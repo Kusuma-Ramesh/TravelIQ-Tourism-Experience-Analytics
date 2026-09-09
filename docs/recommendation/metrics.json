@@ -1,0 +1,58 @@
+{
+  "cutoff_year": 2018,
+  "segments": {
+    "warm": {
+      "k=5": {
+        "n_users_evaluated": 726,
+        "precision_at_k": 0.1140495867768595,
+        "recall_at_k": 0.4544765840220386,
+        "map_at_k": 0.20590679522497707
+      },
+      "k=10": {
+        "n_users_evaluated": 726,
+        "precision_at_k": 0.09724517906336087,
+        "recall_at_k": 0.7567722681359045,
+        "map_at_k": 0.2547881958109231
+      }
+    },
+    "cold": {
+      "k=5": {
+        "n_users_evaluated": 4106,
+        "precision_at_k": 0.17413541159279106,
+        "recall_at_k": 0.7107972073388538,
+        "map_at_k": 0.45761182821886665
+      },
+      "k=10": {
+        "n_users_evaluated": 4106,
+        "precision_at_k": 0.09912323429128106,
+        "recall_at_k": 0.8149780808572821,
+        "map_at_k": 0.47289161621784614
+      }
+    }
+  },
+  "overall": {
+    "k=5": {
+      "n_users_evaluated": 4832,
+      "precision_at_k": 0.16510761589403972,
+      "recall_at_k": 0.6722854580573951,
+      "map_at_k": 0.41979356374172183
+    },
+    "k=10": {
+      "n_users_evaluated": 4832,
+      "precision_at_k": 0.098841059602649,
+      "recall_at_k": 0.8062327538631345,
+      "map_at_k": 0.4401219384000841
+    }
+  },
+  "random_baseline": {
+    "recall_at_k": {
+      "5": 0.1667,
+      "10": 0.3333
+    },
+    "precision_at_k": {
+      "warm": 0.0433,
+      "cold": 0.0411,
+      "overall": 0.0415
+    }
+  }
+}

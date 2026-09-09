@@ -1,0 +1,1699 @@
+AttractionId,AttractionCityId,AttractionTypeId,Attraction,AttractionAddress,AttractionTypeName
+369,1,13,Kuta Beach - Bali,Kuta,Beaches
+481,1,13,Nusa Dua Beach,"Semenanjung Nusa Dua, Nusa Dua 80517 Indonesia",Beaches
+640,1,63,Sacred Monkey Forest Sanctuary,"Jl. Monkey Forest, Ubud 80571 Indonesia",Nature & Wildlife Areas
+650,1,13,Sanur Beach,Sanur,Beaches
+673,1,13,Seminyak Beach,Seminyak,Beaches
+737,1,76,Tanah Lot Temple,"Kecamatan Kediri, Kabupaten Tabanan, Beraban 82121 Indonesia",Religious Sites
+748,1,72,Tegalalang Rice Terrace,"Jalan Raya Ceking, Tegalalang 80517 Indonesia",Points of Interest & Landmarks
+749,1,93,Tegenungan Waterfall,"Jl. Raya Tegenungan, Kemenuh, Ubud 80581 Indonesia",Waterfalls
+824,1,76,Uluwatu Temple,"Jl. Raya Uluwatu Southern part of Bali, Pecatu 80361 Indonesia",Religious Sites
+841,1,92,Waterbom Bali,"Jl. Kartika Plaza, Kuta 80361 Indonesia",Water Parks
+877,2,13,Balekambang Beach,Malang District,Beaches
+888,2,61,Bromo Tengger Semeru National Park,"Asrikaton - Pakis, Malang 65100 Indonesia",National Parks
+897,2,93,Coban Rondo Waterfall,Malang District,Waterfalls
+913,2,13,Goa Cina Beach,"Dusun Trowotratih, Desa Sitiarjo Kecamatan Sumbermanjing Wetan, Malang 65111 Indonesia",Beaches
+920,2,64,Jodipan Colorful Village,"Gang 1 Jodipan, Kesatrian, Kec. Blimbing, Malang 65126 Indonesia",Neighborhoods
+928,2,82,Khayangan Reflexology & Massage,Malang,Spas
+937,2,72,Malang City Square,"Jl. Merdeka Utara, Malang 65119 Indonesia",Points of Interest & Landmarks
+947,2,91,Mount Semeru Volcano,Malang Lumajang,Volcanos
+949,2,84,Museum Malang Tempo Doeloe,"Jl. Gajahmada no. 2, Malang 65119 Indonesia",Speciality Museums
+975,2,63,Sempu Island,"Sumber Manjing Wetan, Malang 65111 Indonesia",Nature & Wildlife Areas
+1133,3,19,Jomblang Cave,"Jetis Wetan, Pacarejo, Semanu 55581 Indonesia",Caverns & Caves
+1137,3,61,Kalibiru National Park,Kulon Progo,National Parks
+1166,3,34,Malioboro Road,Yogyakarta,Flea & Street Markets
+1171,3,91,Merapi Volcano,Yogyakarta,Volcanos
+1220,3,10,Ramayana Ballet at Prambanan,Sleman,Ballets
+1225,3,2,Ratu Boko Temple,Yogyakarta,Ancient Ruins
+1238,3,2,Sewu Temple,Yogyakarta,Ancient Ruins
+1278,3,45,Ullen Sentalu Museum,"Jl. Boyong Taman Wisata, 55581 Indonesia",History Museums
+1280,3,72,Water Castle (Tamansari),"Jl. Taman, 55133 Indonesia",Points of Interest & Landmarks
+1297,3,44,Yogyakarta Palace,Yogyakarta,Historic Sites
+1298,0,902,Ancient Temple - -,"Main Street, -, -",Temple
+1299,0,904,Paradise Beach - -,"Main Street, -, -",Beach
+1300,0,905,National Park - -,"Main Street, -, -",Park
+1301,0,901,Cultural Heritage Center - -,"Main Street, -, -",Museum
+1302,2,901,Art Gallery - South Region,"Main Street, South Region, Cameroon",Museum
+1303,2,903,Farmers' Market - South Region,"Main Street, South Region, Cameroon",Market
+1304,2,903,Night Market - South Region,"Main Street, South Region, Cameroon",Market
+1305,2,902,Cathedral - South Region,"Main Street, South Region, Cameroon",Temple
+1306,1,905,Eco Park - Douala,"Main Street, Douala, Cameroon",Park
+1307,1,901,Art Gallery - Douala,"Main Street, Douala, Cameroon",Museum
+1308,1,904,Paradise Beach - Douala,"Main Street, Douala, Cameroon",Beach
+1309,1,902,Sacred Shrine - Douala,"Main Street, Douala, Cameroon",Temple
+1310,3,904,Crystal Bay - N'Djamena,"Main Street, N'Djamena, Chad",Beach
+1311,3,903,Farmers' Market - N'Djamena,"Main Street, N'Djamena, Chad",Market
+1312,3,901,Cultural Heritage Center - N'Djamena,"Main Street, N'Djamena, Chad",Museum
+1313,3,903,Farmers' Market - N'Djamena,"Main Street, N'Djamena, Chad",Market
+1314,5,905,National Park - Kigali Province,"Main Street, Kigali Province, Rwanda",Park
+1315,5,904,Crystal Bay - Kigali Province,"Main Street, Kigali Province, Rwanda",Beach
+1316,5,901,Science Museum - Kigali Province,"Main Street, Kigali Province, Rwanda",Museum
+1317,5,902,Cathedral - Kigali Province,"Main Street, Kigali Province, Rwanda",Temple
+1318,4,904,Golden Sand Beach - Kigali,"Main Street, Kigali, Rwanda",Beach
+1319,4,902,Grand Mosque - Kigali,"Main Street, Kigali, Rwanda",Temple
+1320,4,903,Local Bazaar - Kigali,"Main Street, Kigali, Rwanda",Market
+1321,4,901,Cultural Heritage Center - Kigali,"Main Street, Kigali, Rwanda",Museum
+1322,6,904,Sunset Cove - Addis Ababa,"Main Street, Addis Ababa, Ethiopia",Beach
+1323,6,905,National Park - Addis Ababa,"Main Street, Addis Ababa, Ethiopia",Park
+1324,6,903,Farmers' Market - Addis Ababa,"Main Street, Addis Ababa, Ethiopia",Market
+1325,6,905,Eco Park - Addis Ababa,"Main Street, Addis Ababa, Ethiopia",Park
+1326,7,902,Ancient Temple - Karen,"Main Street, Karen, Kenya",Temple
+1327,7,905,National Park - Karen,"Main Street, Karen, Kenya",Park
+1328,7,902,Cathedral - Karen,"Main Street, Karen, Kenya",Temple
+1329,7,904,Golden Sand Beach - Karen,"Main Street, Karen, Kenya",Beach
+1330,8,902,Cathedral - Kenya,"Main Street, Kenya, Kenya",Temple
+1331,8,901,Cultural Heritage Center - Kenya,"Main Street, Kenya, Kenya",Museum
+1332,8,904,Crystal Bay - Kenya,"Main Street, Kenya, Kenya",Beach
+1333,8,902,Grand Mosque - Kenya,"Main Street, Kenya, Kenya",Temple
+1334,12,902,Sacred Shrine - Shimoni,"Main Street, Shimoni, Kenya",Temple
+1335,12,902,Ancient Temple - Shimoni,"Main Street, Shimoni, Kenya",Temple
+1336,12,902,Cathedral - Shimoni,"Main Street, Shimoni, Kenya",Temple
+1337,12,901,History Museum - Shimoni,"Main Street, Shimoni, Kenya",Museum
+1338,18,903,Local Bazaar - Mauritius,"Main Street, Mauritius, Mauritius",Market
+1339,18,905,National Park - Mauritius,"Main Street, Mauritius, Mauritius",Park
+1340,18,903,Night Market - Mauritius,"Main Street, Mauritius, Mauritius",Market
+1341,18,904,Paradise Beach - Mauritius,"Main Street, Mauritius, Mauritius",Beach
+1342,13,903,Farmers' Market - Bel Ombre,"Main Street, Bel Ombre, Mauritius",Market
+1343,13,901,History Museum - Bel Ombre,"Main Street, Bel Ombre, Mauritius",Museum
+1344,13,903,Flea Market - Bel Ombre,"Main Street, Bel Ombre, Mauritius",Market
+1345,13,902,Grand Mosque - Bel Ombre,"Main Street, Bel Ombre, Mauritius",Temple
+1346,22,901,History Museum - Quatre Bornes,"Main Street, Quatre Bornes, Mauritius",Museum
+1347,22,902,Sacred Shrine - Quatre Bornes,"Main Street, Quatre Bornes, Mauritius",Temple
+1348,22,904,Golden Sand Beach - Quatre Bornes,"Main Street, Quatre Bornes, Mauritius",Beach
+1349,22,904,Sunset Cove - Quatre Bornes,"Main Street, Quatre Bornes, Mauritius",Beach
+1350,24,903,Farmers' Market - Cerf Island,"Main Street, Cerf Island, Seychelles",Market
+1351,24,903,Local Bazaar - Cerf Island,"Main Street, Cerf Island, Seychelles",Market
+1352,24,902,Cathedral - Cerf Island,"Main Street, Cerf Island, Seychelles",Temple
+1353,24,902,Cathedral - Cerf Island,"Main Street, Cerf Island, Seychelles",Temple
+1354,25,903,Night Market - Mahe Island,"Main Street, Mahe Island, Seychelles",Market
+1355,25,902,Cathedral - Mahe Island,"Main Street, Mahe Island, Seychelles",Temple
+1356,25,901,History Museum - Mahe Island,"Main Street, Mahe Island, Seychelles",Museum
+1357,25,902,Sacred Shrine - Mahe Island,"Main Street, Mahe Island, Seychelles",Temple
+1358,26,905,Botanical Garden - Victoria,"Main Street, Victoria, Seychelles",Park
+1359,26,904,Sunset Cove - Victoria,"Main Street, Victoria, Seychelles",Beach
+1360,26,901,Cultural Heritage Center - Victoria,"Main Street, Victoria, Seychelles",Museum
+1361,26,901,Science Museum - Victoria,"Main Street, Victoria, Seychelles",Museum
+1362,28,903,Night Market - Port Sudan,"Main Street, Port Sudan, Sudan",Market
+1363,28,903,Farmers' Market - Port Sudan,"Main Street, Port Sudan, Sudan",Market
+1364,28,901,Science Museum - Port Sudan,"Main Street, Port Sudan, Sudan",Museum
+1365,28,904,Sunset Cove - Port Sudan,"Main Street, Port Sudan, Sudan",Beach
+1366,30,903,Farmers' Market - Sudan,"Main Street, Sudan, Sudan",Market
+1367,30,905,Botanical Garden - Sudan,"Main Street, Sudan, Sudan",Park
+1368,30,901,History Museum - Sudan,"Main Street, Sudan, Sudan",Museum
+1369,30,904,Golden Sand Beach - Sudan,"Main Street, Sudan, Sudan",Beach
+1370,27,904,Golden Sand Beach - Khartoum,"Main Street, Khartoum, Sudan",Beach
+1371,27,905,Botanical Garden - Khartoum,"Main Street, Khartoum, Sudan",Park
+1372,27,904,Paradise Beach - Khartoum,"Main Street, Khartoum, Sudan",Beach
+1373,27,905,Eco Park - Khartoum,"Main Street, Khartoum, Sudan",Park
+1374,31,903,Night Market - Arusha,"Main Street, Arusha, Tanzania",Market
+1375,31,903,Flea Market - Arusha,"Main Street, Arusha, Tanzania",Market
+1376,31,903,Farmers' Market - Arusha,"Main Street, Arusha, Tanzania",Market
+1377,31,903,Night Market - Arusha,"Main Street, Arusha, Tanzania",Market
+1378,32,904,Golden Sand Beach - Dar es Salaam,"Main Street, Dar es Salaam, Tanzania",Beach
+1379,32,902,Cathedral - Dar es Salaam,"Main Street, Dar es Salaam, Tanzania",Temple
+1380,32,905,National Park - Dar es Salaam,"Main Street, Dar es Salaam, Tanzania",Park
+1381,32,904,Crystal Bay - Dar es Salaam,"Main Street, Dar es Salaam, Tanzania",Beach
+1382,36,905,Wildlife Reserve - Zanzibar Island,"Main Street, Zanzibar Island, Tanzania",Park
+1383,36,903,Flea Market - Zanzibar Island,"Main Street, Zanzibar Island, Tanzania",Market
+1384,36,904,Crystal Bay - Zanzibar Island,"Main Street, Zanzibar Island, Tanzania",Beach
+1385,36,904,Golden Sand Beach - Zanzibar Island,"Main Street, Zanzibar Island, Tanzania",Beach
+1386,37,902,Sacred Shrine - Kampala,"Main Street, Kampala, Uganda",Temple
+1387,37,902,Grand Mosque - Kampala,"Main Street, Kampala, Uganda",Temple
+1388,37,905,Botanical Garden - Kampala,"Main Street, Kampala, Uganda",Park
+1389,37,904,Crystal Bay - Kampala,"Main Street, Kampala, Uganda",Beach
+1390,39,904,Sunset Cove - Lusaka,"Main Street, Lusaka, Zambia",Beach
+1391,39,901,Cultural Heritage Center - Lusaka,"Main Street, Lusaka, Zambia",Museum
+1392,39,901,Art Gallery - Lusaka,"Main Street, Lusaka, Zambia",Museum
+1393,39,902,Ancient Temple - Lusaka,"Main Street, Lusaka, Zambia",Temple
+1394,42,901,History Museum - Victoria Falls,"Main Street, Victoria Falls, Zambia",Museum
+1395,42,904,Golden Sand Beach - Victoria Falls,"Main Street, Victoria Falls, Zambia",Beach
+1396,42,901,Cultural Heritage Center - Victoria Falls,"Main Street, Victoria Falls, Zambia",Museum
+1397,42,905,National Park - Victoria Falls,"Main Street, Victoria Falls, Zambia",Park
+1398,40,903,Flea Market - Solwezi,"Main Street, Solwezi, Zambia",Market
+1399,40,902,Grand Mosque - Solwezi,"Main Street, Solwezi, Zambia",Temple
+1400,40,901,Science Museum - Solwezi,"Main Street, Solwezi, Zambia",Museum
+1401,40,905,Eco Park - Solwezi,"Main Street, Solwezi, Zambia",Park
+1402,43,903,Local Bazaar - Harare,"Main Street, Harare, Zimbabwe",Market
+1403,43,904,Golden Sand Beach - Harare,"Main Street, Harare, Zimbabwe",Beach
+1404,43,901,Science Museum - Harare,"Main Street, Harare, Zimbabwe",Museum
+1405,43,901,History Museum - Harare,"Main Street, Harare, Zimbabwe",Museum
+1406,45,904,Paradise Beach - Algiers,"Main Street, Algiers, Algeria",Beach
+1407,45,904,Crystal Bay - Algiers,"Main Street, Algiers, Algeria",Beach
+1408,45,903,Flea Market - Algiers,"Main Street, Algiers, Algeria",Market
+1409,45,902,Ancient Temple - Algiers,"Main Street, Algiers, Algeria",Temple
+1410,47,905,Eco Park - Oran,"Main Street, Oran, Algeria",Park
+1411,47,904,Golden Sand Beach - Oran,"Main Street, Oran, Algeria",Beach
+1412,47,901,Cultural Heritage Center - Oran,"Main Street, Oran, Algeria",Museum
+1413,47,903,Farmers' Market - Oran,"Main Street, Oran, Algeria",Market
+1414,44,901,Art Gallery - Alger,"Main Street, Alger, Algeria",Museum
+1415,44,903,Night Market - Alger,"Main Street, Alger, Algeria",Market
+1416,44,903,Night Market - Alger,"Main Street, Alger, Algeria",Market
+1417,44,905,Botanical Garden - Alger,"Main Street, Alger, Algeria",Park
+1418,48,902,Cathedral - Ad Duqqi,"Main Street, Ad Duqqi, Egypt",Temple
+1419,48,902,Sacred Shrine - Ad Duqqi,"Main Street, Ad Duqqi, Egypt",Temple
+1420,48,904,Paradise Beach - Ad Duqqi,"Main Street, Ad Duqqi, Egypt",Beach
+1421,48,904,Golden Sand Beach - Ad Duqqi,"Main Street, Ad Duqqi, Egypt",Beach
+1422,49,902,Ancient Temple - Al Rehab,"Main Street, Al Rehab, Egypt",Temple
+1423,49,903,Flea Market - Al Rehab,"Main Street, Al Rehab, Egypt",Market
+1424,49,905,Botanical Garden - Al Rehab,"Main Street, Al Rehab, Egypt",Park
+1425,49,905,Botanical Garden - Al Rehab,"Main Street, Al Rehab, Egypt",Park
+1426,56,903,Flea Market - El Alamein,"Main Street, El Alamein, Egypt",Market
+1427,56,903,Local Bazaar - El Alamein,"Main Street, El Alamein, Egypt",Market
+1428,56,902,Grand Mosque - El Alamein,"Main Street, El Alamein, Egypt",Temple
+1429,56,901,History Museum - El Alamein,"Main Street, El Alamein, Egypt",Museum
+1430,73,902,Cathedral - Oujda,"Main Street, Oujda, Morocco",Temple
+1431,73,901,Cultural Heritage Center - Oujda,"Main Street, Oujda, Morocco",Museum
+1432,73,902,Grand Mosque - Oujda,"Main Street, Oujda, Morocco",Temple
+1433,73,904,Crystal Bay - Oujda,"Main Street, Oujda, Morocco",Beach
+1434,67,903,Farmers' Market - Chefchaouen,"Main Street, Chefchaouen, Morocco",Market
+1435,67,901,Art Gallery - Chefchaouen,"Main Street, Chefchaouen, Morocco",Museum
+1436,67,901,Art Gallery - Chefchaouen,"Main Street, Chefchaouen, Morocco",Museum
+1437,67,901,Art Gallery - Chefchaouen,"Main Street, Chefchaouen, Morocco",Museum
+1438,71,902,Sacred Shrine - Merzouga,"Main Street, Merzouga, Morocco",Temple
+1439,71,902,Sacred Shrine - Merzouga,"Main Street, Merzouga, Morocco",Temple
+1440,71,905,Wildlife Reserve - Merzouga,"Main Street, Merzouga, Morocco",Park
+1441,71,901,Art Gallery - Merzouga,"Main Street, Merzouga, Morocco",Museum
+1442,75,901,Science Museum - Bizerte,"Main Street, Bizerte, Tunisia",Museum
+1443,75,904,Crystal Bay - Bizerte,"Main Street, Bizerte, Tunisia",Beach
+1444,75,901,Art Gallery - Bizerte,"Main Street, Bizerte, Tunisia",Museum
+1445,75,905,National Park - Bizerte,"Main Street, Bizerte, Tunisia",Park
+1446,76,901,Art Gallery - Carthage,"Main Street, Carthage, Tunisia",Museum
+1447,76,903,Night Market - Carthage,"Main Street, Carthage, Tunisia",Market
+1448,76,903,Local Bazaar - Carthage,"Main Street, Carthage, Tunisia",Market
+1449,76,902,Ancient Temple - Carthage,"Main Street, Carthage, Tunisia",Temple
+1450,80,904,Crystal Bay - Tunis,"Main Street, Tunis, Tunisia",Beach
+1451,80,901,History Museum - Tunis,"Main Street, Tunis, Tunisia",Museum
+1452,80,904,Sunset Cove - Tunis,"Main Street, Tunis, Tunisia",Beach
+1453,80,902,Sacred Shrine - Tunis,"Main Street, Tunis, Tunisia",Temple
+1454,82,902,Grand Mosque - Luanda,"Main Street, Luanda, Angola",Temple
+1455,82,902,Sacred Shrine - Luanda,"Main Street, Luanda, Angola",Temple
+1456,82,904,Sunset Cove - Luanda,"Main Street, Luanda, Angola",Beach
+1457,82,902,Grand Mosque - Luanda,"Main Street, Luanda, Angola",Temple
+1458,84,902,Cathedral - Gaborone,"Main Street, Gaborone, Botswana",Temple
+1459,84,904,Sunset Cove - Gaborone,"Main Street, Gaborone, Botswana",Beach
+1460,84,902,Ancient Temple - Gaborone,"Main Street, Gaborone, Botswana",Temple
+1461,84,901,Art Gallery - Gaborone,"Main Street, Gaborone, Botswana",Museum
+1462,83,901,Science Museum - Botswana,"Main Street, Botswana, Botswana",Museum
+1463,83,901,Cultural Heritage Center - Botswana,"Main Street, Botswana, Botswana",Museum
+1464,83,905,Wildlife Reserve - Botswana,"Main Street, Botswana, Botswana",Park
+1465,83,904,Sunset Cove - Botswana,"Main Street, Botswana, Botswana",Beach
+1466,85,902,Cathedral - Chintheche,"Main Street, Chintheche, Malawi",Temple
+1467,85,904,Crystal Bay - Chintheche,"Main Street, Chintheche, Malawi",Beach
+1468,85,905,Wildlife Reserve - Chintheche,"Main Street, Chintheche, Malawi",Park
+1469,85,901,Cultural Heritage Center - Chintheche,"Main Street, Chintheche, Malawi",Museum
+1470,87,901,Cultural Heritage Center - Mozambique,"Main Street, Mozambique, Mozambique",Museum
+1471,87,903,Flea Market - Mozambique,"Main Street, Mozambique, Mozambique",Market
+1472,87,904,Golden Sand Beach - Mozambique,"Main Street, Mozambique, Mozambique",Beach
+1473,87,903,Flea Market - Mozambique,"Main Street, Mozambique, Mozambique",Market
+1474,89,903,Flea Market - Tofinho,"Main Street, Tofinho, Mozambique",Market
+1475,89,902,Ancient Temple - Tofinho,"Main Street, Tofinho, Mozambique",Temple
+1476,89,901,Cultural Heritage Center - Tofinho,"Main Street, Tofinho, Mozambique",Museum
+1477,89,905,National Park - Tofinho,"Main Street, Tofinho, Mozambique",Park
+1478,86,904,Paradise Beach - Maputo,"Main Street, Maputo, Mozambique",Beach
+1479,86,904,Paradise Beach - Maputo,"Main Street, Maputo, Mozambique",Beach
+1480,86,905,National Park - Maputo,"Main Street, Maputo, Mozambique",Park
+1481,86,903,Night Market - Maputo,"Main Street, Maputo, Mozambique",Market
+1482,90,901,Cultural Heritage Center - Swakopmund,"Main Street, Swakopmund, Namibia",Museum
+1483,90,903,Farmers' Market - Swakopmund,"Main Street, Swakopmund, Namibia",Market
+1484,90,904,Sunset Cove - Swakopmund,"Main Street, Swakopmund, Namibia",Beach
+1485,90,903,Local Bazaar - Swakopmund,"Main Street, Swakopmund, Namibia",Market
+1486,91,901,Science Museum - Walvis Bay,"Main Street, Walvis Bay, Namibia",Museum
+1487,91,905,Wildlife Reserve - Walvis Bay,"Main Street, Walvis Bay, Namibia",Park
+1488,91,901,Art Gallery - Walvis Bay,"Main Street, Walvis Bay, Namibia",Museum
+1489,91,901,Art Gallery - Walvis Bay,"Main Street, Walvis Bay, Namibia",Museum
+1490,92,903,Flea Market - Windhoek,"Main Street, Windhoek, Namibia",Market
+1491,92,904,Crystal Bay - Windhoek,"Main Street, Windhoek, Namibia",Beach
+1492,92,901,Science Museum - Windhoek,"Main Street, Windhoek, Namibia",Museum
+1493,92,905,Botanical Garden - Windhoek,"Main Street, Windhoek, Namibia",Park
+1494,137,903,Night Market - Johannesburg South,"Main Street, Johannesburg South, South Africa",Market
+1495,137,905,Wildlife Reserve - Johannesburg South,"Main Street, Johannesburg South, South Africa",Park
+1496,137,904,Crystal Bay - Johannesburg South,"Main Street, Johannesburg South, South Africa",Beach
+1497,137,901,Science Museum - Johannesburg South,"Main Street, Johannesburg South, South Africa",Museum
+1498,140,901,Art Gallery - Kemptonpark,"Main Street, Kemptonpark, South Africa",Museum
+1499,140,905,Wildlife Reserve - Kemptonpark,"Main Street, Kemptonpark, South Africa",Park
+1500,140,901,Cultural Heritage Center - Kemptonpark,"Main Street, Kemptonpark, South Africa",Museum
+1501,140,902,Cathedral - Kemptonpark,"Main Street, Kemptonpark, South Africa",Temple
+1502,97,905,National Park - Benoni,"Main Street, Benoni, South Africa",Park
+1503,97,905,Eco Park - Benoni,"Main Street, Benoni, South Africa",Park
+1504,97,905,Eco Park - Benoni,"Main Street, Benoni, South Africa",Park
+1505,97,905,Eco Park - Benoni,"Main Street, Benoni, South Africa",Park
+1506,213,902,Grand Mosque - Ouagadougou,"Main Street, Ouagadougou, Burkina Faso",Temple
+1507,213,901,Art Gallery - Ouagadougou,"Main Street, Ouagadougou, Burkina Faso",Museum
+1508,213,905,National Park - Ouagadougou,"Main Street, Ouagadougou, Burkina Faso",Park
+1509,213,903,Night Market - Ouagadougou,"Main Street, Ouagadougou, Burkina Faso",Market
+1510,214,903,Farmers' Market - Santa Maria,"Main Street, Santa Maria, Cape Verde",Market
+1511,214,903,Local Bazaar - Santa Maria,"Main Street, Santa Maria, Cape Verde",Market
+1512,214,904,Golden Sand Beach - Santa Maria,"Main Street, Santa Maria, Cape Verde",Beach
+1513,214,902,Grand Mosque - Santa Maria,"Main Street, Santa Maria, Cape Verde",Temple
+1514,215,902,Grand Mosque - Abidjan,"Main Street, Abidjan, Côte d'Ivoire",Temple
+1515,215,904,Golden Sand Beach - Abidjan,"Main Street, Abidjan, Côte d'Ivoire",Beach
+1516,215,904,Golden Sand Beach - Abidjan,"Main Street, Abidjan, Côte d'Ivoire",Beach
+1517,215,905,Wildlife Reserve - Abidjan,"Main Street, Abidjan, Côte d'Ivoire",Park
+1518,217,903,Night Market - Kumasi,"Main Street, Kumasi, Ghana",Market
+1519,217,902,Grand Mosque - Kumasi,"Main Street, Kumasi, Ghana",Temple
+1520,217,903,Local Bazaar - Kumasi,"Main Street, Kumasi, Ghana",Market
+1521,217,904,Crystal Bay - Kumasi,"Main Street, Kumasi, Ghana",Beach
+1522,216,905,National Park - Accra,"Main Street, Accra, Ghana",Park
+1523,216,904,Crystal Bay - Accra,"Main Street, Accra, Ghana",Beach
+1524,216,903,Farmers' Market - Accra,"Main Street, Accra, Ghana",Market
+1525,216,901,Cultural Heritage Center - Accra,"Main Street, Accra, Ghana",Museum
+1526,219,905,Eco Park - Ilorin,"Main Street, Ilorin, NIGERIA",Park
+1527,219,903,Flea Market - Ilorin,"Main Street, Ilorin, NIGERIA",Market
+1528,219,901,History Museum - Ilorin,"Main Street, Ilorin, NIGERIA",Museum
+1529,219,903,Farmers' Market - Ilorin,"Main Street, Ilorin, NIGERIA",Market
+1530,222,902,Cathedral - Port Harcourt,"Main Street, Port Harcourt, NIGERIA",Temple
+1531,222,901,Science Museum - Port Harcourt,"Main Street, Port Harcourt, NIGERIA",Museum
+1532,222,903,Flea Market - Port Harcourt,"Main Street, Port Harcourt, NIGERIA",Market
+1533,222,901,Art Gallery - Port Harcourt,"Main Street, Port Harcourt, NIGERIA",Museum
+1534,220,903,Night Market - Lagos,"Main Street, Lagos, NIGERIA",Market
+1535,220,905,Eco Park - Lagos,"Main Street, Lagos, NIGERIA",Park
+1536,220,904,Crystal Bay - Lagos,"Main Street, Lagos, NIGERIA",Beach
+1537,220,903,Night Market - Lagos,"Main Street, Lagos, NIGERIA",Market
+1538,224,905,National Park - Saly,"Main Street, Saly, Senegal",Park
+1539,224,903,Local Bazaar - Saly,"Main Street, Saly, Senegal",Market
+1540,224,902,Ancient Temple - Saly,"Main Street, Saly, Senegal",Temple
+1541,224,905,Wildlife Reserve - Saly,"Main Street, Saly, Senegal",Park
+1542,223,904,Paradise Beach - Dakar,"Main Street, Dakar, Senegal",Beach
+1543,223,903,Local Bazaar - Dakar,"Main Street, Dakar, Senegal",Market
+1544,223,902,Cathedral - Dakar,"Main Street, Dakar, Senegal",Temple
+1545,223,902,Sacred Shrine - Dakar,"Main Street, Dakar, Senegal",Temple
+1546,225,903,Local Bazaar - Antigua and Barbuda,"Main Street, Antigua and Barbuda, Antigua and Barbuda",Market
+1547,225,905,Botanical Garden - Antigua and Barbuda,"Main Street, Antigua and Barbuda, Antigua and Barbuda",Park
+1548,225,903,Local Bazaar - Antigua and Barbuda,"Main Street, Antigua and Barbuda, Antigua and Barbuda",Market
+1549,225,905,Wildlife Reserve - Antigua and Barbuda,"Main Street, Antigua and Barbuda, Antigua and Barbuda",Park
+1550,227,903,Night Market - New Providence Island,"Main Street, New Providence Island, Bahamas",Market
+1551,227,902,Grand Mosque - New Providence Island,"Main Street, New Providence Island, Bahamas",Temple
+1552,227,903,Night Market - New Providence Island,"Main Street, New Providence Island, Bahamas",Market
+1553,227,904,Crystal Bay - New Providence Island,"Main Street, New Providence Island, Bahamas",Beach
+1554,226,901,Cultural Heritage Center - Nassau,"Main Street, Nassau, Bahamas",Museum
+1555,226,902,Cathedral - Nassau,"Main Street, Nassau, Bahamas",Temple
+1556,226,905,Eco Park - Nassau,"Main Street, Nassau, Bahamas",Park
+1557,226,902,Grand Mosque - Nassau,"Main Street, Nassau, Bahamas",Temple
+1558,229,905,Wildlife Reserve - Saint Philip Parish,"Main Street, Saint Philip Parish, Barbados",Park
+1559,229,903,Local Bazaar - Saint Philip Parish,"Main Street, Saint Philip Parish, Barbados",Market
+1560,229,901,Science Museum - Saint Philip Parish,"Main Street, Saint Philip Parish, Barbados",Museum
+1561,229,904,Golden Sand Beach - Saint Philip Parish,"Main Street, Saint Philip Parish, Barbados",Beach
+1562,228,902,Cathedral - Bridgetown,"Main Street, Bridgetown, Barbados",Temple
+1563,228,905,Eco Park - Bridgetown,"Main Street, Bridgetown, Barbados",Park
+1564,228,905,National Park - Bridgetown,"Main Street, Bridgetown, Barbados",Park
+1565,228,901,Art Gallery - Bridgetown,"Main Street, Bridgetown, Barbados",Museum
+1566,230,901,History Museum - Cayman Island,"Main Street, Cayman Island, Cayman Island",Museum
+1567,230,905,Botanical Garden - Cayman Island,"Main Street, Cayman Island, Cayman Island",Park
+1568,230,901,Science Museum - Cayman Island,"Main Street, Cayman Island, Cayman Island",Museum
+1569,230,901,Art Gallery - Cayman Island,"Main Street, Cayman Island, Cayman Island",Museum
+1570,231,901,Science Museum - Havana,"Main Street, Havana, Cuba",Museum
+1571,231,903,Farmers' Market - Havana,"Main Street, Havana, Cuba",Market
+1572,231,903,Local Bazaar - Havana,"Main Street, Havana, Cuba",Market
+1573,231,901,Art Gallery - Havana,"Main Street, Havana, Cuba",Museum
+1574,232,905,Eco Park - CuraÃ§ao,"Main Street, CuraÃ§ao, Curacao",Park
+1575,232,903,Local Bazaar - CuraÃ§ao,"Main Street, CuraÃ§ao, Curacao",Market
+1576,232,902,Cathedral - CuraÃ§ao,"Main Street, CuraÃ§ao, Curacao",Temple
+1577,232,901,Cultural Heritage Center - CuraÃ§ao,"Main Street, CuraÃ§ao, Curacao",Museum
+1578,233,902,Cathedral - Curacao,"Main Street, Curacao, Curacao",Temple
+1579,233,901,Science Museum - Curacao,"Main Street, Curacao, Curacao",Museum
+1580,233,901,History Museum - Curacao,"Main Street, Curacao, Curacao",Museum
+1581,233,902,Cathedral - Curacao,"Main Street, Curacao, Curacao",Temple
+1582,234,902,Sacred Shrine - Willemstad,"Main Street, Willemstad, Curacao",Temple
+1583,234,903,Flea Market - Willemstad,"Main Street, Willemstad, Curacao",Market
+1584,234,905,Botanical Garden - Willemstad,"Main Street, Willemstad, Curacao",Park
+1585,234,903,Local Bazaar - Willemstad,"Main Street, Willemstad, Curacao",Market
+1586,235,901,Science Museum - Dominican Republic,"Main Street, Dominican Republic, Dominican Republic",Museum
+1587,235,902,Ancient Temple - Dominican Republic,"Main Street, Dominican Republic, Dominican Republic",Temple
+1588,235,902,Grand Mosque - Dominican Republic,"Main Street, Dominican Republic, Dominican Republic",Temple
+1589,235,905,National Park - Dominican Republic,"Main Street, Dominican Republic, Dominican Republic",Park
+1590,236,903,Flea Market - Punta Cana,"Main Street, Punta Cana, Dominican Republic",Market
+1591,236,904,Paradise Beach - Punta Cana,"Main Street, Punta Cana, Dominican Republic",Beach
+1592,236,904,Golden Sand Beach - Punta Cana,"Main Street, Punta Cana, Dominican Republic",Beach
+1593,236,903,Flea Market - Punta Cana,"Main Street, Punta Cana, Dominican Republic",Market
+1594,237,902,Cathedral - Santo Domingo,"Main Street, Santo Domingo, Dominican Republic",Temple
+1595,237,905,Botanical Garden - Santo Domingo,"Main Street, Santo Domingo, Dominican Republic",Park
+1596,237,902,Ancient Temple - Santo Domingo,"Main Street, Santo Domingo, Dominican Republic",Temple
+1597,237,901,Art Gallery - Santo Domingo,"Main Street, Santo Domingo, Dominican Republic",Museum
+1598,238,903,Farmers' Market - George Town,"Main Street, George Town, Grand Cayman",Market
+1599,238,905,National Park - George Town,"Main Street, George Town, Grand Cayman",Park
+1600,238,903,Flea Market - George Town,"Main Street, George Town, Grand Cayman",Market
+1601,238,903,Farmers' Market - George Town,"Main Street, George Town, Grand Cayman",Market
+1602,239,903,Farmers' Market - Grand Cayman,"Main Street, Grand Cayman, Grand Cayman",Market
+1603,239,904,Sunset Cove - Grand Cayman,"Main Street, Grand Cayman, Grand Cayman",Beach
+1604,239,904,Paradise Beach - Grand Cayman,"Main Street, Grand Cayman, Grand Cayman",Beach
+1605,239,901,History Museum - Grand Cayman,"Main Street, Grand Cayman, Grand Cayman",Museum
+1606,240,904,Crystal Bay - Seven Mile Beach,"Main Street, Seven Mile Beach, Grand Cayman",Beach
+1607,240,905,National Park - Seven Mile Beach,"Main Street, Seven Mile Beach, Grand Cayman",Park
+1608,240,904,Paradise Beach - Seven Mile Beach,"Main Street, Seven Mile Beach, Grand Cayman",Beach
+1609,240,903,Night Market - Seven Mile Beach,"Main Street, Seven Mile Beach, Grand Cayman",Market
+1610,242,904,Sunset Cove - Kingston,"Main Street, Kingston, Jamaica",Beach
+1611,242,901,Art Gallery - Kingston,"Main Street, Kingston, Jamaica",Museum
+1612,242,902,Sacred Shrine - Kingston,"Main Street, Kingston, Jamaica",Temple
+1613,242,901,Art Gallery - Kingston,"Main Street, Kingston, Jamaica",Museum
+1614,241,902,Cathedral - Bluefields,"Main Street, Bluefields, Jamaica",Temple
+1615,241,902,Grand Mosque - Bluefields,"Main Street, Bluefields, Jamaica",Temple
+1616,241,903,Local Bazaar - Bluefields,"Main Street, Bluefields, Jamaica",Market
+1617,241,904,Crystal Bay - Bluefields,"Main Street, Bluefields, Jamaica",Beach
+1618,244,904,Crystal Bay - Puerto Rico,"Main Street, Puerto Rico, Puerto Rico",Beach
+1619,244,903,Night Market - Puerto Rico,"Main Street, Puerto Rico, Puerto Rico",Market
+1620,244,904,Crystal Bay - Puerto Rico,"Main Street, Puerto Rico, Puerto Rico",Beach
+1621,244,905,Botanical Garden - Puerto Rico,"Main Street, Puerto Rico, Puerto Rico",Park
+1622,246,902,Sacred Shrine - San Juan,"Main Street, San Juan, Puerto Rico",Temple
+1623,246,904,Crystal Bay - San Juan,"Main Street, San Juan, Puerto Rico",Beach
+1624,246,901,Cultural Heritage Center - San Juan,"Main Street, San Juan, Puerto Rico",Museum
+1625,246,903,Farmers' Market - San Juan,"Main Street, San Juan, Puerto Rico",Market
+1626,243,901,Art Gallery - Carolina,"Main Street, Carolina, Puerto Rico",Museum
+1627,243,905,National Park - Carolina,"Main Street, Carolina, Puerto Rico",Park
+1628,243,905,Wildlife Reserve - Carolina,"Main Street, Carolina, Puerto Rico",Park
+1629,243,902,Sacred Shrine - Carolina,"Main Street, Carolina, Puerto Rico",Temple
+1630,248,901,History Museum - Philipsburg,"Main Street, Philipsburg, St Martin / St Maarten",Museum
+1631,248,904,Golden Sand Beach - Philipsburg,"Main Street, Philipsburg, St Martin / St Maarten",Beach
+1632,248,901,History Museum - Philipsburg,"Main Street, Philipsburg, St Martin / St Maarten",Museum
+1633,248,905,Wildlife Reserve - Philipsburg,"Main Street, Philipsburg, St Martin / St Maarten",Park
+1634,250,901,Cultural Heritage Center - St Martin / St Maarten,"Main Street, St Martin / St Maarten, St Martin / St Maarten",Museum
+1635,250,902,Cathedral - St Martin / St Maarten,"Main Street, St Martin / St Maarten, St Martin / St Maarten",Temple
+1636,250,902,Sacred Shrine - St Martin / St Maarten,"Main Street, St Martin / St Maarten, St Martin / St Maarten",Temple
+1637,250,903,Local Bazaar - St Martin / St Maarten,"Main Street, St Martin / St Maarten, St Martin / St Maarten",Market
+1638,247,902,Grand Mosque - Maho,"Main Street, Maho, St Martin / St Maarten",Temple
+1639,247,903,Farmers' Market - Maho,"Main Street, Maho, St Martin / St Maarten",Market
+1640,247,901,Science Museum - Maho,"Main Street, Maho, St Martin / St Maarten",Museum
+1641,247,904,Sunset Cove - Maho,"Main Street, Maho, St Martin / St Maarten",Beach
+1642,252,903,Night Market - Port of Spain,"Main Street, Port of Spain, Trinidad and Tobago",Market
+1643,252,901,History Museum - Port of Spain,"Main Street, Port of Spain, Trinidad and Tobago",Museum
+1644,252,903,Flea Market - Port of Spain,"Main Street, Port of Spain, Trinidad and Tobago",Market
+1645,252,902,Cathedral - Port of Spain,"Main Street, Port of Spain, Trinidad and Tobago",Temple
+1646,254,901,Cultural Heritage Center - TRINIDAD AND TOBAGO,"Main Street, TRINIDAD AND TOBAGO, Trinidad and Tobago",Museum
+1647,254,902,Sacred Shrine - TRINIDAD AND TOBAGO,"Main Street, TRINIDAD AND TOBAGO, Trinidad and Tobago",Temple
+1648,254,903,Local Bazaar - TRINIDAD AND TOBAGO,"Main Street, TRINIDAD AND TOBAGO, Trinidad and Tobago",Market
+1649,254,903,Farmers' Market - TRINIDAD AND TOBAGO,"Main Street, TRINIDAD AND TOBAGO, Trinidad and Tobago",Market
+1650,251,902,Ancient Temple - Diego Martin,"Main Street, Diego Martin, Trinidad and Tobago",Temple
+1651,251,905,Wildlife Reserve - Diego Martin,"Main Street, Diego Martin, Trinidad and Tobago",Park
+1652,251,902,Ancient Temple - Diego Martin,"Main Street, Diego Martin, Trinidad and Tobago",Temple
+1653,251,901,History Museum - Diego Martin,"Main Street, Diego Martin, Trinidad and Tobago",Museum
+1654,256,904,Paradise Beach - The Bight Settlement,"Main Street, The Bight Settlement, Turks and Caicos Islands",Beach
+1655,256,901,History Museum - The Bight Settlement,"Main Street, The Bight Settlement, Turks and Caicos Islands",Museum
+1656,256,904,Paradise Beach - The Bight Settlement,"Main Street, The Bight Settlement, Turks and Caicos Islands",Beach
+1657,256,904,Paradise Beach - The Bight Settlement,"Main Street, The Bight Settlement, Turks and Caicos Islands",Beach
+1658,255,901,Science Museum - Providenciales,"Main Street, Providenciales, Turks and Caicos Islands",Museum
+1659,255,902,Cathedral - Providenciales,"Main Street, Providenciales, Turks and Caicos Islands",Temple
+1660,255,903,Night Market - Providenciales,"Main Street, Providenciales, Turks and Caicos Islands",Market
+1661,255,904,Golden Sand Beach - Providenciales,"Main Street, Providenciales, Turks and Caicos Islands",Beach
+1662,258,904,Paradise Beach - Caye Caulker,"Main Street, Caye Caulker, Belize",Beach
+1663,258,902,Ancient Temple - Caye Caulker,"Main Street, Caye Caulker, Belize",Temple
+1664,258,903,Local Bazaar - Caye Caulker,"Main Street, Caye Caulker, Belize",Market
+1665,258,903,Night Market - Caye Caulker,"Main Street, Caye Caulker, Belize",Market
+1666,260,904,Paradise Beach - San Ignacio,"Main Street, San Ignacio, Belize",Beach
+1667,260,901,Cultural Heritage Center - San Ignacio,"Main Street, San Ignacio, Belize",Museum
+1668,260,905,Wildlife Reserve - San Ignacio,"Main Street, San Ignacio, Belize",Park
+1669,260,902,Sacred Shrine - San Ignacio,"Main Street, San Ignacio, Belize",Temple
+1670,257,905,Botanical Garden - belize,"Main Street, belize, Belize",Park
+1671,257,902,Cathedral - belize,"Main Street, belize, Belize",Temple
+1672,257,901,Science Museum - belize,"Main Street, belize, Belize",Museum
+1673,257,904,Golden Sand Beach - belize,"Main Street, belize, Belize",Beach
+1674,269,902,Grand Mosque - Manuel Antonio,"Main Street, Manuel Antonio, Costa Rica",Temple
+1675,269,901,History Museum - Manuel Antonio,"Main Street, Manuel Antonio, Costa Rica",Museum
+1676,269,905,Wildlife Reserve - Manuel Antonio,"Main Street, Manuel Antonio, Costa Rica",Park
+1677,269,905,National Park - Manuel Antonio,"Main Street, Manuel Antonio, Costa Rica",Park
+1678,277,902,Grand Mosque - Playa Samara,"Main Street, Playa Samara, Costa Rica",Temple
+1679,277,905,Wildlife Reserve - Playa Samara,"Main Street, Playa Samara, Costa Rica",Park
+1680,277,901,History Museum - Playa Samara,"Main Street, Playa Samara, Costa Rica",Museum
+1681,277,904,Paradise Beach - Playa Samara,"Main Street, Playa Samara, Costa Rica",Beach
+1682,261,901,Art Gallery - Arenal Volcano National Park,"Main Street, Arenal Volcano National Park, Costa Rica",Museum
+1683,261,905,Eco Park - Arenal Volcano National Park,"Main Street, Arenal Volcano National Park, Costa Rica",Park
+1684,261,903,Farmers' Market - Arenal Volcano National Park,"Main Street, Arenal Volcano National Park, Costa Rica",Market
+1685,261,901,Science Museum - Arenal Volcano National Park,"Main Street, Arenal Volcano National Park, Costa Rica",Museum
+1686,286,903,Flea Market - El Remate,"Main Street, El Remate, Guatemala",Market
+1687,286,903,Night Market - El Remate,"Main Street, El Remate, Guatemala",Market
+1688,286,903,Local Bazaar - El Remate,"Main Street, El Remate, Guatemala",Market
+1689,286,903,Local Bazaar - El Remate,"Main Street, El Remate, Guatemala",Market
+1690,289,901,History Museum - San Pedro La Laguna,"Main Street, San Pedro La Laguna, Guatemala",Museum
+1691,289,904,Paradise Beach - San Pedro La Laguna,"Main Street, San Pedro La Laguna, Guatemala",Beach
+1692,289,903,Flea Market - San Pedro La Laguna,"Main Street, San Pedro La Laguna, Guatemala",Market
+1693,289,904,Paradise Beach - San Pedro La Laguna,"Main Street, San Pedro La Laguna, Guatemala",Beach
+1694,287,904,Crystal Bay - Guatemala,"Main Street, Guatemala, Guatemala",Beach
+1695,287,903,Farmers' Market - Guatemala,"Main Street, Guatemala, Guatemala",Market
+1696,287,902,Ancient Temple - Guatemala,"Main Street, Guatemala, Guatemala",Temple
+1697,287,901,Science Museum - Guatemala,"Main Street, Guatemala, Guatemala",Museum
+1698,291,902,Sacred Shrine - Roatan,"Main Street, Roatan, Honduras",Temple
+1699,291,905,Eco Park - Roatan,"Main Street, Roatan, Honduras",Park
+1700,291,905,National Park - Roatan,"Main Street, Roatan, Honduras",Park
+1701,291,902,Grand Mosque - Roatan,"Main Street, Roatan, Honduras",Temple
+1702,290,903,Flea Market - goprohonduras,"Main Street, goprohonduras, Honduras",Market
+1703,290,905,Eco Park - goprohonduras,"Main Street, goprohonduras, Honduras",Park
+1704,290,905,Eco Park - goprohonduras,"Main Street, goprohonduras, Honduras",Park
+1705,290,901,Cultural Heritage Center - goprohonduras,"Main Street, goprohonduras, Honduras",Museum
+1706,293,903,Flea Market - Leon,"Main Street, Leon, Nicaragua",Market
+1707,293,902,Cathedral - Leon,"Main Street, Leon, Nicaragua",Temple
+1708,293,905,Eco Park - Leon,"Main Street, Leon, Nicaragua",Park
+1709,293,902,Sacred Shrine - Leon,"Main Street, Leon, Nicaragua",Temple
+1710,295,902,Sacred Shrine - San Juan del Sur,"Main Street, San Juan del Sur, Nicaragua",Temple
+1711,295,904,Golden Sand Beach - San Juan del Sur,"Main Street, San Juan del Sur, Nicaragua",Beach
+1712,295,904,Paradise Beach - San Juan del Sur,"Main Street, San Juan del Sur, Nicaragua",Beach
+1713,295,901,Science Museum - San Juan del Sur,"Main Street, San Juan del Sur, Nicaragua",Museum
+1714,292,901,Cultural Heritage Center - Granada,"Main Street, Granada, Nicaragua",Museum
+1715,292,905,Eco Park - Granada,"Main Street, Granada, Nicaragua",Park
+1716,292,904,Golden Sand Beach - Granada,"Main Street, Granada, Nicaragua",Beach
+1717,292,905,Wildlife Reserve - Granada,"Main Street, Granada, Nicaragua",Park
+1718,297,901,History Museum - Colon,"Main Street, Colon, Panama",Museum
+1719,297,904,Golden Sand Beach - Colon,"Main Street, Colon, Panama",Beach
+1720,297,904,Paradise Beach - Colon,"Main Street, Colon, Panama",Beach
+1721,297,905,Botanical Garden - Colon,"Main Street, Colon, Panama",Park
+1722,300,901,History Museum - Penonome,"Main Street, Penonome, Panama",Museum
+1723,300,902,Ancient Temple - Penonome,"Main Street, Penonome, Panama",Temple
+1724,300,905,National Park - Penonome,"Main Street, Penonome, Panama",Park
+1725,300,904,Crystal Bay - Penonome,"Main Street, Penonome, Panama",Beach
+1726,298,902,Sacred Shrine - Panama,"Main Street, Panama, Panama",Temple
+1727,298,903,Flea Market - Panama,"Main Street, Panama, Panama",Market
+1728,298,903,Flea Market - Panama,"Main Street, Panama, Panama",Market
+1729,298,901,Cultural Heritage Center - Panama,"Main Street, Panama, Panama",Museum
+1730,310,901,Cultural Heritage Center - Antigonish,"Main Street, Antigonish, Canada",Museum
+1731,310,902,Grand Mosque - Antigonish,"Main Street, Antigonish, Canada",Temple
+1732,310,902,Sacred Shrine - Antigonish,"Main Street, Antigonish, Canada",Temple
+1733,310,904,Golden Sand Beach - Antigonish,"Main Street, Antigonish, Canada",Beach
+1734,547,901,Art Gallery - Trail,"Main Street, Trail, Canada",Museum
+1735,547,902,Sacred Shrine - Trail,"Main Street, Trail, Canada",Temple
+1736,547,902,Cathedral - Trail,"Main Street, Trail, Canada",Temple
+1737,547,901,History Museum - Trail,"Main Street, Trail, Canada",Museum
+1738,440,902,Cathedral - MontrÃ©al,"Main Street, MontrÃ©al, Canada",Temple
+1739,440,904,Golden Sand Beach - MontrÃ©al,"Main Street, MontrÃ©al, Canada",Beach
+1740,440,905,National Park - MontrÃ©al,"Main Street, MontrÃ©al, Canada",Park
+1741,440,904,Golden Sand Beach - MontrÃ©al,"Main Street, MontrÃ©al, Canada",Beach
+1742,584,905,Eco Park - Greenland,"Main Street, Greenland, Greenland",Park
+1743,584,904,Paradise Beach - Greenland,"Main Street, Greenland, Greenland",Beach
+1744,584,905,Botanical Garden - Greenland,"Main Street, Greenland, Greenland",Park
+1745,584,905,National Park - Greenland,"Main Street, Greenland, Greenland",Park
+1746,604,905,National Park - Ixtapa-Zihuatanejo-Guerrero,"Main Street, Ixtapa-Zihuatanejo-Guerrero, Mexico",Park
+1747,604,902,Cathedral - Ixtapa-Zihuatanejo-Guerrero,"Main Street, Ixtapa-Zihuatanejo-Guerrero, Mexico",Temple
+1748,604,903,Flea Market - Ixtapa-Zihuatanejo-Guerrero,"Main Street, Ixtapa-Zihuatanejo-Guerrero, Mexico",Market
+1749,604,902,Cathedral - Ixtapa-Zihuatanejo-Guerrero,"Main Street, Ixtapa-Zihuatanejo-Guerrero, Mexico",Temple
+1750,634,902,Grand Mosque - Tuxtla Gutierrez,"Main Street, Tuxtla Gutierrez, Mexico",Temple
+1751,634,901,Art Gallery - Tuxtla Gutierrez,"Main Street, Tuxtla Gutierrez, Mexico",Museum
+1752,634,902,Ancient Temple - Tuxtla Gutierrez,"Main Street, Tuxtla Gutierrez, Mexico",Temple
+1753,634,905,Botanical Garden - Tuxtla Gutierrez,"Main Street, Tuxtla Gutierrez, Mexico",Park
+1754,633,904,Paradise Beach - Tulum,"Main Street, Tulum, Mexico",Beach
+1755,633,902,Ancient Temple - Tulum,"Main Street, Tulum, Mexico",Temple
+1756,633,901,History Museum - Tulum,"Main Street, Tulum, Mexico",Museum
+1757,633,902,Sacred Shrine - Tulum,"Main Street, Tulum, Mexico",Temple
+1758,1217,903,Night Market - Incline Village,"Main Street, Incline Village, United States",Market
+1759,1217,901,Art Gallery - Incline Village,"Main Street, Incline Village, United States",Museum
+1760,1217,904,Crystal Bay - Incline Village,"Main Street, Incline Village, United States",Beach
+1761,1217,901,Science Museum - Incline Village,"Main Street, Incline Village, United States",Museum
+1762,1785,903,Local Bazaar - Safety Harbor,"Main Street, Safety Harbor, United States",Market
+1763,1785,901,History Museum - Safety Harbor,"Main Street, Safety Harbor, United States",Museum
+1764,1785,905,National Park - Safety Harbor,"Main Street, Safety Harbor, United States",Park
+1765,1785,901,Science Museum - Safety Harbor,"Main Street, Safety Harbor, United States",Museum
+1766,1021,902,Sacred Shrine - Evansville,"Main Street, Evansville, United States",Temple
+1767,1021,905,Wildlife Reserve - Evansville,"Main Street, Evansville, United States",Park
+1768,1021,901,Art Gallery - Evansville,"Main Street, Evansville, United States",Museum
+1769,1021,904,Golden Sand Beach - Evansville,"Main Street, Evansville, United States",Beach
+1770,2159,902,Cathedral - San Carlos de Bariloche,"Main Street, San Carlos de Bariloche, Argentina",Temple
+1771,2159,902,Cathedral - San Carlos de Bariloche,"Main Street, San Carlos de Bariloche, Argentina",Temple
+1772,2159,905,Eco Park - San Carlos de Bariloche,"Main Street, San Carlos de Bariloche, Argentina",Park
+1773,2159,905,Wildlife Reserve - San Carlos de Bariloche,"Main Street, San Carlos de Bariloche, Argentina",Park
+1774,2157,902,Sacred Shrine - Province of Cordoba,"Main Street, Province of Cordoba, Argentina",Temple
+1775,2157,905,Eco Park - Province of Cordoba,"Main Street, Province of Cordoba, Argentina",Park
+1776,2157,903,Local Bazaar - Province of Cordoba,"Main Street, Province of Cordoba, Argentina",Market
+1777,2157,902,Sacred Shrine - Province of Cordoba,"Main Street, Province of Cordoba, Argentina",Temple
+1778,2148,905,Wildlife Reserve - Argentina,"Main Street, Argentina, Argentina",Park
+1779,2148,905,Wildlife Reserve - Argentina,"Main Street, Argentina, Argentina",Park
+1780,2148,903,Flea Market - Argentina,"Main Street, Argentina, Argentina",Market
+1781,2148,904,Crystal Bay - Argentina,"Main Street, Argentina, Argentina",Beach
+1782,2161,903,Local Bazaar - Cochabamba,"Main Street, Cochabamba, Bolivia",Market
+1783,2161,902,Grand Mosque - Cochabamba,"Main Street, Cochabamba, Bolivia",Temple
+1784,2161,905,Botanical Garden - Cochabamba,"Main Street, Cochabamba, Bolivia",Park
+1785,2161,905,Wildlife Reserve - Cochabamba,"Main Street, Cochabamba, Bolivia",Park
+1786,2162,903,Flea Market - La Paz,"Main Street, La Paz, Bolivia",Market
+1787,2162,905,Botanical Garden - La Paz,"Main Street, La Paz, Bolivia",Park
+1788,2162,902,Ancient Temple - La Paz,"Main Street, La Paz, Bolivia",Temple
+1789,2162,901,Art Gallery - La Paz,"Main Street, La Paz, Bolivia",Museum
+1790,2163,902,Ancient Temple - Santa Cruz,"Main Street, Santa Cruz, Bolivia",Temple
+1791,2163,905,Botanical Garden - Santa Cruz,"Main Street, Santa Cruz, Bolivia",Park
+1792,2163,903,Farmers' Market - Santa Cruz,"Main Street, Santa Cruz, Bolivia",Market
+1793,2163,905,Botanical Garden - Santa Cruz,"Main Street, Santa Cruz, Bolivia",Park
+1794,2183,902,Cathedral - Jericoacoara,"Main Street, Jericoacoara, Brazil",Temple
+1795,2183,905,National Park - Jericoacoara,"Main Street, Jericoacoara, Brazil",Park
+1796,2183,904,Golden Sand Beach - Jericoacoara,"Main Street, Jericoacoara, Brazil",Beach
+1797,2183,902,Sacred Shrine - Jericoacoara,"Main Street, Jericoacoara, Brazil",Temple
+1798,2213,905,Botanical Garden - State of Rio de Janeiro,"Main Street, State of Rio de Janeiro, Brazil",Park
+1799,2213,902,Ancient Temple - State of Rio de Janeiro,"Main Street, State of Rio de Janeiro, Brazil",Temple
+1800,2213,904,Paradise Beach - State of Rio de Janeiro,"Main Street, State of Rio de Janeiro, Brazil",Beach
+1801,2213,901,Science Museum - State of Rio de Janeiro,"Main Street, State of Rio de Janeiro, Brazil",Museum
+1802,2212,904,Golden Sand Beach - Sorocaba,"Main Street, Sorocaba, Brazil",Beach
+1803,2212,903,Night Market - Sorocaba,"Main Street, Sorocaba, Brazil",Market
+1804,2212,905,Botanical Garden - Sorocaba,"Main Street, Sorocaba, Brazil",Park
+1805,2212,902,Grand Mosque - Sorocaba,"Main Street, Sorocaba, Brazil",Temple
+1806,2228,903,Night Market - Valparaiso,"Main Street, Valparaiso, Chile",Market
+1807,2228,903,Local Bazaar - Valparaiso,"Main Street, Valparaiso, Chile",Market
+1808,2228,905,Wildlife Reserve - Valparaiso,"Main Street, Valparaiso, Chile",Park
+1809,2228,901,Science Museum - Valparaiso,"Main Street, Valparaiso, Chile",Museum
+1810,2227,902,Cathedral - Valdivia,"Main Street, Valdivia, Chile",Temple
+1811,2227,902,Cathedral - Valdivia,"Main Street, Valdivia, Chile",Temple
+1812,2227,904,Golden Sand Beach - Valdivia,"Main Street, Valdivia, Chile",Beach
+1813,2227,905,Eco Park - Valdivia,"Main Street, Valdivia, Chile",Park
+1814,2218,903,Night Market - Chile,"Main Street, Chile, Chile",Market
+1815,2218,902,Cathedral - Chile,"Main Street, Chile, Chile",Temple
+1816,2218,905,Eco Park - Chile,"Main Street, Chile, Chile",Park
+1817,2218,903,Farmers' Market - Chile,"Main Street, Chile, Chile",Market
+1818,2231,902,Grand Mosque - Cali,"Main Street, Cali, Colombia",Temple
+1819,2231,904,Paradise Beach - Cali,"Main Street, Cali, Colombia",Beach
+1820,2231,904,Sunset Cove - Cali,"Main Street, Cali, Colombia",Beach
+1821,2231,902,Ancient Temple - Cali,"Main Street, Cali, Colombia",Temple
+1822,2235,901,Science Museum - Popayan,"Main Street, Popayan, Colombia",Museum
+1823,2235,904,Golden Sand Beach - Popayan,"Main Street, Popayan, Colombia",Beach
+1824,2235,904,Paradise Beach - Popayan,"Main Street, Popayan, Colombia",Beach
+1825,2235,901,Cultural Heritage Center - Popayan,"Main Street, Popayan, Colombia",Museum
+1826,2230,904,Crystal Bay - Bogota,"Main Street, Bogota, Colombia",Beach
+1827,2230,902,Ancient Temple - Bogota,"Main Street, Bogota, Colombia",Temple
+1828,2230,904,Crystal Bay - Bogota,"Main Street, Bogota, Colombia",Beach
+1829,2230,901,Science Museum - Bogota,"Main Street, Bogota, Colombia",Museum
+1830,2238,903,Night Market - Cuenca,"Main Street, Cuenca, Ecuador",Market
+1831,2238,903,Farmers' Market - Cuenca,"Main Street, Cuenca, Ecuador",Market
+1832,2238,903,Local Bazaar - Cuenca,"Main Street, Cuenca, Ecuador",Market
+1833,2238,902,Sacred Shrine - Cuenca,"Main Street, Cuenca, Ecuador",Temple
+1834,2239,902,Sacred Shrine - Guayaquil,"Main Street, Guayaquil, Ecuador",Temple
+1835,2239,901,Science Museum - Guayaquil,"Main Street, Guayaquil, Ecuador",Museum
+1836,2239,905,National Park - Guayaquil,"Main Street, Guayaquil, Ecuador",Park
+1837,2239,904,Golden Sand Beach - Guayaquil,"Main Street, Guayaquil, Ecuador",Beach
+1838,2243,903,Night Market - Tena,"Main Street, Tena, Ecuador",Market
+1839,2243,902,Grand Mosque - Tena,"Main Street, Tena, Ecuador",Temple
+1840,2243,905,Eco Park - Tena,"Main Street, Tena, Ecuador",Park
+1841,2243,904,Golden Sand Beach - Tena,"Main Street, Tena, Ecuador",Beach
+1842,2246,905,Botanical Garden - Cusco,"Main Street, Cusco, Peru",Park
+1843,2246,903,Farmers' Market - Cusco,"Main Street, Cusco, Peru",Market
+1844,2246,903,Night Market - Cusco,"Main Street, Cusco, Peru",Market
+1845,2246,904,Crystal Bay - Cusco,"Main Street, Cusco, Peru",Beach
+1846,2248,903,Flea Market - Santa Lucia,"Main Street, Santa Lucia, Peru",Market
+1847,2248,902,Ancient Temple - Santa Lucia,"Main Street, Santa Lucia, Peru",Temple
+1848,2248,905,Wildlife Reserve - Santa Lucia,"Main Street, Santa Lucia, Peru",Park
+1849,2248,903,Farmers' Market - Santa Lucia,"Main Street, Santa Lucia, Peru",Market
+1850,2245,903,Flea Market - Aguas Calientes,"Main Street, Aguas Calientes, Peru",Market
+1851,2245,905,Wildlife Reserve - Aguas Calientes,"Main Street, Aguas Calientes, Peru",Park
+1852,2245,904,Sunset Cove - Aguas Calientes,"Main Street, Aguas Calientes, Peru",Beach
+1853,2245,901,Art Gallery - Aguas Calientes,"Main Street, Aguas Calientes, Peru",Museum
+1854,2249,903,Flea Market - Paramaribo,"Main Street, Paramaribo, Suriname",Market
+1855,2249,902,Grand Mosque - Paramaribo,"Main Street, Paramaribo, Suriname",Temple
+1856,2249,904,Paradise Beach - Paramaribo,"Main Street, Paramaribo, Suriname",Beach
+1857,2249,905,Botanical Garden - Paramaribo,"Main Street, Paramaribo, Suriname",Park
+1858,2251,905,Wildlife Reserve - Punta del Este,"Main Street, Punta del Este, Uruguay",Park
+1859,2251,902,Ancient Temple - Punta del Este,"Main Street, Punta del Este, Uruguay",Temple
+1860,2251,901,History Museum - Punta del Este,"Main Street, Punta del Este, Uruguay",Museum
+1861,2251,901,Art Gallery - Punta del Este,"Main Street, Punta del Este, Uruguay",Museum
+1862,2250,903,Farmers' Market - Montevideo,"Main Street, Montevideo, Uruguay",Market
+1863,2250,902,Ancient Temple - Montevideo,"Main Street, Montevideo, Uruguay",Temple
+1864,2250,902,Grand Mosque - Montevideo,"Main Street, Montevideo, Uruguay",Temple
+1865,2250,901,History Museum - Montevideo,"Main Street, Montevideo, Uruguay",Museum
+1866,2252,902,Ancient Temple - Caracas,"Main Street, Caracas, Venezuela",Temple
+1867,2252,902,Sacred Shrine - Caracas,"Main Street, Caracas, Venezuela",Temple
+1868,2252,901,History Museum - Caracas,"Main Street, Caracas, Venezuela",Museum
+1869,2252,905,Botanical Garden - Caracas,"Main Street, Caracas, Venezuela",Park
+1870,2253,901,History Museum - Asia,"Main Street, Asia, Asia",Museum
+1871,2253,902,Grand Mosque - Asia,"Main Street, Asia, Asia",Temple
+1872,2253,901,History Museum - Asia,"Main Street, Asia, Asia",Museum
+1873,2253,905,Botanical Garden - Asia,"Main Street, Asia, Asia",Park
+1874,2254,904,Crystal Bay - Yerevan,"Main Street, Yerevan, Armenia",Beach
+1875,2254,905,Botanical Garden - Yerevan,"Main Street, Yerevan, Armenia",Park
+1876,2254,903,Flea Market - Yerevan,"Main Street, Yerevan, Armenia",Market
+1877,2254,902,Cathedral - Yerevan,"Main Street, Yerevan, Armenia",Temple
+1878,2255,905,National Park - Aktau,"Main Street, Aktau, Kazakhstan",Park
+1879,2255,903,Local Bazaar - Aktau,"Main Street, Aktau, Kazakhstan",Market
+1880,2255,905,Botanical Garden - Aktau,"Main Street, Aktau, Kazakhstan",Park
+1881,2255,902,Ancient Temple - Aktau,"Main Street, Aktau, Kazakhstan",Temple
+1882,2256,901,Science Museum - Almaty,"Main Street, Almaty, Kazakhstan",Museum
+1883,2256,904,Paradise Beach - Almaty,"Main Street, Almaty, Kazakhstan",Beach
+1884,2256,904,Crystal Bay - Almaty,"Main Street, Almaty, Kazakhstan",Beach
+1885,2256,902,Grand Mosque - Almaty,"Main Street, Almaty, Kazakhstan",Temple
+1886,2260,905,Botanical Garden - Kaztsik,"Main Street, Kaztsik, Kazakhstan",Park
+1887,2260,903,Farmers' Market - Kaztsik,"Main Street, Kaztsik, Kazakhstan",Market
+1888,2260,904,Sunset Cove - Kaztsik,"Main Street, Kaztsik, Kazakhstan",Beach
+1889,2260,902,Ancient Temple - Kaztsik,"Main Street, Kaztsik, Kazakhstan",Temple
+1890,2261,902,Sacred Shrine - Bishkek,"Main Street, Bishkek, Kyrgyzstan",Temple
+1891,2261,904,Golden Sand Beach - Bishkek,"Main Street, Bishkek, Kyrgyzstan",Beach
+1892,2261,901,Science Museum - Bishkek,"Main Street, Bishkek, Kyrgyzstan",Museum
+1893,2261,902,Cathedral - Bishkek,"Main Street, Bishkek, Kyrgyzstan",Temple
+1894,2263,902,Grand Mosque - Ulaanbaatar,"Main Street, Ulaanbaatar, Mongolia",Temple
+1895,2263,902,Grand Mosque - Ulaanbaatar,"Main Street, Ulaanbaatar, Mongolia",Temple
+1896,2263,902,Cathedral - Ulaanbaatar,"Main Street, Ulaanbaatar, Mongolia",Temple
+1897,2263,903,Night Market - Ulaanbaatar,"Main Street, Ulaanbaatar, Mongolia",Market
+1898,2262,901,History Museum - Mongolia,"Main Street, Mongolia, Mongolia",Museum
+1899,2262,902,Sacred Shrine - Mongolia,"Main Street, Mongolia, Mongolia",Temple
+1900,2262,901,History Museum - Mongolia,"Main Street, Mongolia, Mongolia",Museum
+1901,2262,904,Crystal Bay - Mongolia,"Main Street, Mongolia, Mongolia",Beach
+1902,2264,905,Wildlife Reserve - Ashgabat,"Main Street, Ashgabat, Turkmenistan",Park
+1903,2264,904,Sunset Cove - Ashgabat,"Main Street, Ashgabat, Turkmenistan",Beach
+1904,2264,902,Ancient Temple - Ashgabat,"Main Street, Ashgabat, Turkmenistan",Temple
+1905,2264,903,Flea Market - Ashgabat,"Main Street, Ashgabat, Turkmenistan",Market
+1906,2265,904,Paradise Beach - Tavaksay,"Main Street, Tavaksay, Uzbekistan",Beach
+1907,2265,905,Botanical Garden - Tavaksay,"Main Street, Tavaksay, Uzbekistan",Park
+1908,2265,902,Grand Mosque - Tavaksay,"Main Street, Tavaksay, Uzbekistan",Temple
+1909,2265,904,Sunset Cove - Tavaksay,"Main Street, Tavaksay, Uzbekistan",Beach
+1910,2266,903,Night Market - Beijing,"Main Street, Beijing, China",Market
+1911,2266,903,Local Bazaar - Beijing,"Main Street, Beijing, China",Market
+1912,2266,904,Crystal Bay - Beijing,"Main Street, Beijing, China",Beach
+1913,2266,905,Wildlife Reserve - Beijing,"Main Street, Beijing, China",Park
+1914,2271,901,History Museum - China,"Main Street, China, China",Museum
+1915,2271,903,Local Bazaar - China,"Main Street, China, China",Market
+1916,2271,902,Cathedral - China,"Main Street, China, China",Temple
+1917,2271,901,Science Museum - China,"Main Street, China, China",Museum
+1918,2296,903,Flea Market - Sanya,"Main Street, Sanya, China",Market
+1919,2296,903,Flea Market - Sanya,"Main Street, Sanya, China",Market
+1920,2296,904,Sunset Cove - Sanya,"Main Street, Sanya, China",Beach
+1921,2296,904,Sunset Cove - Sanya,"Main Street, Sanya, China",Beach
+1922,2324,903,Flea Market - Hongkong,"Main Street, Hongkong, Hong Kong",Market
+1923,2324,904,Paradise Beach - Hongkong,"Main Street, Hongkong, Hong Kong",Beach
+1924,2324,905,National Park - Hongkong,"Main Street, Hongkong, Hong Kong",Park
+1925,2324,902,Ancient Temple - Hongkong,"Main Street, Hongkong, Hong Kong",Temple
+1926,2327,902,Cathedral - Wan Chai,"Main Street, Wan Chai, Hong Kong",Temple
+1927,2327,902,Cathedral - Wan Chai,"Main Street, Wan Chai, Hong Kong",Temple
+1928,2327,901,Science Museum - Wan Chai,"Main Street, Wan Chai, Hong Kong",Museum
+1929,2327,902,Ancient Temple - Wan Chai,"Main Street, Wan Chai, Hong Kong",Temple
+1930,2325,901,Science Museum - Sai Kung N.T.,"Main Street, Sai Kung N.T., Hong Kong",Museum
+1931,2325,903,Local Bazaar - Sai Kung N.T.,"Main Street, Sai Kung N.T., Hong Kong",Market
+1932,2325,901,Science Museum - Sai Kung N.T.,"Main Street, Sai Kung N.T., Hong Kong",Museum
+1933,2325,903,Local Bazaar - Sai Kung N.T.,"Main Street, Sai Kung N.T., Hong Kong",Market
+1934,2368,901,Art Gallery - Maniwa,"Main Street, Maniwa, Japan",Museum
+1935,2368,905,Wildlife Reserve - Maniwa,"Main Street, Maniwa, Japan",Park
+1936,2368,901,Cultural Heritage Center - Maniwa,"Main Street, Maniwa, Japan",Museum
+1937,2368,903,Flea Market - Maniwa,"Main Street, Maniwa, Japan",Market
+1938,2350,905,Wildlife Reserve - Iwakuni,"Main Street, Iwakuni, Japan",Park
+1939,2350,904,Golden Sand Beach - Iwakuni,"Main Street, Iwakuni, Japan",Beach
+1940,2350,901,History Museum - Iwakuni,"Main Street, Iwakuni, Japan",Museum
+1941,2350,903,Local Bazaar - Iwakuni,"Main Street, Iwakuni, Japan",Market
+1942,2383,904,Crystal Bay - nyk,"Main Street, nyk, Japan",Beach
+1943,2383,902,Sacred Shrine - nyk,"Main Street, nyk, Japan",Temple
+1944,2383,902,Grand Mosque - nyk,"Main Street, nyk, Japan",Temple
+1945,2383,903,Night Market - nyk,"Main Street, nyk, Japan",Market
+1946,2422,901,Cultural Heritage Center - North Pyongan Province,"Main Street, North Pyongan Province, North Korea",Museum
+1947,2422,902,Cathedral - North Pyongan Province,"Main Street, North Pyongan Province, North Korea",Temple
+1948,2422,903,Night Market - North Pyongan Province,"Main Street, North Pyongan Province, North Korea",Market
+1949,2422,903,Flea Market - North Pyongan Province,"Main Street, North Pyongan Province, North Korea",Market
+1950,2450,904,Golden Sand Beach - Wonju,"Main Street, Wonju, South Korea",Beach
+1951,2450,901,Cultural Heritage Center - Wonju,"Main Street, Wonju, South Korea",Museum
+1952,2450,902,Ancient Temple - Wonju,"Main Street, Wonju, South Korea",Temple
+1953,2450,902,Ancient Temple - Wonju,"Main Street, Wonju, South Korea",Temple
+1954,2438,905,Eco Park - Jeju,"Main Street, Jeju, South Korea",Park
+1955,2438,905,Wildlife Reserve - Jeju,"Main Street, Jeju, South Korea",Park
+1956,2438,905,Wildlife Reserve - Jeju,"Main Street, Jeju, South Korea",Park
+1957,2438,901,Science Museum - Jeju,"Main Street, Jeju, South Korea",Museum
+1958,2446,902,Grand Mosque - South Korea,"Main Street, South Korea, South Korea",Temple
+1959,2446,903,Local Bazaar - South Korea,"Main Street, South Korea, South Korea",Market
+1960,2446,901,Science Museum - South Korea,"Main Street, South Korea, South Korea",Museum
+1961,2446,902,Grand Mosque - South Korea,"Main Street, South Korea, South Korea",Temple
+1962,2453,904,Sunset Cove - Banqiao,"Main Street, Banqiao, Taiwan",Beach
+1963,2453,904,Golden Sand Beach - Banqiao,"Main Street, Banqiao, Taiwan",Beach
+1964,2453,905,Wildlife Reserve - Banqiao,"Main Street, Banqiao, Taiwan",Park
+1965,2453,902,Cathedral - Banqiao,"Main Street, Banqiao, Taiwan",Temple
+1966,2470,903,Flea Market - Taoyuan,"Main Street, Taoyuan, Taiwan",Market
+1967,2470,905,Wildlife Reserve - Taoyuan,"Main Street, Taoyuan, Taiwan",Park
+1968,2470,905,Wildlife Reserve - Taoyuan,"Main Street, Taoyuan, Taiwan",Park
+1969,2470,903,Night Market - Taoyuan,"Main Street, Taoyuan, Taiwan",Market
+1970,2468,905,Eco Park - Taipei,"Main Street, Taipei, Taiwan",Park
+1971,2468,904,Crystal Bay - Taipei,"Main Street, Taipei, Taiwan",Beach
+1972,2468,905,Wildlife Reserve - Taipei,"Main Street, Taipei, Taiwan",Park
+1973,2468,902,Grand Mosque - Taipei,"Main Street, Taipei, Taiwan",Temple
+1974,2475,903,Farmers' Market - Al Muharraq,"Main Street, Al Muharraq, Bahrain",Market
+1975,2475,903,Flea Market - Al Muharraq,"Main Street, Al Muharraq, Bahrain",Market
+1976,2475,903,Local Bazaar - Al Muharraq,"Main Street, Al Muharraq, Bahrain",Market
+1977,2475,902,Ancient Temple - Al Muharraq,"Main Street, Al Muharraq, Bahrain",Temple
+1978,2478,904,Golden Sand Beach - Manama,"Main Street, Manama, Bahrain",Beach
+1979,2478,904,Golden Sand Beach - Manama,"Main Street, Manama, Bahrain",Beach
+1980,2478,904,Golden Sand Beach - Manama,"Main Street, Manama, Bahrain",Beach
+1981,2478,902,Ancient Temple - Manama,"Main Street, Manama, Bahrain",Temple
+1982,2476,901,Science Museum - Amwaj Islands,"Main Street, Amwaj Islands, Bahrain",Museum
+1983,2476,905,Eco Park - Amwaj Islands,"Main Street, Amwaj Islands, Bahrain",Park
+1984,2476,901,Art Gallery - Amwaj Islands,"Main Street, Amwaj Islands, Bahrain",Museum
+1985,2476,902,Ancient Temple - Amwaj Islands,"Main Street, Amwaj Islands, Bahrain",Temple
+1986,2479,904,Crystal Bay - Ayia Napa,"Main Street, Ayia Napa, Cyprus",Beach
+1987,2479,902,Grand Mosque - Ayia Napa,"Main Street, Ayia Napa, Cyprus",Temple
+1988,2479,905,Wildlife Reserve - Ayia Napa,"Main Street, Ayia Napa, Cyprus",Park
+1989,2479,901,Art Gallery - Ayia Napa,"Main Street, Ayia Napa, Cyprus",Museum
+1990,2480,905,Eco Park - Chloraka,"Main Street, Chloraka, Cyprus",Park
+1991,2480,905,Botanical Garden - Chloraka,"Main Street, Chloraka, Cyprus",Park
+1992,2480,901,Cultural Heritage Center - Chloraka,"Main Street, Chloraka, Cyprus",Museum
+1993,2480,904,Sunset Cove - Chloraka,"Main Street, Chloraka, Cyprus",Beach
+1994,2484,901,Cultural Heritage Center - Kouklia,"Main Street, Kouklia, Cyprus",Museum
+1995,2484,901,Cultural Heritage Center - Kouklia,"Main Street, Kouklia, Cyprus",Museum
+1996,2484,902,Sacred Shrine - Kouklia,"Main Street, Kouklia, Cyprus",Temple
+1997,2484,902,Cathedral - Kouklia,"Main Street, Kouklia, Cyprus",Temple
+1998,2495,903,Flea Market - Iran,"Main Street, Iran, Iran",Market
+1999,2495,904,Crystal Bay - Iran,"Main Street, Iran, Iran",Beach
+2000,2495,905,Wildlife Reserve - Iran,"Main Street, Iran, Iran",Park
+2001,2495,903,Farmers' Market - Iran,"Main Street, Iran, Iran",Market
+2002,2496,901,Cultural Heritage Center - Isfahan,"Main Street, Isfahan, Iran",Museum
+2003,2496,904,Sunset Cove - Isfahan,"Main Street, Isfahan, Iran",Beach
+2004,2496,904,Crystal Bay - Isfahan,"Main Street, Isfahan, Iran",Beach
+2005,2496,902,Cathedral - Isfahan,"Main Street, Isfahan, Iran",Temple
+2006,2503,905,Wildlife Reserve - Now Shahr,"Main Street, Now Shahr, Iran",Park
+2007,2503,901,Cultural Heritage Center - Now Shahr,"Main Street, Now Shahr, Iran",Museum
+2008,2503,901,Science Museum - Now Shahr,"Main Street, Now Shahr, Iran",Museum
+2009,2503,901,Cultural Heritage Center - Now Shahr,"Main Street, Now Shahr, Iran",Museum
+2010,2514,901,Cultural Heritage Center - Baghdad,"Main Street, Baghdad, Iraq",Museum
+2011,2514,901,Cultural Heritage Center - Baghdad,"Main Street, Baghdad, Iraq",Museum
+2012,2514,903,Night Market - Baghdad,"Main Street, Baghdad, Iraq",Market
+2013,2514,901,History Museum - Baghdad,"Main Street, Baghdad, Iraq",Museum
+2014,2516,904,Crystal Bay - Sulaymaniyah,"Main Street, Sulaymaniyah, Iraq",Beach
+2015,2516,904,Paradise Beach - Sulaymaniyah,"Main Street, Sulaymaniyah, Iraq",Beach
+2016,2516,905,National Park - Sulaymaniyah,"Main Street, Sulaymaniyah, Iraq",Park
+2017,2516,903,Farmers' Market - Sulaymaniyah,"Main Street, Sulaymaniyah, Iraq",Market
+2018,2513,903,Flea Market - Bagdad,"Main Street, Bagdad, Iraq",Market
+2019,2513,904,Golden Sand Beach - Bagdad,"Main Street, Bagdad, Iraq",Beach
+2020,2513,902,Cathedral - Bagdad,"Main Street, Bagdad, Iraq",Temple
+2021,2513,902,Cathedral - Bagdad,"Main Street, Bagdad, Iraq",Temple
+2022,2517,903,Flea Market - Batzra,"Main Street, Batzra, Israel",Market
+2023,2517,901,Science Museum - Batzra,"Main Street, Batzra, Israel",Museum
+2024,2517,904,Golden Sand Beach - Batzra,"Main Street, Batzra, Israel",Beach
+2025,2517,904,Crystal Bay - Batzra,"Main Street, Batzra, Israel",Beach
+2026,2518,904,Sunset Cove - Beit She'an,"Main Street, Beit She'an, Israel",Beach
+2027,2518,904,Paradise Beach - Beit She'an,"Main Street, Beit She'an, Israel",Beach
+2028,2518,905,National Park - Beit She'an,"Main Street, Beit She'an, Israel",Park
+2029,2518,903,Farmers' Market - Beit She'an,"Main Street, Beit She'an, Israel",Market
+2030,2522,901,Science Museum - Israel,"Main Street, Israel, Israel",Museum
+2031,2522,905,Botanical Garden - Israel,"Main Street, Israel, Israel",Park
+2032,2522,905,National Park - Israel,"Main Street, Israel, Israel",Park
+2033,2522,901,Science Museum - Israel,"Main Street, Israel, Israel",Museum
+2034,2534,904,Golden Sand Beach - Amman,"Main Street, Amman, Jordan",Beach
+2035,2534,901,Art Gallery - Amman,"Main Street, Amman, Jordan",Museum
+2036,2534,905,Wildlife Reserve - Amman,"Main Street, Amman, Jordan",Park
+2037,2534,901,Science Museum - Amman,"Main Street, Amman, Jordan",Museum
+2038,2536,903,Flea Market - Jordan,"Main Street, Jordan, Jordan",Market
+2039,2536,901,Cultural Heritage Center - Jordan,"Main Street, Jordan, Jordan",Museum
+2040,2536,903,Local Bazaar - Jordan,"Main Street, Jordan, Jordan",Market
+2041,2536,902,Ancient Temple - Jordan,"Main Street, Jordan, Jordan",Temple
+2042,2533,901,Science Museum - Al Aqabah Governorate,"Main Street, Al Aqabah Governorate, Jordan",Museum
+2043,2533,902,Grand Mosque - Al Aqabah Governorate,"Main Street, Al Aqabah Governorate, Jordan",Temple
+2044,2533,901,Science Museum - Al Aqabah Governorate,"Main Street, Al Aqabah Governorate, Jordan",Museum
+2045,2533,902,Cathedral - Al Aqabah Governorate,"Main Street, Al Aqabah Governorate, Jordan",Temple
+2046,2537,904,Crystal Bay - Kuwait,"Main Street, Kuwait, Kuwait",Beach
+2047,2537,903,Night Market - Kuwait,"Main Street, Kuwait, Kuwait",Market
+2048,2537,901,Science Museum - Kuwait,"Main Street, Kuwait, Kuwait",Museum
+2049,2537,903,Night Market - Kuwait,"Main Street, Kuwait, Kuwait",Market
+2050,2538,902,Grand Mosque - Kuwait City,"Main Street, Kuwait City, Kuwait",Temple
+2051,2538,901,History Museum - Kuwait City,"Main Street, Kuwait City, Kuwait",Museum
+2052,2538,903,Night Market - Kuwait City,"Main Street, Kuwait City, Kuwait",Market
+2053,2538,904,Golden Sand Beach - Kuwait City,"Main Street, Kuwait City, Kuwait",Beach
+2054,2542,902,Cathedral - Salwa,"Main Street, Salwa, Kuwait",Temple
+2055,2542,903,Flea Market - Salwa,"Main Street, Salwa, Kuwait",Market
+2056,2542,904,Golden Sand Beach - Salwa,"Main Street, Salwa, Kuwait",Beach
+2057,2542,902,Ancient Temple - Salwa,"Main Street, Salwa, Kuwait",Temple
+2058,2543,904,Paradise Beach - Bchamoun,"Main Street, Bchamoun, Lebanon",Beach
+2059,2543,905,National Park - Bchamoun,"Main Street, Bchamoun, Lebanon",Park
+2060,2543,902,Cathedral - Bchamoun,"Main Street, Bchamoun, Lebanon",Temple
+2061,2543,904,Paradise Beach - Bchamoun,"Main Street, Bchamoun, Lebanon",Beach
+2062,2544,904,Golden Sand Beach - Beirut,"Main Street, Beirut, Lebanon",Beach
+2063,2544,901,Art Gallery - Beirut,"Main Street, Beirut, Lebanon",Museum
+2064,2544,904,Sunset Cove - Beirut,"Main Street, Beirut, Lebanon",Beach
+2065,2544,901,Cultural Heritage Center - Beirut,"Main Street, Beirut, Lebanon",Museum
+2066,2548,903,Flea Market - Tripoli,"Main Street, Tripoli, Lebanon",Market
+2067,2548,903,Local Bazaar - Tripoli,"Main Street, Tripoli, Lebanon",Market
+2068,2548,903,Local Bazaar - Tripoli,"Main Street, Tripoli, Lebanon",Market
+2069,2548,902,Sacred Shrine - Tripoli,"Main Street, Tripoli, Lebanon",Temple
+2070,2549,903,Local Bazaar - Tripoli,"Main Street, Tripoli, Libya",Market
+2071,2549,901,Art Gallery - Tripoli,"Main Street, Tripoli, Libya",Museum
+2072,2549,904,Paradise Beach - Tripoli,"Main Street, Tripoli, Libya",Beach
+2073,2549,901,History Museum - Tripoli,"Main Street, Tripoli, Libya",Museum
+2074,2551,902,Sacred Shrine - Muscat Governorate,"Main Street, Muscat Governorate, Oman",Temple
+2075,2551,903,Local Bazaar - Muscat Governorate,"Main Street, Muscat Governorate, Oman",Market
+2076,2551,901,Art Gallery - Muscat Governorate,"Main Street, Muscat Governorate, Oman",Museum
+2077,2551,903,Night Market - Muscat Governorate,"Main Street, Muscat Governorate, Oman",Market
+2078,2555,905,National Park - Seeb,"Main Street, Seeb, Oman",Park
+2079,2555,901,History Museum - Seeb,"Main Street, Seeb, Oman",Museum
+2080,2555,905,Wildlife Reserve - Seeb,"Main Street, Seeb, Oman",Park
+2081,2555,901,Cultural Heritage Center - Seeb,"Main Street, Seeb, Oman",Museum
+2082,2550,904,Crystal Bay - Muscat,"Main Street, Muscat, Oman",Beach
+2083,2550,902,Sacred Shrine - Muscat,"Main Street, Muscat, Oman",Temple
+2084,2550,903,Flea Market - Muscat,"Main Street, Muscat, Oman",Market
+2085,2550,905,Wildlife Reserve - Muscat,"Main Street, Muscat, Oman",Park
+2086,2559,902,Cathedral - Jericho,"Main Street, Jericho, Palestine",Temple
+2087,2559,901,History Museum - Jericho,"Main Street, Jericho, Palestine",Museum
+2088,2559,902,Grand Mosque - Jericho,"Main Street, Jericho, Palestine",Temple
+2089,2559,904,Crystal Bay - Jericho,"Main Street, Jericho, Palestine",Beach
+2090,2561,904,Crystal Bay - West Bank,"Main Street, West Bank, Palestine",Beach
+2091,2561,904,Crystal Bay - West Bank,"Main Street, West Bank, Palestine",Beach
+2092,2561,904,Paradise Beach - West Bank,"Main Street, West Bank, Palestine",Beach
+2093,2561,905,Botanical Garden - West Bank,"Main Street, West Bank, Palestine",Park
+2094,2558,901,History Museum - Hebron,"Main Street, Hebron, Palestine",Museum
+2095,2558,902,Sacred Shrine - Hebron,"Main Street, Hebron, Palestine",Temple
+2096,2558,901,Cultural Heritage Center - Hebron,"Main Street, Hebron, Palestine",Museum
+2097,2558,903,Farmers' Market - Hebron,"Main Street, Hebron, Palestine",Market
+2098,2563,903,Night Market - Al-Rayyan,"Main Street, Al-Rayyan, Qatar",Market
+2099,2563,903,Night Market - Al-Rayyan,"Main Street, Al-Rayyan, Qatar",Market
+2100,2563,904,Golden Sand Beach - Al-Rayyan,"Main Street, Al-Rayyan, Qatar",Beach
+2101,2563,902,Cathedral - Al-Rayyan,"Main Street, Al-Rayyan, Qatar",Temple
+2102,2566,902,Ancient Temple - Qatar,"Main Street, Qatar, Qatar",Temple
+2103,2566,901,History Museum - Qatar,"Main Street, Qatar, Qatar",Museum
+2104,2566,901,Art Gallery - Qatar,"Main Street, Qatar, Qatar",Museum
+2105,2566,901,Cultural Heritage Center - Qatar,"Main Street, Qatar, Qatar",Museum
+2106,2564,901,Art Gallery - Doha,"Main Street, Doha, Qatar",Museum
+2107,2564,902,Cathedral - Doha,"Main Street, Doha, Qatar",Temple
+2108,2564,903,Farmers' Market - Doha,"Main Street, Doha, Qatar",Market
+2109,2564,901,History Museum - Doha,"Main Street, Doha, Qatar",Museum
+2110,2582,905,Botanical Garden - Medina,"Main Street, Medina, Saudi Arabia",Park
+2111,2582,902,Cathedral - Medina,"Main Street, Medina, Saudi Arabia",Temple
+2112,2582,905,Wildlife Reserve - Medina,"Main Street, Medina, Saudi Arabia",Park
+2113,2582,904,Paradise Beach - Medina,"Main Street, Medina, Saudi Arabia",Beach
+2114,2576,904,Golden Sand Beach - Jeddah Saudi Arabia,"Main Street, Jeddah Saudi Arabia, Saudi Arabia",Beach
+2115,2576,904,Golden Sand Beach - Jeddah Saudi Arabia,"Main Street, Jeddah Saudi Arabia, Saudi Arabia",Beach
+2116,2576,905,Wildlife Reserve - Jeddah Saudi Arabia,"Main Street, Jeddah Saudi Arabia, Saudi Arabia",Park
+2117,2576,904,Sunset Cove - Jeddah Saudi Arabia,"Main Street, Jeddah Saudi Arabia, Saudi Arabia",Beach
+2118,2567,903,Local Bazaar - Al Hofuf,"Main Street, Al Hofuf, Saudi Arabia",Market
+2119,2567,904,Paradise Beach - Al Hofuf,"Main Street, Al Hofuf, Saudi Arabia",Beach
+2120,2567,902,Grand Mosque - Al Hofuf,"Main Street, Al Hofuf, Saudi Arabia",Temple
+2121,2567,904,Paradise Beach - Al Hofuf,"Main Street, Al Hofuf, Saudi Arabia",Beach
+2122,2598,905,Wildlife Reserve - Bursa,"Main Street, Bursa, Turkey",Park
+2123,2598,904,Crystal Bay - Bursa,"Main Street, Bursa, Turkey",Beach
+2124,2598,905,Botanical Garden - Bursa,"Main Street, Bursa, Turkey",Park
+2125,2598,903,Local Bazaar - Bursa,"Main Street, Bursa, Turkey",Market
+2126,2603,902,Ancient Temple - Goreme,"Main Street, Goreme, Turkey",Temple
+2127,2603,902,Ancient Temple - Goreme,"Main Street, Goreme, Turkey",Temple
+2128,2603,903,Flea Market - Goreme,"Main Street, Goreme, Turkey",Market
+2129,2603,904,Paradise Beach - Goreme,"Main Street, Goreme, Turkey",Beach
+2130,2599,901,Art Gallery - Datca,"Main Street, Datca, Turkey",Museum
+2131,2599,901,Art Gallery - Datca,"Main Street, Datca, Turkey",Museum
+2132,2599,904,Crystal Bay - Datca,"Main Street, Datca, Turkey",Beach
+2133,2599,905,Eco Park - Datca,"Main Street, Datca, Turkey",Park
+2134,2625,905,National Park - Emirate of Dubai,"Main Street, Emirate of Dubai, United Arab Emirates",Park
+2135,2625,901,History Museum - Emirate of Dubai,"Main Street, Emirate of Dubai, United Arab Emirates",Museum
+2136,2625,902,Ancient Temple - Emirate of Dubai,"Main Street, Emirate of Dubai, United Arab Emirates",Temple
+2137,2625,902,Ancient Temple - Emirate of Dubai,"Main Street, Emirate of Dubai, United Arab Emirates",Temple
+2138,2633,904,Paradise Beach - Riverland,"Main Street, Riverland, United Arab Emirates",Beach
+2139,2633,902,Grand Mosque - Riverland,"Main Street, Riverland, United Arab Emirates",Temple
+2140,2633,902,Cathedral - Riverland,"Main Street, Riverland, United Arab Emirates",Temple
+2141,2633,901,History Museum - Riverland,"Main Street, Riverland, United Arab Emirates",Museum
+2142,2617,903,Night Market - Abu Dhabi,"Main Street, Abu Dhabi, United Arab Emirates",Market
+2143,2617,905,Botanical Garden - Abu Dhabi,"Main Street, Abu Dhabi, United Arab Emirates",Park
+2144,2617,901,Cultural Heritage Center - Abu Dhabi,"Main Street, Abu Dhabi, United Arab Emirates",Museum
+2145,2617,902,Sacred Shrine - Abu Dhabi,"Main Street, Abu Dhabi, United Arab Emirates",Temple
+2146,2642,901,Science Museum - Kabul,"Main Street, Kabul, Afghanistan",Museum
+2147,2642,904,Paradise Beach - Kabul,"Main Street, Kabul, Afghanistan",Beach
+2148,2642,901,Science Museum - Kabul,"Main Street, Kabul, Afghanistan",Museum
+2149,2642,905,National Park - Kabul,"Main Street, Kabul, Afghanistan",Park
+2150,2641,905,Eco Park - Bagram,"Main Street, Bagram, Afghanistan",Park
+2151,2641,903,Night Market - Bagram,"Main Street, Bagram, Afghanistan",Market
+2152,2641,905,Eco Park - Bagram,"Main Street, Bagram, Afghanistan",Park
+2153,2641,904,Crystal Bay - Bagram,"Main Street, Bagram, Afghanistan",Beach
+2154,2643,904,Golden Sand Beach - Bangladesh,"Main Street, Bangladesh, Bangladesh",Beach
+2155,2643,902,Sacred Shrine - Bangladesh,"Main Street, Bangladesh, Bangladesh",Temple
+2156,2643,902,Sacred Shrine - Bangladesh,"Main Street, Bangladesh, Bangladesh",Temple
+2157,2643,905,National Park - Bangladesh,"Main Street, Bangladesh, Bangladesh",Park
+2158,2644,905,Eco Park - Barisal Division,"Main Street, Barisal Division, Bangladesh",Park
+2159,2644,904,Sunset Cove - Barisal Division,"Main Street, Barisal Division, Bangladesh",Beach
+2160,2644,904,Sunset Cove - Barisal Division,"Main Street, Barisal Division, Bangladesh",Beach
+2161,2644,901,Science Museum - Barisal Division,"Main Street, Barisal Division, Bangladesh",Museum
+2162,2648,902,Ancient Temple - Dhaka City,"Main Street, Dhaka City, Bangladesh",Temple
+2163,2648,901,Cultural Heritage Center - Dhaka City,"Main Street, Dhaka City, Bangladesh",Museum
+2164,2648,901,History Museum - Dhaka City,"Main Street, Dhaka City, Bangladesh",Museum
+2165,2648,902,Sacred Shrine - Dhaka City,"Main Street, Dhaka City, Bangladesh",Temple
+2166,2661,904,Crystal Bay - Thimphu,"Main Street, Thimphu, Bhutan",Beach
+2167,2661,904,Paradise Beach - Thimphu,"Main Street, Thimphu, Bhutan",Beach
+2168,2661,905,Eco Park - Thimphu,"Main Street, Thimphu, Bhutan",Park
+2169,2661,902,Sacred Shrine - Thimphu,"Main Street, Thimphu, Bhutan",Temple
+2170,2660,901,Cultural Heritage Center - Paro,"Main Street, Paro, Bhutan",Museum
+2171,2660,902,Sacred Shrine - Paro,"Main Street, Paro, Bhutan",Temple
+2172,2660,905,Wildlife Reserve - Paro,"Main Street, Paro, Bhutan",Park
+2173,2660,905,National Park - Paro,"Main Street, Paro, Bhutan",Park
+2174,2777,904,Paradise Beach - Kasauli,"Main Street, Kasauli, India",Beach
+2175,2777,902,Grand Mosque - Kasauli,"Main Street, Kasauli, India",Temple
+2176,2777,904,Golden Sand Beach - Kasauli,"Main Street, Kasauli, India",Beach
+2177,2777,904,Crystal Bay - Kasauli,"Main Street, Kasauli, India",Beach
+2178,2782,903,Local Bazaar - Kochi,"Main Street, Kochi, India",Market
+2179,2782,905,Wildlife Reserve - Kochi,"Main Street, Kochi, India",Park
+2180,2782,902,Cathedral - Kochi,"Main Street, Kochi, India",Temple
+2181,2782,903,Local Bazaar - Kochi,"Main Street, Kochi, India",Market
+2182,2921,903,Flea Market - Warangal,"Main Street, Warangal, India",Market
+2183,2921,905,Wildlife Reserve - Warangal,"Main Street, Warangal, India",Park
+2184,2921,904,Crystal Bay - Warangal,"Main Street, Warangal, India",Beach
+2185,2921,901,Cultural Heritage Center - Warangal,"Main Street, Warangal, India",Museum
+2186,2930,901,Cultural Heritage Center - Hulhumale Maldives,"Main Street, Hulhumale Maldives, Maldives",Museum
+2187,2930,905,National Park - Hulhumale Maldives,"Main Street, Hulhumale Maldives, Maldives",Park
+2188,2930,905,Eco Park - Hulhumale Maldives,"Main Street, Hulhumale Maldives, Maldives",Park
+2189,2930,901,Science Museum - Hulhumale Maldives,"Main Street, Hulhumale Maldives, Maldives",Museum
+2190,2925,902,Ancient Temple - Addu City,"Main Street, Addu City, Maldives",Temple
+2191,2925,902,Grand Mosque - Addu City,"Main Street, Addu City, Maldives",Temple
+2192,2925,903,Night Market - Addu City,"Main Street, Addu City, Maldives",Market
+2193,2925,901,Art Gallery - Addu City,"Main Street, Addu City, Maldives",Museum
+2194,2934,904,Crystal Bay - Male,"Main Street, Male, Maldives",Beach
+2195,2934,905,Wildlife Reserve - Male,"Main Street, Male, Maldives",Park
+2196,2934,902,Cathedral - Male,"Main Street, Male, Maldives",Temple
+2197,2934,904,Paradise Beach - Male,"Main Street, Male, Maldives",Beach
+2198,2936,903,Flea Market - Bhaktapur,"Main Street, Bhaktapur, Nepal",Market
+2199,2936,901,Art Gallery - Bhaktapur,"Main Street, Bhaktapur, Nepal",Museum
+2200,2936,903,Local Bazaar - Bhaktapur,"Main Street, Bhaktapur, Nepal",Market
+2201,2936,905,Eco Park - Bhaktapur,"Main Street, Bhaktapur, Nepal",Park
+2202,2937,902,Ancient Temple - Dharan,"Main Street, Dharan, Nepal",Temple
+2203,2937,905,National Park - Dharan,"Main Street, Dharan, Nepal",Park
+2204,2937,902,Sacred Shrine - Dharan,"Main Street, Dharan, Nepal",Temple
+2205,2937,901,Science Museum - Dharan,"Main Street, Dharan, Nepal",Museum
+2206,2941,901,Science Museum - Patan (Lalitpur),"Main Street, Patan (Lalitpur), Nepal",Museum
+2207,2941,902,Grand Mosque - Patan (Lalitpur),"Main Street, Patan (Lalitpur), Nepal",Temple
+2208,2941,903,Flea Market - Patan (Lalitpur),"Main Street, Patan (Lalitpur), Nepal",Market
+2209,2941,904,Paradise Beach - Patan (Lalitpur),"Main Street, Patan (Lalitpur), Nepal",Beach
+2210,2950,905,National Park - Sahiwal,"Main Street, Sahiwal, Pakistan",Park
+2211,2950,904,Crystal Bay - Sahiwal,"Main Street, Sahiwal, Pakistan",Beach
+2212,2950,901,History Museum - Sahiwal,"Main Street, Sahiwal, Pakistan",Museum
+2213,2950,902,Cathedral - Sahiwal,"Main Street, Sahiwal, Pakistan",Temple
+2214,2944,904,Golden Sand Beach - Hyderabad,"Main Street, Hyderabad, Pakistan",Beach
+2215,2944,902,Cathedral - Hyderabad,"Main Street, Hyderabad, Pakistan",Temple
+2216,2944,904,Paradise Beach - Hyderabad,"Main Street, Hyderabad, Pakistan",Beach
+2217,2944,904,Crystal Bay - Hyderabad,"Main Street, Hyderabad, Pakistan",Beach
+2218,2948,905,Botanical Garden - Lahore,"Main Street, Lahore, Pakistan",Park
+2219,2948,901,History Museum - Lahore,"Main Street, Lahore, Pakistan",Museum
+2220,2948,903,Local Bazaar - Lahore,"Main Street, Lahore, Pakistan",Market
+2221,2948,901,Science Museum - Lahore,"Main Street, Lahore, Pakistan",Museum
+2222,2979,901,Cultural Heritage Center - Unawatuna,"Main Street, Unawatuna, Sri Lanka",Museum
+2223,2979,901,History Museum - Unawatuna,"Main Street, Unawatuna, Sri Lanka",Museum
+2224,2979,901,Science Museum - Unawatuna,"Main Street, Unawatuna, Sri Lanka",Museum
+2225,2979,904,Golden Sand Beach - Unawatuna,"Main Street, Unawatuna, Sri Lanka",Beach
+2226,2968,903,Night Market - Maharagama,"Main Street, Maharagama, Sri Lanka",Market
+2227,2968,902,Sacred Shrine - Maharagama,"Main Street, Maharagama, Sri Lanka",Temple
+2228,2968,903,Flea Market - Maharagama,"Main Street, Maharagama, Sri Lanka",Market
+2229,2968,901,History Museum - Maharagama,"Main Street, Maharagama, Sri Lanka",Museum
+2230,2964,902,Grand Mosque - Jaffna,"Main Street, Jaffna, Sri Lanka",Temple
+2231,2964,905,Botanical Garden - Jaffna,"Main Street, Jaffna, Sri Lanka",Park
+2232,2964,902,Cathedral - Jaffna,"Main Street, Jaffna, Sri Lanka",Temple
+2233,2964,904,Paradise Beach - Jaffna,"Main Street, Jaffna, Sri Lanka",Beach
+2234,2988,901,Art Gallery - Kuala Belait,"Main Street, Kuala Belait, Brunei Darussalam",Museum
+2235,2988,901,History Museum - Kuala Belait,"Main Street, Kuala Belait, Brunei Darussalam",Museum
+2236,2988,902,Cathedral - Kuala Belait,"Main Street, Kuala Belait, Brunei Darussalam",Temple
+2237,2988,905,Wildlife Reserve - Kuala Belait,"Main Street, Kuala Belait, Brunei Darussalam",Park
+2238,2982,904,Golden Sand Beach - Brunei,"Main Street, Brunei, Brunei Darussalam",Beach
+2239,2982,902,Sacred Shrine - Brunei,"Main Street, Brunei, Brunei Darussalam",Temple
+2240,2982,905,Wildlife Reserve - Brunei,"Main Street, Brunei, Brunei Darussalam",Park
+2241,2982,903,Local Bazaar - Brunei,"Main Street, Brunei, Brunei Darussalam",Market
+2242,2986,902,Grand Mosque - Kampong Jerudong,"Main Street, Kampong Jerudong, Brunei Darussalam",Temple
+2243,2986,901,History Museum - Kampong Jerudong,"Main Street, Kampong Jerudong, Brunei Darussalam",Museum
+2244,2986,904,Golden Sand Beach - Kampong Jerudong,"Main Street, Kampong Jerudong, Brunei Darussalam",Beach
+2245,2986,904,Paradise Beach - Kampong Jerudong,"Main Street, Kampong Jerudong, Brunei Darussalam",Beach
+2246,2997,904,Sunset Cove - Siem Reap Province,"Main Street, Siem Reap Province, Cambodia",Beach
+2247,2997,903,Flea Market - Siem Reap Province,"Main Street, Siem Reap Province, Cambodia",Market
+2248,2997,902,Ancient Temple - Siem Reap Province,"Main Street, Siem Reap Province, Cambodia",Temple
+2249,2997,905,Wildlife Reserve - Siem Reap Province,"Main Street, Siem Reap Province, Cambodia",Park
+2250,2991,905,National Park - Cambodia,"Main Street, Cambodia, Cambodia",Park
+2251,2991,901,Art Gallery - Cambodia,"Main Street, Cambodia, Cambodia",Museum
+2252,2991,902,Sacred Shrine - Cambodia,"Main Street, Cambodia, Cambodia",Temple
+2253,2991,902,Cathedral - Cambodia,"Main Street, Cambodia, Cambodia",Temple
+2254,2995,902,Ancient Temple - Poipet,"Main Street, Poipet, Cambodia",Temple
+2255,2995,901,Art Gallery - Poipet,"Main Street, Poipet, Cambodia",Museum
+2256,2995,902,Ancient Temple - Poipet,"Main Street, Poipet, Cambodia",Temple
+2257,2995,902,Sacred Shrine - Poipet,"Main Street, Poipet, Cambodia",Temple
+2258,3000,901,History Museum - Dili District,"Main Street, Dili District, East Timor",Museum
+2259,3000,905,National Park - Dili District,"Main Street, Dili District, East Timor",Park
+2260,3000,901,Art Gallery - Dili District,"Main Street, Dili District, East Timor",Museum
+2261,3000,901,Art Gallery - Dili District,"Main Street, Dili District, East Timor",Museum
+2262,3002,903,Night Market - Metiaut,"Main Street, Metiaut, East Timor",Market
+2263,3002,901,Science Museum - Metiaut,"Main Street, Metiaut, East Timor",Museum
+2264,3002,901,History Museum - Metiaut,"Main Street, Metiaut, East Timor",Museum
+2265,3002,902,Cathedral - Metiaut,"Main Street, Metiaut, East Timor",Temple
+2266,2999,903,Local Bazaar - Dili,"Main Street, Dili, East Timor",Market
+2267,2999,902,Cathedral - Dili,"Main Street, Dili, East Timor",Temple
+2268,2999,905,Botanical Garden - Dili,"Main Street, Dili, East Timor",Park
+2269,2999,904,Crystal Bay - Dili,"Main Street, Dili, East Timor",Beach
+2270,3276,904,Paradise Beach - Tembagapura,"Main Street, Tembagapura, Indonesia",Beach
+2271,3276,902,Cathedral - Tembagapura,"Main Street, Tembagapura, Indonesia",Temple
+2272,3276,904,Paradise Beach - Tembagapura,"Main Street, Tembagapura, Indonesia",Beach
+2273,3276,902,Cathedral - Tembagapura,"Main Street, Tembagapura, Indonesia",Temple
+2274,3158,902,Grand Mosque - Manado,"Main Street, Manado, Indonesia",Temple
+2275,3158,901,Science Museum - Manado,"Main Street, Manado, Indonesia",Museum
+2276,3158,903,Flea Market - Manado,"Main Street, Manado, Indonesia",Market
+2277,3158,901,Cultural Heritage Center - Manado,"Main Street, Manado, Indonesia",Museum
+2278,3087,904,Paradise Beach - Gili Meno,"Main Street, Gili Meno, Indonesia",Beach
+2279,3087,905,Eco Park - Gili Meno,"Main Street, Gili Meno, Indonesia",Park
+2280,3087,902,Cathedral - Gili Meno,"Main Street, Gili Meno, Indonesia",Temple
+2281,3087,904,Sunset Cove - Gili Meno,"Main Street, Gili Meno, Indonesia",Beach
+2282,3298,904,Sunset Cove - Laos,"Main Street, Laos, Laos",Beach
+2283,3298,905,Wildlife Reserve - Laos,"Main Street, Laos, Laos",Park
+2284,3298,902,Ancient Temple - Laos,"Main Street, Laos, Laos",Temple
+2285,3298,903,Local Bazaar - Laos,"Main Street, Laos, Laos",Market
+2286,3299,903,Farmers' Market - Luang Namtha,"Main Street, Luang Namtha, Laos",Market
+2287,3299,901,Cultural Heritage Center - Luang Namtha,"Main Street, Luang Namtha, Laos",Museum
+2288,3299,903,Flea Market - Luang Namtha,"Main Street, Luang Namtha, Laos",Market
+2289,3299,904,Crystal Bay - Luang Namtha,"Main Street, Luang Namtha, Laos",Beach
+2290,3303,903,Local Bazaar - Vientiane,"Main Street, Vientiane, Laos",Market
+2291,3303,901,Science Museum - Vientiane,"Main Street, Vientiane, Laos",Museum
+2292,3303,904,Golden Sand Beach - Vientiane,"Main Street, Vientiane, Laos",Beach
+2293,3303,901,Art Gallery - Vientiane,"Main Street, Vientiane, Laos",Museum
+2294,3322,905,Eco Park - Cheras,"Main Street, Cheras, Malaysia",Park
+2295,3322,902,Cathedral - Cheras,"Main Street, Cheras, Malaysia",Temple
+2296,3322,902,Ancient Temple - Cheras,"Main Street, Cheras, Malaysia",Temple
+2297,3322,903,Flea Market - Cheras,"Main Street, Cheras, Malaysia",Market
+2298,3349,904,Sunset Cove - Kota Bharu,"Main Street, Kota Bharu, Malaysia",Beach
+2299,3349,902,Grand Mosque - Kota Bharu,"Main Street, Kota Bharu, Malaysia",Temple
+2300,3349,903,Farmers' Market - Kota Bharu,"Main Street, Kota Bharu, Malaysia",Market
+2301,3349,902,Sacred Shrine - Kota Bharu,"Main Street, Kota Bharu, Malaysia",Temple
+2302,3351,904,Golden Sand Beach - Kota Kinabalu District,"Main Street, Kota Kinabalu District, Malaysia",Beach
+2303,3351,903,Night Market - Kota Kinabalu District,"Main Street, Kota Kinabalu District, Malaysia",Market
+2304,3351,905,Wildlife Reserve - Kota Kinabalu District,"Main Street, Kota Kinabalu District, Malaysia",Park
+2305,3351,901,Cultural Heritage Center - Kota Kinabalu District,"Main Street, Kota Kinabalu District, Malaysia",Museum
+2306,3428,902,Ancient Temple - Yangon,"Main Street, Yangon, Myanmar",Temple
+2307,3428,904,Paradise Beach - Yangon,"Main Street, Yangon, Myanmar",Beach
+2308,3428,903,Flea Market - Yangon,"Main Street, Yangon, Myanmar",Market
+2309,3428,902,Ancient Temple - Yangon,"Main Street, Yangon, Myanmar",Temple
+2310,3430,903,Flea Market - Yangon Region,"Main Street, Yangon Region, Myanmar",Market
+2311,3430,903,Night Market - Yangon Region,"Main Street, Yangon Region, Myanmar",Market
+2312,3430,905,Botanical Garden - Yangon Region,"Main Street, Yangon Region, Myanmar",Park
+2313,3430,904,Sunset Cove - Yangon Region,"Main Street, Yangon Region, Myanmar",Beach
+2314,3427,903,Local Bazaar - Mandalay,"Main Street, Mandalay, Myanmar",Market
+2315,3427,903,Flea Market - Mandalay,"Main Street, Mandalay, Myanmar",Market
+2316,3427,902,Cathedral - Mandalay,"Main Street, Mandalay, Myanmar",Temple
+2317,3427,905,Wildlife Reserve - Mandalay,"Main Street, Mandalay, Myanmar",Park
+2318,3515,903,Night Market - Siargao Island,"Main Street, Siargao Island, Philippines",Market
+2319,3515,905,Wildlife Reserve - Siargao Island,"Main Street, Siargao Island, Philippines",Park
+2320,3515,901,Cultural Heritage Center - Siargao Island,"Main Street, Siargao Island, Philippines",Museum
+2321,3515,902,Grand Mosque - Siargao Island,"Main Street, Siargao Island, Philippines",Temple
+2322,3486,902,Grand Mosque - Moalboal,"Main Street, Moalboal, Philippines",Temple
+2323,3486,902,Cathedral - Moalboal,"Main Street, Moalboal, Philippines",Temple
+2324,3486,905,Botanical Garden - Moalboal,"Main Street, Moalboal, Philippines",Park
+2325,3486,901,Science Museum - Moalboal,"Main Street, Moalboal, Philippines",Museum
+2326,3497,902,Grand Mosque - Panglao,"Main Street, Panglao, Philippines",Temple
+2327,3497,901,Science Museum - Panglao,"Main Street, Panglao, Philippines",Museum
+2328,3497,904,Paradise Beach - Panglao,"Main Street, Panglao, Philippines",Beach
+2329,3497,905,Botanical Garden - Panglao,"Main Street, Panglao, Philippines",Park
+2330,3540,902,Ancient Temple - just back in Singapore,"Main Street, just back in Singapore, Singapore",Temple
+2331,3540,904,Golden Sand Beach - just back in Singapore,"Main Street, just back in Singapore, Singapore",Beach
+2332,3540,903,Local Bazaar - just back in Singapore,"Main Street, just back in Singapore, Singapore",Market
+2333,3540,902,Sacred Shrine - just back in Singapore,"Main Street, just back in Singapore, Singapore",Temple
+2334,3545,903,Flea Market - Pasir Ris,"Main Street, Pasir Ris, Singapore",Market
+2335,3545,905,Wildlife Reserve - Pasir Ris,"Main Street, Pasir Ris, Singapore",Park
+2336,3545,901,Art Gallery - Pasir Ris,"Main Street, Pasir Ris, Singapore",Museum
+2337,3545,905,Eco Park - Pasir Ris,"Main Street, Pasir Ris, Singapore",Park
+2338,3541,902,Cathedral - Lion City,"Main Street, Lion City, Singapore",Temple
+2339,3541,903,Farmers' Market - Lion City,"Main Street, Lion City, Singapore",Market
+2340,3541,905,Eco Park - Lion City,"Main Street, Lion City, Singapore",Park
+2341,3541,901,Art Gallery - Lion City,"Main Street, Lion City, Singapore",Museum
+2342,3599,903,Local Bazaar - Ko Lanta,"Main Street, Ko Lanta, Thailand",Market
+2343,3599,904,Golden Sand Beach - Ko Lanta,"Main Street, Ko Lanta, Thailand",Beach
+2344,3599,904,Sunset Cove - Ko Lanta,"Main Street, Ko Lanta, Thailand",Beach
+2345,3599,903,Local Bazaar - Ko Lanta,"Main Street, Ko Lanta, Thailand",Market
+2346,3581,901,Art Gallery - Chonburi,"Main Street, Chonburi, Thailand",Museum
+2347,3581,905,Wildlife Reserve - Chonburi,"Main Street, Chonburi, Thailand",Park
+2348,3581,904,Golden Sand Beach - Chonburi,"Main Street, Chonburi, Thailand",Beach
+2349,3581,905,Eco Park - Chonburi,"Main Street, Chonburi, Thailand",Park
+2350,3614,901,Cultural Heritage Center - Lop Buri,"Main Street, Lop Buri, Thailand",Museum
+2351,3614,903,Night Market - Lop Buri,"Main Street, Lop Buri, Thailand",Market
+2352,3614,902,Ancient Temple - Lop Buri,"Main Street, Lop Buri, Thailand",Temple
+2353,3614,905,Wildlife Reserve - Lop Buri,"Main Street, Lop Buri, Thailand",Park
+2354,3661,901,Cultural Heritage Center - Hai Phong,"Main Street, Hai Phong, Vietnam",Museum
+2355,3661,905,Eco Park - Hai Phong,"Main Street, Hai Phong, Vietnam",Park
+2356,3661,901,Cultural Heritage Center - Hai Phong,"Main Street, Hai Phong, Vietnam",Museum
+2357,3661,904,Sunset Cove - Hai Phong,"Main Street, Hai Phong, Vietnam",Beach
+2358,3669,903,Night Market - Hue,"Main Street, Hue, Vietnam",Market
+2359,3669,905,Wildlife Reserve - Hue,"Main Street, Hue, Vietnam",Park
+2360,3669,902,Sacred Shrine - Hue,"Main Street, Hue, Vietnam",Temple
+2361,3669,905,Wildlife Reserve - Hue,"Main Street, Hue, Vietnam",Park
+2362,3653,902,Sacred Shrine - Bac Ninh,"Main Street, Bac Ninh, Vietnam",Temple
+2363,3653,904,Sunset Cove - Bac Ninh,"Main Street, Bac Ninh, Vietnam",Beach
+2364,3653,905,Botanical Garden - Bac Ninh,"Main Street, Bac Ninh, Vietnam",Park
+2365,3653,905,Wildlife Reserve - Bac Ninh,"Main Street, Bac Ninh, Vietnam",Park
+2366,4503,902,Cathedral - Kings Beach,"Main Street, Kings Beach, Australia",Temple
+2367,4503,902,Ancient Temple - Kings Beach,"Main Street, Kings Beach, Australia",Temple
+2368,4503,902,Grand Mosque - Kings Beach,"Main Street, Kings Beach, Australia",Temple
+2369,4503,901,Art Gallery - Kings Beach,"Main Street, Kings Beach, Australia",Museum
+2370,5150,903,Farmers' Market - St Peters,"Main Street, St Peters, Australia",Market
+2371,5150,901,Art Gallery - St Peters,"Main Street, St Peters, Australia",Museum
+2372,5150,901,History Museum - St Peters,"Main Street, St Peters, Australia",Museum
+2373,5150,905,Eco Park - St Peters,"Main Street, St Peters, Australia",Park
+2374,3912,901,Science Museum - Brighton,"Main Street, Brighton, Australia",Museum
+2375,3912,904,Golden Sand Beach - Brighton,"Main Street, Brighton, Australia",Beach
+2376,3912,901,History Museum - Brighton,"Main Street, Brighton, Australia",Museum
+2377,3912,902,Sacred Shrine - Brighton,"Main Street, Brighton, Australia",Temple
+2378,5461,901,History Museum - Colo-I-Suva,"Main Street, Colo-I-Suva, Fiji",Museum
+2379,5461,901,History Museum - Colo-I-Suva,"Main Street, Colo-I-Suva, Fiji",Museum
+2380,5461,901,History Museum - Colo-I-Suva,"Main Street, Colo-I-Suva, Fiji",Museum
+2381,5461,903,Flea Market - Colo-I-Suva,"Main Street, Colo-I-Suva, Fiji",Market
+2382,5462,904,Paradise Beach - Denarau Island,"Main Street, Denarau Island, Fiji",Beach
+2383,5462,901,Art Gallery - Denarau Island,"Main Street, Denarau Island, Fiji",Museum
+2384,5462,902,Cathedral - Denarau Island,"Main Street, Denarau Island, Fiji",Temple
+2385,5462,905,National Park - Denarau Island,"Main Street, Denarau Island, Fiji",Park
+2386,5466,904,Golden Sand Beach - Viti Levu,"Main Street, Viti Levu, Fiji",Beach
+2387,5466,905,Wildlife Reserve - Viti Levu,"Main Street, Viti Levu, Fiji",Park
+2388,5466,904,Crystal Bay - Viti Levu,"Main Street, Viti Levu, Fiji",Beach
+2389,5466,902,Ancient Temple - Viti Levu,"Main Street, Viti Levu, Fiji",Temple
+2390,5468,904,Paradise Beach - French Polynesia,"Main Street, French Polynesia, French Polynesia",Beach
+2391,5468,904,Golden Sand Beach - French Polynesia,"Main Street, French Polynesia, French Polynesia",Beach
+2392,5468,902,Ancient Temple - French Polynesia,"Main Street, French Polynesia, French Polynesia",Temple
+2393,5468,901,Cultural Heritage Center - French Polynesia,"Main Street, French Polynesia, French Polynesia",Museum
+2394,5471,903,Flea Market - Tahiti,"Main Street, Tahiti, French Polynesia",Market
+2395,5471,905,Wildlife Reserve - Tahiti,"Main Street, Tahiti, French Polynesia",Park
+2396,5471,901,Cultural Heritage Center - Tahiti,"Main Street, Tahiti, French Polynesia",Museum
+2397,5471,902,Cathedral - Tahiti,"Main Street, Tahiti, French Polynesia",Temple
+2398,5469,905,Botanical Garden - Moorea,"Main Street, Moorea, French Polynesia",Park
+2399,5469,904,Crystal Bay - Moorea,"Main Street, Moorea, French Polynesia",Beach
+2400,5469,901,History Museum - Moorea,"Main Street, Moorea, French Polynesia",Museum
+2401,5469,901,Cultural Heritage Center - Moorea,"Main Street, Moorea, French Polynesia",Museum
+2402,5473,904,Crystal Bay - Guam,"Main Street, Guam, Mariana Islands",Beach
+2403,5473,905,Botanical Garden - Guam,"Main Street, Guam, Mariana Islands",Park
+2404,5473,902,Sacred Shrine - Guam,"Main Street, Guam, Mariana Islands",Temple
+2405,5473,901,Art Gallery - Guam,"Main Street, Guam, Mariana Islands",Museum
+2406,5475,901,Art Gallery - Tamuning,"Main Street, Tamuning, Mariana Islands",Museum
+2407,5475,903,Flea Market - Tamuning,"Main Street, Tamuning, Mariana Islands",Market
+2408,5475,904,Sunset Cove - Tamuning,"Main Street, Tamuning, Mariana Islands",Beach
+2409,5475,901,Cultural Heritage Center - Tamuning,"Main Street, Tamuning, Mariana Islands",Museum
+2410,5472,903,Local Bazaar - Dededo,"Main Street, Dededo, Mariana Islands",Market
+2411,5472,904,Crystal Bay - Dededo,"Main Street, Dededo, Mariana Islands",Beach
+2412,5472,905,Botanical Garden - Dededo,"Main Street, Dededo, Mariana Islands",Park
+2413,5472,901,Cultural Heritage Center - Dededo,"Main Street, Dededo, Mariana Islands",Museum
+2414,5477,903,Night Market - Kwajalein Island,"Main Street, Kwajalein Island, Marshall Islands",Market
+2415,5477,901,Art Gallery - Kwajalein Island,"Main Street, Kwajalein Island, Marshall Islands",Museum
+2416,5477,904,Sunset Cove - Kwajalein Island,"Main Street, Kwajalein Island, Marshall Islands",Beach
+2417,5477,904,Crystal Bay - Kwajalein Island,"Main Street, Kwajalein Island, Marshall Islands",Beach
+2418,5476,901,Science Museum - Ebeye Island,"Main Street, Ebeye Island, Marshall Islands",Museum
+2419,5476,905,Eco Park - Ebeye Island,"Main Street, Ebeye Island, Marshall Islands",Park
+2420,5476,901,History Museum - Ebeye Island,"Main Street, Ebeye Island, Marshall Islands",Museum
+2421,5476,902,Sacred Shrine - Ebeye Island,"Main Street, Ebeye Island, Marshall Islands",Temple
+2422,5479,905,National Park - Noumea,"Main Street, Noumea, New Caledonia",Park
+2423,5479,905,Eco Park - Noumea,"Main Street, Noumea, New Caledonia",Park
+2424,5479,901,Art Gallery - Noumea,"Main Street, Noumea, New Caledonia",Museum
+2425,5479,901,Cultural Heritage Center - Noumea,"Main Street, Noumea, New Caledonia",Museum
+2426,5478,903,Flea Market - NoumÃ©a,"Main Street, NoumÃ©a, New Caledonia",Market
+2427,5478,905,Wildlife Reserve - NoumÃ©a,"Main Street, NoumÃ©a, New Caledonia",Park
+2428,5478,904,Paradise Beach - NoumÃ©a,"Main Street, NoumÃ©a, New Caledonia",Beach
+2429,5478,905,National Park - NoumÃ©a,"Main Street, NoumÃ©a, New Caledonia",Park
+2430,5575,903,Night Market - North Shore,"Main Street, North Shore, New Zealand",Market
+2431,5575,905,Eco Park - North Shore,"Main Street, North Shore, New Zealand",Park
+2432,5575,904,Sunset Cove - North Shore,"Main Street, North Shore, New Zealand",Beach
+2433,5575,902,Cathedral - North Shore,"Main Street, North Shore, New Zealand",Temple
+2434,5495,903,Night Market - Bay of Plenty Region,"Main Street, Bay of Plenty Region, New Zealand",Market
+2435,5495,901,History Museum - Bay of Plenty Region,"Main Street, Bay of Plenty Region, New Zealand",Museum
+2436,5495,903,Farmers' Market - Bay of Plenty Region,"Main Street, Bay of Plenty Region, New Zealand",Market
+2437,5495,901,History Museum - Bay of Plenty Region,"Main Street, Bay of Plenty Region, New Zealand",Museum
+2438,5510,901,Science Museum - Devonport,"Main Street, Devonport, New Zealand",Museum
+2439,5510,901,Cultural Heritage Center - Devonport,"Main Street, Devonport, New Zealand",Museum
+2440,5510,903,Night Market - Devonport,"Main Street, Devonport, New Zealand",Market
+2441,5510,904,Crystal Bay - Devonport,"Main Street, Devonport, New Zealand",Beach
+2442,5680,904,Sunset Cove - Lae,"Main Street, Lae, Papua New Guinea",Beach
+2443,5680,901,History Museum - Lae,"Main Street, Lae, Papua New Guinea",Museum
+2444,5680,904,Crystal Bay - Lae,"Main Street, Lae, Papua New Guinea",Beach
+2445,5680,901,History Museum - Lae,"Main Street, Lae, Papua New Guinea",Museum
+2446,5681,902,Sacred Shrine - Port Moresby,"Main Street, Port Moresby, Papua New Guinea",Temple
+2447,5681,901,Science Museum - Port Moresby,"Main Street, Port Moresby, Papua New Guinea",Museum
+2448,5681,901,Science Museum - Port Moresby,"Main Street, Port Moresby, Papua New Guinea",Museum
+2449,5681,905,Botanical Garden - Port Moresby,"Main Street, Port Moresby, Papua New Guinea",Park
+2450,5682,904,Golden Sand Beach - Rabaul,"Main Street, Rabaul, Papua New Guinea",Beach
+2451,5682,901,History Museum - Rabaul,"Main Street, Rabaul, Papua New Guinea",Museum
+2452,5682,903,Farmers' Market - Rabaul,"Main Street, Rabaul, Papua New Guinea",Market
+2453,5682,905,Wildlife Reserve - Rabaul,"Main Street, Rabaul, Papua New Guinea",Park
+2454,5683,903,Local Bazaar - Solomon Islands,"Main Street, Solomon Islands, Solomon Islands",Market
+2455,5683,905,Eco Park - Solomon Islands,"Main Street, Solomon Islands, Solomon Islands",Park
+2456,5683,904,Golden Sand Beach - Solomon Islands,"Main Street, Solomon Islands, Solomon Islands",Beach
+2457,5683,901,Cultural Heritage Center - Solomon Islands,"Main Street, Solomon Islands, Solomon Islands",Museum
+2458,5684,904,Sunset Cove - Vava'u Islands,"Main Street, Vava'u Islands, Tonga",Beach
+2459,5684,902,Grand Mosque - Vava'u Islands,"Main Street, Vava'u Islands, Tonga",Temple
+2460,5684,903,Farmers' Market - Vava'u Islands,"Main Street, Vava'u Islands, Tonga",Market
+2461,5684,901,Cultural Heritage Center - Vava'u Islands,"Main Street, Vava'u Islands, Tonga",Museum
+2462,5686,902,Sacred Shrine - South Pacific,"Main Street, South Pacific, Vanuatu",Temple
+2463,5686,901,Cultural Heritage Center - South Pacific,"Main Street, South Pacific, Vanuatu",Museum
+2464,5686,905,Wildlife Reserve - South Pacific,"Main Street, South Pacific, Vanuatu",Park
+2465,5686,902,Cathedral - South Pacific,"Main Street, South Pacific, Vanuatu",Temple
+2466,5685,903,Local Bazaar - Port Vila,"Main Street, Port Vila, Vanuatu",Market
+2467,5685,901,Art Gallery - Port Vila,"Main Street, Port Vila, Vanuatu",Museum
+2468,5685,904,Golden Sand Beach - Port Vila,"Main Street, Port Vila, Vanuatu",Beach
+2469,5685,904,Golden Sand Beach - Port Vila,"Main Street, Port Vila, Vanuatu",Beach
+2470,5688,904,Paradise Beach - Europe,"Main Street, Europe, Europe",Beach
+2471,5688,905,Botanical Garden - Europe,"Main Street, Europe, Europe",Park
+2472,5688,903,Local Bazaar - Europe,"Main Street, Europe, Europe",Market
+2473,5688,905,National Park - Europe,"Main Street, Europe, Europe",Park
+2474,5687,903,Night Market - EU,"Main Street, EU, Europe",Market
+2475,5687,902,Sacred Shrine - EU,"Main Street, EU, Europe",Temple
+2476,5687,905,Botanical Garden - EU,"Main Street, EU, Europe",Park
+2477,5687,904,Paradise Beach - EU,"Main Street, EU, Europe",Beach
+2478,5722,904,Golden Sand Beach - Vorchdorf,"Main Street, Vorchdorf, Austria",Beach
+2479,5722,904,Sunset Cove - Vorchdorf,"Main Street, Vorchdorf, Austria",Beach
+2480,5722,905,Eco Park - Vorchdorf,"Main Street, Vorchdorf, Austria",Park
+2481,5722,903,Night Market - Vorchdorf,"Main Street, Vorchdorf, Austria",Market
+2482,5725,905,Eco Park - Wien,"Main Street, Wien, Austria",Park
+2483,5725,904,Golden Sand Beach - Wien,"Main Street, Wien, Austria",Beach
+2484,5725,903,Farmers' Market - Wien,"Main Street, Wien, Austria",Market
+2485,5725,903,Farmers' Market - Wien,"Main Street, Wien, Austria",Market
+2486,5693,903,Local Bazaar - Bali&Austria,"Main Street, Bali&Austria, Austria",Market
+2487,5693,902,Sacred Shrine - Bali&Austria,"Main Street, Bali&Austria, Austria",Temple
+2488,5693,901,Science Museum - Bali&Austria,"Main Street, Bali&Austria, Austria",Museum
+2489,5693,904,Golden Sand Beach - Bali&Austria,"Main Street, Bali&Austria, Austria",Beach
+2490,5735,902,Grand Mosque - Mlini,"Main Street, Mlini, Croatia",Temple
+2491,5735,901,History Museum - Mlini,"Main Street, Mlini, Croatia",Museum
+2492,5735,903,Night Market - Mlini,"Main Street, Mlini, Croatia",Market
+2493,5735,904,Golden Sand Beach - Mlini,"Main Street, Mlini, Croatia",Beach
+2494,5743,905,National Park - Trogir,"Main Street, Trogir, Croatia",Park
+2495,5743,904,Sunset Cove - Trogir,"Main Street, Trogir, Croatia",Beach
+2496,5743,901,Art Gallery - Trogir,"Main Street, Trogir, Croatia",Museum
+2497,5743,901,Science Museum - Trogir,"Main Street, Trogir, Croatia",Museum
+2498,5727,903,Flea Market - Baska,"Main Street, Baska, Croatia",Market
+2499,5727,904,Crystal Bay - Baska,"Main Street, Baska, Croatia",Beach
+2500,5727,901,Art Gallery - Baska,"Main Street, Baska, Croatia",Museum
+2501,5727,903,Farmers' Market - Baska,"Main Street, Baska, Croatia",Market
+2502,5788,904,Sunset Cove - South Moravian Region,"Main Street, South Moravian Region, Czech Republic",Beach
+2503,5788,902,Ancient Temple - South Moravian Region,"Main Street, South Moravian Region, Czech Republic",Temple
+2504,5788,904,Sunset Cove - South Moravian Region,"Main Street, South Moravian Region, Czech Republic",Beach
+2505,5788,903,Night Market - South Moravian Region,"Main Street, South Moravian Region, Czech Republic",Market
+2506,5775,902,Sacred Shrine - Lovosice,"Main Street, Lovosice, Czech Republic",Temple
+2507,5775,904,Golden Sand Beach - Lovosice,"Main Street, Lovosice, Czech Republic",Beach
+2508,5775,905,Botanical Garden - Lovosice,"Main Street, Lovosice, Czech Republic",Park
+2509,5775,903,Flea Market - Lovosice,"Main Street, Lovosice, Czech Republic",Market
+2510,5776,901,Art Gallery - Marianske Lazne,"Main Street, Marianske Lazne, Czech Republic",Museum
+2511,5776,901,History Museum - Marianske Lazne,"Main Street, Marianske Lazne, Czech Republic",Museum
+2512,5776,902,Ancient Temple - Marianske Lazne,"Main Street, Marianske Lazne, Czech Republic",Temple
+2513,5776,904,Sunset Cove - Marianske Lazne,"Main Street, Marianske Lazne, Czech Republic",Beach
+2514,5804,903,Night Market - Viimsi,"Main Street, Viimsi, Estonia",Market
+2515,5804,902,Ancient Temple - Viimsi,"Main Street, Viimsi, Estonia",Temple
+2516,5804,904,Golden Sand Beach - Viimsi,"Main Street, Viimsi, Estonia",Beach
+2517,5804,905,Eco Park - Viimsi,"Main Street, Viimsi, Estonia",Park
+2518,5803,901,Art Gallery - Tartu,"Main Street, Tartu, Estonia",Museum
+2519,5803,905,Eco Park - Tartu,"Main Street, Tartu, Estonia",Park
+2520,5803,901,History Museum - Tartu,"Main Street, Tartu, Estonia",Museum
+2521,5803,902,Ancient Temple - Tartu,"Main Street, Tartu, Estonia",Temple
+2522,5794,903,Local Bazaar - estonia,"Main Street, estonia, Estonia",Market
+2523,5794,902,Ancient Temple - estonia,"Main Street, estonia, Estonia",Temple
+2524,5794,902,Sacred Shrine - estonia,"Main Street, estonia, Estonia",Temple
+2525,5794,902,Ancient Temple - estonia,"Main Street, estonia, Estonia",Temple
+2526,6024,902,Grand Mosque - Wasserburg am Inn,"Main Street, Wasserburg am Inn, Germany",Temple
+2527,6024,903,Farmers' Market - Wasserburg am Inn,"Main Street, Wasserburg am Inn, Germany",Market
+2528,6024,902,Grand Mosque - Wasserburg am Inn,"Main Street, Wasserburg am Inn, Germany",Temple
+2529,6024,901,Cultural Heritage Center - Wasserburg am Inn,"Main Street, Wasserburg am Inn, Germany",Museum
+2530,5872,901,Art Gallery - Giessen,"Main Street, Giessen, Germany",Museum
+2531,5872,904,Golden Sand Beach - Giessen,"Main Street, Giessen, Germany",Beach
+2532,5872,901,Art Gallery - Giessen,"Main Street, Giessen, Germany",Museum
+2533,5872,905,Eco Park - Giessen,"Main Street, Giessen, Germany",Park
+2534,5815,901,Cultural Heritage Center - Bad Neuenahr-Ahrweiler,"Main Street, Bad Neuenahr-Ahrweiler, Germany",Museum
+2535,5815,902,Grand Mosque - Bad Neuenahr-Ahrweiler,"Main Street, Bad Neuenahr-Ahrweiler, Germany",Temple
+2536,5815,905,Botanical Garden - Bad Neuenahr-Ahrweiler,"Main Street, Bad Neuenahr-Ahrweiler, Germany",Park
+2537,5815,901,Art Gallery - Bad Neuenahr-Ahrweiler,"Main Street, Bad Neuenahr-Ahrweiler, Germany",Museum
+2538,6037,904,Paradise Beach - Balatonfured,"Main Street, Balatonfured, Hungary",Beach
+2539,6037,903,Night Market - Balatonfured,"Main Street, Balatonfured, Hungary",Market
+2540,6037,905,Eco Park - Balatonfured,"Main Street, Balatonfured, Hungary",Park
+2541,6037,902,Grand Mosque - Balatonfured,"Main Street, Balatonfured, Hungary",Temple
+2542,6050,901,History Museum - Sarvar,"Main Street, Sarvar, Hungary",Museum
+2543,6050,901,History Museum - Sarvar,"Main Street, Sarvar, Hungary",Museum
+2544,6050,901,History Museum - Sarvar,"Main Street, Sarvar, Hungary",Museum
+2545,6050,905,National Park - Sarvar,"Main Street, Sarvar, Hungary",Park
+2546,6045,903,Flea Market - Miskolc,"Main Street, Miskolc, Hungary",Market
+2547,6045,902,Sacred Shrine - Miskolc,"Main Street, Miskolc, Hungary",Temple
+2548,6045,905,Eco Park - Miskolc,"Main Street, Miskolc, Hungary",Park
+2549,6045,901,History Museum - Miskolc,"Main Street, Miskolc, Hungary",Museum
+2550,6059,901,Art Gallery - Dreilini,"Main Street, Dreilini, Latvia",Museum
+2551,6059,903,Farmers' Market - Dreilini,"Main Street, Dreilini, Latvia",Market
+2552,6059,904,Paradise Beach - Dreilini,"Main Street, Dreilini, Latvia",Beach
+2553,6059,905,National Park - Dreilini,"Main Street, Dreilini, Latvia",Park
+2554,6060,904,Golden Sand Beach - Jelgava,"Main Street, Jelgava, Latvia",Beach
+2555,6060,902,Cathedral - Jelgava,"Main Street, Jelgava, Latvia",Temple
+2556,6060,905,Botanical Garden - Jelgava,"Main Street, Jelgava, Latvia",Park
+2557,6060,905,Botanical Garden - Jelgava,"Main Street, Jelgava, Latvia",Park
+2558,6064,905,Wildlife Reserve - Ventspils,"Main Street, Ventspils, Latvia",Park
+2559,6064,905,National Park - Ventspils,"Main Street, Ventspils, Latvia",Park
+2560,6064,901,History Museum - Ventspils,"Main Street, Ventspils, Latvia",Museum
+2561,6064,905,Wildlife Reserve - Ventspils,"Main Street, Ventspils, Latvia",Park
+2562,6073,905,National Park - Vilnius,"Main Street, Vilnius, Lithuania",Park
+2563,6073,905,National Park - Vilnius,"Main Street, Vilnius, Lithuania",Park
+2564,6073,904,Golden Sand Beach - Vilnius,"Main Street, Vilnius, Lithuania",Beach
+2565,6073,902,Ancient Temple - Vilnius,"Main Street, Vilnius, Lithuania",Temple
+2566,6066,905,Eco Park - Gargzdai,"Main Street, Gargzdai, Lithuania",Park
+2567,6066,901,Cultural Heritage Center - Gargzdai,"Main Street, Gargzdai, Lithuania",Museum
+2568,6066,903,Farmers' Market - Gargzdai,"Main Street, Gargzdai, Lithuania",Market
+2569,6066,905,Eco Park - Gargzdai,"Main Street, Gargzdai, Lithuania",Park
+2570,6070,903,Night Market - Klaipeda,"Main Street, Klaipeda, Lithuania",Market
+2571,6070,903,Local Bazaar - Klaipeda,"Main Street, Klaipeda, Lithuania",Market
+2572,6070,902,Sacred Shrine - Klaipeda,"Main Street, Klaipeda, Lithuania",Temple
+2573,6070,902,Cathedral - Klaipeda,"Main Street, Klaipeda, Lithuania",Temple
+2574,6076,905,Botanical Garden - Kehlen,"Main Street, Kehlen, Luxembourg",Park
+2575,6076,901,History Museum - Kehlen,"Main Street, Kehlen, Luxembourg",Museum
+2576,6076,901,History Museum - Kehlen,"Main Street, Kehlen, Luxembourg",Museum
+2577,6076,904,Golden Sand Beach - Kehlen,"Main Street, Kehlen, Luxembourg",Beach
+2578,6080,903,Farmers' Market - Luxembourg District,"Main Street, Luxembourg District, Luxembourg",Market
+2579,6080,904,Sunset Cove - Luxembourg District,"Main Street, Luxembourg District, Luxembourg",Beach
+2580,6080,903,Farmers' Market - Luxembourg District,"Main Street, Luxembourg District, Luxembourg",Market
+2581,6080,903,Local Bazaar - Luxembourg District,"Main Street, Luxembourg District, Luxembourg",Market
+2582,6075,905,Eco Park - Kayl,"Main Street, Kayl, Luxembourg",Park
+2583,6075,901,Cultural Heritage Center - Kayl,"Main Street, Kayl, Luxembourg",Museum
+2584,6075,905,National Park - Kayl,"Main Street, Kayl, Luxembourg",Park
+2585,6075,902,Grand Mosque - Kayl,"Main Street, Kayl, Luxembourg",Temple
+2586,6102,902,Ancient Temple - Olsztyn,"Main Street, Olsztyn, Poland",Temple
+2587,6102,901,Science Museum - Olsztyn,"Main Street, Olsztyn, Poland",Museum
+2588,6102,901,Science Museum - Olsztyn,"Main Street, Olsztyn, Poland",Museum
+2589,6102,905,Botanical Garden - Olsztyn,"Main Street, Olsztyn, Poland",Park
+2590,6099,904,Golden Sand Beach - Lodz,"Main Street, Lodz, Poland",Beach
+2591,6099,902,Cathedral - Lodz,"Main Street, Lodz, Poland",Temple
+2592,6099,903,Flea Market - Lodz,"Main Street, Lodz, Poland",Market
+2593,6099,902,Sacred Shrine - Lodz,"Main Street, Lodz, Poland",Temple
+2594,6098,905,Botanical Garden - Krakow,"Main Street, Krakow, Poland",Park
+2595,6098,903,Local Bazaar - Krakow,"Main Street, Krakow, Poland",Market
+2596,6098,903,Local Bazaar - Krakow,"Main Street, Krakow, Poland",Market
+2597,6098,902,Cathedral - Krakow,"Main Street, Krakow, Poland",Temple
+2598,6154,905,Wildlife Reserve - Targu Mures,"Main Street, Targu Mures, Romania",Park
+2599,6154,904,Paradise Beach - Targu Mures,"Main Street, Targu Mures, Romania",Beach
+2600,6154,905,Botanical Garden - Targu Mures,"Main Street, Targu Mures, Romania",Park
+2601,6154,905,Wildlife Reserve - Targu Mures,"Main Street, Targu Mures, Romania",Park
+2602,6138,905,Wildlife Reserve - Ghimbav,"Main Street, Ghimbav, Romania",Park
+2603,6138,902,Ancient Temple - Ghimbav,"Main Street, Ghimbav, Romania",Temple
+2604,6138,905,National Park - Ghimbav,"Main Street, Ghimbav, Romania",Park
+2605,6138,904,Golden Sand Beach - Ghimbav,"Main Street, Ghimbav, Romania",Beach
+2606,6149,903,Night Market - Romania,"Main Street, Romania, Romania",Market
+2607,6149,903,Flea Market - Romania,"Main Street, Romania, Romania",Market
+2608,6149,905,National Park - Romania,"Main Street, Romania, Romania",Park
+2609,6149,904,Crystal Bay - Romania,"Main Street, Romania, Romania",Beach
+2610,6156,904,Crystal Bay - Belgrade,"Main Street, Belgrade, Serbia",Beach
+2611,6156,901,Science Museum - Belgrade,"Main Street, Belgrade, Serbia",Museum
+2612,6156,903,Farmers' Market - Belgrade,"Main Street, Belgrade, Serbia",Market
+2613,6156,901,Science Museum - Belgrade,"Main Street, Belgrade, Serbia",Museum
+2614,6157,905,National Park - Kragujevac,"Main Street, Kragujevac, Serbia",Park
+2615,6157,903,Night Market - Kragujevac,"Main Street, Kragujevac, Serbia",Market
+2616,6157,903,Local Bazaar - Kragujevac,"Main Street, Kragujevac, Serbia",Market
+2617,6157,901,Cultural Heritage Center - Kragujevac,"Main Street, Kragujevac, Serbia",Museum
+2618,6161,902,Sacred Shrine - Serbia,"Main Street, Serbia, Serbia",Temple
+2619,6161,905,Botanical Garden - Serbia,"Main Street, Serbia, Serbia",Park
+2620,6161,904,Golden Sand Beach - Serbia,"Main Street, Serbia, Serbia",Beach
+2621,6161,903,Farmers' Market - Serbia,"Main Street, Serbia, Serbia",Market
+2622,6163,905,Eco Park - Bratislava,"Main Street, Bratislava, Slovakia",Park
+2623,6163,901,Art Gallery - Bratislava,"Main Street, Bratislava, Slovakia",Museum
+2624,6163,901,Science Museum - Bratislava,"Main Street, Bratislava, Slovakia",Museum
+2625,6163,905,Eco Park - Bratislava,"Main Street, Bratislava, Slovakia",Park
+2626,6168,904,Sunset Cove - Limbach,"Main Street, Limbach, Slovakia",Beach
+2627,6168,903,Local Bazaar - Limbach,"Main Street, Limbach, Slovakia",Market
+2628,6168,904,Sunset Cove - Limbach,"Main Street, Limbach, Slovakia",Beach
+2629,6168,902,Grand Mosque - Limbach,"Main Street, Limbach, Slovakia",Temple
+2630,6174,902,Ancient Temple - Senec,"Main Street, Senec, Slovakia",Temple
+2631,6174,905,Botanical Garden - Senec,"Main Street, Senec, Slovakia",Park
+2632,6174,903,Night Market - Senec,"Main Street, Senec, Slovakia",Market
+2633,6174,905,Botanical Garden - Senec,"Main Street, Senec, Slovakia",Park
+2634,6197,901,Science Museum - Prebold,"Main Street, Prebold, Slovenia",Museum
+2635,6197,905,Botanical Garden - Prebold,"Main Street, Prebold, Slovenia",Park
+2636,6197,901,History Museum - Prebold,"Main Street, Prebold, Slovenia",Museum
+2637,6197,901,Art Gallery - Prebold,"Main Street, Prebold, Slovenia",Museum
+2638,6191,904,Golden Sand Beach - Logatec,"Main Street, Logatec, Slovenia",Beach
+2639,6191,904,Crystal Bay - Logatec,"Main Street, Logatec, Slovenia",Beach
+2640,6191,904,Golden Sand Beach - Logatec,"Main Street, Logatec, Slovenia",Beach
+2641,6191,901,Art Gallery - Logatec,"Main Street, Logatec, Slovenia",Museum
+2642,6182,904,Golden Sand Beach - Branik,"Main Street, Branik, Slovenia",Beach
+2643,6182,905,Eco Park - Branik,"Main Street, Branik, Slovenia",Park
+2644,6182,903,Flea Market - Branik,"Main Street, Branik, Slovenia",Market
+2645,6182,901,Cultural Heritage Center - Branik,"Main Street, Branik, Slovenia",Museum
+2646,6223,904,Golden Sand Beach - Canton of Basel,"Main Street, Canton of Basel, Switzerland",Beach
+2647,6223,902,Cathedral - Canton of Basel,"Main Street, Canton of Basel, Switzerland",Temple
+2648,6223,901,Art Gallery - Canton of Basel,"Main Street, Canton of Basel, Switzerland",Museum
+2649,6223,903,Flea Market - Canton of Basel,"Main Street, Canton of Basel, Switzerland",Market
+2650,6250,903,Farmers' Market - Klosters,"Main Street, Klosters, Switzerland",Market
+2651,6250,903,Local Bazaar - Klosters,"Main Street, Klosters, Switzerland",Market
+2652,6250,901,Cultural Heritage Center - Klosters,"Main Street, Klosters, Switzerland",Museum
+2653,6250,902,Grand Mosque - Klosters,"Main Street, Klosters, Switzerland",Temple
+2654,6252,904,Sunset Cove - Langenthal,"Main Street, Langenthal, Switzerland",Beach
+2655,6252,904,Paradise Beach - Langenthal,"Main Street, Langenthal, Switzerland",Beach
+2656,6252,902,Ancient Temple - Langenthal,"Main Street, Langenthal, Switzerland",Temple
+2657,6252,903,Farmers' Market - Langenthal,"Main Street, Langenthal, Switzerland",Market
+2658,6329,903,Flea Market - Baku,"Main Street, Baku, Azerbaijan",Market
+2659,6329,901,Art Gallery - Baku,"Main Street, Baku, Azerbaijan",Museum
+2660,6329,901,History Museum - Baku,"Main Street, Baku, Azerbaijan",Museum
+2661,6329,905,National Park - Baku,"Main Street, Baku, Azerbaijan",Park
+2662,6328,905,Botanical Garden - Azerbaijan,"Main Street, Azerbaijan, Azerbaijan",Park
+2663,6328,905,National Park - Azerbaijan,"Main Street, Azerbaijan, Azerbaijan",Park
+2664,6328,902,Sacred Shrine - Azerbaijan,"Main Street, Azerbaijan, Azerbaijan",Temple
+2665,6328,903,Local Bazaar - Azerbaijan,"Main Street, Azerbaijan, Azerbaijan",Market
+2666,6331,903,Flea Market - Minsk Region,"Main Street, Minsk Region, Belarus",Market
+2667,6331,905,Wildlife Reserve - Minsk Region,"Main Street, Minsk Region, Belarus",Park
+2668,6331,905,National Park - Minsk Region,"Main Street, Minsk Region, Belarus",Park
+2669,6331,902,Ancient Temple - Minsk Region,"Main Street, Minsk Region, Belarus",Temple
+2670,6330,902,Ancient Temple - Minsk,"Main Street, Minsk, Belarus",Temple
+2671,6330,903,Farmers' Market - Minsk,"Main Street, Minsk, Belarus",Market
+2672,6330,905,Eco Park - Minsk,"Main Street, Minsk, Belarus",Park
+2673,6330,904,Sunset Cove - Minsk,"Main Street, Minsk, Belarus",Beach
+2674,6341,905,National Park - Duluth,"Main Street, Duluth, Georgia",Park
+2675,6341,902,Cathedral - Duluth,"Main Street, Duluth, Georgia",Temple
+2676,6341,905,Eco Park - Duluth,"Main Street, Duluth, Georgia",Park
+2677,6341,904,Golden Sand Beach - Duluth,"Main Street, Duluth, Georgia",Beach
+2678,6357,902,Ancient Temple - Tbilisi,"Main Street, Tbilisi, Georgia",Temple
+2679,6357,903,Night Market - Tbilisi,"Main Street, Tbilisi, Georgia",Market
+2680,6357,903,Local Bazaar - Tbilisi,"Main Street, Tbilisi, Georgia",Market
+2681,6357,901,History Museum - Tbilisi,"Main Street, Tbilisi, Georgia",Museum
+2682,6340,903,Flea Market - Decatur,"Main Street, Decatur, Georgia",Market
+2683,6340,903,Local Bazaar - Decatur,"Main Street, Decatur, Georgia",Market
+2684,6340,903,Flea Market - Decatur,"Main Street, Decatur, Georgia",Market
+2685,6340,901,Cultural Heritage Center - Decatur,"Main Street, Decatur, Georgia",Museum
+2686,6385,905,Wildlife Reserve - Novosibirsk,"Main Street, Novosibirsk, Russia",Park
+2687,6385,903,Night Market - Novosibirsk,"Main Street, Novosibirsk, Russia",Market
+2688,6385,902,Cathedral - Novosibirsk,"Main Street, Novosibirsk, Russia",Temple
+2689,6385,902,Grand Mosque - Novosibirsk,"Main Street, Novosibirsk, Russia",Temple
+2690,6373,901,Science Museum - Khabarovsk,"Main Street, Khabarovsk, Russia",Museum
+2691,6373,903,Night Market - Khabarovsk,"Main Street, Khabarovsk, Russia",Market
+2692,6373,904,Golden Sand Beach - Khabarovsk,"Main Street, Khabarovsk, Russia",Beach
+2693,6373,905,Botanical Garden - Khabarovsk,"Main Street, Khabarovsk, Russia",Park
+2694,6368,903,Night Market - Goryachy Klyuch,"Main Street, Goryachy Klyuch, Russia",Market
+2695,6368,901,Cultural Heritage Center - Goryachy Klyuch,"Main Street, Goryachy Klyuch, Russia",Museum
+2696,6368,901,Cultural Heritage Center - Goryachy Klyuch,"Main Street, Goryachy Klyuch, Russia",Museum
+2697,6368,901,Cultural Heritage Center - Goryachy Klyuch,"Main Street, Goryachy Klyuch, Russia",Museum
+2698,6412,904,Crystal Bay - Ukraine,"Main Street, Ukraine, Ukraine",Beach
+2699,6412,904,Crystal Bay - Ukraine,"Main Street, Ukraine, Ukraine",Beach
+2700,6412,904,Paradise Beach - Ukraine,"Main Street, Ukraine, Ukraine",Beach
+2701,6412,903,Local Bazaar - Ukraine,"Main Street, Ukraine, Ukraine",Market
+2702,6411,905,National Park - Rivne,"Main Street, Rivne, Ukraine",Park
+2703,6411,901,Art Gallery - Rivne,"Main Street, Rivne, Ukraine",Museum
+2704,6411,901,History Museum - Rivne,"Main Street, Rivne, Ukraine",Museum
+2705,6411,904,Sunset Cove - Rivne,"Main Street, Rivne, Ukraine",Beach
+2706,6402,902,Cathedral - Dnipro,"Main Street, Dnipro, Ukraine",Temple
+2707,6402,905,Wildlife Reserve - Dnipro,"Main Street, Dnipro, Ukraine",Park
+2708,6402,905,Botanical Garden - Dnipro,"Main Street, Dnipro, Ukraine",Park
+2709,6402,901,Art Gallery - Dnipro,"Main Street, Dnipro, Ukraine",Museum
+2710,6454,902,Grand Mosque - Horsens,"Main Street, Horsens, Denmark",Temple
+2711,6454,901,Art Gallery - Horsens,"Main Street, Horsens, Denmark",Museum
+2712,6454,905,Wildlife Reserve - Horsens,"Main Street, Horsens, Denmark",Park
+2713,6454,905,Wildlife Reserve - Horsens,"Main Street, Horsens, Denmark",Park
+2714,6436,903,Local Bazaar - Frederikssund,"Main Street, Frederikssund, Denmark",Market
+2715,6436,903,Local Bazaar - Frederikssund,"Main Street, Frederikssund, Denmark",Market
+2716,6436,904,Golden Sand Beach - Frederikssund,"Main Street, Frederikssund, Denmark",Beach
+2717,6436,903,Flea Market - Frederikssund,"Main Street, Frederikssund, Denmark",Market
+2718,6469,903,Flea Market - Middelfart,"Main Street, Middelfart, Denmark",Market
+2719,6469,905,Wildlife Reserve - Middelfart,"Main Street, Middelfart, Denmark",Park
+2720,6469,905,Botanical Garden - Middelfart,"Main Street, Middelfart, Denmark",Park
+2721,6469,901,History Museum - Middelfart,"Main Street, Middelfart, Denmark",Museum
+2722,6532,901,Cultural Heritage Center - Nokia,"Main Street, Nokia, Finland",Museum
+2723,6532,903,Flea Market - Nokia,"Main Street, Nokia, Finland",Market
+2724,6532,905,National Park - Nokia,"Main Street, Nokia, Finland",Park
+2725,6532,904,Sunset Cove - Nokia,"Main Street, Nokia, Finland",Beach
+2726,6521,901,Art Gallery - Kuopio,"Main Street, Kuopio, Finland",Museum
+2727,6521,901,Cultural Heritage Center - Kuopio,"Main Street, Kuopio, Finland",Museum
+2728,6521,905,National Park - Kuopio,"Main Street, Kuopio, Finland",Park
+2729,6521,902,Sacred Shrine - Kuopio,"Main Street, Kuopio, Finland",Temple
+2730,6516,903,Farmers' Market - Juuma,"Main Street, Juuma, Finland",Market
+2731,6516,902,Cathedral - Juuma,"Main Street, Juuma, Finland",Temple
+2732,6516,904,Sunset Cove - Juuma,"Main Street, Juuma, Finland",Beach
+2733,6516,905,Wildlife Reserve - Juuma,"Main Street, Juuma, Finland",Park
+2734,6560,902,Cathedral - Seltjarnarnes,"Main Street, Seltjarnarnes, Iceland",Temple
+2735,6560,901,History Museum - Seltjarnarnes,"Main Street, Seltjarnarnes, Iceland",Museum
+2736,6560,903,Flea Market - Seltjarnarnes,"Main Street, Seltjarnarnes, Iceland",Market
+2737,6560,904,Golden Sand Beach - Seltjarnarnes,"Main Street, Seltjarnarnes, Iceland",Beach
+2738,6558,905,National Park - ReykjavÃ­k,"Main Street, ReykjavÃ­k, Iceland",Park
+2739,6558,903,Night Market - ReykjavÃ­k,"Main Street, ReykjavÃ­k, Iceland",Market
+2740,6558,904,Crystal Bay - ReykjavÃ­k,"Main Street, ReykjavÃ­k, Iceland",Beach
+2741,6558,901,Art Gallery - ReykjavÃ­k,"Main Street, ReykjavÃ­k, Iceland",Museum
+2742,6549,901,Science Museum - Akranes,"Main Street, Akranes, Iceland",Museum
+2743,6549,903,Night Market - Akranes,"Main Street, Akranes, Iceland",Market
+2744,6549,905,Eco Park - Akranes,"Main Street, Akranes, Iceland",Park
+2745,6549,905,Botanical Garden - Akranes,"Main Street, Akranes, Iceland",Park
+2746,6566,905,National Park - Bekkjarvik,"Main Street, Bekkjarvik, Norway",Park
+2747,6566,904,Crystal Bay - Bekkjarvik,"Main Street, Bekkjarvik, Norway",Beach
+2748,6566,905,Eco Park - Bekkjarvik,"Main Street, Bekkjarvik, Norway",Park
+2749,6566,901,Art Gallery - Bekkjarvik,"Main Street, Bekkjarvik, Norway",Museum
+2750,6597,902,Ancient Temple - Longyearbyen,"Main Street, Longyearbyen, Norway",Temple
+2751,6597,904,Paradise Beach - Longyearbyen,"Main Street, Longyearbyen, Norway",Beach
+2752,6597,904,Paradise Beach - Longyearbyen,"Main Street, Longyearbyen, Norway",Beach
+2753,6597,903,Farmers' Market - Longyearbyen,"Main Street, Longyearbyen, Norway",Market
+2754,6572,901,Art Gallery - Eidsvoll,"Main Street, Eidsvoll, Norway",Museum
+2755,6572,905,National Park - Eidsvoll,"Main Street, Eidsvoll, Norway",Park
+2756,6572,904,Golden Sand Beach - Eidsvoll,"Main Street, Eidsvoll, Norway",Beach
+2757,6572,903,Flea Market - Eidsvoll,"Main Street, Eidsvoll, Norway",Market
+2758,6711,904,Crystal Bay - Tyreso,"Main Street, Tyreso, Sweden",Beach
+2759,6711,905,National Park - Tyreso,"Main Street, Tyreso, Sweden",Park
+2760,6711,905,Botanical Garden - Tyreso,"Main Street, Tyreso, Sweden",Park
+2761,6711,901,Cultural Heritage Center - Tyreso,"Main Street, Tyreso, Sweden",Museum
+2762,6638,904,Golden Sand Beach - Akersberga,"Main Street, Akersberga, Sweden",Beach
+2763,6638,905,Wildlife Reserve - Akersberga,"Main Street, Akersberga, Sweden",Park
+2764,6638,901,Cultural Heritage Center - Akersberga,"Main Street, Akersberga, Sweden",Museum
+2765,6638,905,National Park - Akersberga,"Main Street, Akersberga, Sweden",Park
+2766,6696,903,Flea Market - Sollentuna,"Main Street, Sollentuna, Sweden",Market
+2767,6696,903,Flea Market - Sollentuna,"Main Street, Sollentuna, Sweden",Market
+2768,6696,903,Night Market - Sollentuna,"Main Street, Sollentuna, Sweden",Market
+2769,6696,902,Ancient Temple - Sollentuna,"Main Street, Sollentuna, Sweden",Temple
+2770,6723,901,History Museum - Durres,"Main Street, Durres, Albania",Museum
+2771,6723,903,Night Market - Durres,"Main Street, Durres, Albania",Market
+2772,6723,901,Cultural Heritage Center - Durres,"Main Street, Durres, Albania",Museum
+2773,6723,901,Art Gallery - Durres,"Main Street, Durres, Albania",Museum
+2774,6725,904,Golden Sand Beach - Tirana,"Main Street, Tirana, Albania",Beach
+2775,6725,901,Cultural Heritage Center - Tirana,"Main Street, Tirana, Albania",Museum
+2776,6725,904,Sunset Cove - Tirana,"Main Street, Tirana, Albania",Beach
+2777,6725,901,History Museum - Tirana,"Main Street, Tirana, Albania",Museum
+2778,6722,903,Local Bazaar - Albany,"Main Street, Albany, Albania",Market
+2779,6722,905,Wildlife Reserve - Albany,"Main Street, Albany, Albania",Park
+2780,6722,903,Local Bazaar - Albany,"Main Street, Albany, Albania",Market
+2781,6722,905,National Park - Albany,"Main Street, Albany, Albania",Park
+2782,6726,901,Science Museum - Banja Luka,"Main Street, Banja Luka, Bosnia and Herzegovina",Museum
+2783,6726,901,Art Gallery - Banja Luka,"Main Street, Banja Luka, Bosnia and Herzegovina",Museum
+2784,6726,902,Grand Mosque - Banja Luka,"Main Street, Banja Luka, Bosnia and Herzegovina",Temple
+2785,6726,902,Ancient Temple - Banja Luka,"Main Street, Banja Luka, Bosnia and Herzegovina",Temple
+2786,6727,905,Wildlife Reserve - Gradacac,"Main Street, Gradacac, Bosnia and Herzegovina",Park
+2787,6727,902,Sacred Shrine - Gradacac,"Main Street, Gradacac, Bosnia and Herzegovina",Temple
+2788,6727,903,Flea Market - Gradacac,"Main Street, Gradacac, Bosnia and Herzegovina",Market
+2789,6727,904,Sunset Cove - Gradacac,"Main Street, Gradacac, Bosnia and Herzegovina",Beach
+2790,6731,904,Crystal Bay - Visoko,"Main Street, Visoko, Bosnia and Herzegovina",Beach
+2791,6731,902,Grand Mosque - Visoko,"Main Street, Visoko, Bosnia and Herzegovina",Temple
+2792,6731,903,Local Bazaar - Visoko,"Main Street, Visoko, Bosnia and Herzegovina",Market
+2793,6731,905,Eco Park - Visoko,"Main Street, Visoko, Bosnia and Herzegovina",Park
+2794,6743,901,Science Museum - Varna,"Main Street, Varna, Bulgaria",Museum
+2795,6743,903,Local Bazaar - Varna,"Main Street, Varna, Bulgaria",Market
+2796,6743,901,Cultural Heritage Center - Varna,"Main Street, Varna, Bulgaria",Museum
+2797,6743,903,Flea Market - Varna,"Main Street, Varna, Bulgaria",Market
+2798,6741,901,History Museum - Sofia Region,"Main Street, Sofia Region, Bulgaria",Museum
+2799,6741,901,Art Gallery - Sofia Region,"Main Street, Sofia Region, Bulgaria",Museum
+2800,6741,901,History Museum - Sofia Region,"Main Street, Sofia Region, Bulgaria",Museum
+2801,6741,901,Art Gallery - Sofia Region,"Main Street, Sofia Region, Bulgaria",Museum
+2802,6732,901,Art Gallery - Bulgaria,"Main Street, Bulgaria, Bulgaria",Museum
+2803,6732,904,Paradise Beach - Bulgaria,"Main Street, Bulgaria, Bulgaria",Beach
+2804,6732,904,Crystal Bay - Bulgaria,"Main Street, Bulgaria, Bulgaria",Beach
+2805,6732,903,Farmers' Market - Bulgaria,"Main Street, Bulgaria, Bulgaria",Market
+2806,6772,905,National Park - Ouranoupolis,"Main Street, Ouranoupolis, Greece",Park
+2807,6772,901,History Museum - Ouranoupolis,"Main Street, Ouranoupolis, Greece",Museum
+2808,6772,904,Golden Sand Beach - Ouranoupolis,"Main Street, Ouranoupolis, Greece",Beach
+2809,6772,903,Flea Market - Ouranoupolis,"Main Street, Ouranoupolis, Greece",Market
+2810,6785,903,Farmers' Market - Syvota,"Main Street, Syvota, Greece",Market
+2811,6785,904,Sunset Cove - Syvota,"Main Street, Syvota, Greece",Beach
+2812,6785,905,Wildlife Reserve - Syvota,"Main Street, Syvota, Greece",Park
+2813,6785,901,History Museum - Syvota,"Main Street, Syvota, Greece",Museum
+2814,6771,901,Science Museum - Orestiada,"Main Street, Orestiada, Greece",Museum
+2815,6771,901,History Museum - Orestiada,"Main Street, Orestiada, Greece",Museum
+2816,6771,903,Night Market - Orestiada,"Main Street, Orestiada, Greece",Market
+2817,6771,902,Sacred Shrine - Orestiada,"Main Street, Orestiada, Greece",Temple
+2818,6889,905,Wildlife Reserve - Piano di Sorrento,"Main Street, Piano di Sorrento, Italy",Park
+2819,6889,901,History Museum - Piano di Sorrento,"Main Street, Piano di Sorrento, Italy",Museum
+2820,6889,905,Wildlife Reserve - Piano di Sorrento,"Main Street, Piano di Sorrento, Italy",Park
+2821,6889,903,Night Market - Piano di Sorrento,"Main Street, Piano di Sorrento, Italy",Market
+2822,6862,905,Botanical Garden - Marina di Carrara,"Main Street, Marina di Carrara, Italy",Park
+2823,6862,902,Sacred Shrine - Marina di Carrara,"Main Street, Marina di Carrara, Italy",Temple
+2824,6862,905,Botanical Garden - Marina di Carrara,"Main Street, Marina di Carrara, Italy",Park
+2825,6862,901,Art Gallery - Marina di Carrara,"Main Street, Marina di Carrara, Italy",Museum
+2826,6875,904,Sunset Cove - Monza,"Main Street, Monza, Italy",Beach
+2827,6875,905,National Park - Monza,"Main Street, Monza, Italy",Park
+2828,6875,905,Eco Park - Monza,"Main Street, Monza, Italy",Park
+2829,6875,902,Sacred Shrine - Monza,"Main Street, Monza, Italy",Temple
+2830,6964,905,Wildlife Reserve - Paola,"Main Street, Paola, Malta",Park
+2831,6964,904,Paradise Beach - Paola,"Main Street, Paola, Malta",Beach
+2832,6964,901,Science Museum - Paola,"Main Street, Paola, Malta",Museum
+2833,6964,902,Cathedral - Paola,"Main Street, Paola, Malta",Temple
+2834,6958,901,Cultural Heritage Center - Marsaxlokk,"Main Street, Marsaxlokk, Malta",Museum
+2835,6958,901,Cultural Heritage Center - Marsaxlokk,"Main Street, Marsaxlokk, Malta",Museum
+2836,6958,902,Sacred Shrine - Marsaxlokk,"Main Street, Marsaxlokk, Malta",Temple
+2837,6958,904,Golden Sand Beach - Marsaxlokk,"Main Street, Marsaxlokk, Malta",Beach
+2838,6949,902,Sacred Shrine - Attard,"Main Street, Attard, Malta",Temple
+2839,6949,905,National Park - Attard,"Main Street, Attard, Malta",Park
+2840,6949,904,Crystal Bay - Attard,"Main Street, Attard, Malta",Beach
+2841,6949,901,History Museum - Attard,"Main Street, Attard, Malta",Museum
+2842,6973,905,Wildlife Reserve - Moldova,"Main Street, Moldova, Moldova",Park
+2843,6973,902,Sacred Shrine - Moldova,"Main Street, Moldova, Moldova",Temple
+2844,6973,901,Cultural Heritage Center - Moldova,"Main Street, Moldova, Moldova",Museum
+2845,6973,904,Paradise Beach - Moldova,"Main Street, Moldova, Moldova",Beach
+2846,6972,903,Local Bazaar - Chisinau,"Main Street, Chisinau, Moldova",Market
+2847,6972,903,Night Market - Chisinau,"Main Street, Chisinau, Moldova",Market
+2848,6972,904,Paradise Beach - Chisinau,"Main Street, Chisinau, Moldova",Beach
+2849,6972,903,Farmers' Market - Chisinau,"Main Street, Chisinau, Moldova",Market
+2850,6975,902,Sacred Shrine - Tivat,"Main Street, Tivat, Montenegro",Temple
+2851,6975,902,Cathedral - Tivat,"Main Street, Tivat, Montenegro",Temple
+2852,6975,903,Farmers' Market - Tivat,"Main Street, Tivat, Montenegro",Market
+2853,6975,901,Cultural Heritage Center - Tivat,"Main Street, Tivat, Montenegro",Museum
+2854,6974,902,Ancient Temple - Montenegro,"Main Street, Montenegro, Montenegro",Temple
+2855,6974,904,Paradise Beach - Montenegro,"Main Street, Montenegro, Montenegro",Beach
+2856,6974,904,Golden Sand Beach - Montenegro,"Main Street, Montenegro, Montenegro",Beach
+2857,6974,905,Botanical Garden - Montenegro,"Main Street, Montenegro, Montenegro",Park
+2858,6976,901,Art Gallery - Albufeira,"Main Street, Albufeira, Portugal",Museum
+2859,6976,902,Sacred Shrine - Albufeira,"Main Street, Albufeira, Portugal",Temple
+2860,6976,905,Botanical Garden - Albufeira,"Main Street, Albufeira, Portugal",Park
+2861,6976,904,Crystal Bay - Albufeira,"Main Street, Albufeira, Portugal",Beach
+2862,6981,901,History Museum - Ansiao,"Main Street, Ansiao, Portugal",Museum
+2863,6981,904,Crystal Bay - Ansiao,"Main Street, Ansiao, Portugal",Beach
+2864,6981,904,Paradise Beach - Ansiao,"Main Street, Ansiao, Portugal",Beach
+2865,6981,902,Ancient Temple - Ansiao,"Main Street, Ansiao, Portugal",Temple
+2866,7006,902,Grand Mosque - Joao do Estoril,"Main Street, Joao do Estoril, Portugal",Temple
+2867,7006,901,Cultural Heritage Center - Joao do Estoril,"Main Street, Joao do Estoril, Portugal",Museum
+2868,7006,902,Ancient Temple - Joao do Estoril,"Main Street, Joao do Estoril, Portugal",Temple
+2869,7006,904,Sunset Cove - Joao do Estoril,"Main Street, Joao do Estoril, Portugal",Beach
+2870,7033,903,Farmers' Market - Bitola,"Main Street, Bitola, Republic of North Macedonia",Market
+2871,7033,902,Ancient Temple - Bitola,"Main Street, Bitola, Republic of North Macedonia",Temple
+2872,7033,904,Sunset Cove - Bitola,"Main Street, Bitola, Republic of North Macedonia",Beach
+2873,7033,904,Paradise Beach - Bitola,"Main Street, Bitola, Republic of North Macedonia",Beach
+2874,7034,903,Local Bazaar - Kavadarci,"Main Street, Kavadarci, Republic of North Macedonia",Market
+2875,7034,901,Cultural Heritage Center - Kavadarci,"Main Street, Kavadarci, Republic of North Macedonia",Museum
+2876,7034,902,Cathedral - Kavadarci,"Main Street, Kavadarci, Republic of North Macedonia",Temple
+2877,7034,905,National Park - Kavadarci,"Main Street, Kavadarci, Republic of North Macedonia",Park
+2878,7035,905,Botanical Garden - Skopje,"Main Street, Skopje, Republic of North Macedonia",Park
+2879,7035,904,Sunset Cove - Skopje,"Main Street, Skopje, Republic of North Macedonia",Beach
+2880,7035,902,Cathedral - Skopje,"Main Street, Skopje, Republic of North Macedonia",Temple
+2881,7035,904,Crystal Bay - Skopje,"Main Street, Skopje, Republic of North Macedonia",Beach
+2882,7132,905,Wildlife Reserve - Ondara,"Main Street, Ondara, Spain",Park
+2883,7132,903,Farmers' Market - Ondara,"Main Street, Ondara, Spain",Market
+2884,7132,901,Art Gallery - Ondara,"Main Street, Ondara, Spain",Museum
+2885,7132,904,Golden Sand Beach - Ondara,"Main Street, Ondara, Spain",Beach
+2886,7105,903,Local Bazaar - Las Virtudes,"Main Street, Las Virtudes, Spain",Market
+2887,7105,903,Local Bazaar - Las Virtudes,"Main Street, Las Virtudes, Spain",Market
+2888,7105,903,Farmers' Market - Las Virtudes,"Main Street, Las Virtudes, Spain",Market
+2889,7105,902,Grand Mosque - Las Virtudes,"Main Street, Las Virtudes, Spain",Temple
+2890,7118,902,Ancient Temple - Manresa,"Main Street, Manresa, Spain",Temple
+2891,7118,902,Grand Mosque - Manresa,"Main Street, Manresa, Spain",Temple
+2892,7118,905,National Park - Manresa,"Main Street, Manresa, Spain",Park
+2893,7118,905,National Park - Manresa,"Main Street, Manresa, Spain",Park
+2894,7323,905,Botanical Garden - Westerlo,"Main Street, Westerlo, Belgium",Park
+2895,7323,902,Sacred Shrine - Westerlo,"Main Street, Westerlo, Belgium",Temple
+2896,7323,903,Night Market - Westerlo,"Main Street, Westerlo, Belgium",Market
+2897,7323,905,Wildlife Reserve - Westerlo,"Main Street, Westerlo, Belgium",Park
+2898,7211,903,Farmers' Market - Breendonk,"Main Street, Breendonk, Belgium",Market
+2899,7211,901,Art Gallery - Breendonk,"Main Street, Breendonk, Belgium",Museum
+2900,7211,902,Ancient Temple - Breendonk,"Main Street, Breendonk, Belgium",Temple
+2901,7211,901,Science Museum - Breendonk,"Main Street, Breendonk, Belgium",Museum
+2902,7273,905,Eco Park - Maldegem,"Main Street, Maldegem, Belgium",Park
+2903,7273,905,National Park - Maldegem,"Main Street, Maldegem, Belgium",Park
+2904,7273,905,National Park - Maldegem,"Main Street, Maldegem, Belgium",Park
+2905,7273,902,Ancient Temple - Maldegem,"Main Street, Maldegem, Belgium",Temple
+2906,7449,902,Sacred Shrine - Les Avenieres,"Main Street, Les Avenieres, France",Temple
+2907,7449,904,Sunset Cove - Les Avenieres,"Main Street, Les Avenieres, France",Beach
+2908,7449,904,Crystal Bay - Les Avenieres,"Main Street, Les Avenieres, France",Beach
+2909,7449,901,Science Museum - Les Avenieres,"Main Street, Les Avenieres, France",Museum
+2910,7349,904,Sunset Cove - Argentine,"Main Street, Argentine, France",Beach
+2911,7349,904,Paradise Beach - Argentine,"Main Street, Argentine, France",Beach
+2912,7349,902,Ancient Temple - Argentine,"Main Street, Argentine, France",Temple
+2913,7349,904,Sunset Cove - Argentine,"Main Street, Argentine, France",Beach
+2914,7545,904,Golden Sand Beach - St.-Thibault-des-vignes,"Main Street, St.-Thibault-des-vignes, France",Beach
+2915,7545,903,Local Bazaar - St.-Thibault-des-vignes,"Main Street, St.-Thibault-des-vignes, France",Market
+2916,7545,902,Grand Mosque - St.-Thibault-des-vignes,"Main Street, St.-Thibault-des-vignes, France",Temple
+2917,7545,904,Golden Sand Beach - St.-Thibault-des-vignes,"Main Street, St.-Thibault-des-vignes, France",Beach
+2918,7571,901,Cultural Heritage Center - Ardee,"Main Street, Ardee, Ireland",Museum
+2919,7571,901,History Museum - Ardee,"Main Street, Ardee, Ireland",Museum
+2920,7571,905,National Park - Ardee,"Main Street, Ardee, Ireland",Park
+2921,7571,902,Sacred Shrine - Ardee,"Main Street, Ardee, Ireland",Temple
+2922,7576,903,Farmers' Market - Cavan,"Main Street, Cavan, Ireland",Market
+2923,7576,903,Flea Market - Cavan,"Main Street, Cavan, Ireland",Market
+2924,7576,903,Flea Market - Cavan,"Main Street, Cavan, Ireland",Market
+2925,7576,903,Flea Market - Cavan,"Main Street, Cavan, Ireland",Market
+2926,7605,904,Paradise Beach - Kerry,"Main Street, Kerry, Ireland",Beach
+2927,7605,901,Art Gallery - Kerry,"Main Street, Kerry, Ireland",Museum
+2928,7605,901,Cultural Heritage Center - Kerry,"Main Street, Kerry, Ireland",Museum
+2929,7605,902,Ancient Temple - Kerry,"Main Street, Kerry, Ireland",Temple
+2930,7631,901,History Museum - Monte-Carlo,"Main Street, Monte-Carlo, Monaco",Museum
+2931,7631,903,Flea Market - Monte-Carlo,"Main Street, Monte-Carlo, Monaco",Market
+2932,7631,901,Art Gallery - Monte-Carlo,"Main Street, Monte-Carlo, Monaco",Museum
+2933,7631,903,Farmers' Market - Monte-Carlo,"Main Street, Monte-Carlo, Monaco",Market
+2934,7630,901,Art Gallery - Monaco,"Main Street, Monaco, Monaco",Museum
+2935,7630,905,Eco Park - Monaco,"Main Street, Monaco, Monaco",Park
+2936,7630,901,Art Gallery - Monaco,"Main Street, Monaco, Monaco",Museum
+2937,7630,904,Sunset Cove - Monaco,"Main Street, Monaco, Monaco",Beach
+2938,7662,905,National Park - Beverwijk,"Main Street, Beverwijk, Netherlands",Park
+2939,7662,902,Sacred Shrine - Beverwijk,"Main Street, Beverwijk, Netherlands",Temple
+2940,7662,903,Local Bazaar - Beverwijk,"Main Street, Beverwijk, Netherlands",Market
+2941,7662,905,Eco Park - Beverwijk,"Main Street, Beverwijk, Netherlands",Park
+2942,7758,903,Flea Market - Huizen,"Main Street, Huizen, Netherlands",Market
+2943,7758,902,Grand Mosque - Huizen,"Main Street, Huizen, Netherlands",Temple
+2944,7758,905,National Park - Huizen,"Main Street, Huizen, Netherlands",Park
+2945,7758,901,Science Museum - Huizen,"Main Street, Huizen, Netherlands",Museum
+2946,7831,901,History Museum - Roosendaal,"Main Street, Roosendaal, Netherlands",Museum
+2947,7831,902,Cathedral - Roosendaal,"Main Street, Roosendaal, Netherlands",Temple
+2948,7831,905,Botanical Garden - Roosendaal,"Main Street, Roosendaal, Netherlands",Park
+2949,7831,903,Farmers' Market - Roosendaal,"Main Street, Roosendaal, Netherlands",Market
+2950,8459,903,Flea Market - Isle of Mull,"Main Street, Isle of Mull, United Kingdom",Market
+2951,8459,903,Farmers' Market - Isle of Mull,"Main Street, Isle of Mull, United Kingdom",Market
+2952,8459,901,Cultural Heritage Center - Isle of Mull,"Main Street, Isle of Mull, United Kingdom",Museum
+2953,8459,902,Ancient Temple - Isle of Mull,"Main Street, Isle of Mull, United Kingdom",Temple
+2954,8960,903,Night Market - Tadworth,"Main Street, Tadworth, United Kingdom",Market
+2955,8960,901,Science Museum - Tadworth,"Main Street, Tadworth, United Kingdom",Museum
+2956,8960,901,Science Museum - Tadworth,"Main Street, Tadworth, United Kingdom",Museum
+2957,8960,903,Local Bazaar - Tadworth,"Main Street, Tadworth, United Kingdom",Market
+2958,8154,904,Crystal Bay - Churchdown,"Main Street, Churchdown, United Kingdom",Beach
+2959,8154,901,Cultural Heritage Center - Churchdown,"Main Street, Churchdown, United Kingdom",Museum
+2960,8154,902,Cathedral - Churchdown,"Main Street, Churchdown, United Kingdom",Temple
+2961,8154,902,Ancient Temple - Churchdown,"Main Street, Churchdown, United Kingdom",Temple
+2962,9142,902,Ancient Temple - Sanaa,"Main Street, Sanaa, Yemen",Temple
+2963,9142,901,Science Museum - Sanaa,"Main Street, Sanaa, Yemen",Museum
+2964,9142,905,Botanical Garden - Sanaa,"Main Street, Sanaa, Yemen",Park
+2965,9142,905,Botanical Garden - Sanaa,"Main Street, Sanaa, Yemen",Park

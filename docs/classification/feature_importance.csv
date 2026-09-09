@@ -1,0 +1,61 @@
+feature,importance
+attraction_rating_std,0.11855296959477529
+attraction_avg_rating,0.11820364664859082
+attraction_distinct_users,0.09870238067082752
+attraction_total_visits,0.09645061604653668
+VisitMonth,0.06832046968877131
+UserRegion_South East Asia,0.04605534767531523
+AttractionTypeName_Water Parks,0.042048457541835164
+VisitYear,0.03886158745059149
+AttractionCityName_Bali,0.029778937237186793
+AttractionCityName_Yogyakarta,0.027617448649028924
+UserContinent_Asia,0.027289717008289097
+user_avg_rating,0.02568874515816399
+UserContinent_Australia & Oceania,0.02316065021790838
+user_total_visits,0.018751087395230192
+UserRegion_Australia,0.01855498205149817
+user_distinct_attractions,0.01651048723160953
+AttractionTypeName_Beaches,0.013337745898899417
+is_ambiguous_repeat,0.012644709266949803
+user_rating_std,0.012504983649673661
+AttractionTypeName_Nature & Wildlife Areas,0.011817040794755714
+UserContinent_Europe,0.01156653563502601
+UserRegion_Western Europe,0.011109191711866908
+AttractionTypeName_Points of Interest & Landmarks,0.009816731303850688
+UserContinent_America,0.009711864377115057
+has_user_history,0.008954968117045393
+AttractionTypeName_Religious Sites,0.0082249835194809
+AttractionTypeName_Volcanos,0.007965969148839163
+UserRegion_Northern America,0.007938258864257131
+UserRegion_South Asia,0.00786079818605133
+UserRegion_Southern Europe,0.004939028716294762
+AttractionTypeName_Flea & Street Markets,0.004736791579370785
+UserRegion_Central Europe,0.0040983211946588475
+AttractionTypeName_History Museums,0.003943001253901547
+AttractionCityName_Malang,0.0036204178521135866
+AttractionTypeName_Waterfalls,0.003061391265492938
+AttractionTypeName_Ancient Ruins,0.0030260069453127867
+UserRegion_East Asia,0.0027299822445179095
+UserRegion_Eastern Europe,0.0026847927871843217
+AttractionTypeName_Ballets,0.0026670243851148797
+AttractionTypeName_Historic Sites,0.002387702345303264
+UserRegion_Middle East,0.0022991639523329177
+UserRegion_Oceania,0.0022740768763126226
+AttractionTypeName_National Parks,0.0020040231913668466
+UserRegion_Northern Europe,0.0018508039350630264
+AttractionTypeName_Caverns & Caves,0.0010477873166780008
+UserRegion_Southern Africa,0.0009353220249373611
+UserContinent_Africa,0.0008856196070834328
+has_attraction_history,0.0008502726149859649
+AttractionTypeName_Spas,0.000512131052886664
+UserRegion_South America,0.0004713530094188999
+UserRegion_North Africa,0.00032710246423292127
+AttractionTypeName_Neighborhoods,0.0002279062403674715
+AttractionTypeName_Speciality Museums,0.000182877463450567
+UserRegion_Caribbean,6.989118219360562e-05
+UserRegion_East Africa,6.640170672763232e-05
+UserRegion_-,4.7297520424488604e-05
+UserRegion_Central America,4.4473520773403384e-05
+UserRegion_Central Asia,6.69116990075493e-06
+UserRegion_West Africa,1.0338416279935807e-06
+UserRegion_Central Africa,0.0

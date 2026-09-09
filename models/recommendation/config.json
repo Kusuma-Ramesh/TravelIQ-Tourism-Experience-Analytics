@@ -1,0 +1,13 @@
+{
+  "weights": {
+    "w_affinity": 0.6,
+    "w_quality": 0.25,
+    "w_popularity": 0.15,
+    "fallback_quality": 0.5,
+    "fallback_popularity": 0.5
+  },
+  "n_attractions": 30,
+  "n_training_rows": 45275,
+  "trained_on": "full recommendation_interactions.csv history (production artifact)",
+  "eval_time_cutoff_year": 2018
+}

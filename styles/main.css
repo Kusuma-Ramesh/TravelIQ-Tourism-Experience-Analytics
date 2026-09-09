@@ -1,0 +1,1062 @@
+/* ==========================================================================
+   TravelIQ — Tourism Experience Analytics
+   Premium dark travel-tech theme · glassmorphism
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Space+Grotesk:wght@500;600;700&display=swap');
+
+:root {
+  --bg-primary: #071426;
+  --bg-secondary: #0D1B2E;
+  --bg-tertiary: #10233B;
+
+  --glass-bg: rgba(255, 255, 255, 0.07);
+  --glass-bg-strong: rgba(255, 255, 255, 0.11);
+  --glass-border: rgba(255, 255, 255, 0.12);
+  --glass-border-strong: rgba(255, 255, 255, 0.22);
+
+  --text-primary: #F3F6FB;
+  --text-secondary: #A9B7CC;
+  --text-muted: #6E7E96;
+
+  --accent-violet: #8B6FF0;
+  --accent-violet-2: #6D4FD1;
+  --accent-sky: #4CB8F0;
+  --accent-emerald: #2FD9A8;
+  --accent-orange: #F0A24C;
+  --accent-coral: #F2685C;
+
+  --gradient-primary: linear-gradient(135deg, #8B6FF0 0%, #4CB8F0 100%);
+  --gradient-warm: linear-gradient(135deg, #F0A24C 0%, #F2685C 100%);
+  --gradient-emerald: linear-gradient(135deg, #2FD9A8 0%, #4CB8F0 100%);
+  --gradient-hero: radial-gradient(circle at 15% 20%, rgba(139,111,240,0.25), transparent 45%),
+                    radial-gradient(circle at 85% 0%, rgba(76,184,240,0.18), transparent 40%),
+                    linear-gradient(180deg, #0D1B2E 0%, #071426 100%);
+
+  --shadow-soft: 0 8px 32px rgba(0, 0, 0, 0.35);
+  --shadow-elevated: 0 16px 48px rgba(0, 0, 0, 0.45);
+  --shadow-glow-violet: 0 0 24px rgba(139, 111, 240, 0.35);
+
+  --radius-sm: 10px;
+  --radius-md: 16px;
+  --radius-lg: 22px;
+  --radius-pill: 999px;
+
+  /* Passport / paper theme */
+  --paper-bg: #F3EAD3;
+  --paper-bg-2: #ECE0C4;
+  --paper-ink: #2B2118;
+  --paper-ink-soft: #5B4C3A;
+  --paper-border: #D8C79E;
+}
+
+/* ---------- App shell ---------- */
+html, body, [data-testid="stAppViewContainer"] {
+  background: var(--gradient-hero) !important;
+  color: var(--text-primary);
+  font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+[data-testid="stHeader"] {
+  background: transparent !important;
+}
+
+[data-testid="stAppViewContainer"] > .main {
+  padding-top: 0.5rem;
+}
+
+.block-container {
+  padding-top: 1.5rem;
+  padding-bottom: 3rem;
+  max-width: 1200px;
+}
+
+/* Subtle fade/rise on every page load — reads as a page transition */
+@media not (prefers-reduced-motion: reduce) {
+  .block-container {
+    animation: tiqFadeIn 380ms ease;
+  }
+}
+
+@keyframes tiqFadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Subtle animated glow behind everything */
+[data-testid="stAppViewContainer"]::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background-image:
+    radial-gradient(circle at 10% 10%, rgba(139,111,240,0.10), transparent 30%),
+    radial-gradient(circle at 90% 85%, rgba(47,217,168,0.08), transparent 35%);
+  z-index: 0;
+}
+
+/* ---------- Typography ---------- */
+h1, h2, h3, h4 {
+  color: var(--text-primary) !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.02em;
+}
+
+p, span, label, li {
+  color: var(--text-secondary);
+}
+
+.tiq-eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--accent-sky);
+  margin-bottom: 0.35rem;
+}
+
+.tiq-hero-title {
+  font-size: 2.6rem;
+  line-height: 1.15;
+  font-weight: 800;
+  color: var(--text-primary);
+  margin: 0.2rem 0 0.6rem 0;
+}
+
+.tiq-hero-title .accent {
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.tiq-subtitle {
+  color: var(--text-secondary);
+  font-size: 1.05rem;
+  margin-bottom: 1.4rem;
+}
+
+/* ---------- Glass card base ---------- */
+.tiq-card {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-lg);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  box-shadow: var(--shadow-soft);
+  padding: 1.4rem 1.5rem;
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+  position: relative;
+  z-index: 1;
+}
+
+.tiq-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-elevated);
+  border-color: var(--glass-border-strong);
+}
+
+.tiq-card-flat {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-md);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  padding: 1.1rem 1.3rem;
+}
+
+/* ---------- KPI cards ---------- */
+.tiq-kpi {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-lg);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  padding: 1.25rem 1.4rem;
+  box-shadow: var(--shadow-soft);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  height: 100%;
+}
+
+.tiq-kpi:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-elevated);
+}
+
+.tiq-kpi-icon {
+  width: 42px;
+  height: 42px;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  margin-bottom: 0.75rem;
+}
+
+.tiq-kpi-label {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  font-weight: 500;
+  margin-bottom: 0.2rem;
+}
+
+.tiq-kpi-value {
+  font-size: 1.7rem;
+  font-weight: 800;
+  color: var(--text-primary);
+  line-height: 1.1;
+}
+
+.tiq-kpi-delta {
+  font-size: 0.76rem;
+  color: var(--accent-emerald);
+  margin-top: 0.4rem;
+  font-weight: 600;
+}
+
+.tiq-icon-violet { background: rgba(139,111,240,0.18); color: var(--accent-violet); }
+.tiq-icon-sky { background: rgba(76,184,240,0.18); color: var(--accent-sky); }
+.tiq-icon-emerald { background: rgba(47,217,168,0.18); color: var(--accent-emerald); }
+.tiq-icon-orange { background: rgba(240,162,76,0.18); color: var(--accent-orange); }
+.tiq-icon-coral { background: rgba(242,104,92,0.18); color: var(--accent-coral); }
+
+/* ---------- Badges / pills ---------- */
+.tiq-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.25rem 0.7rem;
+  border-radius: var(--radius-pill);
+  font-size: 0.72rem;
+  font-weight: 600;
+  background: rgba(255,255,255,0.08);
+  border: 1px solid var(--glass-border);
+  color: var(--text-secondary);
+}
+
+.tiq-badge-new {
+  background: var(--gradient-warm);
+  color: #fff;
+  border: none;
+}
+
+/* ---------- Buttons ---------- */
+div.stButton > button {
+  background: var(--gradient-primary);
+  color: #fff;
+  border: none;
+  border-radius: var(--radius-pill);
+  padding: 0.65rem 1.5rem;
+  font-weight: 600;
+  box-shadow: var(--shadow-glow-violet);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
+}
+
+div.stButton > button:hover {
+  transform: translateY(-2px);
+  filter: brightness(1.08);
+  box-shadow: 0 0 32px rgba(139, 111, 240, 0.5);
+}
+
+div.stButton > button:active {
+  transform: translateY(0px);
+}
+
+.tiq-btn-secondary button {
+  background: var(--glass-bg-strong) !important;
+  border: 1px solid var(--glass-border-strong) !important;
+  box-shadow: none !important;
+}
+
+/* ---------- Sidebar ---------- */
+[data-testid="stSidebar"] {
+  background: linear-gradient(180deg, #0A1830 0%, #071120 100%) !important;
+  border-right: 1px solid var(--glass-border);
+}
+
+[data-testid="stSidebar"] > div:first-child {
+  padding-top: 1.2rem;
+}
+
+.tiq-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  padding: 0.4rem 0.2rem 1.1rem 0.2rem;
+  border-bottom: 1px solid var(--glass-border);
+  margin-bottom: 1rem;
+}
+
+.tiq-brand-icon {
+  font-size: 1.6rem;
+}
+
+.tiq-brand-name {
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: var(--text-primary);
+  margin: 0;
+  line-height: 1.1;
+}
+
+.tiq-brand-sub {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  letter-spacing: 0.04em;
+  margin: 0;
+}
+
+.tiq-nav-item {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  padding: 0.62rem 0.85rem;
+  border-radius: var(--radius-sm);
+  margin-bottom: 0.3rem;
+  color: var(--text-secondary);
+  font-weight: 500;
+  font-size: 0.92rem;
+  text-decoration: none;
+  transition: background 0.2s ease, color 0.2s ease, transform 0.15s ease;
+  cursor: pointer;
+}
+
+.tiq-nav-item:hover {
+  background: rgba(255,255,255,0.06);
+  color: var(--text-primary);
+  transform: translateX(2px);
+}
+
+.tiq-nav-item-active {
+  background: var(--gradient-primary);
+  color: #fff !important;
+  box-shadow: var(--shadow-glow-violet);
+}
+
+.tiq-nav-item-active:hover {
+  transform: none;
+}
+
+/* Sidebar radio -> nav look */
+[data-testid="stSidebar"] .stRadio > label { display: none; }
+
+[data-testid="stSidebar"] .stRadio [role="radiogroup"] {
+  gap: 0.28rem;
+}
+
+[data-testid="stSidebar"] .stRadio [role="radiogroup"] > label {
+  background: transparent;
+  border-radius: var(--radius-sm);
+  padding: 0.55rem 0.7rem;
+  transition: background 0.2s ease, transform 0.15s ease;
+  border: 1px solid transparent;
+}
+
+[data-testid="stSidebar"] .stRadio [role="radiogroup"] > label:hover {
+  background: rgba(255,255,255,0.06);
+  transform: translateX(2px);
+}
+
+[data-testid="stSidebar"] .stRadio [role="radiogroup"] > label[data-checked="true"] {
+  background: var(--gradient-primary);
+  box-shadow: var(--shadow-glow-violet);
+  border-color: transparent;
+}
+
+.tiq-sidebar-footer {
+  margin-top: 1.4rem;
+  padding-top: 1.1rem;
+  border-top: 1px solid var(--glass-border);
+}
+
+.tiq-traveler-card {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-md);
+  padding: 0.7rem 0.85rem;
+}
+
+.tiq-traveler-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--gradient-warm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  color: #fff;
+  font-size: 0.9rem;
+  flex-shrink: 0;
+}
+
+.tiq-traveler-name {
+  font-size: 0.86rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0;
+}
+
+.tiq-traveler-role {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+.tiq-status-dot {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--accent-emerald);
+  margin-right: 0.35rem;
+  box-shadow: 0 0 8px var(--accent-emerald);
+}
+
+/* ---------- Hero section (home) ---------- */
+.tiq-hero {
+  background: var(--gradient-hero);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-lg);
+  padding: 2.6rem 2.4rem;
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 1.6rem;
+}
+
+.tiq-hero-decor {
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  pointer-events: none;
+  opacity: 0.9;
+}
+
+/* ---------- Empty state ---------- */
+.tiq-empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 3.2rem 1.5rem;
+  background: var(--glass-bg);
+  border: 1.5px dashed var(--glass-border-strong);
+  border-radius: var(--radius-lg);
+}
+
+.tiq-empty-icon {
+  font-size: 2.4rem;
+  margin-bottom: 0.9rem;
+  opacity: 0.85;
+}
+
+.tiq-empty-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 0.35rem;
+}
+
+.tiq-empty-sub {
+  font-size: 0.86rem;
+  color: var(--text-muted);
+  max-width: 360px;
+}
+
+/* ---------- Section headers ---------- */
+.tiq-section-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 0.9rem;
+}
+
+/* ---------- Progress bars (passport) ---------- */
+.tiq-progress-track {
+  width: 100%;
+  height: 7px;
+  border-radius: var(--radius-pill);
+  background: rgba(255,255,255,0.08);
+  overflow: hidden;
+  margin: 0.4rem 0 0.9rem 0;
+}
+
+.tiq-progress-fill {
+  height: 100%;
+  border-radius: var(--radius-pill);
+}
+
+/* ---------- Stamp (legacy simple variant, kept for compatibility) ---------- */
+.tiq-stamp {
+  border: 2.5px dashed rgba(255,255,255,0.22);
+  border-radius: 50%;
+  aspect-ratio: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 0.6rem;
+}
+
+.tiq-stamp-active {
+  border-style: solid;
+}
+
+/* ==========================================================================
+   MEMORY PASSPORT — scrapbook / paper theme
+   ========================================================================== */
+
+.tiq-passport-shell {
+  position: relative;
+  background:
+    repeating-linear-gradient(0deg, rgba(90,70,40,0.025) 0px, rgba(90,70,40,0.025) 1px, transparent 1px, transparent 26px),
+    radial-gradient(circle at 15% 10%, rgba(255,255,255,0.5), transparent 40%),
+    linear-gradient(135deg, var(--paper-bg) 0%, var(--paper-bg-2) 100%);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--paper-border);
+  box-shadow: 0 20px 50px rgba(0,0,0,0.45), inset 0 0 0 1px rgba(255,255,255,0.4);
+  padding: 2rem 2.2rem 2rem 3rem;
+  margin-bottom: 1.4rem;
+  overflow: hidden;
+}
+
+/* ring-binder holes down the left edge */
+.tiq-passport-shell::before {
+  content: "";
+  position: absolute;
+  left: 14px;
+  top: 18px;
+  bottom: 18px;
+  width: 14px;
+  background-image: radial-gradient(circle, rgba(0,0,0,0.28) 3.5px, transparent 4px);
+  background-size: 14px 34px;
+  background-repeat: repeat-y;
+  opacity: 0.55;
+}
+
+/* colorful bookmark tabs along the right edge */
+.tiq-passport-shell::after {
+  content: "";
+  position: absolute;
+  right: -2px;
+  top: 26px;
+  width: 22px;
+  height: 90px;
+  border-radius: 6px 0 0 6px;
+  background: linear-gradient(180deg,
+    var(--accent-coral) 0 25%,
+    var(--accent-sky) 25% 50%,
+    var(--accent-emerald) 50% 75%,
+    var(--accent-orange) 75% 100%);
+  box-shadow: -3px 3px 10px rgba(0,0,0,0.25);
+}
+
+.tiq-passport-heading {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  margin-bottom: 0.1rem;
+}
+
+.tiq-passport-title {
+  font-family: 'Caveat', cursive;
+  font-weight: 700;
+  font-size: 2.5rem;
+  color: var(--paper-ink);
+  line-height: 1;
+}
+
+.tiq-passport-subtitle {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--paper-ink-soft);
+  margin-bottom: 1.6rem;
+}
+
+.tiq-passport-quote {
+  font-family: 'Caveat', cursive;
+  font-size: 1.15rem;
+  color: var(--paper-ink-soft);
+  margin-top: 1.6rem;
+  text-align: right;
+  opacity: 0.85;
+}
+
+/* Stamp grid */
+.tiq-stamp-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem 1.1rem;
+  margin-top: 0.4rem;
+}
+
+.tiq-stamp-cell {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: transform 300ms ease;
+}
+
+.tiq-stamp-mark {
+  width: 100%;
+  aspect-ratio: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 0.5rem;
+  position: relative;
+  transition: transform 300ms cubic-bezier(.34,1.56,.64,1), box-shadow 300ms ease, filter 300ms ease;
+  background: rgba(255,255,255,0.55);
+  box-shadow: 0 3px 10px rgba(60,45,20,0.18);
+}
+
+.tiq-stamp-cell:hover .tiq-stamp-mark {
+  transform: scale(1.07) rotate(var(--tilt, -3deg));
+  box-shadow: 0 10px 22px rgba(60,45,20,0.3);
+  filter: brightness(1.03);
+}
+
+.tiq-stamp-mark.shape-circle { border-radius: 50%; border: 3px solid var(--stamp-color); }
+.tiq-stamp-mark.shape-scallop {
+  border-radius: 50%;
+  border: 3px dashed var(--stamp-color);
+}
+.tiq-stamp-mark.shape-hex {
+  clip-path: polygon(25% 3%, 75% 3%, 100% 50%, 75% 97%, 25% 97%, 0% 50%);
+  border: 3px solid var(--stamp-color);
+}
+.tiq-stamp-mark.shape-triangle {
+  clip-path: polygon(50% 4%, 96% 94%, 4% 94%);
+  border: 3px solid var(--stamp-color);
+  padding-top: 1.6rem;
+}
+.tiq-stamp-mark.shape-diamond {
+  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+  border: 3px solid var(--stamp-color);
+}
+.tiq-stamp-mark.shape-square {
+  border-radius: 14px;
+  border: 3px dashed rgba(91,76,58,0.35);
+  background: rgba(255,255,255,0.35);
+}
+
+.tiq-stamp-icon { font-size: 1.5rem; line-height: 1; margin-bottom: 0.15rem; }
+.tiq-stamp-country {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 700;
+  font-size: 0.72rem;
+  letter-spacing: 0.03em;
+  color: var(--stamp-color);
+  text-transform: uppercase;
+}
+.tiq-stamp-city {
+  font-size: 0.6rem;
+  color: var(--paper-ink-soft);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.tiq-stamp-date {
+  font-size: 0.56rem;
+  color: var(--paper-ink-soft);
+  opacity: 0.7;
+  margin-top: 0.1rem;
+}
+
+.tiq-stamp-locked-icon { font-size: 1.3rem; opacity: 0.4; }
+.tiq-stamp-locked-label {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 700;
+  font-size: 0.68rem;
+  color: var(--paper-ink-soft);
+  opacity: 0.55;
+  text-transform: uppercase;
+}
+.tiq-stamp-locked-tag {
+  font-size: 0.56rem;
+  color: var(--paper-ink-soft);
+  opacity: 0.45;
+  margin-top: 0.1rem;
+}
+
+.tiq-stamp-caption {
+  margin-top: 0.5rem;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 0.66rem;
+  font-weight: 600;
+  color: var(--paper-ink-soft);
+  text-align: center;
+  min-height: 1.6em;
+}
+
+/* Locked stamp hover reveal message */
+.tiq-stamp-reveal {
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: opacity 300ms ease, max-height 300ms ease;
+  font-family: 'Caveat', cursive;
+  font-size: 0.85rem;
+  color: var(--accent-coral);
+}
+
+.tiq-stamp-cell:hover .tiq-stamp-reveal {
+  opacity: 1;
+  max-height: 2.2em;
+}
+
+/* Washi tape accent on visited stamps */
+.tiq-washi {
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  transform: translateX(-50%) rotate(var(--tape-tilt, -4deg));
+  width: 46px;
+  height: 16px;
+  background: var(--stamp-color);
+  opacity: 0.55;
+  border-radius: 2px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+}
+
+@media (max-width: 900px) {
+  .tiq-stamp-grid { grid-template-columns: repeat(2, 1fr); }
+  .tiq-passport-shell { padding: 1.6rem 1.4rem 1.6rem 2.2rem; }
+  .tiq-passport-title { font-size: 2rem; }
+}
+
+/* ---------- Misc form widgets on dark bg ---------- */
+[data-testid="stSelectbox"] div[data-baseweb="select"] > div,
+.stTextInput input, .stNumberInput input {
+  background: var(--glass-bg) !important;
+  border: 1px solid var(--glass-border) !important;
+  color: var(--text-primary) !important;
+  border-radius: var(--radius-sm) !important;
+}
+
+[data-testid="stMetric"] {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-md);
+  padding: 0.9rem 1.1rem;
+}
+
+hr {
+  border-color: var(--glass-border) !important;
+}
+
+/* ---------- Tabs & expanders ---------- */
+[data-baseweb="tab-list"] {
+  gap: 0.4rem;
+  border-bottom: 1px solid var(--glass-border) !important;
+}
+
+[data-baseweb="tab"] {
+  color: var(--text-muted) !important;
+  transition: color 250ms ease, border-color 250ms ease;
+  border-radius: var(--radius-sm) var(--radius-sm) 0 0 !important;
+}
+
+[data-baseweb="tab"]:hover {
+  color: var(--text-primary) !important;
+  background: rgba(255,255,255,0.04);
+}
+
+[data-baseweb="tab-highlight"] {
+  background-color: var(--accent-sky) !important;
+  transition: left 300ms ease, width 300ms ease;
+}
+
+[data-testid="stExpander"] {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border) !important;
+  border-radius: var(--radius-md) !important;
+  transition: border-color 250ms ease, box-shadow 250ms ease;
+  overflow: hidden;
+}
+
+[data-testid="stExpander"]:hover {
+  border-color: var(--glass-border-strong) !important;
+}
+
+[data-testid="stExpander"] summary {
+  transition: background 200ms ease;
+}
+
+[data-testid="stExpander"] summary:hover {
+  background: rgba(255,255,255,0.04);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: var(--bg-primary); }
+::-webkit-scrollbar-thumb { background: var(--glass-border-strong); border-radius: 8px; }
+
+/* Footer / made-with hide */
+#MainMenu, footer { visibility: hidden; }
+
+/* ==========================================================================
+   Sidebar passport preview card
+   ========================================================================== */
+
+.tiq-sidebar-passport {
+  background: linear-gradient(135deg, rgba(243,234,211,0.14), rgba(243,234,211,0.05));
+  border: 1px solid rgba(243,234,211,0.22);
+  border-radius: var(--radius-md);
+  padding: 0.9rem 1rem;
+  margin-bottom: 1rem;
+  transition: transform 250ms ease, box-shadow 250ms ease;
+}
+
+.tiq-sidebar-passport:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(0,0,0,0.3);
+}
+
+.tiq-sidebar-passport-label {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--paper-bg);
+  letter-spacing: 0.04em;
+  margin-bottom: 0.15rem;
+}
+
+.tiq-sidebar-passport-sub {
+  font-size: 0.68rem;
+  color: var(--text-muted);
+  margin-bottom: 0.65rem;
+}
+
+.tiq-sidebar-passport-stats {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.7rem;
+}
+
+.tiq-sidebar-passport-stat-value {
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: var(--text-primary);
+  line-height: 1;
+}
+
+.tiq-sidebar-passport-stat-label {
+  font-size: 0.6rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.st-key-sidebar_passport_cta button {
+  background: var(--gradient-warm) !important;
+  width: 100%;
+  font-size: 0.78rem !important;
+  padding: 0.45rem 0.8rem !important;
+  box-shadow: none !important;
+}
+
+/* ==========================================================================
+   Easter egg — compass emblem
+   ========================================================================== */
+
+.st-key-compass_trigger button {
+  background: rgba(255,255,255,0.06) !important;
+  border: 1px solid var(--glass-border) !important;
+  border-radius: 50% !important;
+  width: 46px !important;
+  height: 46px !important;
+  padding: 0 !important;
+  font-size: 1.2rem !important;
+  box-shadow: none !important;
+  transition: transform 400ms ease, background 250ms ease;
+}
+
+.st-key-compass_trigger button:hover {
+  transform: rotate(35deg) scale(1.08);
+  background: rgba(255,255,255,0.12) !important;
+}
+
+.tiq-secret-reveal {
+  margin-top: 0.9rem;
+  padding: 1rem 1.2rem;
+  border-radius: var(--radius-md);
+  background: var(--gradient-primary);
+  color: #fff;
+  text-align: center;
+  animation: tiqFadeIn 500ms ease;
+}
+
+.tiq-secret-reveal .headline {
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  margin-bottom: 0.3rem;
+}
+
+.tiq-secret-reveal .body {
+  font-family: 'Caveat', cursive;
+  font-size: 1.2rem;
+  opacity: 0.95;
+}
+
+/* ==========================================================================
+   Home hero — polaroid stack & floating accents
+   ========================================================================== */
+
+.tiq-polaroid-stack {
+  position: absolute;
+  right: 2.4rem;
+  top: 1.6rem;
+  width: 180px;
+  height: 150px;
+}
+
+.tiq-polaroid {
+  position: absolute;
+  width: 108px;
+  height: 128px;
+  background: #F3F6FB;
+  border-radius: 6px;
+  padding: 6px 6px 18px 6px;
+  box-shadow: 0 12px 26px rgba(0,0,0,0.4);
+  transition: transform 300ms ease, box-shadow 300ms ease;
+}
+
+.tiq-polaroid:hover {
+  transform: translateY(-4px) scale(1.03) !important;
+  box-shadow: 0 18px 34px rgba(0,0,0,0.5);
+  z-index: 5;
+}
+
+.tiq-polaroid .photo {
+  width: 100%;
+  height: 100%;
+  border-radius: 2px;
+}
+
+.tiq-polaroid-1 { transform: rotate(-9deg); left: 0; top: 18px; }
+.tiq-polaroid-2 { transform: rotate(4deg); left: 42px; top: 0; z-index: 2; }
+.tiq-polaroid-3 { transform: rotate(-2deg); left: 70px; top: 26px; z-index: 3; }
+
+@media not (prefers-reduced-motion: reduce) {
+  .tiq-float-accent {
+    animation: tiqFloat 5s ease-in-out infinite;
+  }
+}
+
+@keyframes tiqFloat {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+
+/* ==========================================================================
+   Responsiveness — tablet / laptop
+   ========================================================================== */
+
+@media (max-width: 1100px) {
+  .block-container { max-width: 100%; padding-left: 1.2rem; padding-right: 1.2rem; }
+  .tiq-hero-title { font-size: 2.1rem; }
+  .tiq-polaroid-stack { display: none; }
+}
+
+@media (max-width: 768px) {
+  .tiq-hero { padding: 1.8rem 1.4rem; }
+  .tiq-hero-title { font-size: 1.7rem; }
+  .tiq-kpi-value { font-size: 1.4rem; }
+  .tiq-stamp-grid { grid-template-columns: repeat(2, 1fr); gap: 1rem 0.7rem; }
+  .tiq-passport-shell { padding: 1.4rem 1.2rem 1.4rem 1.9rem; }
+}
+
+@media (max-width: 480px) {
+  .tiq-stamp-grid { grid-template-columns: repeat(2, 1fr); }
+  .tiq-passport-title { font-size: 1.7rem; }
+}
+
+/* ==========================================================================
+   Explore the World — Home page interactive map + attraction explorer
+   ========================================================================== */
+
+.tiq-attraction-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 0.9rem;
+  margin-top: 0.9rem;
+}
+
+.tiq-attraction-card {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-md);
+  padding: 1rem 1.1rem;
+  transition: transform 220ms ease, border-color 220ms ease, background 220ms ease;
+}
+
+.tiq-attraction-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--glass-border-strong);
+  background: var(--glass-bg-strong);
+}
+
+.tiq-attraction-type {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--accent-emerald);
+  background: rgba(47, 217, 168, 0.12);
+  border: 1px solid rgba(47, 217, 168, 0.28);
+  border-radius: var(--radius-pill);
+  padding: 0.2rem 0.6rem;
+  margin-bottom: 0.55rem;
+}
+
+.tiq-attraction-name {
+  font-weight: 700;
+  font-size: 1rem;
+  color: var(--text-primary);
+  line-height: 1.3;
+  margin-bottom: 0.25rem;
+}
+
+.tiq-attraction-city {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  margin-bottom: 0.7rem;
+}
+
+.tiq-attraction-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 0.78rem;
+  color: var(--text-secondary);
+  border-top: 1px solid var(--glass-border);
+  padding-top: 0.6rem;
+}
+
+.tiq-attraction-rating {
+  color: var(--accent-orange);
+  letter-spacing: 0.02em;
+}
+
+.tiq-attraction-visits {
+  color: var(--text-muted);
+}
+
+@media (max-width: 768px) {
+  .tiq-attraction-grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); }
+}

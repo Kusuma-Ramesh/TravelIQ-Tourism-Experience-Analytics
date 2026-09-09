@@ -1,0 +1,6 @@
+,pred_Business,pred_Couples,pred_Family,pred_Friends,pred_Solo
+true_Business,45,13,6,19,22
+true_Couples,241,2768,425,132,731
+true_Family,226,1168,1126,112,383
+true_Friends,215,882,196,103,372
+true_Solo,78,408,56,67,210

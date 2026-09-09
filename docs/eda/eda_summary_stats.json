@@ -1,0 +1,439 @@
+{
+  "dataset_overview": {
+    "n_rows": 49208,
+    "n_columns": 24,
+    "columns": [
+      "TransactionId",
+      "UserId",
+      "VisitYear",
+      "VisitMonth",
+      "VisitMode",
+      "AttractionId",
+      "Rating",
+      "is_ambiguous_repeat",
+      "ContinentId",
+      "RegionId",
+      "CountryId",
+      "CityId",
+      "UserCityName",
+      "UserCountry",
+      "UserRegion",
+      "UserContinent",
+      "AttractionCityId",
+      "AttractionTypeId",
+      "Attraction",
+      "AttractionAddress",
+      "AttractionCityName",
+      "AttractionTypeName",
+      "AttractionCountry",
+      "VisitModeName"
+    ],
+    "dtypes": {
+      "TransactionId": "int64",
+      "UserId": "int64",
+      "VisitYear": "int64",
+      "VisitMonth": "int64",
+      "VisitMode": "int64",
+      "AttractionId": "int64",
+      "Rating": "int64",
+      "is_ambiguous_repeat": "bool",
+      "ContinentId": "int64",
+      "RegionId": "int64",
+      "CountryId": "int64",
+      "CityId": "int64",
+      "UserCityName": "str",
+      "UserCountry": "str",
+      "UserRegion": "str",
+      "UserContinent": "str",
+      "AttractionCityId": "int64",
+      "AttractionTypeId": "int64",
+      "Attraction": "str",
+      "AttractionAddress": "str",
+      "AttractionCityName": "str",
+      "AttractionTypeName": "str",
+      "AttractionCountry": "str",
+      "VisitModeName": "str"
+    },
+    "missing_values_total": 0,
+    "missing_by_column": {},
+    "duplicate_rows_full": 0,
+    "duplicate_transaction_ids": 0,
+    "ambiguous_repeat_rows": 2536,
+    "n_unique_users": 33530,
+    "n_unique_attractions": 30,
+    "n_unique_user_countries": 153,
+    "n_unique_user_regions": 22,
+    "n_unique_user_continents": 5,
+    "n_unique_attraction_countries": 1,
+    "attraction_countries": [
+      "Indonesia"
+    ],
+    "attraction_cities": [
+      "Bali",
+      "Malang",
+      "Yogyakarta"
+    ],
+    "n_attraction_types": 17,
+    "n_visit_modes": 5,
+    "visit_year_min": 2013,
+    "visit_year_max": 2022,
+    "visit_month_min": 1,
+    "visit_month_max": 12,
+    "rating_min": 1,
+    "rating_max": 5
+  },
+  "traveler_analysis": {
+    "visit_mode_counts": {
+      "Couples": 20305,
+      "Family": 14157,
+      "Friends": 10081,
+      "Solo": 4104,
+      "Business": 561
+    },
+    "visit_mode_share_pct": {
+      "Couples": 41.26,
+      "Family": 28.77,
+      "Friends": 20.49,
+      "Solo": 8.34,
+      "Business": 1.14
+    },
+    "continent_counts": {
+      "Asia": 14328,
+      "Australia & Oceania": 14145,
+      "Europe": 12359,
+      "America": 7509,
+      "Africa": 867
+    },
+    "top_15_user_countries": {
+      "Australia": 12683,
+      "United Kingdom": 6302,
+      "United States": 5695,
+      "Indonesia": 4412,
+      "Singapore": 2527,
+      "India": 2375,
+      "New Zealand": 1414,
+      "Canada": 1393,
+      "Malaysia": 1337,
+      "Netherlands": 811,
+      "South Africa": 590,
+      "China": 589,
+      "Poland": 560,
+      "Germany": 508,
+      "United Arab Emirates": 500
+    },
+    "region_counts": {
+      "Australia": 12683,
+      "South East Asia": 9377,
+      "Western Europe": 8008,
+      "Northern America": 7186,
+      "South Asia": 2691,
+      "Central Europe": 2118,
+      "Oceania": 1462,
+      "Middle East": 1190,
+      "East Asia": 1034,
+      "Southern Europe": 939,
+      "Northern Europe": 804,
+      "Southern Africa": 606,
+      "Eastern Europe": 482,
+      "South America": 227,
+      "North Africa": 171
+    },
+    "n_users_total": 33530,
+    "n_users_repeat": 9274,
+    "pct_users_repeat": 27.66,
+    "trips_per_user_mean": 1.468,
+    "trips_per_user_median": 1.0,
+    "trips_per_user_max": 26
+  },
+  "attraction_analysis": {
+    "n_attractions": 30,
+    "n_attraction_types": 17,
+    "n_attraction_cities": 3,
+    "single_country": [
+      "Indonesia"
+    ],
+    "top_10_attractions_by_visits": {
+      "Sacred Monkey Forest Sanctuary": 12369,
+      "Waterbom Bali": 6079,
+      "Tegalalang Rice Terrace": 5585,
+      "Uluwatu Temple": 3216,
+      "Tanah Lot Temple": 3198,
+      "Sanur Beach": 2930,
+      "Seminyak Beach": 2832,
+      "Kuta Beach - Bali": 2641,
+      "Tegenungan Waterfall": 2184,
+      "Nusa Dua Beach": 2016
+    },
+    "attraction_type_counts": {
+      "Nature & Wildlife Areas": 12422,
+      "Beaches": 10508,
+      "Religious Sites": 6414,
+      "Water Parks": 6079,
+      "Points of Interest & Landmarks": 5973,
+      "Waterfalls": 2239,
+      "Volcanos": 1659,
+      "Flea & Street Markets": 946,
+      "History Museums": 770,
+      "Historic Sites": 673,
+      "National Parks": 496,
+      "Ancient Ruins": 470,
+      "Ballets": 328,
+      "Caverns & Caves": 129,
+      "Neighborhoods": 43,
+      "Speciality Museums": 31,
+      "Spas": 28
+    },
+    "min_sample_for_ranking": 50,
+    "top_rated_attractions_min50": {
+      "Mount Semeru Volcano": 4.699,
+      "Waterbom Bali": 4.646,
+      "Bromo Tengger Semeru National Park": 4.612,
+      "Jomblang Cave": 4.504,
+      "Nusa Dua Beach": 4.272,
+      "Sacred Monkey Forest Sanctuary": 4.265,
+      "Uluwatu Temple": 4.218,
+      "Ullen Sentalu Museum": 4.212
+    },
+    "bottom_rated_attractions_min50": {
+      "Kuta Beach - Bali": 3.41,
+      "Yogyakarta Palace": 3.502,
+      "Malang City Square": 3.578,
+      "Seminyak Beach": 3.805,
+      "Water Castle (Tamansari)": 3.806,
+      "Malioboro Road": 3.808,
+      "Kalibiru National Park": 3.817,
+      "Tegenungan Waterfall": 3.894
+    },
+    "avg_rating_by_type": {
+      "Water Parks": 4.646,
+      "Spas": 4.571,
+      "Caverns & Caves": 4.504,
+      "National Parks": 4.427,
+      "Neighborhoods": 4.302,
+      "Nature & Wildlife Areas": 4.265,
+      "History Museums": 4.212,
+      "Religious Sites": 4.209,
+      "Ballets": 4.192,
+      "Points of Interest & Landmarks": 4.133,
+      "Volcanos": 4.087,
+      "Ancient Ruins": 4.045,
+      "Speciality Museums": 4.032,
+      "Waterfalls": 3.896,
+      "Beaches": 3.845,
+      "Flea & Street Markets": 3.808,
+      "Historic Sites": 3.502
+    },
+    "avg_rating_by_city": {
+      "Malang": 4.374,
+      "Bali": 4.176,
+      "Yogyakarta": 3.962
+    },
+    "visits_per_attraction_describe": {
+      "count": 30.0,
+      "mean": 1640.27,
+      "std": 2615.34,
+      "min": 28.0,
+      "25%": 68.75,
+      "50%": 354.5,
+      "75%": 2526.75,
+      "max": 12369.0
+    }
+  },
+  "temporal_analysis": {
+    "yearly_visit_counts": {
+      "2013": 2876,
+      "2014": 4612,
+      "2015": 8319,
+      "2016": 11772,
+      "2017": 8608,
+      "2018": 6837,
+      "2019": 5420,
+      "2020": 491,
+      "2021": 34,
+      "2022": 239
+    },
+    "monthly_visit_counts": {
+      "1": 4150,
+      "2": 3383,
+      "3": 3511,
+      "4": 4154,
+      "5": 4077,
+      "6": 4088,
+      "7": 4572,
+      "8": 4643,
+      "9": 4576,
+      "10": 4409,
+      "11": 3481,
+      "12": 4164
+    },
+    "yearly_avg_rating": {
+      "2013": 4.175,
+      "2014": 4.169,
+      "2015": 4.213,
+      "2016": 4.163,
+      "2017": 4.077,
+      "2018": 4.061,
+      "2019": 4.251,
+      "2020": 4.283,
+      "2021": 4.529,
+      "2022": 4.377
+    },
+    "peak_year": 2016,
+    "peak_month": 8,
+    "lowest_visit_year": 2021,
+    "covid_years_2020_2021_share_pct": 1.07,
+    "mode_share_by_year_pct": {
+      "2013": {
+        "Business": 1.1,
+        "Couples": 36.0,
+        "Family": 35.6,
+        "Friends": 19.6,
+        "Solo": 7.6
+      },
+      "2014": {
+        "Business": 1.1,
+        "Couples": 36.2,
+        "Family": 33.7,
+        "Friends": 21.8,
+        "Solo": 7.2
+      },
+      "2015": {
+        "Business": 1.2,
+        "Couples": 40.2,
+        "Family": 27.9,
+        "Friends": 22.1,
+        "Solo": 8.6
+      },
+      "2016": {
+        "Business": 1.1,
+        "Couples": 41.3,
+        "Family": 28.0,
+        "Friends": 21.1,
+        "Solo": 8.5
+      },
+      "2017": {
+        "Business": 1.2,
+        "Couples": 42.8,
+        "Family": 26.8,
+        "Friends": 20.6,
+        "Solo": 8.6
+      },
+      "2018": {
+        "Business": 1.4,
+        "Couples": 45.9,
+        "Family": 24.2,
+        "Friends": 20.1,
+        "Solo": 8.4
+      },
+      "2019": {
+        "Business": 0.9,
+        "Couples": 42.6,
+        "Family": 31.2,
+        "Friends": 16.8,
+        "Solo": 8.5
+      },
+      "2020": {
+        "Business": 0.4,
+        "Couples": 37.9,
+        "Family": 35.2,
+        "Friends": 18.7,
+        "Solo": 7.7
+      },
+      "2021": {
+        "Business": 0.0,
+        "Couples": 38.2,
+        "Family": 29.4,
+        "Friends": 26.5,
+        "Solo": 5.9
+      },
+      "2022": {
+        "Business": 0.4,
+        "Couples": 27.6,
+        "Family": 53.6,
+        "Friends": 12.1,
+        "Solo": 6.3
+      }
+    }
+  },
+  "rating_analysis": {
+    "rating_counts": {
+      "1": 1205,
+      "2": 1946,
+      "3": 7122,
+      "4": 16637,
+      "5": 22298
+    },
+    "rating_mean": 4.156,
+    "rating_median": 4.0,
+    "rating_std": 0.976,
+    "pct_rating_4_or_5": 79.12,
+    "pct_rating_1_or_2": 6.4,
+    "rating_by_visit_mode": {
+      "Business": {
+        "mean": 4.31,
+        "median": 5.0,
+        "count": 561
+      },
+      "Family": {
+        "mean": 4.219,
+        "median": 4.0,
+        "count": 14157
+      },
+      "Friends": {
+        "mean": 4.169,
+        "median": 4.0,
+        "count": 10081
+      },
+      "Couples": {
+        "mean": 4.116,
+        "median": 4.0,
+        "count": 20305
+      },
+      "Solo": {
+        "mean": 4.082,
+        "median": 4.0,
+        "count": 4104
+      }
+    },
+    "low_rating_share_pct_by_type": {
+      "Historic Sites": 16.79,
+      "Beaches": 12.28,
+      "Flea & Street Markets": 10.15,
+      "Ancient Ruins": 8.72,
+      "Waterfalls": 8.44,
+      "Volcanos": 6.81,
+      "Speciality Museums": 6.45,
+      "Ballets": 6.4,
+      "Points of Interest & Landmarks": 6.11,
+      "History Museums": 5.32,
+      "National Parks": 4.84,
+      "Religious Sites": 4.68,
+      "Neighborhoods": 4.65,
+      "Nature & Wildlife Areas": 3.82,
+      "Spas": 3.57,
+      "Caverns & Caves": 1.55,
+      "Water Parks": 1.25
+    },
+    "popularity_quality_correlation": 0.121
+  },
+  "business_insights": [
+    "Demand is geographically concentrated: Australia alone accounts for 12,683 of 49,208 transactions (25.8%), and the top 3 source countries together cover a large share of volume \u2014 marketing/localization spend is better targeted at a short list of countries than spread evenly.",
+    "Attraction demand is highly concentrated too: Sacred Monkey Forest Sanctuary alone drew 12,369 visits (25.1% of all transactions) out of only 30 attractions in the catalogue \u2014 capacity planning and on-site experience investment should prioritize this small set of marquee sites.",
+    "'Couples' is the dominant travel mode (41.3% of visits); Business travel is a minor segment (1.1%) but rates experiences highest on average (4.31/5) \u2014 a small, low-volume but high-satisfaction segment worth a dedicated offering rather than more inventory.",
+    "2020\u20132021 volume collapsed to just 1.1% of total transactions (COVID-19 travel disruption is clearly visible in the data) with a slow partial recovery by 2022 \u2014 any trend/seasonality model trained on this data should treat 2020\u20132021 as an anomalous period rather than representative seasonality.",
+    "Satisfaction varies materially by attraction type: 'Water Parks' rates highest on average (4.65/5) while 'Historic Sites' rates lowest (3.50/5) and also shows one of the higher shares of 1\u20132\u2605 ratings (16.8%) \u2014 a natural target for a service-quality review.",
+    "Popularity and average rating show no meaningful correlation across attractions (r=0.12) \u2014 the most-visited sites are not simply the best-reviewed ones, so recommendation/ranking logic should weight both signals rather than defaulting to raw popularity.",
+    "27.7% of the 33,530 unique travelers in the data made more than one visit (median 1 trip, max 26) \u2014 the base is dominated by one-time visitors, which matters for how much a collaborative-filtering recommender can rely on a user's own history versus needing strong cold-start handling (already implemented upstream in regression_features.csv)."
+  ],
+  "validation": {
+    "row_count_matches_expected_49208": true,
+    "no_missing_values": true,
+    "no_duplicate_transaction_ids": "True",
+    "rating_within_1_5": "True",
+    "visit_month_within_1_12": "True",
+    "visit_mode_share_sums_to_100": "True",
+    "single_attraction_country_confirmed": true,
+    "all_passed": true
+  },
+  "plotly_figures_generated": false
+}

@@ -1,0 +1,23 @@
+Region,RegionId,ContinentId
+-,0,0
+Central Africa,1,1
+East Africa,2,1
+North Africa,3,1
+Southern Africa,4,1
+West Africa,5,1
+Caribbean,6,2
+Central America,7,2
+Northern America,8,2
+South America,9,2
+Central Asia,10,3
+East Asia,11,3
+Middle East,12,3
+South Asia,13,3
+South East Asia,14,3
+Australia,15,4
+Oceania,16,4
+Central Europe,17,5
+Eastern Europe,18,5
+Northern Europe,19,5
+Southern Europe,20,5
+Western Europe,21,5

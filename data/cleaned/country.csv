@@ -1,0 +1,166 @@
+CountryId,Country,RegionId,flag_duplicate_name
+0,-,0,False
+1,Cameroon,1,False
+2,Chad,1,False
+3,Rwanda,1,False
+4,Ethiopia,2,False
+5,Kenya,2,False
+6,Mauritius,2,False
+7,Seychelles,2,False
+8,Sudan,2,False
+9,Tanzania,2,False
+10,Uganda,2,False
+11,Zambia,2,False
+12,Zimbabwe,2,False
+13,Algeria,3,False
+14,Egypt,3,False
+15,Morocco,3,False
+16,Tunisia,3,False
+17,Angola,4,False
+18,Botswana,4,False
+19,Malawi,4,False
+20,Mozambique,4,False
+21,Namibia,4,False
+22,South Africa,4,False
+23,Burkina Faso,5,False
+24,Cape Verde,5,False
+25,Côte d'Ivoire,5,False
+26,Ghana,5,False
+27,NIGERIA,5,False
+28,Senegal,5,False
+29,Antigua and Barbuda,6,False
+30,Bahamas,6,False
+31,Barbados,6,False
+32,Cayman Island,6,False
+33,Cuba,6,False
+34,Curacao,6,False
+35,Dominican Republic,6,False
+36,Grand Cayman,6,False
+37,Jamaica,6,False
+38,Puerto Rico,6,False
+39,St Martin / St Maarten,6,False
+40,Trinidad and Tobago,6,False
+41,Turks and Caicos Islands,6,False
+42,Belize,7,False
+43,Costa Rica,7,False
+44,Guatemala,7,False
+45,Honduras,7,False
+46,Nicaragua,7,False
+47,Panama,7,False
+48,Canada,8,False
+49,Greenland,8,False
+50,Mexico,8,False
+51,United States,8,False
+52,Argentina,9,False
+53,Bolivia,9,False
+54,Brazil,9,False
+55,Chile,9,False
+56,Colombia,9,False
+57,Ecuador,9,False
+58,Peru,9,False
+59,Suriname,9,False
+60,Uruguay,9,False
+61,Venezuela,9,False
+62,Asia,0,False
+63,Armenia,10,False
+64,Kazakhstan,10,False
+65,Kyrgyzstan,10,False
+66,Mongolia,10,False
+67,Turkmenistan,10,False
+68,Uzbekistan,10,False
+69,China,11,False
+70,Hong Kong,11,False
+71,Japan,11,False
+72,North Korea,11,False
+73,South Korea,11,False
+74,Taiwan,11,False
+75,Bahrain,12,False
+76,Cyprus,12,True
+77,Iran,12,False
+78,Iraq,12,False
+79,Israel,12,False
+80,Jordan,12,False
+81,Kuwait,12,False
+82,Lebanon,12,False
+83,Libya,12,False
+84,Oman,12,False
+85,Palestine,12,False
+86,Qatar,12,False
+87,Saudi Arabia,12,False
+88,Turkey,12,False
+89,United Arab Emirates,12,False
+90,Afghanistan,13,False
+91,Bangladesh,13,False
+92,Bhutan,13,False
+93,India,13,False
+94,Maldives,13,False
+95,Nepal,13,False
+96,Pakistan,13,False
+97,Sri Lanka,13,False
+98,Brunei Darussalam,14,False
+99,Cambodia,14,False
+100,East Timor,14,False
+101,Indonesia,14,False
+102,Laos,14,False
+103,Malaysia,14,False
+104,Myanmar,14,False
+105,Philippines,14,False
+106,Singapore,14,False
+107,Thailand,14,False
+108,Vietnam,14,False
+109,Australia,15,False
+110,Fiji,16,False
+111,French Polynesia,16,False
+112,Mariana Islands,16,False
+113,Marshall Islands,16,False
+114,New Caledonia,16,False
+115,New Zealand,16,False
+116,Papua New Guinea,16,False
+117,Solomon Islands,16,False
+118,Tonga,16,False
+119,Vanuatu,16,False
+120,Europe,0,False
+121,Austria,17,False
+122,Croatia,17,False
+123,Czech Republic,17,False
+124,Estonia,17,False
+125,Germany,17,False
+126,Hungary,17,False
+127,Latvia,17,False
+128,Lithuania,17,False
+129,Luxembourg,17,False
+130,Poland,17,False
+131,Romania,17,False
+132,Serbia,17,False
+133,Slovakia,17,False
+134,Slovenia,17,False
+135,Switzerland,17,False
+136,Azerbaijan,18,False
+137,Belarus,18,False
+138,Georgia,18,False
+139,Russia,18,False
+140,Ukraine,18,False
+141,Denmark,19,False
+142,Finland,19,False
+143,Iceland,19,False
+144,Norway,19,False
+145,Sweden,19,False
+146,Albania,20,False
+147,Bosnia and Herzegovina,20,False
+148,Bulgaria,20,False
+149,Cyprus,20,True
+150,Greece,20,False
+151,Italy,20,False
+152,Malta,20,False
+153,Moldova,20,False
+154,Montenegro,20,False
+155,Portugal,20,False
+156,Republic of North Macedonia,20,False
+157,Spain,20,False
+158,Belgium,21,False
+159,France,21,False
+160,Ireland,21,False
+161,Monaco,21,False
+162,Netherlands,21,False
+163,United Kingdom,21,False
+164,Yemen,12,False

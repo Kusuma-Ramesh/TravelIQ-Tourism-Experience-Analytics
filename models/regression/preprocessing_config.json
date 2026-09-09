@@ -1,0 +1,67 @@
+{
+  "target": "Rating",
+  "feature_columns_in_order": [
+    "VisitYear",
+    "VisitMonth",
+    "user_total_visits",
+    "user_avg_rating",
+    "user_rating_std",
+    "user_distinct_attractions",
+    "has_user_history",
+    "attraction_total_visits",
+    "attraction_avg_rating",
+    "attraction_rating_std",
+    "attraction_distinct_users",
+    "has_attraction_history",
+    "is_ambiguous_repeat",
+    "VisitModeName",
+    "UserContinent",
+    "UserRegion",
+    "AttractionTypeName",
+    "AttractionCityName"
+  ],
+  "numeric_features": [
+    "VisitYear",
+    "VisitMonth",
+    "user_total_visits",
+    "user_avg_rating",
+    "user_rating_std",
+    "user_distinct_attractions",
+    "has_user_history",
+    "attraction_total_visits",
+    "attraction_avg_rating",
+    "attraction_rating_std",
+    "attraction_distinct_users",
+    "has_attraction_history",
+    "is_ambiguous_repeat"
+  ],
+  "categorical_features": [
+    "VisitModeName",
+    "UserContinent",
+    "UserRegion",
+    "AttractionTypeName",
+    "AttractionCityName"
+  ],
+  "excluded_columns": {
+    "id_columns": [
+      "TransactionId",
+      "UserId",
+      "AttractionId",
+      "ContinentId",
+      "RegionId",
+      "CountryId",
+      "CityId",
+      "AttractionTypeId",
+      "AttractionCityId"
+    ],
+    "dropped_high_cardinality": [
+      "UserCountry",
+      "UserCityName"
+    ],
+    "dropped_constant": [
+      "AttractionCountry"
+    ]
+  },
+  "selected_model": "gradient_boosting",
+  "notes": "Pass a DataFrame containing exactly `feature_columns_in_order` (same names/dtypes as regression_features.csv) to model.predict(). Preprocessing (StandardScaler on numeric, OneHotEncoder(handle_unknown='ignore') on categorical) is already embedded as the first step of the saved sklearn Pipeline in best_model.joblib -- no separate preprocessing step is required at inference time."
+}

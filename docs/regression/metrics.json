@@ -1,0 +1,184 @@
+{
+  "split_info": {
+    "n_total": 49208,
+    "n_inner_train": 33388,
+    "n_inner_val": 5816,
+    "n_train_full": 39204,
+    "n_test": 10004,
+    "test_boundary_period": 24222,
+    "val_boundary_period": 24212,
+    "inner_train_period_range": [
+      24157,
+      24211
+    ],
+    "inner_val_period_range": [
+      24212,
+      24221
+    ],
+    "train_full_period_range": [
+      24157,
+      24221
+    ],
+    "test_period_range": [
+      24222,
+      24274
+    ],
+    "test_year_counts": {
+      "2018": 3820,
+      "2019": 5420,
+      "2020": 491,
+      "2021": 34,
+      "2022": 239
+    }
+  },
+  "leakage_validation": {
+    "target_not_in_feature_columns": true,
+    "transaction_id_not_in_feature_columns": true,
+    "transaction_id_not_used_for_split_order": true,
+    "no_missing_values_in_features": true,
+    "train_periods_strictly_precede_val_periods": true,
+    "train_val_periods_strictly_precede_test_periods": true,
+    "each_calendar_period_in_exactly_one_split": true,
+    "test_transaction_ids_disjoint_from_train_val": true,
+    "all_passed": true
+  },
+  "model_comparison_on_validation": {
+    "baseline_mean": {
+      "val": {
+        "r2": -0.0199,
+        "mae": 0.836,
+        "mse": 1.1919,
+        "rmse": 1.0918
+      }
+    },
+    "linear_regression": {
+      "val": {
+        "r2": 0.0854,
+        "mae": 0.8029,
+        "mse": 1.0688,
+        "rmse": 1.0338
+      }
+    },
+    "random_forest": {
+      "val": {
+        "r2": 0.0857,
+        "mae": 0.8043,
+        "mse": 1.0686,
+        "rmse": 1.0337
+      }
+    },
+    "gradient_boosting": {
+      "val": {
+        "r2": 0.1066,
+        "mae": 0.7999,
+        "mse": 1.044,
+        "rmse": 1.0218
+      }
+    },
+    "selected_model": "gradient_boosting",
+    "final": {
+      "baseline_mean_test": {
+        "r2": -0.0033,
+        "mae": 0.8043,
+        "mse": 1.023,
+        "rmse": 1.0114
+      },
+      "gradient_boosting_train_full": {
+        "r2": 0.1471,
+        "mae": 0.7035,
+        "mse": 0.7968,
+        "rmse": 0.8927
+      },
+      "gradient_boosting_test": {
+        "r2": 0.0724,
+        "mae": 0.7752,
+        "mse": 0.9459,
+        "rmse": 0.9725
+      }
+    }
+  },
+  "selected_model": "gradient_boosting",
+  "feature_importance_top20": [
+    {
+      "feature": "attraction_avg_rating",
+      "importance": 0.5998871287658277
+    },
+    {
+      "feature": "attraction_rating_std",
+      "importance": 0.0828797410715496
+    },
+    {
+      "feature": "VisitMonth",
+      "importance": 0.07822361463213423
+    },
+    {
+      "feature": "attraction_distinct_users",
+      "importance": 0.04092283571894839
+    },
+    {
+      "feature": "attraction_total_visits",
+      "importance": 0.03213171225468921
+    },
+    {
+      "feature": "is_ambiguous_repeat",
+      "importance": 0.022055644000448158
+    },
+    {
+      "feature": "user_avg_rating",
+      "importance": 0.016371257671716464
+    },
+    {
+      "feature": "AttractionTypeName_Water Parks",
+      "importance": 0.010555071209637036
+    },
+    {
+      "feature": "AttractionTypeName_Historic Sites",
+      "importance": 0.010101427238471716
+    },
+    {
+      "feature": "UserContinent_Asia",
+      "importance": 0.009582354043280379
+    },
+    {
+      "feature": "UserRegion_South Asia",
+      "importance": 0.008790412252066839
+    },
+    {
+      "feature": "AttractionTypeName_Points of Interest & Landmarks",
+      "importance": 0.007881966137523214
+    },
+    {
+      "feature": "UserRegion_Northern Europe",
+      "importance": 0.006299422224640805
+    },
+    {
+      "feature": "AttractionTypeName_Nature & Wildlife Areas",
+      "importance": 0.006132010839192121
+    },
+    {
+      "feature": "VisitYear",
+      "importance": 0.006094456841492798
+    },
+    {
+      "feature": "AttractionTypeName_Beaches",
+      "importance": 0.0059715152355975295
+    },
+    {
+      "feature": "AttractionTypeName_Volcanos",
+      "importance": 0.004569574605792016
+    },
+    {
+      "feature": "user_rating_std",
+      "importance": 0.004385418247975894
+    },
+    {
+      "feature": "user_total_visits",
+      "importance": 0.004132327929371941
+    },
+    {
+      "feature": "UserContinent_America",
+      "importance": 0.0040753516454430675
+    }
+  ],
+  "reload_check_passed": true
+}

@@ -1,0 +1,9144 @@
+CityId,CityName,CountryId
+0,-,0
+1,Douala,1
+2,South Region,1
+3,N'Djamena,2
+4,Kigali,3
+5,Kigali Province,3
+6,Addis Ababa,4
+7,Karen,5
+8,Kenya,5
+9,Malindi,5
+10,Mombasa,5
+11,Nairobi,5
+12,Shimoni,5
+13,Bel Ombre,6
+14,Curepipe,6
+15,Flic En Flac,6
+16,Grand Baie,6
+17,Grand Gaube,6
+18,Mauritius,6
+19,Moka,6
+20,Pailles,6
+21,Port Louis,6
+22,Quatre Bornes,6
+23,Rose Belle,6
+24,Cerf Island,7
+25,Mahe Island,7
+26,Victoria,7
+27,Khartoum,8
+28,Port Sudan,8
+29,Rumbek,8
+30,Sudan,8
+31,Arusha,9
+32,Dar es Salaam,9
+33,Msasani,9
+34,Stone Town,9
+35,Tanzania,9
+36,Zanzibar Island,9
+37,Kampala,10
+38,Livingstone,11
+39,Lusaka,11
+40,Solwezi,11
+41,South Luangwa National Park,11
+42,Victoria Falls,11
+43,Harare,12
+44,Alger,13
+45,Algiers,13
+46,Blida Province,13
+47,Oran,13
+48,Ad Duqqi,14
+49,Al Rehab,14
+50,Alexandria,14
+51,Alexandria Governorate,14
+52,Cairo,14
+53,Cairo Governorate,14
+54,Dahab,14
+55,Egypt,14
+56,El Alamein,14
+57,Giza,14
+58,Hurghada,14
+59,Luxor,14
+60,Mansoura,14
+61,New Cairo City,14
+62,Sharm El Sheikh,14
+63,Siwa,14
+64,South Sinai,14
+65,Tanta,14
+66,Casablanca,15
+67,Chefchaouen,15
+68,El Jadida,15
+69,Fes,15
+70,Marrakech,15
+71,Merzouga,15
+72,Ouarzazate,15
+73,Oujda,15
+74,Rabat,15
+75,Bizerte,16
+76,Carthage,16
+77,Ezzahra,16
+78,Sidi Bou Said,16
+79,Sousse,16
+80,Tunis,16
+81,tunisie,16
+82,Luanda,17
+83,Botswana,18
+84,Gaborone,18
+85,Chintheche,19
+86,Maputo,20
+87,Mozambique,20
+88,Ponta do Ouro,20
+89,Tofinho,20
+90,Swakopmund,21
+91,Walvis Bay,21
+92,Windhoek,21
+93,Alberton,22
+94,Ballito,22
+95,Barrydale,22
+96,Bedfordview,22
+97,Benoni,22
+98,Bergville,22
+99,Bloemfontein,22
+100,Bloubergstrand,22
+101,Bluff,22
+102,Boksburg,22
+103,Brackenfell,22
+104,Camperdown,22
+105,Cape Point,22
+106,Cape Town,22
+107,Cape Town Central,22
+108,Cape Town S. Africa,22
+109,Cape Winelands District Municipality,22
+110,Centurion,22
+111,Clarens,22
+112,Constantia,22
+113,CPT-South Africa,22
+114,Durban,22
+115,Durban South africa,22
+116,Durbanville,22
+117,East London,22
+118,East London South Africa,22
+119,Edenvale,22
+120,Edgemead,22
+121,Garden Route,22
+122,Gauteng,22
+123,George,22
+124,Germiston,22
+125,Gillitts,22
+126,Goodwood,22
+127,Grahamstown,22
+128,Greater Johannesburg,22
+129,Hartenbos,22
+130,Hazyview,22
+131,Hermanus,22
+132,Hoedspruit,22
+133,Hout Bay,22
+134,Illovo,22
+135,Jeffreys Bay,22
+136,Johannesburg,22
+137,Johannesburg South,22
+138,Johannesburg South Africa,22
+139,Kempton Park,22
+140,Kemptonpark,22
+141,Kenilworth,22
+142,Kimberley,22
+143,Kirkwood,22
+144,Klerksdorp,22
+145,Kloof,22
+146,Knysna,22
+147,Krugersdorp,22
+148,Kuils River,22
+149,KwaZulu-Natal,22
+150,Langebaan,22
+151,Lenasia,22
+152,Llandudno,22
+153,Maseru,22
+154,Meyerton,22
+155,Midrand,22
+156,Mokopane,22
+157,Mossel Bay,22
+158,Mtunzini,22
+159,Muizenberg,22
+160,Nelspruit,22
+161,Newcastle,22
+162,Newlands,22
+163,Noordhoek,22
+164,North Riding,22
+165,North-West Province,22
+166,Oudtshoorn,22
+167,Paarl,22
+168,Parow,22
+169,Pietermaritzburg,22
+170,Plattekloof,22
+171,Plettenberg Bay,22
+172,Polokwane,22
+173,Port Edward,22
+174,Port Elizabeth,22
+175,Pretoria,22
+176,Pretoria South Africa,22
+177,Pringle Bay,22
+178,Queenstown,22
+179,Randburg,22
+180,Randpark Ridge,22
+181,Richards Bay,22
+182,Riebeek-West,22
+183,Rondebosch,22
+184,Roodepoort,22
+185,rosebank,22
+186,Rumbek,22
+187,Salt Rock,22
+188,Sandton,22
+189,Sedgefield,22
+190,Somerset West,22
+191,South Africa,22
+192,Springs,22
+193,Standerton,22
+194,Stanger,22
+195,Stellenbosch,22
+196,Stilbaai,22
+197,Strand,22
+198,Sun Valley,22
+199,Table View,22
+200,Tongaat,22
+201,Tzaneen,22
+202,Umdloti,22
+203,Umhlanga,22
+204,Underberg,22
+205,Vanderbijlpark,22
+206,Vereeniging,22
+207,Welkom,22
+208,westbrook,22
+209,Western Cape,22
+210,Westville,22
+211,White River,22
+212,Winston Park,22
+213,Ouagadougou,23
+214,Santa Maria,24
+215,Abidjan,25
+216,Accra,26
+217,Kumasi,26
+218,Abuja,27
+219,Ilorin,27
+220,Lagos,27
+221,NIGERIA,27
+222,Port Harcourt,27
+223,Dakar,28
+224,Saly,28
+225,Antigua and Barbuda,29
+226,Nassau,30
+227,New Providence Island,30
+228,Bridgetown,31
+229,Saint Philip Parish,31
+230,Cayman Island,32
+231,Havana,33
+232,CuraÃ§ao,34
+233,Curacao,34
+234,Willemstad,34
+235,Dominican Republic,35
+236,Punta Cana,35
+237,Santo Domingo,35
+238,George Town,36
+239,Grand Cayman,36
+240,Seven Mile Beach,36
+241,Bluefields,37
+242,Kingston,37
+243,Carolina,38
+244,Puerto Rico,38
+245,Rio Grande,38
+246,San Juan,38
+247,Maho,39
+248,Philipsburg,39
+249,Simpson Bay,39
+250,St Martin / St Maarten,39
+251,Diego Martin,40
+252,Port of Spain,40
+253,Trinidad,40
+254,TRINIDAD AND TOBAGO,40
+255,Providenciales,41
+256,The Bight Settlement,41
+257,belize,42
+258,Caye Caulker,42
+259,Corozal Town,42
+260,San Ignacio,42
+261,Arenal Volcano National Park,43
+262,Atenas,43
+263,Barva,43
+264,Carmen,43
+265,Gulf of Papagayo,43
+266,Heredia,43
+267,Jaco,43
+268,Liberia,43
+269,Manuel Antonio,43
+270,Marbella,43
+271,Montezuma,43
+272,Nosara,43
+273,Platanillo,43
+274,Playa Flamingo,43
+275,Playa Grande,43
+276,Playa Hermosa,43
+277,Playa Samara,43
+278,Quepos,43
+279,San Jose,43
+280,Santa Ana,43
+281,Santa Elena,43
+282,Santa Teresa,43
+283,Tamarindo,43
+284,Uvita,43
+285,Antigua,44
+286,El Remate,44
+287,Guatemala,44
+288,Guatemala City,44
+289,San Pedro La Laguna,44
+290,goprohonduras,45
+291,Roatan,45
+292,Granada,46
+293,Leon,46
+294,Rivas,46
+295,San Juan del Sur,46
+296,Boquete,47
+297,Colon,47
+298,Panama,47
+299,Panama City,47
+300,Penonome,47
+301,abbotaford,48
+302,Abbotsford,48
+303,Abercorn,48
+304,Airdrie,48
+305,Ajax,48
+306,Alberta,48
+307,Aldergrove,48
+308,Alliston,48
+309,Ancaster,48
+310,Antigonish,48
+311,Banff,48
+312,Barrhead,48
+313,Barrie,48
+314,Bathurst,48
+315,BC,48
+316,Bedford,48
+317,Beeton,48
+318,Belleville,48
+319,Berri,48
+320,Blainville,48
+321,Blind Bay,48
+322,Blue Mountains,48
+323,Bobcaygeon,48
+324,Bowen Island,48
+325,Brampton,48
+326,Brandon,48
+327,Brantford,48
+328,British Columbia,48
+329,Bromont,48
+330,Brossard,48
+331,Burlington,48
+332,Burnaby,48
+333,Caledon,48
+334,Caledonia,48
+335,Calgary,48
+336,Camberley,48
+337,Cambridge,48
+338,Campbell River,48
+339,Canada,48
+340,Candiac,48
+341,Canmore,48
+342,Cantley,48
+343,Castlegar,48
+344,Charlottetown,48
+345,Chase,48
+346,Chatham,48
+347,Chelsea,48
+348,Chicoutimi,48
+349,Chilliwack,48
+350,Cobble Hill,48
+351,Cobourg,48
+352,Cochrane,48
+353,Cold Lake,48
+354,Collingwood,48
+355,Comox Valley,48
+356,Conception Bay South,48
+357,Coombs,48
+358,Coquitlam,48
+359,Cornwall,48
+360,Courtenay,48
+361,Cranbrook,48
+362,Cultus Lake,48
+363,Dartmouth,48
+364,Deep Cove Nova Scotia,48
+365,Delta,48
+366,Devonian,48
+367,Drayton Valley,48
+368,Drummondville,48
+369,Duncan,48
+370,east st paul,48
+371,Edmonton,48
+372,Fenelon Falls,48
+373,Field,48
+374,Fort Frances,48
+375,Fort Langley,48
+376,Fort McMurray,48
+377,Fort St. John,48
+378,Fredericton,48
+379,Gatineau,48
+380,Georgetown,48
+381,Gibsons,48
+382,Glacier National Park of Canada,48
+383,Grand Forks,48
+384,Grande Prairie,48
+385,Gravenhurst,48
+386,Grimsby,48
+387,Grunthal,48
+388,Guelph,48
+389,Halifax,48
+390,Hamilton,48
+391,Hawkesbury,48
+392,High Prairie,48
+393,Hope,48
+394,Houston,48
+395,Hudson,48
+396,Humboldt,48
+397,Huntsville,48
+398,Innisfail,48
+399,Innisfil,48
+400,Invermere,48
+401,Kamloops,48
+402,Kelowna,48
+403,Kenora,48
+404,Keremeos,48
+405,Kindersley,48
+406,King City,48
+407,Kingston,48
+408,Kitchener,48
+409,Kleinburg,48
+410,Komoka,48
+411,Lac La Biche,48
+412,Lac-Megantic,48
+413,Lac-Superieur,48
+414,Ladysmith,48
+415,Lake Country,48
+416,Lake Cowichan,48
+417,Lake Louise,48
+418,Langley,48
+419,Langley City,48
+420,Laval,48
+421,Lindsay,48
+422,Lions Bay,48
+423,Lion's Head,48
+424,Little Britain,48
+425,Lockport,48
+426,London,48
+427,Longueuil,48
+428,Manotick Ontario,48
+429,Maple,48
+430,Maple Ridge,48
+431,Markham,48
+432,Meaford,48
+433,merritt,48
+434,Mill Bay,48
+435,Milton,48
+436,Mirabel,48
+437,Mission,48
+438,Mississauga,48
+439,Moncton,48
+440,MontrÃ©al,48
+441,Montreal,48
+442,Mount Pearl,48
+443,Mount Royal,48
+444,Nakusp,48
+445,Nanaimo,48
+446,Nanoose Bay,48
+447,Nelson,48
+448,New Brunswick,48
+449,New Germany,48
+450,new west,48
+451,New Westminster,48
+452,Newmarket,48
+453,Niagara Falls,48
+454,Niagara-on-the-Lake,48
+455,Nipawin,48
+456,NL,48
+457,North Bay,48
+458,North Saanich,48
+459,North Sydney,48
+460,North Vancouver,48
+461,Nova Scotia,48
+462,Oakville,48
+463,Okotoks,48
+464,Ontario,48
+465,Orangeville,48
+466,Orillia,48
+467,Ormstown,48
+468,Ottawa,48
+469,ottawa canada,48
+470,Owen Sound,48
+471,Penticton,48
+472,Pertg,48
+473,Peterborough,48
+474,Pickering,48
+475,Pitt Meadows,48
+476,Pointe Claire,48
+477,Port Alberni,48
+478,Port Colborne,48
+479,Port Coquitlam,48
+480,Port Moody,48
+481,Port Perry,48
+482,Powell River,48
+483,Prince Albert,48
+484,Prince George,48
+485,Princess Royal Island,48
+486,Prospect,48
+487,Qualicum Beach,48
+488,Quebec,48
+489,Quebec City,48
+490,Quesnel,48
+491,Red Deer,48
+492,Redvers,48
+493,Regina,48
+494,Region of Waterloo,48
+495,Repentigny,48
+496,Richmond,48
+497,Richmond Hill,48
+498,Ridgeway,48
+499,Roberts Creek,48
+500,Rockwood,48
+501,Rockwood Ontario,48
+502,Rocky Mountain House,48
+503,Rosetown,48
+504,Saint-Damase,48
+505,Sainte-Anne-des-Plaines,48
+506,Sainte-Marie,48
+507,Salmon Arm,48
+508,Salt Spring Island,48
+509,Sarnia,48
+510,Saskatoon,48
+511,Sechelt,48
+512,Sept Iles,48
+513,Shawinigan,48
+514,Shefford,48
+515,Sherbrooke,48
+516,Sherwood Park,48
+517,Sidney,48
+518,Smithers,48
+519,Sooke,48
+520,South Slocan,48
+521,Southampton,48
+522,Sproat Lake,48
+523,Squamish,48
+524,St. Albert,48
+525,St. Catharines,48
+526,St. John's,48
+527,Stittsville,48
+528,Stony Plain,48
+529,Sudbury,48
+530,Summerland,48
+531,Sun Peaks,48
+532,Sunshine Coast,48
+533,Surrey,48
+534,Sussex,48
+535,Sydney,48
+536,Tahsis,48
+537,Tappen,48
+538,Texada Island,48
+539,Thornbury,48
+540,Thornhill,48
+541,Thorold,48
+542,Thunder Bay,48
+543,Tobermory,48
+544,Tofino,48
+545,Toronto,48
+546,toronto ontario,48
+547,Trail,48
+548,Trois-Rivieres,48
+549,Truro,48
+550,Tsawwassen,48
+551,Tumbler Ridge,48
+552,Turner Valley,48
+553,Unionville,48
+554,Vancouver,48
+555,Vancouver BC,48
+556,Vancouver Canada,48
+557,Vancouver Island,48
+558,vancouverr,48
+559,Vaudreuil-Dorion,48
+560,Vaughan,48
+561,Vernon,48
+562,Victoria,48
+563,Victoria BC canada,48
+564,Victoria Capital Regional District,48
+565,Vittoria,48
+566,wasaga beach,48
+567,Waterloo,48
+568,Waterton Lakes National Park,48
+569,Waterville,48
+570,Welland,48
+571,West Kelowna,48
+572,West Vancouver,48
+573,Whistler,48
+574,Whitby,48
+575,Whitchurch-Stouffville,48
+576,White Rock,48
+577,Whitehorse,48
+578,Wiarton,48
+579,Windsor,48
+580,Winnipeg,48
+581,Wolfville,48
+582,Yellowknife,48
+583,Zurich,48
+584,Greenland,49
+585,Acapulco,50
+586,Ajijic,50
+587,Akumal,50
+588,Atizapan de Zaragoza,50
+589,Bucerias,50
+590,Cabo San Lucas,50
+591,Cancun,50
+592,Ciudad De Maxico,50
+593,Ciudad Juarez,50
+594,Coatepec,50
+595,Colima,50
+596,Cozumel,50
+597,Cuautitlan Izcalli,50
+598,Cuernavaca,50
+599,Culiacan,50
+600,El Oro,50
+601,Grand Bourg,50
+602,Guadalajara,50
+603,Isla Mujeres,50
+604,Ixtapa-Zihuatanejo-Guerrero,50
+605,La Cruz de Huanacaxtle,50
+606,La Paz,50
+607,Leon,50
+608,Mazatlan,50
+609,Merida,50
+610,Mexico,50
+611,Mexico City,50
+612,Monterrey,50
+613,Morne-A-l'Eau,50
+614,Oaxaca,50
+615,Playa del Carmen,50
+616,Playa Maroma,50
+617,Puebla,50
+618,Puerto Escondido,50
+619,Puerto Vallarta,50
+620,Queretaro City,50
+621,Quintana Roo,50
+622,Riviera Maya,50
+623,Salamanca,50
+624,San Jose del Cabo,50
+625,San Miguel de Allende,50
+626,San Miguel de Cozumel,50
+627,San Pedro Garza Garcia,50
+628,Santa Cruz Huatulco,50
+629,Southern Mexico,50
+630,Tampico,50
+631,Tepoztlan,50
+632,Torreon,50
+633,Tulum,50
+634,Tuxtla Gutierrez,50
+635,Valladolid,50
+636,Veracruz,50
+637,Zapopan,50
+638,Zihuatanejo,50
+639,-,51
+640,Aberdeen,51
+641,Addison,51
+642,Agawam,51
+643,Agoura Hills,51
+644,Akron,51
+645,Alameda,51
+646,Alamo,51
+647,Alamogordo,51
+648,Alaska,51
+649,Albany,51
+650,Albion,51
+651,Albion Park Rail,51
+652,Albuquerque,51
+653,Alexandria,51
+654,Algonquin,51
+655,Alhambra,51
+656,Aliso Viejo,51
+657,Allen,51
+658,Allen Park,51
+659,Allentown,51
+660,Altamont,51
+661,Altamonte Springs,51
+662,Amarillo,51
+663,America,51
+664,American Canyon,51
+665,Ames,51
+666,Amherst,51
+667,Amsterdam,51
+668,Anaheim,51
+669,Anchorage,51
+670,Anderson,51
+671,Angola,51
+672,Ann Arbor,51
+673,Annapolis,51
+674,Apex,51
+675,Apple Valley,51
+676,Appleton,51
+677,Aptos,51
+678,Arcata,51
+679,Argyle,51
+680,Arizona,51
+681,Arkansas,51
+682,Arlington,51
+683,Arvada,51
+684,Asbury Park,51
+685,Ashburn,51
+686,Asheville,51
+687,Ashland,51
+688,Ashville,51
+689,Aspen,51
+690,Astoria,51
+691,Atascadero,51
+692,Athens,51
+693,Atlanta,51
+694,Atlantic City,51
+695,Au Gres,51
+696,Auburn,51
+697,aurora,51
+698,Austin,51
+699,Austin Texas,51
+700,Avila Beach,51
+701,Avon,51
+702,Avondale,51
+703,Azusa,51
+704,Bainbridge Island,51
+705,Baker City,51
+706,Bakersfield,51
+707,Baltimore,51
+708,Bamberg,51
+709,Bandon,51
+710,Bangor,51
+711,Bar Harbor,51
+712,Bartlesville,51
+713,Basalt,51
+714,Bastrop,51
+715,Baton Rouge,51
+716,bay area,51
+717,Bayside,51
+718,Beachwood,51
+719,Bear,51
+720,Beaufort,51
+721,Belgium,51
+722,Bellbrook,51
+723,Belleville,51
+724,Bellevue,51
+725,Bellingham,51
+726,Belmont,51
+727,Bend,51
+728,Benicia,51
+729,Berkeley,51
+730,Berkeley CA,51
+731,berks,51
+732,Berwyn,51
+733,Bethesda,51
+734,Bethlehem,51
+735,Beverly Hills,51
+736,Bexley,51
+737,Big Bear,51
+738,Big Sky,51
+739,Big Water,51
+740,Bigfork,51
+741,Billings,51
+742,Birch Bay,51
+743,Birmingham,51
+744,Bishopville,51
+745,Black,51
+746,Blaine,51
+747,Blooming Grove,51
+748,Bloomington,51
+749,Bloomington-Normal,51
+750,Blowing Rock,51
+751,Blue Bell,51
+752,Bluffton,51
+753,Boca Raton,51
+754,BoilerUpCalifornia,51
+755,Boise,51
+756,Boise Idaho,51
+757,Bondsville,51
+758,Bonita,51
+759,Bonita Springs,51
+760,Bonney Lake,51
+761,Boonton,51
+762,Borden,51
+763,Borrego Springs,51
+764,Bossier City,51
+765,Boston,51
+766,Bothell,51
+767,Boulder,51
+768,Bowie,51
+769,Boynton Beach,51
+770,Bozeman,51
+771,Brandon,51
+772,Branson,51
+773,Brasstown,51
+774,Brazil,51
+775,Brea,51
+776,Breckenridge,51
+777,Bremerton,51
+778,Brentwood,51
+779,Brewster,51
+780,Brighton,51
+781,Bristol,51
+782,Brockton,51
+783,Bronx,51
+784,Brookline,51
+785,Brooklyn,51
+786,Brooklyn Heights,51
+787,Broomfield,51
+788,Brownsburg,51
+789,Buffalo,51
+790,Burbank,51
+791,Burke,51
+792,Burlingame,51
+793,Burlington,51
+794,Burton,51
+795,Busan,51
+796,Butler,51
+797,CA,51
+798,Calabasas,51
+799,California,51
+800,California Desert,51
+801,California Hot Springs,51
+802,Calistoga,51
+803,Camarillo,51
+804,Camas,51
+805,Cambridge,51
+806,Camp Hill,51
+807,Campbell,51
+808,Canada,51
+809,Canby,51
+810,Cannon Beach,51
+811,canoga park,51
+812,Canyon Lake,51
+813,Cape Charles,51
+814,Cape Cod,51
+815,Cape Coral,51
+816,Capitola CA,51
+817,Captain Cook,51
+818,Cardiff,51
+819,Carlsbad,51
+820,Carmel,51
+821,Carmichael,51
+822,Carol Stream,51
+823,Carpinteria,51
+824,Carrollton,51
+825,Carson,51
+826,Cary,51
+827,Casa Grande,51
+828,Castle Rock,51
+829,Castro Valley,51
+830,Cathlamet,51
+831,Cave City,51
+832,Cedar Park,51
+833,Cedar Springs,51
+834,Centerville,51
+835,Central Coast California,51
+836,Central FL,51
+837,Central Florida,51
+838,Centreville,51
+839,Cerritos,51
+840,Chambersburg,51
+841,Champaign,51
+842,Chandler,51
+843,Chantilly,51
+844,Chapel Hill,51
+845,Charleston,51
+846,Charlevoix,51
+847,charlies,51
+848,Charlotte,51
+849,Charlotte Amalie,51
+850,Charlottesville,51
+851,Chattanooga,51
+852,Chelsea,51
+853,Cherry Valley,51
+854,Chesapeake,51
+855,Chesterfield,51
+856,Chestertown,51
+857,Chevy Chase,51
+858,Cheyenne,51
+859,Chicago,51
+860,chicago illinois,51
+861,Chicago's North Shore,51
+862,Chico,51
+863,China,51
+864,China Lake,51
+865,Chino Hills,51
+866,Christiansted,51
+867,Chula Vista,51
+868,Cincinnati,51
+869,Clarks Summit,51
+870,Clarksburg,51
+871,Clarkston,51
+872,Clarksville,51
+873,Clawson,51
+874,Clearwater,51
+875,Clemson,51
+876,Cleveland,51
+877,Cleveland Heights,51
+878,Cliffside Park,51
+879,Clifton,51
+880,Clifton Heights,51
+881,Clinton,51
+882,Clovis,51
+883,Coarsegold,51
+884,Cocoa Beach,51
+885,Coconut Creek,51
+886,Cody,51
+887,Coeur d'Alene,51
+888,Coldfoot,51
+889,College Park,51
+890,College Station,51
+891,Colleyville,51
+892,Colorado,51
+893,Colorado City,51
+894,Colorado Springs,51
+895,Colts Neck,51
+896,Columbia,51
+897,Columbus,51
+898,Concord,51
+899,Conesus,51
+900,Connecticut,51
+901,Cookeville,51
+902,Coppell,51
+903,Coral Gables,51
+904,Coral Springs,51
+905,Coralville,51
+906,Coram,51
+907,Corapolis,51
+908,Cordova,51
+909,Corona,51
+910,Coronado,51
+911,Corpus Christi,51
+912,Corte Madera,51
+913,Corvallis,51
+914,Costa Mesa,51
+915,Coupeville,51
+916,Covina,51
+917,Covington,51
+918,Cranbury,51
+919,Crested Butte,51
+920,Crockett,51
+921,Crown Point,51
+922,Crystal Lake,51
+923,Crystal River,51
+924,CT,51
+925,Cullman,51
+926,Culver City,51
+927,Cupertino,51
+928,Cypress,51
+929,Dallas,51
+930,Daly City,51
+931,Damascus,51
+932,Dana Point,51
+933,Danville,51
+934,Darien,51
+935,Darwin,51
+936,Davenport,51
+937,Davidson,51
+938,Davie,51
+939,Davis,51
+940,Dayton,51
+941,Daytona Beach,51
+942,Daytona Beach Shores,51
+943,De Pere,51
+944,Dedham,51
+945,Del Mar,51
+946,Delhi,51
+947,Delray Beach,51
+948,Denmark,51
+949,Denton,51
+950,Denver,51
+951,denver29,51
+952,Des Moines,51
+953,Des Plaines,51
+954,Destin,51
+955,Detroit,51
+956,Devon,51
+957,D'Iberville,51
+958,Dix Hills,51
+959,Dodgeville,51
+960,Dorchester,51
+961,Downers Grove,51
+962,Downtown Orlando,51
+963,Doylestown,51
+964,Draper,51
+965,Dripping Springs,51
+966,Drummonds,51
+967,Duarte,51
+968,Dublin,51
+969,Dunedin,51
+970,Dunn Loring,51
+971,Durango,51
+972,Durham,51
+973,Dutchmaid,51
+974,Duxbury,51
+975,Eagle,51
+976,Eagle River,51
+977,East Bay,51
+978,East Brunswick,51
+979,east coast,51
+980,East Granby,51
+981,East Grand Rapids,51
+982,East Hampton,51
+983,East Lansing,51
+984,East Palo Alto,51
+985,Easton,51
+986,Eastvale,51
+987,Eau Claire,51
+988,Eden Prairie,51
+989,Edgewater,51
+990,Edina,51
+991,Edison,51
+992,Edmond,51
+993,Edmonds,51
+994,El Cerrito,51
+995,El Dorado Hills,51
+996,El Jebel,51
+997,El Paso,51
+998,El Sobrante,51
+999,Elgin,51
+1000,Elizabeth,51
+1001,Elk Grove,51
+1002,Elk Grove Village,51
+1003,Elkins,51
+1004,Ellicott City,51
+1005,Ellington,51
+1006,Elmhurst,51
+1007,Emeryville,51
+1008,Encinitas,51
+1009,encino,51
+1010,Endicott,51
+1011,England,51
+1012,Englewood,51
+1013,Enumclaw,51
+1014,Erie,51
+1015,Erlanger,51
+1016,Escondido,51
+1017,Essex,51
+1018,Eugene,51
+1019,Evans,51
+1020,Evanston,51
+1021,Evansville,51
+1022,Everett,51
+1023,Ewa Beach,51
+1024,Excelsior,51
+1025,Exeter,51
+1026,Fair Play,51
+1027,Fairbanks,51
+1028,Fairfax,51
+1029,Fairfax County,51
+1030,Fairfield,51
+1031,Fairhope,51
+1032,Fairview,51
+1033,Falls Church,51
+1034,Falmouth,51
+1035,Far Rockaway,51
+1036,Farmington,51
+1037,Fayetteville,51
+1038,Federal Way,51
+1039,Felton,51
+1040,Fenton,51
+1041,Fernandina Beach,51
+1042,Ferndale,51
+1043,Finley,51
+1044,firefly2280,51
+1045,Fishers,51
+1046,Fishkill,51
+1047,Flagler Beach,51
+1048,Flagstaff,51
+1049,Flint,51
+1050,Floral Park,51
+1051,Florida,51
+1052,Florida City,51
+1053,Florida Keys,51
+1054,florida usa,51
+1055,Folsom,51
+1056,Fontana,51
+1057,Forest Grove,51
+1058,FOREST LAKE,51
+1059,Forestville,51
+1060,forster,51
+1061,fort collins,51
+1062,Fort Lauderdale,51
+1063,Fort Lee,51
+1064,Fort Lewis,51
+1065,Fort Mill,51
+1066,Fort Myers,51
+1067,Fort Stockton,51
+1068,Fort Walton Beach,51
+1069,Fort Washington,51
+1070,Fort Wayne,51
+1071,Fort Worth,51
+1072,Foster City,51
+1073,Fountain Hills,51
+1074,Framingham,51
+1075,Francestown,51
+1076,Frankfort,51
+1077,Franklin,51
+1078,Fredericksburg,51
+1079,Freeland,51
+1080,Fremont,51
+1081,Frenchtown,51
+1082,Fresno,51
+1083,Fridley,51
+1084,Frisco,51
+1085,Frontenac,51
+1086,Ft. Lauderdale,51
+1087,Fullerton,51
+1088,Fulton,51
+1089,Fuquay-Varina,51
+1090,Gainesville,51
+1091,Gaithersburg,51
+1092,Galena,51
+1093,Galveston,51
+1094,Galveston Texas,51
+1095,Garberville,51
+1096,Garden City,51
+1097,Garden Grove,51
+1098,Gardena,51
+1099,Garner,51
+1100,Gastonia,51
+1101,Gatlinburg,51
+1102,Gator Nation,51
+1103,Georgetown,51
+1104,Germantown,51
+1105,Gig Harbor,51
+1106,Gilbert,51
+1107,Gilroy,51
+1108,Gladstone,51
+1109,Glen Cove,51
+1110,Glen Ellyn,51
+1111,Glendale,51
+1112,Glendora,51
+1113,Glenolden,51
+1114,Glenside,51
+1115,Glenwood Springs,51
+1116,Gold Canyon,51
+1117,Golden Valley,51
+1118,Goleta,51
+1119,Golf,51
+1120,Goodyear,51
+1121,Grand Junction,51
+1122,Grand Marais,51
+1123,Grand Rapids,51
+1124,Granite Bay,51
+1125,Grass Valley,51
+1126,Great Falls,51
+1127,Great Neck,51
+1128,Greater Palm Springs,51
+1129,Greeley,51
+1130,Greenfield,51
+1131,Greensboro,51
+1132,Greenville,51
+1133,Greenwich,51
+1134,Grinnell,51
+1135,Grosse Ile,51
+1136,Grosse Pointe,51
+1137,Guerneville,51
+1138,Gulfport,51
+1139,Gulliver,51
+1140,Gurnee,51
+1141,Hackettstown,51
+1142,Hailey,51
+1143,Haleiwa,51
+1144,Hale'iwa,51
+1145,Halibut Cove,51
+1146,Hallandale Beach,51
+1147,Hamburg,51
+1148,Hamilton,51
+1149,hampshire,51
+1150,Hanover,51
+1151,Hansville,51
+1152,Harbor Springs,51
+1153,Harker Heights,51
+1154,Harrisburg,51
+1155,Harrison,51
+1156,Hartford,51
+1157,Hartland,51
+1158,Hartsdale,51
+1159,Hattiesburg,51
+1160,Hawaii,51
+1161,Hawley,51
+1162,Hayden,51
+1163,Hayward,51
+1164,Healdsburg,51
+1165,Heathrow,51
+1166,Heber City,51
+1167,Helena,51
+1168,Hemet,51
+1169,Henderson,51
+1170,Hendersonville,51
+1171,Hercules,51
+1172,Hereford,51
+1173,Hermosa Beach,51
+1174,Herndon,51
+1175,Hershey,51
+1176,Hialeah Gardens,51
+1177,Hickory,51
+1178,Hidden Hills,51
+1179,High Point,51
+1180,Highland Park,51
+1181,Highland Village,51
+1182,Hills of New Jersey,51
+1183,Hillsboro,51
+1184,Hillsborough,51
+1185,Hilo,51
+1186,Hilton Head,51
+1187,Hinton,51
+1188,Hobe Sound,51
+1189,Hoboken,51
+1190,Holland,51
+1191,Hollister,51
+1192,Hollywood,51
+1193,Holualoa,51
+1194,Homer,51
+1195,Honolulu,51
+1196,Hoover,51
+1197,Hopkinton,51
+1198,Hornbrook,51
+1199,Horseheads,51
+1200,Horseshoe Bay,51
+1201,Hortonville,51
+1202,Houston,51
+1203,Hudson,51
+1204,Hull,51
+1205,Hummelstown,51
+1206,Huntingdon,51
+1207,Huntington,51
+1208,Huntington Beach,51
+1209,Huntington Woods,51
+1210,Huntsville,51
+1211,Hyattsville,51
+1212,Hyde Park,51
+1213,Hygiene,51
+1214,Idaho,51
+1215,Idaho Falls,51
+1216,Illinois,51
+1217,Incline Village,51
+1218,Independence,51
+1219,Indian Shores,51
+1220,Indiana USA,51
+1221,Indianapolis,51
+1222,Indio,51
+1223,Industry,51
+1224,intermountain,51
+1225,Inwood,51
+1226,IOWA,51
+1227,Iowa City,51
+1228,Ipswich,51
+1229,Ireland,51
+1230,Irvine,51
+1231,Irving,51
+1232,Irvington,51
+1233,Island of Hawaii,51
+1234,Isle of Palms,51
+1235,Issaquah,51
+1236,Italy,51
+1237,Jackson,51
+1238,Jacksonville,51
+1239,Jacksonville Beach,51
+1240,Janesville,51
+1241,Jax,51
+1242,Jenkintown,51
+1243,Jermyn,51
+1244,Jersey City,51
+1245,Johannesburg,51
+1246,Johnson City,51
+1247,Joshua,51
+1248,Juneau,51
+1249,Jupiter,51
+1250,Ka Lae,51
+1251,Ka'anapali,51
+1252,Kailua,51
+1253,Kailua-Kona,51
+1254,Kalama,51
+1255,Kalamazoo,51
+1256,Kalispell,51
+1257,kamuela,51
+1258,Kaneohe,51
+1259,Kankakee,51
+1260,Kansas,51
+1261,Kansas City,51
+1262,Kansas City metro,51
+1263,Kapaa,51
+1264,Katy,51
+1265,Kauai,51
+1266,Keansburg,51
+1267,Kearney,51
+1268,Kearny,51
+1269,Kekaha,51
+1270,Keller,51
+1271,Kellogg,51
+1272,Kenmore,51
+1273,Kennett Square,51
+1274,Kennewick,51
+1275,Kensington,51
+1276,kent,51
+1277,Key Biscayne,51
+1278,Key Largo,51
+1279,Key West,51
+1280,Kihei,51
+1281,Kill Devil Hills,51
+1282,King of Prussia,51
+1283,Kingfield,51
+1284,Kirkland,51
+1285,Kissimmee,51
+1286,Klamath Falls,51
+1287,Knoxville,51
+1288,Kodiak Island,51
+1289,Kohala Coast,51
+1290,Koloa,51
+1291,Kona,51
+1292,Kuna,51
+1293,La Canada Flintridge,51
+1294,La Crescenta,51
+1295,La Grande,51
+1296,La Habra,51
+1297,La Jolla,51
+1298,La Mesa,51
+1299,La Quinta,51
+1300,Ladera Ranch,51
+1301,Lafayette,51
+1302,Lafayette Hill,51
+1303,Laguna Beach,51
+1304,Laguna Niguel,51
+1305,Lagunitas,51
+1306,Lahaina,51
+1307,Lake Arrowhead,51
+1308,Lake City,51
+1309,Lake Forest,51
+1310,Lake Oswego,51
+1311,Lake Peekskill,51
+1312,Lake Tahoe (California),51
+1313,Lake Worth,51
+1314,Lake Wylie,51
+1315,Lakeland,51
+1316,Lakeview,51
+1317,Lakewood,51
+1318,Lakewood Pierce County,51
+1319,Lanai City,51
+1320,Lancaster,51
+1321,Lansdowne,51
+1322,LaPorte,51
+1323,Laredo,51
+1324,Largo,51
+1325,Larkspur,51
+1326,Las Cruces,51
+1327,Las Vegas,51
+1328,Latrobe,51
+1329,Laupahoehoe,51
+1330,Laurel,51
+1331,Lawndale,51
+1332,Lawrence,51
+1333,Lawrenceville,51
+1334,Lawton,51
+1335,Leavenworth,51
+1336,Lebanon,51
+1337,Leesburg,51
+1338,Lehigh Acres,51
+1339,Leland,51
+1340,Lemoore,51
+1341,Leucadia,51
+1342,Lewes,51
+1343,Lexington,51
+1344,Libby,51
+1345,Libertyville,51
+1346,Lincoln,51
+1347,Lisle,51
+1348,Little Falls,51
+1349,Little Rock,51
+1350,Little Silver,51
+1351,Little Switzerland,51
+1352,Little Torch Key,51
+1353,Littlerock,51
+1354,Littleton,51
+1355,Livermore,51
+1356,Livonia,51
+1357,Lockport,51
+1358,Lodi,51
+1359,Logan,51
+1360,Lolo,51
+1361,Loma Linda,51
+1362,Lompoc,51
+1363,London,51
+1364,Londonderry,51
+1365,Lone Tree,51
+1366,Long Beach,51
+1367,Long Island,51
+1368,Long Island City,51
+1369,Longboat Key,51
+1370,Longmont,51
+1371,Longwood,51
+1372,Lorton,51
+1373,Los Alamitos,51
+1374,Los Alamos,51
+1375,Los Altos,51
+1376,Los Angeles,51
+1377,Los Angeles/ USA,51
+1378,Los Gatos,51
+1379,Louisiana,51
+1380,Louisville,51
+1381,Loveland,51
+1382,Lower Gwynedd,51
+1383,Lucas,51
+1384,Lumberton,51
+1385,Lutherville,51
+1386,Lutz,51
+1387,Lyons,51
+1388,Madison,51
+1389,Magnolia,51
+1390,Maine,51
+1391,Makawao,51
+1392,Malibu,51
+1393,Manahawkin,51
+1394,Manasquan,51
+1395,Manassas,51
+1396,Manchester,51
+1397,Manchester-by-the-Sea,51
+1398,Manhattan Beach,51
+1399,Manila,51
+1400,Manlius,51
+1401,Mansfield,51
+1402,Manteca,51
+1403,Maplewood,51
+1404,Marble,51
+1405,Marblehead,51
+1406,Marigot Bay,51
+1407,Marin County,51
+1408,Marina,51
+1409,Marina del Rey,51
+1410,Marlton,51
+1411,Marshall,51
+1412,Maryland,51
+1413,Marysville,51
+1414,Maryville,51
+1415,Mason,51
+1416,Maspeth,51
+1417,Massachusetts,51
+1418,Massapequa,51
+1419,Matteson,51
+1420,Maui,51
+1421,maunaloa,51
+1422,Maury,51
+1423,McAllen,51
+1424,McCall,51
+1425,Mcgaheysville,51
+1426,McKean,51
+1427,McKinney,51
+1428,McLean,51
+1429,McMinnville,51
+1430,Medford,51
+1431,Media,51
+1432,Medical Lake,51
+1433,Medina,51
+1434,Melbourne,51
+1435,Melbourne Beach,51
+1436,Memphis,51
+1437,Menifee,51
+1438,Menlo Park,51
+1439,Mentor,51
+1440,Merced,51
+1441,Meredith,51
+1442,Meriden,51
+1443,Meridian,51
+1444,Merino,51
+1445,Merritt Island,51
+1446,Mertztown,51
+1447,Mesa,51
+1448,Metaline Falls,51
+1449,Metro Detroit,51
+1450,Metro Minneapolis-Saint Paul,51
+1451,Miami,51
+1452,Miami Beach,51
+1453,Miami Lakes,51
+1454,Mich,51
+1455,Michigan,51
+1456,Michigan City,51
+1457,Middle Village,51
+1458,Middlebury,51
+1459,Middleton,51
+1460,Middletown,51
+1461,Midland,51
+1462,Midway,51
+1463,midwest,51
+1464,Midwest City,51
+1465,Mill Creek,51
+1466,Mill Valley,51
+1467,Millbrae,51
+1468,Miller Place,51
+1469,Millington,51
+1470,Millsboro,51
+1471,Milton,51
+1472,Milwaukee,51
+1473,Minneapolis,51
+1474,Minnesota,51
+1475,Mission Viejo,51
+1476,Missoula,51
+1477,Missouri,51
+1478,Missouri Valley,51
+1479,Moab,51
+1480,Moberly,51
+1481,Mobile,51
+1482,Molalla,51
+1483,Monkton,51
+1484,Montague,51
+1485,Montecito,51
+1486,Monterey,51
+1487,Monterey County,51
+1488,Monterey Park,51
+1489,Monument,51
+1490,Moore,51
+1491,Moorpark,51
+1492,Moreno Valley,51
+1493,Morganton,51
+1494,Morristown,51
+1495,Morro Bay,51
+1496,Morton Grove,51
+1497,Moscow,51
+1498,Mount Desert Island,51
+1499,Mount Pleasant,51
+1500,Mount Vernon,51
+1501,Mount Washington,51
+1502,mountain creek,51
+1503,Mountain View,51
+1504,Ms,51
+1505,Mt Airy NC,51
+1506,Mt. Airy,51
+1507,Mukilteo,51
+1508,Muncie,51
+1509,Mundelein,51
+1510,Munford,51
+1511,Munising,51
+1512,Murfreesboro,51
+1513,Murphys,51
+1514,Murrells Inlet,51
+1515,Murrieta,51
+1516,Muskegon,51
+1517,Myrtle Beach,51
+1518,N. California,51
+1519,Nacogdoches,51
+1520,Naknek,51
+1521,Nantucket,51
+1522,Napa,51
+1523,Naperville,51
+1524,Napili-Honokowai,51
+1525,Naples,51
+1526,Nashville,51
+1527,Natick,51
+1528,Navarre,51
+1529,NE US,51
+1530,Nebraska,51
+1531,Nederland,51
+1532,Nevada,51
+1533,Nevada City,51
+1534,Neverland,51
+1535,New Albany,51
+1536,New Bedford,51
+1537,New Buffalo,51
+1538,New Castle,51
+1539,New Hampshire,51
+1540,New Hartford,51
+1541,New Haven,51
+1542,New Jersey,51
+1543,New London,51
+1544,New Mexico,51
+1545,New Orleans,51
+1546,New Plymouth,51
+1547,New Providence,51
+1548,New Rochelle,51
+1549,New Smyrna Beach,51
+1550,New Sweden,51
+1551,New York,51
+1552,New York City,51
+1553,Newark,51
+1554,Newberry,51
+1555,Newfield,51
+1556,Newport,51
+1557,Newport Beach,51
+1558,Newton,51
+1559,Niagara Falls,51
+1560,Nikiski,51
+1561,Nj,51
+1562,Nolanville,51
+1563,nor-cal,51
+1564,Norfolk,51
+1565,Normal,51
+1566,Normandy Beach,51
+1567,Norridge,51
+1568,North Bend,51
+1569,North Bergen,51
+1570,North Bethesda,51
+1571,North Carolina,51
+1572,North Carolina Coast,51
+1573,North Carolina Mountains,51
+1574,North Chicago,51
+1575,North Dakota,51
+1576,north hollywood,51
+1577,North Las Vegas,51
+1578,North Miami Beach,51
+1579,North Ogden,51
+1580,North Pole,51
+1581,North Ridgeville,51
+1582,Northbrook,51
+1583,NorthEast,51
+1584,Northern Cal,51
+1585,Northern California,51
+1586,Northern ID,51
+1587,Northern Virginia,51
+1588,Northfield,51
+1589,Northport,51
+1590,Northville,51
+1591,Norwalk,51
+1592,Norwood,51
+1593,Novato,51
+1594,NY,51
+1595,NYC,51
+1596,Oahu,51
+1597,Oahu's North Shore,51
+1598,Oak Park,51
+1599,Oak Ridge,51
+1600,Oakhurst,51
+1601,Oakland,51
+1602,Oakland Park,51
+1603,Oakley,51
+1604,Oberlin,51
+1605,Ocala,51
+1606,Ocean City,51
+1607,Oceanside,51
+1608,Ocoee,51
+1609,O'Fallon,51
+1610,Ogden,51
+1611,OH,51
+1612,Ohio,51
+1613,Ojai,51
+1614,Oklahoma,51
+1615,Oklahoma City,51
+1616,Olathe,51
+1617,Old Orchard Beach,51
+1618,Old Saybrook,51
+1619,Oldsmar,51
+1620,Olympia,51
+1621,Omaha,51
+1622,Ontario,51
+1623,Orange,51
+1624,Orange County,51
+1625,Orangeburg,51
+1626,oregon,51
+1627,Oregon USA,51
+1628,Orem,51
+1629,Orinda,51
+1630,Orion,51
+1631,Orlando,51
+1632,Overland Park,51
+1633,Oxford,51
+1634,Oxon Hill,51
+1635,PA,51
+1636,Pacific Grove,51
+1637,Pacifica,51
+1638,Pahoa,51
+1639,Palm Bay,51
+1640,Palm Beach,51
+1641,Palm Beach Gardens,51
+1642,Palm Desert,51
+1643,Palm Harbor,51
+1644,Palm Springs,51
+1645,Palmdale,51
+1646,Palo Alto,51
+1647,Palos Verdes Estates,51
+1648,Panama City Beach,51
+1649,Paradise Valley,51
+1650,Paramus,51
+1651,Pardeeville,51
+1652,Park City,51
+1653,Park Forest,51
+1654,Park Ridge,51
+1655,Parker,51
+1656,Pasadena,51
+1657,Pasco,51
+1658,Paso Robles,51
+1659,Paso Robles Wine Region,51
+1660,Pataskala,51
+1661,Paw Paw,51
+1662,Payson,51
+1663,Pearland,51
+1664,Pebble Beach,51
+1665,Pembroke Pines,51
+1666,Pennington,51
+1667,Pennsylvania,51
+1668,Peoria,51
+1669,Perrysburg,51
+1670,Perryville,51
+1671,Peru,51
+1672,Petaluma,51
+1673,Pflugerville,51
+1674,Philadelphia,51
+1675,Phillipsburg,51
+1676,Phoenix,51
+1677,Phoenix AZ,51
+1678,Phoenixville,51
+1679,Phx,51
+1680,Pine Hill,51
+1681,Pinehurst,51
+1682,Pineville,51
+1683,Pismo Beach,51
+1684,Pittsburg,51
+1685,Pittsburgh,51
+1686,Pittsford,51
+1687,Placentia,51
+1688,Placerville,51
+1689,Placitas,51
+1690,Plainfield,51
+1691,Plainview,51
+1692,Plandome,51
+1693,Plano,51
+1694,plantation,51
+1695,Plattsburgh,51
+1696,Pleasant Grove,51
+1697,Pleasant Hill,51
+1698,Pleasanton,51
+1699,Plymouth,51
+1700,Pocatello,51
+1701,Pocono Mountains Region,51
+1702,Pocono Mtns,51
+1703,Poinciana,51
+1704,Point Roberts,51
+1705,Poland,51
+1706,Polson,51
+1707,Pompano Beach,51
+1708,Pompton Lakes,51
+1709,Ponte Vedra Beach,51
+1710,Port Angeles,51
+1711,Port Arthur,51
+1712,Port Charlotte,51
+1713,Port Neches,51
+1714,Port Orange,51
+1715,Port Orchard,51
+1716,Port Saint Lucie,51
+1717,Port Townsend,51
+1718,Portal,51
+1719,Portales,51
+1720,Portland,51
+1721,Portola Valley,51
+1722,Portsmouth,51
+1723,Potomac,51
+1724,Poulsbo,51
+1725,Poway,51
+1726,Princeton,51
+1727,Princeville,51
+1728,Prineville,51
+1729,Providence,51
+1730,Provo,51
+1731,Punta Gorda,51
+1732,Puyallup,51
+1733,Queens,51
+1734,Quincy,51
+1735,Raleigh,51
+1736,Ramsey,51
+1737,Rancho Cucamonga,51
+1738,Rancho Mirage,51
+1739,Rancho Santa Fe,51
+1740,Rancho Santa Margarita,51
+1741,Ranger,51
+1742,Razorback,51
+1743,Reading,51
+1744,Red Bank,51
+1745,Redding,51
+1746,Redington Shores,51
+1747,Redlands,51
+1748,Redmond,51
+1749,Redondo Beach,51
+1750,Redwood City,51
+1751,Rehoboth Beach,51
+1752,Reno,51
+1753,Renton,51
+1754,Reston,51
+1755,Rexburg,51
+1756,Rhode Island,51
+1757,Richland,51
+1758,Richmond,51
+1759,Ridgeland,51
+1760,Ridgway,51
+1761,Rittman,51
+1762,Riverdale,51
+1763,Riverside,51
+1764,Roanoke,51
+1765,Rochester,51
+1766,Rocklin,51
+1767,Rockport,51
+1768,Rockville,51
+1769,Rogers,51
+1770,Rohnert Park,51
+1771,Rolla,51
+1772,Roselawn Finance,51
+1773,Roselle,51
+1774,Rosenberg,51
+1775,Rosewood,51
+1776,Roswell,51
+1777,Round Rock,51
+1778,Roxboro,51
+1779,Royal Oak,51
+1780,Russia,51
+1781,Rutland,51
+1782,Sachse,51
+1783,Sacramento,51
+1784,sacramento ca,51
+1785,Safety Harbor,51
+1786,Saint Augustine Beach,51
+1787,Saint Charles,51
+1788,Saint Clair Shores,51
+1789,Saint Georges Island,51
+1790,saint helen,51
+1791,Saint Helena,51
+1792,Saint Ignatius,51
+1793,Saint Joseph,51
+1794,Saint Louis,51
+1795,Saint Paul,51
+1796,Salem,51
+1797,Salinas,51
+1798,Salt Lake City,51
+1799,Saluda,51
+1800,Sammamish,51
+1801,San Antonio,51
+1802,San Bruno,51
+1803,San Clemente,51
+1804,San Diego,51
+1805,San Dimas,51
+1806,San Francisco,51
+1807,San Francisco CA,51
+1808,San Francisco California,51
+1809,San Jose,51
+1810,San Juan Capistrano,51
+1811,San Luis Obispo,51
+1812,San Luis Obispo County,51
+1813,San Marcos,51
+1814,San Marino,51
+1815,San Mateo,51
+1816,San Rafael,51
+1817,San Ramon,51
+1818,Sandia Park,51
+1819,Sandy,51
+1820,Sanford,51
+1821,Sanibel Island,51
+1822,Santa Ana,51
+1823,Santa Barbara,51
+1824,Santa Clara,51
+1825,Santa Clarita,51
+1826,Santa Cruz,51
+1827,Santa Fe,51
+1828,Santa Monica,51
+1829,Santa Rosa,51
+1830,Santa teresa,51
+1831,Sarasota,51
+1832,Saratoga,51
+1833,Sausalito,51
+1834,Sawyer,51
+1835,sc usa,51
+1836,Scarborough,51
+1837,Schaumburg,51
+1838,Schererville,51
+1839,Scotch Plains,51
+1840,Scotland,51
+1841,Scotts Valley,51
+1842,Scottsdale,51
+1843,Sea Isle City,51
+1844,Seaford,51
+1845,Seal Beach,51
+1846,SeaTac,51
+1847,Seattle,51
+1848,Seattle WA,51
+1849,Seattle Washington,51
+1850,Sebastian,51
+1851,Sebastopol,51
+1852,Sebring,51
+1853,Sedalia,51
+1854,Sedona,51
+1855,Selah,51
+1856,Seminole,51
+1857,Semmes,51
+1858,Sequim,51
+1859,Severna Park,51
+1860,Shaker Heights,51
+1861,Sharon,51
+1862,Shawnee,51
+1863,Shelby,51
+1864,Shell Beach,51
+1865,ShelleyMHart,51
+1866,Sherman Oaks,51
+1867,Ship Bottom,51
+1868,Shorewood Hills,51
+1869,Shreveport,51
+1870,Shrewsbury,51
+1871,Sidney,51
+1872,Silver Spring,51
+1873,Silverthorne,51
+1874,Silverton,51
+1875,Simi Valley,51
+1876,Sims,51
+1877,Simsbury,51
+1878,Singer Island,51
+1879,Sioux Falls,51
+1880,Skagway,51
+1881,Skokie,51
+1882,SLC,51
+1883,SLC Utah,51
+1884,Snohomish,51
+1885,Snowflake,51
+1886,Snowmass Village,51
+1887,socal,51
+1888,Soldotna,51
+1889,Solvang,51
+1890,Somerset,51
+1891,Somersworth,51
+1892,Somerville,51
+1893,Sonoma,51
+1894,Sonoma County,51
+1895,Soquel,51
+1896,South Barrington,51
+1897,South Bend,51
+1898,South Brunswick,51
+1899,South Cairo,51
+1900,South Carolina,51
+1901,South Jordan,51
+1902,South Lake Tahoe,51
+1903,South Lyon,51
+1904,South Milwaukee,51
+1905,South New Berlin,51
+1906,South Pasadena,51
+1907,South Plainfield,51
+1908,South San Francisco,51
+1909,South Wales,51
+1910,Southampton,51
+1911,Southern Nevada,51
+1912,Southfield,51
+1913,Southlake,51
+1914,Southwest Ranches,51
+1915,Spanish Springs,51
+1916,Sparta,51
+1917,Spokane,51
+1918,Spokane Valley,51
+1919,Spring,51
+1920,Spring Lake,51
+1921,Spring Park,51
+1922,Springdale,51
+1923,Springfield,51
+1924,St. Augustine,51
+1925,St. Croix,51
+1926,St. George,51
+1927,St. Louis,51
+1928,St. Lucia,51
+1929,St. Paul,51
+1930,St. Petersburg,51
+1931,Stamford,51
+1932,Stanford,51
+1933,State College,51
+1934,Staten Island,51
+1935,Steamboat Springs,51
+1936,Steilacoom,51
+1937,Sterling,51
+1938,Sterling Heights,51
+1939,Stillwater,51
+1940,Stillwater Oklahoma,51
+1941,Stonington,51
+1942,Stormville,51
+1943,Stow,51
+1944,Stuart,51
+1945,suburban Boston,51
+1946,SUDAMERICA,51
+1947,Suffern,51
+1948,Sugar Grove,51
+1949,Sugar Land,51
+1950,Sumner,51
+1951,Sun City,51
+1952,Sun City West,51
+1953,Sun Lakes,51
+1954,Sun Valley,51
+1955,Sunny Isles Beach,51
+1956,Sunnyside,51
+1957,Sunnyvale,51
+1958,Sunriver,51
+1959,Sunset Beach,51
+1960,Sunset Valley,51
+1961,Surprise,51
+1962,Swedeborg,51
+1963,Sweden,51
+1964,Sweet Home,51
+1965,Sweetwater,51
+1966,Swiss,51
+1967,Switzerland,51
+1968,Sykesville,51
+1969,Syracuse,51
+1970,Tacoma,51
+1971,Tahoe City,51
+1972,Tallahassee,51
+1973,Tamaqua,51
+1974,Tampa,51
+1975,Tarpon Springs,51
+1976,Teaneck,51
+1977,Tecoma,51
+1978,Telluride,51
+1979,Temecula,51
+1980,Tempe,51
+1981,Temperance,51
+1982,Tenafly,51
+1983,Tennessee,51
+1984,Terre Haute,51
+1985,Teutopolis,51
+1986,Texarkana,51
+1987,Texas,51
+1988,Texas Gulf Coast,51
+1989,The Cincinnati Region,51
+1990,The Hamptons,51
+1991,The Villages,51
+1992,The Woodlands,51
+1993,Thornton,51
+1994,Thousand Islands New York,51
+1995,Thousand Oaks,51
+1996,Tiburon,51
+1997,Tigard,51
+1998,Tillamook,51
+1999,Titusville,51
+2000,Todd Mission,51
+2001,Toledo,51
+2002,Topanga,51
+2003,Toronto,51
+2004,Torrance,51
+2005,Tortola,51
+2006,Tracy,51
+2007,Traverse City,51
+2008,Trophy Club,51
+2009,Trotwood,51
+2010,Troy,51
+2011,Truckee,51
+2012,Tucson,51
+2013,Tulsa,51
+2014,Tupelo,51
+2015,Tuscaloosa,51
+2016,Tustin,51
+2017,U.S.,51
+2018,Ukiah,51
+2019,Union,51
+2020,Union City,51
+2021,Unionville,51
+2022,United,51
+2023,United State,51
+2024,United States,51
+2025,Upland,51
+2026,Upper Lake,51
+2027,Urbana,51
+2028,USA,51
+2029,Utah,51
+2030,Vacaville,51
+2031,Vail,51
+2032,Valley Forge,51
+2033,Vancouver,51
+2034,Venango,51
+2035,Venice,51
+2036,Ventura,51
+2037,Vermilion,51
+2038,Vermont,51
+2039,Vernal,51
+2040,Vero Beach,51
+2041,Vestal,51
+2042,Victorville,51
+2043,Vienna,51
+2044,Villages,51
+2045,Virginia,51
+2046,Virginia Beach,51
+2047,Visalia,51
+2048,Vista,51
+2049,Voorhees,51
+2050,Wabasso,51
+2051,Waco,51
+2052,Waddington,51
+2053,Waikiki,51
+2054,Waikoloa,51
+2055,Wailua,51
+2056,Wakefield,51
+2057,Walnut Cove,51
+2058,Walnut Creek,51
+2059,Wantagh,51
+2060,Warren,51
+2061,Warwick,51
+2062,Washington,51
+2063,Washington Crossing,51
+2064,Washington DC,51
+2065,Watauga,51
+2066,Water Island,51
+2067,Water Valley,51
+2068,Waterbury,51
+2069,Waterford,51
+2070,Waterloo,51
+2071,Watertown,51
+2072,Watsonville,51
+2073,Wausau,51
+2074,Wayne,51
+2075,Weaverville,51
+2076,Wedowee,51
+2077,Weed,51
+2078,Wellesley,51
+2079,Wenatchee,51
+2080,West Berlin,51
+2081,West Covina,51
+2082,West Des Moines,51
+2083,West Hollywood,51
+2084,West Linn,51
+2085,West New York,51
+2086,West Palm Beach,51
+2087,West Springfield,51
+2088,West Stockholm,51
+2089,Westbrook,51
+2090,Westerly,51
+2091,Westerville,51
+2092,Westfield,51
+2093,Westhampton,51
+2094,Westlake Village,51
+2095,Westminster,51
+2096,Weston,51
+2097,Westport,51
+2098,Wheat Ridge,51
+2099,Wheaton,51
+2100,Whidbey Island,51
+2101,White Mountains,51
+2102,Whitefish,51
+2103,Whitefish Bay,51
+2104,Whitestone,51
+2105,Whitewater,51
+2106,Whittier,51
+2107,Wichita,51
+2108,Wildwood,51
+2109,Williams,51
+2110,Williamsburg,51
+2111,Williamstown,51
+2112,Willis,51
+2113,Wilmette,51
+2114,Wilmington,51
+2115,Wilsonville,51
+2116,Wilton,51
+2117,Wilton Manors,51
+2118,Winchester,51
+2119,Windermere,51
+2120,Windsor,51
+2121,Winston Salem,51
+2122,Winter Garden,51
+2123,Wisconsin,51
+2124,Wise,51
+2125,Wolfeboro,51
+2126,Wood River,51
+2127,Woodbridge,51
+2128,Woodbury,51
+2129,Woodinville,51
+2130,Woodridge,51
+2131,Woodstock,51
+2132,Woonsocket,51
+2133,Wooster,51
+2134,Worcester,51
+2135,Wrightsville Beach,51
+2136,Wyncote,51
+2137,yachats,51
+2138,Yakima,51
+2139,Yorba Linda,51
+2140,York,51
+2141,Yorktown,51
+2142,Yosemite National Park,51
+2143,Young America,51
+2144,Yreka,51
+2145,Yuba City,51
+2146,Yucaipa,51
+2147,Yuma,51
+2148,Argentina,52
+2149,Buenos Aires,52
+2150,Central Argentina,52
+2151,Ciudad Evita,52
+2152,Comodoro Rivadavia,52
+2153,Cordoba,52
+2154,Mar del Plata,52
+2155,Mendoza,52
+2156,Province of Buenos Aires,52
+2157,Province of Cordoba,52
+2158,Rosario,52
+2159,San Carlos de Bariloche,52
+2160,Veinticinco de Mayo,52
+2161,Cochabamba,53
+2162,La Paz,53
+2163,Santa Cruz,53
+2164,Aracaju,54
+2165,Armacao dos Buzios,54
+2166,Arraial d'Ajuda,54
+2167,Barueri,54
+2168,Belo Horizonte,54
+2169,Brasilia,54
+2170,Brazil,54
+2171,Campinas,54
+2172,Campo Bom,54
+2173,Caraiva,54
+2174,Caxias Do Sul,54
+2175,Copacabana,54
+2176,Curitiba,54
+2177,Florianopolis,54
+2178,Goiania,54
+2179,Guapimirim,54
+2180,Guaratingueta,54
+2181,Itajuba,54
+2182,Jandira,54
+2183,Jericoacoara,54
+2184,Joinville,54
+2185,Lagoa da Conceicao,54
+2186,Lapa,54
+2187,Lorena,54
+2188,Macae,54
+2189,Manaus,54
+2190,Mogi das Cruzes,54
+2191,Niteroi,54
+2192,Novo Hamburgo,54
+2193,Olinda,54
+2194,Paraty,54
+2195,Porto Alegre,54
+2196,Porto de Galinhas,54
+2197,Praia do Rosa,54
+2198,Recife,54
+2199,Ribeirao Preto,54
+2200,Rio das Ostras,54
+2201,Rio de Janeiro,54
+2202,Rio Grande,54
+2203,Salvador,54
+2204,Santo Andre,54
+2205,Sao Caetano do Sul,54
+2206,Sao Joao Da Boa Vista,54
+2207,Sao Jose Dos Campos,54
+2208,Sao Leopoldo,54
+2209,Sao Paulo,54
+2210,Serra da Bocaina National Park,54
+2211,Sinop,54
+2212,Sorocaba,54
+2213,State of Rio de Janeiro,54
+2214,State of Rio Grande do Sul,54
+2215,State of Sao Paulo,54
+2216,Uberlandia,54
+2217,Vitoria,54
+2218,Chile,55
+2219,Los Angeles,55
+2220,Nunoa,55
+2221,Puerto Montt,55
+2222,Puerto Natales,55
+2223,San Felipe,55
+2224,San Pedro de Atacama,55
+2225,Santiago,55
+2226,Santiago Metropolitan Region,55
+2227,Valdivia,55
+2228,Valparaiso,55
+2229,Vina del mar,55
+2230,Bogota,56
+2231,Cali,56
+2232,Cartagena,56
+2233,Colombia,56
+2234,Medellin,56
+2235,Popayan,56
+2236,Santa Marta,56
+2237,Taganga,56
+2238,Cuenca,57
+2239,Guayaquil,57
+2240,Mindo,57
+2241,Otavalo,57
+2242,Quito,57
+2243,Tena,57
+2244,Vilcabamba,57
+2245,Aguas Calientes,58
+2246,Cusco,58
+2247,Lima,58
+2248,Santa Lucia,58
+2249,Paramaribo,59
+2250,Montevideo,60
+2251,Punta del Este,60
+2252,Caracas,61
+2253,Asia,62
+2254,Yerevan,63
+2255,Aktau,64
+2256,Almaty,64
+2257,Astana,64
+2258,Atyrau,64
+2259,Atyrau Province,64
+2260,Kaztsik,64
+2261,Bishkek,65
+2262,Mongolia,66
+2263,Ulaanbaatar,66
+2264,Ashgabat,67
+2265,Tavaksay,68
+2266,Beijing,69
+2267,Changsha,69
+2268,Changzhi,69
+2269,Changzhou,69
+2270,Chengdu,69
+2271,China,69
+2272,Chongqing,69
+2273,Dalian,69
+2274,Dongguan,69
+2275,Former French Concession,69
+2276,Foshan,69
+2277,Guangzhou,69
+2278,Guangzhou Shi,69
+2279,Hangzhou,69
+2280,Harbin,69
+2281,Hefei,69
+2282,Hong Kong,69
+2283,Hong Kong Island,69
+2284,Hongkou,69
+2285,Kunming,69
+2286,Macau,69
+2287,Nanchang,69
+2288,Nanjing,69
+2289,Nanning,69
+2290,Nanning Guangxi,69
+2291,Nantong,69
+2292,Ningbo,69
+2293,Puxi (Downtown Shanghai),69
+2294,Qingdao,69
+2295,Sai Kung,69
+2296,Sanya,69
+2297,shangai,69
+2298,Shanghai,69
+2299,Shanghai Region,69
+2300,Shengsi County,69
+2301,Shenyang,69
+2302,Shenzhen,69
+2303,Shiyan,69
+2304,Suzhou,69
+2305,The Bund,69
+2306,Tianjin Region,69
+2307,Tongren,69
+2308,Tuen Mun,69
+2309,Weifang,69
+2310,Wenzhou,69
+2311,Wuxi,69
+2312,Xiamen,69
+2313,Xi'an,69
+2314,Xiangtan,69
+2315,Yangshuo County,69
+2316,Yangzhou,69
+2317,Yunnan,69
+2318,Zhejiang,69
+2319,Zhengzhou,69
+2320,Zhenjiang,69
+2321,Zhongshan,69
+2322,Zhuhai,69
+2323,Hong Kong,70
+2324,Hongkong,70
+2325,Sai Kung N.T.,70
+2326,Tung Chung,70
+2327,Wan Chai,70
+2328,Aichi Prefecture,71
+2329,Akashi,71
+2330,Asahikawa,71
+2331,Ayase-shi,71
+2332,Chatan-cho,71
+2333,Chiba,71
+2334,Chuo,71
+2335,Fujisawa,71
+2336,Fukuoka,71
+2337,Fussa,71
+2338,Gotemba,71
+2339,Hachinohe,71
+2340,Hakuba-mura,71
+2341,Hiro-cho,71
+2342,Hiroshima,71
+2343,Hokkaido,71
+2344,Hokuriku,71
+2345,Hyogo Prefecture,71
+2346,Ibaraki,71
+2347,Ibaraki Prefecture,71
+2348,Imizu,71
+2349,Iruma,71
+2350,Iwakuni,71
+2351,Japan,71
+2352,japn,71
+2353,Kakegawa,71
+2354,Kanto,71
+2355,Karuizawa-machi,71
+2356,Kashiwa,71
+2357,Kawaguchi,71
+2358,Kawasaki,71
+2359,Kiyosu,71
+2360,Kobe,71
+2361,Kobe-shi,71
+2362,Koganei,71
+2363,Kumamoto,71
+2364,Kunitachi,71
+2365,Kutchan-cho,71
+2366,Kyoto,71
+2367,Kyoto Prefecture,71
+2368,Maniwa,71
+2369,Matsusaka,71
+2370,Meguro,71
+2371,Minato,71
+2372,Misawa,71
+2373,Mishima,71
+2374,Mitaka,71
+2375,Moriya,71
+2376,Nagoya,71
+2377,Naha,71
+2378,Nara,71
+2379,Nihonmatsu,71
+2380,Nikko,71
+2381,nishinomiya,71
+2382,Nishishinjuku,71
+2383,nyk,71
+2384,Okinawa,71
+2385,Okinawa City,71
+2386,Okinawa Prefecture,71
+2387,Okinawa-shi,71
+2388,Ome,71
+2389,Osaka,71
+2390,Osaka Prefecture,71
+2391,Roppongi,71
+2392,Sagamihara,71
+2393,Saitama,71
+2394,Sango-cho,71
+2395,Sapporo,71
+2396,Sasebo,71
+2397,Setagaya,71
+2398,Shibuya,71
+2399,Shiki,71
+2400,Shinjuku,71
+2401,Shinjuku 3 Chome,71
+2402,Shizuoka,71
+2403,Shizuoka Prefecture,71
+2404,Sukagawa,71
+2405,Tachikawa,71
+2406,Taito,71
+2407,Takayama,71
+2408,Takehara,71
+2409,Tokyo,71
+2410,Tokyo Prefecture,71
+2411,Tono,71
+2412,Toshima,71
+2413,Ueno,71
+2414,Uruma,71
+2415,Usa,71
+2416,Yokohama,71
+2417,Yokosuka,71
+2418,Yomitan-son,71
+2419,Yoyogi,71
+2420,Zama,71
+2421,Zushi,71
+2422,North Pyongan Province,72
+2423,Anseong,73
+2424,Anyang,73
+2425,Bucheon,73
+2426,Busan,73
+2427,Cheongju,73
+2428,Daegu,73
+2429,Daejeon,73
+2430,Dongducheon,73
+2431,Geoje,73
+2432,Goyang,73
+2433,Gwangju,73
+2434,Gyeongju,73
+2435,Hongcheon-gun,73
+2436,Iksan,73
+2437,Incheon,73
+2438,Jeju,73
+2439,Korea,73
+2440,Miryang,73
+2441,Namhae-gun,73
+2442,Osan,73
+2443,Pyeongtaek,73
+2444,Seongnam,73
+2445,Seoul,73
+2446,South Korea,73
+2447,Suncheon,73
+2448,Suwon,73
+2449,Ulsan,73
+2450,Wonju,73
+2451,Yeosu,73
+2452,Yongin,73
+2453,Banqiao,74
+2454,Beitun,74
+2455,Chiayi,74
+2456,Da'an,74
+2457,Hsinchu,74
+2458,Kaohsiung,74
+2459,meimei,74
+2460,Nantun,74
+2461,Neihu,74
+2462,New Taipei,74
+2463,Puli,74
+2464,Qianjin,74
+2465,Shilin,74
+2466,Taichung,74
+2467,Tainan,74
+2468,Taipei,74
+2469,Taiwan,74
+2470,Taoyuan,74
+2471,Taoyuan District,74
+2472,Xinyi District,74
+2473,Zhongshan District,74
+2474,Al Hamala,75
+2475,Al Muharraq,75
+2476,Amwaj Islands,75
+2477,Bahrain,75
+2478,Manama,75
+2479,Ayia Napa,76
+2480,Chloraka,76
+2481,cyprus,76
+2482,Famagusta,76
+2483,Koloni,76
+2484,Kouklia,76
+2485,Kyrenia,76
+2486,Larnaca,76
+2487,Limassol City,76
+2488,Nicosia,76
+2489,Omodos,76
+2490,Paphos,76
+2491,Paralimni,76
+2492,Parekklisia,76
+2493,Pyla,76
+2494,Sotira,76
+2495,Iran,77
+2496,Isfahan,77
+2497,Kerman,77
+2498,Kish Island,77
+2499,Lahijan,77
+2500,Mashhad,77
+2501,Mazandaran Province,77
+2502,Najafabad,77
+2503,Now Shahr,77
+2504,Qeshm,77
+2505,Ramsar,77
+2506,Rasht,77
+2507,Sari,77
+2508,Shahin Shahr,77
+2509,Shiraz,77
+2510,Tehran,77
+2511,Tehran Iran,77
+2512,Tehran Province,77
+2513,Bagdad,78
+2514,Baghdad,78
+2515,Erbil,78
+2516,Sulaymaniyah,78
+2517,Batzra,79
+2518,Beit She'an,79
+2519,Haifa,79
+2520,Herzliya,79
+2521,Hills of Galilee,79
+2522,Israel,79
+2523,Jerusalem,79
+2524,Kadima,79
+2525,Mazkeret Batya,79
+2526,Modiin,79
+2527,Qatsrin,79
+2528,Ra'anana,79
+2529,Ramat Gan,79
+2530,Tel Aviv,79
+2531,TLV,79
+2532,Yavne,79
+2533,Al Aqabah Governorate,80
+2534,Amman,80
+2535,Aqaba,80
+2536,Jordan,80
+2537,Kuwait,81
+2538,Kuwait City,81
+2539,Mahboula,81
+2540,Rai,81
+2541,Salmiya,81
+2542,Salwa,81
+2543,Bchamoun,82
+2544,Beirut,82
+2545,Beit Mery,82
+2546,Lebanon,82
+2547,Sin el Fil,82
+2548,Tripoli,82
+2549,Tripoli,83
+2550,Muscat,84
+2551,Muscat Governorate,84
+2552,Nizwa,84
+2553,Oman,84
+2554,Salalah,84
+2555,Seeb,84
+2556,Sohar,84
+2557,Sohar. Oman,84
+2558,Hebron,85
+2559,Jericho,85
+2560,Ramallah,85
+2561,West Bank,85
+2562,Al Khor,86
+2563,Al-Rayyan,86
+2564,Doha,86
+2565,Mesaieed,86
+2566,Qatar,86
+2567,Al Hofuf,87
+2568,Al Jubail,87
+2569,Al Khobar,87
+2570,Al Qatif,87
+2571,Alkhobar,87
+2572,Buraidah,87
+2573,Dammam,87
+2574,Dhahran,87
+2575,Jeddah,87
+2576,Jeddah Saudi Arabia,87
+2577,Khamis Mushait,87
+2578,KSA,87
+2579,Makkah al Mukarramah,87
+2580,Makkah Province,87
+2581,Mecca,87
+2582,Medina,87
+2583,Rabigh,87
+2584,Riyadh,87
+2585,Safwa,87
+2586,Saudi Arabia,87
+2587,Turaif,87
+2588,Udhailiyah,87
+2589,Yanbu,87
+2590,Alanya,88
+2591,Alasehir,88
+2592,Ankara,88
+2593,Antalya,88
+2594,Antalya Province,88
+2595,ararat,88
+2596,Balikesir,88
+2597,Bucca,88
+2598,Bursa,88
+2599,Datca,88
+2600,Dikili,88
+2601,Fethiye,88
+2602,Gaziantep,88
+2603,Goreme,88
+2604,Istanbul,88
+2605,Istanbul Province,88
+2606,Izmir,88
+2607,Kalkan,88
+2608,Kartepe,88
+2609,Konya,88
+2610,Kusadasi,88
+2611,Mardin,88
+2612,Marmaris,88
+2613,Mersin,88
+2614,Mugla Province,88
+2615,Side,88
+2616,Turkey,88
+2617,Abu Dhabi,89
+2618,Ajman,89
+2619,Al Ain,89
+2620,Al Sharjah,89
+2621,Ash Shibhanah,89
+2622,Dibba Al Fujairah,89
+2623,Dubai,89
+2624,Emirate of Abu Dhabi,89
+2625,Emirate of Dubai,89
+2626,Emirate of Sharjah,89
+2627,Fujairah,89
+2628,Hatta,89
+2629,Jebel Ali,89
+2630,Madinat Zayed,89
+2631,Murqquab,89
+2632,Ras Al Khaimah,89
+2633,Riverland,89
+2634,Ruwais,89
+2635,Sharjah,89
+2636,Sir Bani Yas Island,89
+2637,Tacloban City,89
+2638,The Marina,89
+2639,UAE,89
+2640,United Arab Emirates,89
+2641,Bagram,90
+2642,Kabul,90
+2643,Bangladesh,91
+2644,Barisal Division,91
+2645,Chittagong City,91
+2646,Cox's Bazar,91
+2647,Dhaka,91
+2648,Dhaka City,91
+2649,Dhaka Division,91
+2650,Feni,91
+2651,Gazipur,91
+2652,Khulna,91
+2653,Khulna City,91
+2654,Mymensing,91
+2655,Narayanganj,91
+2656,Noakhali,91
+2657,Pabna,91
+2658,Rajshahi City,91
+2659,Sylhet City,91
+2660,Paro,92
+2661,Thimphu,92
+2662,-,93
+2663,Abohar,93
+2664,Agra,93
+2665,Ahmedabad,93
+2666,Ahmedabad District,93
+2667,Ahmednagar,93
+2668,Ajmer,93
+2669,Aligarh,93
+2670,Allahabad,93
+2671,Aluva,93
+2672,Amalapuram,93
+2673,Amravati,93
+2674,Amritsar,93
+2675,Anand,93
+2676,Anantapur,93
+2677,Andheri West/Versova,93
+2678,Ankleshwar,93
+2679,Arambol,93
+2680,Asansol,93
+2681,Aurangabad,93
+2682,Bangalore,93
+2683,Bangalore District,93
+2684,Banihal,93
+2685,Bankura,93
+2686,Bardez,93
+2687,Bareilly,93
+2688,Belgaum,93
+2689,Benaulim,93
+2690,Bengaluru,93
+2691,Bengaluru (Bangalore),93
+2692,Betul,93
+2693,Bhadrak,93
+2694,Bhavnagar,93
+2695,Bhilai,93
+2696,Bhopal,93
+2697,Bhubaneswar,93
+2698,Bhuj,93
+2699,bhusawal jalgaon,93
+2700,Bombay,93
+2701,Bongaigaon,93
+2702,Calangute,93
+2703,Calcutta,93
+2704,Candolim,93
+2705,Chamrajnagar,93
+2706,Chandigarh,93
+2707,Chennai,93
+2708,Chennai (Madras),93
+2709,Chennai District,93
+2710,Coimbatore,93
+2711,Coonoor,93
+2712,Cuttack,93
+2713,Darjeeling,93
+2714,Davangere,93
+2715,Dehradun,93
+2716,Dehradun District,93
+2717,Delhi,93
+2718,Dharamsala,93
+2719,Dindigul,93
+2720,Diu,93
+2721,Duliajan,93
+2722,Durgapur,93
+2723,Ernakulam,93
+2724,Erode,93
+2725,Faridabad,93
+2726,Gandhinagar,93
+2727,Gangtok,93
+2728,GhÄ_x0081_tkopar,93
+2729,Ghaziabad,93
+2730,Goa,93
+2731,Goa Velha,93
+2732,Gorakhpur,93
+2733,Greater Kochi,93
+2734,Greater Noida,93
+2735,Gujarat,93
+2736,Gurgaon,93
+2737,Gurgaon District,93
+2738,Gurugram (Gurgaon),93
+2739,Guwahati,93
+2740,Gwalior,93
+2741,Haridwar,93
+2742,Hosur,93
+2743,Howrah,93
+2744,Hubli-Dharwad,93
+2745,Hyderabad,93
+2746,Hyderabad District,93
+2747,Hyderabad-Deccan,93
+2748,India,93
+2749,Indore,93
+2750,Jabalpur,93
+2751,Jaigaon,93
+2752,Jaipur,93
+2753,Jaipur District,93
+2754,Jaisalmer,93
+2755,Jalandhar,93
+2756,Jammu City,93
+2757,Jamnagar,93
+2758,Jamshedpur,93
+2759,Janakpuri,93
+2760,Jeypore,93
+2761,Jhalawar,93
+2762,Jodhpur,93
+2763,Joshimath,93
+2764,Junagadh,93
+2765,Kaithal District,93
+2766,Kakinada,93
+2767,Kalimpong,93
+2768,Kalpetta,93
+2769,Kanatal,93
+2770,Kannur,93
+2771,Kanpur,93
+2772,Karaikudi,93
+2773,Karimnagar,93
+2774,Karjat Town,93
+2775,Karnal,93
+2776,Kasaragod,93
+2777,Kasauli,93
+2778,Kayamkulam,93
+2779,Kaziranga National Park,93
+2780,Kerala,93
+2781,Kharagpur,93
+2782,Kochi,93
+2783,Kochi (Cochin),93
+2784,Kodagu (Coorg),93
+2785,Kolhapur,93
+2786,Kolkata,93
+2787,Kolkata (Calcutta),93
+2788,Kolkata District,93
+2789,Kollam,93
+2790,Kota,93
+2791,Kothamangalam,93
+2792,Kottayam,93
+2793,Kovalam,93
+2794,Kozhikode,93
+2795,Kullu,93
+2796,Kumarakom,93
+2797,Leh,93
+2798,Lucknow,93
+2799,Ludhiana,93
+2800,Madikeri,93
+2801,Madurai,93
+2802,Mahadevapura,93
+2803,Malda,93
+2804,Mandsaur,93
+2805,Mandya,93
+2806,Mangalore,93
+2807,Mararikulam,93
+2808,Margao,93
+2809,Mayapur,93
+2810,Meerut,93
+2811,Meherabad,93
+2812,Mhow,93
+2813,Mira Bhayandar,93
+2814,Moradabad,93
+2815,Mount Abu,93
+2816,Mulund West,93
+2817,MUM,93
+2818,mumba,93
+2819,Mumbai,93
+2820,Mussoorie,93
+2821,Muzaffarnagar,93
+2822,Muzaffarpur District,93
+2823,Mysore,93
+2824,Mysuru (Mysore),93
+2825,Nadiad,93
+2826,Nagpur,93
+2827,Nainital,93
+2828,Nanded,93
+2829,Nashik,93
+2830,National Capital Territory of Delhi,93
+2831,Navi Mumbai,93
+2832,Navi Mumbai (New Mumbai),93
+2833,Nellore,93
+2834,Nemmale East And West,93
+2835,New Delhi,93
+2836,New Delhi (Delhi),93
+2837,Nimbahera,93
+2838,Noida,93
+2839,North Paravur,93
+2840,Nuvem,93
+2841,Ooty (Udhagamandalam),93
+2842,Palampur,93
+2843,Palanpur,93
+2844,Panchkula,93
+2845,Panjim,93
+2846,Panvel,93
+2847,Pathankot,93
+2848,Patiala,93
+2849,Patna,93
+2850,Pattambi,93
+2851,Phagwara,93
+2852,Pilani,93
+2853,Pondicherry,93
+2854,Ponnani,93
+2855,Port Blair,93
+2856,Pune,93
+2857,Pune District,93
+2858,Puri,93
+2859,Pushkar,93
+2860,Raigarh,93
+2861,Raipur,93
+2862,Rajkot,93
+2863,Ranchi,93
+2864,Rishikesh,93
+2865,Rohtak,93
+2866,Roorkee,93
+2867,Rudrapur,93
+2868,Sahibabad,93
+2869,Salem,93
+2870,Secunderabad,93
+2871,Shantiniketan,93
+2872,Shimla,93
+2873,Shrirampur,93
+2874,Silchar,93
+2875,Siliguri,93
+2876,Silvassa,93
+2877,Sindhanur,93
+2878,Sonipat,93
+2879,South District,93
+2880,Srinagar,93
+2881,Sundarbans National Park,93
+2882,Surat,93
+2883,Surat District,93
+2884,Tamil Nadu,93
+2885,Tangmarg,93
+2886,Tezpur,93
+2887,Thalassery,93
+2888,Thane,93
+2889,Thanjavur,93
+2890,Thiruvananthapuram (Trivandrum),93
+2891,Thodupuzha,93
+2892,Thrissur,93
+2893,Thrissur District,93
+2894,Tirunelveli,93
+2895,Tirupati,93
+2896,Tiruppur,93
+2897,Trivandrum,93
+2898,Udaipur,93
+2899,Udhampur,93
+2900,Udupi,93
+2901,Udupi District,93
+2902,Ugapur,93
+2903,Uttarakhand,93
+2904,Uttarpara Kotrung,93
+2905,Vadodara,93
+2906,Vadodara District,93
+2907,Vallabh Vidyanagar,93
+2908,Valsad,93
+2909,Varanasi,93
+2910,Varanasi District,93
+2911,Varca,93
+2912,Varkala Town,93
+2913,Vasai,93
+2914,Vellore,93
+2915,Vijayawada,93
+2916,Virar,93
+2917,Visakhapatnam,93
+2918,vishakapatnam,93
+2919,Waidhan,93
+2920,Wakad,93
+2921,Warangal,93
+2922,wardha-maharashtra,93
+2923,Yanam,93
+2924,Yavatmal,93
+2925,Addu City,94
+2926,Baa Atoll,94
+2927,Bandos,94
+2928,Dhigurah,94
+2929,Fonimagoodhoo Island,94
+2930,Hulhumale Maldives,94
+2931,Kaadedhdhoo,94
+2932,Kandoomaafushi Island,94
+2933,Maldives,94
+2934,Male,94
+2935,South Male Atoll,94
+2936,Bhaktapur,95
+2937,Dharan,95
+2938,Kathmandu,95
+2939,Kathmandu Valley,95
+2940,Nagarkot,95
+2941,Patan (Lalitpur),95
+2942,Pokhara,95
+2943,Abbottabad,96
+2944,Hyderabad,96
+2945,Islamabad,96
+2946,Islamabad Capital Territory,96
+2947,Karachi,96
+2948,Lahore,96
+2949,Rawalpindi,96
+2950,Sahiwal,96
+2951,sultankot,96
+2952,Battaramulla,97
+2953,Batticolla,97
+2954,Bemtota,97
+2955,Boralesgamuwa,97
+2956,Colombo,97
+2957,Dehiwala-Mount Lavinia,97
+2958,Dharga Town,97
+2959,Dikwella,97
+2960,Galle,97
+2961,Gampaha,97
+2962,Hikkaduwa,97
+2963,Ja Ela,97
+2964,Jaffna,97
+2965,Kandy,97
+2966,Katunayake,97
+2967,Kottawa,97
+2968,Maharagama,97
+2969,Malabe,97
+2970,Mirigama,97
+2971,Mirissa,97
+2972,Negombo,97
+2973,Nugegoda,97
+2974,Polgolla,97
+2975,Rajagiriya,97
+2976,Sigiriya,97
+2977,Sri Lanka,97
+2978,Tangalle,97
+2979,Unawatuna,97
+2980,Vavuniya,97
+2981,Bandar Seri Begawan,98
+2982,Brunei,98
+2983,Brunei Darussalam,98
+2984,Brunei-Muara District,98
+2985,Gadong,98
+2986,Kampong Jerudong,98
+2987,Kampong Kiarong,98
+2988,Kuala Belait,98
+2989,Seria,98
+2990,Battambang,99
+2991,Cambodia,99
+2992,Kep,99
+2993,Koh Rong,99
+2994,Phnom Penh,99
+2995,Poipet,99
+2996,Siem Reap,99
+2997,Siem Reap Province,99
+2998,sihanoukville,99
+2999,Dili,100
+3000,Dili District,100
+3001,East Timor,100
+3002,Metiaut,100
+3003,-,101
+3004,Ababi,101
+3005,Alor Island,101
+3006,Ambarawa,101
+3007,Ambon,101
+3008,Amed,101
+3009,Ampang,101
+3010,Anturan,101
+3011,Anyer,101
+3012,Badung,101
+3013,Bali,101
+3014,Balikpapan,101
+3015,Banda Aceh,101
+3016,Bandar Lampung,101
+3017,Bandung,101
+3018,Bandungan,101
+3019,Bangkalan,101
+3020,Bangli,101
+3021,Banjarbaru,101
+3022,Banjarmasin,101
+3023,Banten,101
+3024,Banten Province,101
+3025,Bantul,101
+3026,Banyuwangi,101
+3027,Batam,101
+3028,batam Indonesia,101
+3029,Batu,101
+3030,Batu Bulan,101
+3031,Batubulan,101
+3032,batusangkar,101
+3033,Baubau,101
+3034,Bedugul,101
+3035,Bekasi,101
+3036,belitong,101
+3037,Belitung Island,101
+3038,Bengkulu,101
+3039,Bengkulu Province,101
+3040,Benoa,101
+3041,Bentenan,101
+3042,Berau,101
+3043,Bintan Island,101
+3044,Bitera,101
+3045,Bitung,101
+3046,Blahbatuh,101
+3047,Blitar,101
+3048,Bogor,101
+3049,Bondalem,101
+3050,Bondowoso,101
+3051,Bontang,101
+3052,Borneo,101
+3053,Borobudur,101
+3054,Bukit,101
+3055,Bukit timah,101
+3056,Bukittinggi,101
+3057,Bukti,101
+3058,Buleleng District,101
+3059,Bulukumba,101
+3060,Candidasa,101
+3061,Canggu,101
+3062,Central Kalimantan,101
+3063,Cibinong,101
+3064,Cikarang,101
+3065,Cilegon,101
+3066,Cimahi,101
+3067,Cirebon,101
+3068,Cisarua,101
+3069,Dalung,101
+3070,Danginpuri Kelod,101
+3071,Denpasar,101
+3072,Denpasar Bali,101
+3073,Denpasar-Bali,101
+3074,Depok,101
+3075,DKI Jakarta,101
+3076,Dumai,101
+3077,East Java,101
+3078,East Kalimantan,101
+3079,East Nusa Tenggara,101
+3080,Flores,101
+3081,Garut,101
+3082,Gedong,101
+3083,Gianyar,101
+3084,Gianyar Regency,101
+3085,Gili Air,101
+3086,Gili Islands,101
+3087,Gili Meno,101
+3088,Gili Trawangan,101
+3089,Gitgit,101
+3090,Godean,101
+3091,Gresik,101
+3092,Gunung Kidul,101
+3093,Gunung Putri,101
+3094,ind,101
+3095,Indonesia,101
+3096,Indramayu,101
+3097,Jakarata,101
+3098,Jakarta,101
+3099,Jakarta - Indonesia,101
+3100,Jakarta Selatan,101
+3101,Jakarta Timur,101
+3102,Jakarta Utara,101
+3103,Jambi,101
+3104,Jambi Province,101
+3105,Jatiluwih,101
+3106,Java,101
+3107,Jayapura,101
+3108,Jember,101
+3109,Jember Jawa Timur,101
+3110,Jembrana,101
+3111,Jepara,101
+3112,Jimbaran,101
+3113,Jombang,101
+3114,Jonggol,101
+3115,Kab. Pasuruan,101
+3116,Kalimantan,101
+3117,Karangasem,101
+3118,Karawang,101
+3119,Kedaton,101
+3120,Kedawung,101
+3121,Kedewatan,101
+3122,Kediri,101
+3123,Kedonganan,101
+3124,Kelusa,101
+3125,Kemenuh,101
+3126,Kepanjen,101
+3127,Keramas,101
+3128,Kerobokan,101
+3129,Kerobokan - Bali,101
+3130,Kerobokan Kaja,101
+3131,Kerobokan Kelod,101
+3132,Ketewel,101
+3133,Kintamani,101
+3134,Klaten,101
+3135,Klungkung,101
+3136,Komodo,101
+3137,Kubu,101
+3138,Kuningan,101
+3139,Kupang,101
+3140,Kuta,101
+3141,Kuta Bali Indonesia,101
+3142,Kuta District,101
+3143,Kutuh,101
+3144,Labuan Bajo,101
+3145,Lake Toba,101
+3146,Legian,101
+3147,legian bali,101
+3148,Lembang,101
+3149,Lodtunduh,101
+3150,Lombok,101
+3151,Lovina Beach,101
+3152,Madiun,101
+3153,Magelang,101
+3154,Majalengka,101
+3155,Makassar,101
+3156,Malang,101
+3157,Mambal,101
+3158,Manado,101
+3159,Manggis,101
+3160,Marga,101
+3161,Margakaya,101
+3162,Mas,101
+3163,Mataram,101
+3164,Medan,101
+3165,Megamendung,101
+3166,Mengwi,101
+3167,Mojokerto,101
+3168,Ngaglik,101
+3169,Ngamprah,101
+3170,North Kuta,101
+3171,North Sulawesi,101
+3172,Nungnung,101
+3173,Nusa Ceningan,101
+3174,Nusa Dua,101
+3175,Nusa Dua Peninsula,101
+3176,Nusa Lembongan,101
+3177,Nusa Penida,101
+3178,Oz in Bali,101
+3179,Padang,101
+3180,Padangbai,101
+3181,Pahoa,101
+3182,Paiton,101
+3183,Palangkaraya,101
+3184,Palembang,101
+3185,Pamekasan,101
+3186,Pandaan,101
+3187,Pangkal Pinang,101
+3188,Pangkalan Kerinci,101
+3189,Papua,101
+3190,Pasuruan,101
+3191,Pati,101
+3192,Payangan,101
+3193,Pecatu,101
+3194,Ped,101
+3195,Pegadungan,101
+3196,Pejeng,101
+3197,Pekanbaru,101
+3198,Pekutatan,101
+3199,Pelabuhan Ratu,101
+3200,Peliatan,101
+3201,Pemaron,101
+3202,Pematangsiantar,101
+3203,Pemuteran,101
+3204,Penebel,101
+3205,Pererenan,101
+3206,Petang,101
+3207,Petulu,101
+3208,Pontianak,101
+3209,Probolinggo,101
+3210,Purwakarta,101
+3211,Purwokerto,101
+3212,Purworejo,101
+3213,Rantepao,101
+3214,Riau Archipelago,101
+3215,Riau Province,101
+3216,Rote Island,101
+3217,Rumbai,101
+3218,Ruteng,101
+3219,Saba,101
+3220,Salatiga,101
+3221,Samarinda,101
+3222,Sampang,101
+3223,Sandik,101
+3224,Sangeh,101
+3225,Sanur,101
+3226,Sanur Kaja,101
+3227,Sekumpul,101
+3228,Selong Belanak,101
+3229,Semarang,101
+3230,Seminyak,101
+3231,Senggigi,101
+3232,Sentani,101
+3233,Sentul,101
+3234,Serang,101
+3235,Serangan,101
+3236,Serpong,101
+3237,Serui,101
+3238,Sewon,101
+3239,Sidemen,101
+3240,Sidoarjo,101
+3241,Singaraja,101
+3242,Sintang,101
+3243,Sleman,101
+3244,Solo,101
+3245,Songan,101
+3246,Soroako,101
+3247,Sorong,101
+3248,South Kuta,101
+3249,South Sulawesi,101
+3250,South Sumatra,101
+3251,South Tangerang,101
+3252,Sukabumi,101
+3253,Sukadana Ilir,101
+3254,Sukawati,101
+3255,Sumatera,101
+3256,Sumatra,101
+3257,Sumba,101
+3258,Sumbawa,101
+3259,Sumbawa Besar,101
+3260,Surabaya,101
+3261,Surakarta,101
+3262,Tabanan,101
+3263,Tabanan - Bali,101
+3264,Taliwang,101
+3265,Tampaksiring,101
+3266,Tanah Lot,101
+3267,Tangerang,101
+3268,Tanjung,101
+3269,Tanjung Benoa,101
+3270,Tanjung Pinang,101
+3271,Tarakan,101
+3272,Tasikmalaya,101
+3273,Tegalalang,101
+3274,Tejakula,101
+3275,Temanggung,101
+3276,Tembagapura,101
+3277,Tembuku,101
+3278,Tibubeneng,101
+3279,Timika,101
+3280,Tomohon,101
+3281,Tondano,101
+3282,Tuban,101
+3283,Tulamben,101
+3284,Tulungagung,101
+3285,Ubud,101
+3286,Ubud .Bali,101
+3287,Ubud Bali,101
+3288,Uluwatu,101
+3289,Ungasan,101
+3290,Wanagiri,101
+3291,West Bali National Park,101
+3292,West Java,101
+3293,West Nusa Tenggara,101
+3294,West Sumatra,101
+3295,Wonosobo,101
+3296,Yogyakarta,101
+3297,Yogyakarta Region,101
+3298,Laos,102
+3299,Luang Namtha,102
+3300,Luang Prabang,102
+3301,Luang Prabang Province,102
+3302,Vang Vieng,102
+3303,Vientiane,102
+3304,-,103
+3305,Alor Setar,103
+3306,Ampang,103
+3307,Balakong,103
+3308,Bandar Baru Bangi,103
+3309,Bandar Penawar,103
+3310,Bandar Saujana Putra,103
+3311,Bandar Seri Iskandar,103
+3312,Bangi,103
+3313,Banting,103
+3314,Batu Caves,103
+3315,Batu Ferringhi,103
+3316,Batu Pahat,103
+3317,Bemban,103
+3318,Bintulu,103
+3319,Bukit Mertajam,103
+3320,Butterworth,103
+3321,Cameron Highlands,103
+3322,Cheras,103
+3323,Cherating,103
+3324,Cyberjaya,103
+3325,Desaru Coast,103
+3326,Dungun,103
+3327,Genting,103
+3328,George Town,103
+3329,Georgetown,103
+3330,Gunung Mulu National Park,103
+3331,Ipoh,103
+3332,ipoh perak malaysia,103
+3333,Iskandar Puteri,103
+3334,jb my,103
+3335,Johor,103
+3336,Johor Bahru,103
+3337,Johor Bahru District,103
+3338,Kajang,103
+3339,kangar,103
+3340,Kedah Malaysia,103
+3341,Kelana Jaya,103
+3342,Kerteh,103
+3343,KL,103
+3344,Klang,103
+3345,Klang Malaysia,103
+3346,Kluang,103
+3347,KLumpur,103
+3348,Kota Belud,103
+3349,Kota Bharu,103
+3350,Kota Kinabalu,103
+3351,Kota Kinabalu District,103
+3352,Kuala Kangsar,103
+3353,Kuala Lipis,103
+3354,Kuala Lumpur,103
+3355,Kuala Muda District,103
+3356,Kuala Nerang,103
+3357,Kuala Selangor,103
+3358,Kuala Terengganu,103
+3359,Kualalumpur,103
+3360,kuantan,103
+3361,Kuching,103
+3362,Labuan Island,103
+3363,Langkawi,103
+3364,Machang,103
+3365,Malacca,103
+3366,Malacca City,103
+3367,Malaysia,103
+3368,Masai,103
+3369,Melaka,103
+3370,Melaka State,103
+3371,Miri,103
+3372,Mont Kiara,103
+3373,Muar,103
+3374,MY,103
+3375,Negeri Sembilan,103
+3376,Nilai,103
+3377,Padang Besar,103
+3378,Pahang,103
+3379,Pantai Cenang,103
+3380,Penang,103
+3381,Penang Island,103
+3382,Perak,103
+3383,Perlis,103
+3384,Petaling District,103
+3385,Petaling Jaya,103
+3386,Plentong,103
+3387,Port Dickson,103
+3388,Puchong,103
+3389,Pulau Pinang,103
+3390,Pulau Sipadan,103
+3391,Putrajaya,103
+3392,Rawang,103
+3393,Sabah,103
+3394,Sabah Borneo,103
+3395,Salak Tinggi,103
+3396,Sandakan,103
+3397,Sandakan Division,103
+3398,Sarawak,103
+3399,Seberang Perai District,103
+3400,Selangor,103
+3401,Semenyih,103
+3402,seminyak,103
+3403,Sepang,103
+3404,Seremban,103
+3405,Seremban District,103
+3406,Seri Kembangan,103
+3407,Shah Alam,103
+3408,Sibu,103
+3409,Simpang Ampat,103
+3410,Sitiawan,103
+3411,Skudai,103
+3412,Sri Kembangan,103
+3413,Subang Jaya,103
+3414,Subang Jaya Selangor,103
+3415,Sungai Buloh,103
+3416,Sungai Buluh,103
+3417,Sungai Petani,103
+3418,Taiping,103
+3419,Tampin,103
+3420,Tangkak,103
+3421,Tanjong Malim,103
+3422,TanjongMalim,103
+3423,Tanjung Tokong,103
+3424,Tawau,103
+3425,Teriang,103
+3426,Wilayah Persekutuan,103
+3427,Mandalay,104
+3428,Yangon,104
+3429,Yangon (Rangoon),104
+3430,Yangon Region,104
+3431,Angeles City,105
+3432,Anilao,105
+3433,Bacarra,105
+3434,Bacolod,105
+3435,Bacolor,105
+3436,Bacoor,105
+3437,Baguio,105
+3438,Baliuag,105
+3439,Batan Island,105
+3440,Batangas City,105
+3441,Batangas Province,105
+3442,Bislig,105
+3443,Boracay,105
+3444,Cagayan de Oro,105
+3445,Caibiran,105
+3446,Cainta,105
+3447,Caloocan,105
+3448,Cavite City,105
+3449,Cavite Province,105
+3450,Cebu,105
+3451,Cebu City,105
+3452,Cebu Island,105
+3453,Clark Freeport Zone,105
+3454,Dalaguete,105
+3455,Dasmarinas City,105
+3456,Davao City,105
+3457,Dumaguete City,105
+3458,El Nido,105
+3459,General Luna,105
+3460,General Santos,105
+3461,Iligan,105
+3462,Iloilo City,105
+3463,Imus,105
+3464,Kabankalan,105
+3465,Kalibo,105
+3466,Koronadal,105
+3467,Laguna Province,105
+3468,Lapu Lapu,105
+3469,Las Pinas,105
+3470,Linapacan,105
+3471,Los Banos,105
+3472,lovina,105
+3473,Lucena City,105
+3474,Luzon,105
+3475,Mabini,105
+3476,Mactan Island,105
+3477,Makati,105
+3478,Malay,105
+3479,Malaybalay City,105
+3480,Mandaluyong,105
+3481,Mandaue,105
+3482,Mangaldan,105
+3483,Manila,105
+3484,Marikina,105
+3485,Metro Manila,105
+3486,Moalboal,105
+3487,Muntinlupa,105
+3488,muntinlupa city,105
+3489,Naga,105
+3490,Negros Island,105
+3491,Nueva Vizcaya Province,105
+3492,Ormoc,105
+3493,Padre Burgos,105
+3494,Palawan Island,105
+3495,Pampanga Province,105
+3496,Pangasinan Province,105
+3497,Panglao,105
+3498,Panglao Island,105
+3499,Paranaque,105
+3500,Pasay,105
+3501,Pasig,105
+3502,Pasig Philippines,105
+3503,Philippines,105
+3504,Puerto Princesa,105
+3505,QCPhilippines,105
+3506,Quezon,105
+3507,Quezon City,105
+3508,Romblon Island,105
+3509,San Andres,105
+3510,San Fernando,105
+3511,San Juan,105
+3512,San Mateo,105
+3513,Santa Rosa,105
+3514,Santiago City,105
+3515,Siargao Island,105
+3516,Silang,105
+3517,Subic,105
+3518,Subic Bay Freeport Zone,105
+3519,Tacloban,105
+3520,Tacloban City,105
+3521,Tagaytay,105
+3522,Tagbilaran City,105
+3523,taguig,105
+3524,Taguig City,105
+3525,Tanza,105
+3526,Tarlac,105
+3527,Tarlac Province,105
+3528,Ternate,105
+3529,Toledo City,105
+3530,Valencia City,105
+3531,Valenzuela,105
+3532,Bishan,106
+3533,Changi,106
+3534,Chinatown,106
+3535,East Coast,106
+3536,Geylang,106
+3537,Harbourfront,106
+3538,Jurong,106
+3539,Jurong East,106
+3540,just back in Singapore,106
+3541,Lion City,106
+3542,Little India,106
+3543,Marina Bay,106
+3544,Orchard Road,106
+3545,Pasir Ris,106
+3546,Pulau Ubin,106
+3547,Sentosa Island,106
+3548,serangoon gardens,106
+3549,SG,106
+3550,Simei Estate,106
+3551,Singapore,106
+3552,Singapore River,106
+3553,Singapur,106
+3554,spore,106
+3555,Tampines,106
+3556,Tiong Bahru,106
+3557,Toa Payoh,106
+3558,UKSingapore,106
+3559,Ang Thong,107
+3560,Ao Nang,107
+3561,Ayutthaya,107
+3562,Ban Amphour,107
+3563,Ban Dung,107
+3564,Ban Pong,107
+3565,Bang Lamung,107
+3566,Bang Saphan,107
+3567,Bangkok,107
+3568,Bangkokstaymonth=7,107
+3569,Bangsaen,107
+3570,BKK,107
+3571,Bophut,107
+3572,Buriram,107
+3573,Chaiyaphum,107
+3574,Chalong,107
+3575,Chaweng,107
+3576,Cherngtalay,107
+3577,Chiang Mai,107
+3578,Chiang Mai Province,107
+3579,Chiang Rai,107
+3580,Chiang Rai Province,107
+3581,Chonburi,107
+3582,Chonburi Province,107
+3583,Chumphon,107
+3584,Hang Dong,107
+3585,Hat Yai,107
+3586,Hua Hin,107
+3587,Jomtien Beach,107
+3588,Kaeng Khoi,107
+3589,Kalasin,107
+3590,Kamala,107
+3591,Kantharalak,107
+3592,Karon,107
+3593,Kathu,107
+3594,Khao Lak,107
+3595,Khlong Luang,107
+3596,Khlong Muang,107
+3597,Ko Chang,107
+3598,Ko Kret,107
+3599,Ko Lanta,107
+3600,Ko Lipe,107
+3601,Ko Mak,107
+3602,Ko Pha-ngan,107
+3603,Ko Phi Phi Don,107
+3604,Ko Samui,107
+3605,Koh chang,107
+3606,Koh Phaluai,107
+3607,Koh Tao,107
+3608,Krabi Province,107
+3609,Krabi Town,107
+3610,krungtep,107
+3611,Lamai Beach,107
+3612,Lampang,107
+3613,Loei,107
+3614,Lop Buri,107
+3615,Mae Hong Son,107
+3616,Mae Rim,107
+3617,Na Chom Thian,107
+3618,Nai Thon,107
+3619,Nakhon Ratchasima,107
+3620,Nan,107
+3621,Narathiwat,107
+3622,Nong Kwai,107
+3623,Nong Prue,107
+3624,Nonthaburi,107
+3625,Pak Nam Pran,107
+3626,Pathum Thani,107
+3627,Patong,107
+3628,Pattaya,107
+3629,Phang Nga Province,107
+3630,Phetchaburi,107
+3631,Phitsanulok,107
+3632,Phuket,107
+3633,Phuket Kata Beach,107
+3634,Phuket Town,107
+3635,Ranong,107
+3636,Rawai,107
+3637,Rayong,107
+3638,Sakon Nakhon,107
+3639,Samui,107
+3640,Samut Prakan,107
+3641,Samut Sakhon Province,107
+3642,Saraburi,107
+3643,Suan Phueng,107
+3644,Sukhumvit,107
+3645,Taling Ngam,107
+3646,Thailand,107
+3647,Thalang District,107
+3648,Trang,107
+3649,Trat,107
+3650,Ubon Ratchathani,107
+3651,Udon Thani,107
+3652,Wichian Buri,107
+3653,Bac Ninh,108
+3654,Can Tho,108
+3655,Cat Ba,108
+3656,Cochin,108
+3657,Da Lat,108
+3658,Da Nang,108
+3659,Danang,108
+3660,Ha Giang,108
+3661,Hai Phong,108
+3662,Halong Bay,108
+3663,Hanoi,108
+3664,Hanoi/vietnam,108
+3665,HCMC,108
+3666,Ho Chi Minh,108
+3667,Ho Chi Minh City,108
+3668,Hoi An,108
+3669,Hue,108
+3670,My Tho,108
+3671,Nha Trang,108
+3672,Phu Quoc Island,108
+3673,Phuong 8,108
+3674,Pu Long Nature Reserve,108
+3675,Tay Ninh,108
+3676,Viet Tri,108
+3677,Vietnam,108
+3678,Vung Tau,108
+3679,-,109
+3680,Abbotsford,109
+3681,Aberfoyle Park,109
+3682,Acacia Ridge,109
+3683,Acton Park,109
+3684,Adamstown,109
+3685,Adealide,109
+3686,Adelade,109
+3687,Adelaide,109
+3688,Agnes Water,109
+3689,Airlie Beach,109
+3690,Airport West,109
+3691,Aitkenvale,109
+3692,Albany,109
+3693,Albert Park,109
+3694,Albion Park,109
+3695,Albion Park Rail,109
+3696,Albury,109
+3697,Aldinga Beach,109
+3698,Alexander Heights,109
+3699,Alexandra,109
+3700,Alexandra Headland,109
+3701,Alexandria,109
+3702,Alice Springs,109
+3703,Alkimos,109
+3704,Allambie Heights,109
+3705,Allansford,109
+3706,Alstonville,109
+3707,Altona,109
+3708,Altona Meadows,109
+3709,Alva Beach,109
+3710,Alyangula,109
+3711,Amaroo,109
+3712,Ambarvale,109
+3713,Angle Vale,109
+3714,Anglesea,109
+3715,Anna Bay,109
+3716,Annandale,109
+3717,Appin,109
+3718,Applecross,109
+3719,Arana Hills,109
+3720,Ararat,109
+3721,Ardeer,109
+3722,Ardross,109
+3723,Argenton,109
+3724,Armadale,109
+3725,Armidale,109
+3726,Armstrong Creek,109
+3727,Arncliffe,109
+3728,Arnhem,109
+3729,Arthurs Seat,109
+3730,Arundel,109
+3731,Ascot Park,109
+3732,Ascot Vale,109
+3733,Ashby,109
+3734,Ashfield,109
+3735,Ashmore,109
+3736,Aspendale,109
+3737,Athelstone,109
+3738,Atherton,109
+3739,Atherton Tablelands,109
+3740,Attadale,109
+3741,Auburn,109
+3742,Augusta,109
+3743,Aus,109
+3744,aussie,109
+3745,Aussie - Brisbane,109
+3746,Aussie In Canberra,109
+3747,Aussie on the Go,109
+3748,Aust,109
+3749,Austinmer,109
+3750,Australia,109
+3751,Australia / Guyana,109
+3752,Australia Plains,109
+3753,Australian,109
+3754,Australian Capital Territory,109
+3755,Australind,109
+3756,Australind- WA,109
+3757,Australind Western Australia,109
+3758,Austrlua,109
+3759,Avalon Beach,109
+3760,Avoca,109
+3761,Avoca Beach,109
+3762,Avondale Heights,109
+3763,Ayr,109
+3764,Bacchus Marsh,109
+3765,Bairnsdale,109
+3766,Baldivis,109
+3767,Balgowlah,109
+3768,Balhannah,109
+3769,Ballajura,109
+3770,Ballan,109
+3771,Ballandean,109
+3772,Ballarat,109
+3773,Ballina,109
+3774,Balmain,109
+3775,Balmoral,109
+3776,Balnarring,109
+3777,Balranald,109
+3778,Balwyn,109
+3779,Balwyn North,109
+3780,Bangalow,109
+3781,Banksia,109
+3782,Bankstown,109
+3783,Bannockburn,109
+3784,Bargara,109
+3785,Barham,109
+3786,Barmera,109
+3787,Barooga,109
+3788,Barossa,109
+3789,Barrington,109
+3790,Barwon Heads,109
+3791,Basin View,109
+3792,Bass hill,109
+3793,Bassendean,109
+3794,Bateau Bay,109
+3795,Batemans Bay,109
+3796,Bathurst,109
+3797,Batlow,109
+3798,Baulkham Hills,109
+3799,Bayside,109
+3800,Bayswater,109
+3801,Bayview,109
+3802,Beachmere,109
+3803,Beaconsfield,109
+3804,Beaconsfield Upper,109
+3805,Beaumaris,109
+3806,Bedford,109
+3807,Bedford Park,109
+3808,Bedfordale,109
+3809,Beechboro,109
+3810,Beechworth,109
+3811,Beenleigh,109
+3812,Beerwah,109
+3813,Bega,109
+3814,Beijing,109
+3815,Belconnen,109
+3816,Beldon,109
+3817,Belgrave,109
+3818,Bellara,109
+3819,Bellevue,109
+3820,Bellingen,109
+3821,Bells Beach,109
+3822,Belmont,109
+3823,Belmont North,109
+3824,Belmore,109
+3825,Belrose,109
+3826,Benalla,109
+3827,Bendemeer,109
+3828,Bendigo,109
+3829,Benowa,109
+3830,Bentleigh,109
+3831,Bentley,109
+3832,Berkeley Vale,109
+3833,Bermagui,109
+3834,Berowra Heights,109
+3835,Berrara,109
+3836,Berri,109
+3837,Berry,109
+3838,Berry Springs,109
+3839,Berwick,109
+3840,Beveridge,109
+3841,Bexley,109
+3842,Bft,109
+3843,Bibra Lake,109
+3844,Bicheno,109
+3845,Bicton,109
+3846,Biggera Waters,109
+3847,Bilambil Heights,109
+3848,Bilgola,109
+3849,Bilinga,109
+3850,Biloela,109
+3851,Binalong,109
+3852,Binalong Bay,109
+3853,Bindoon,109
+3854,Bingara,109
+3855,Binningup,109
+3856,birregurra,109
+3857,Birtinya,109
+3858,BIsbane Australia,109
+3859,Bittern,109
+3860,Black Rock,109
+3861,Blackalls Park,109
+3862,Blackburn,109
+3863,Blackheath,109
+3864,Blacksmiths,109
+3865,Blacktown,109
+3866,Blackwater,109
+3867,Blackwood,109
+3868,Blairgowrie,109
+3869,Blaxland,109
+3870,Bli Bli,109
+3871,Blue Haven,109
+3872,Blue Mountains,109
+3873,Blue Mountains National Park,109
+3874,BNEAust,109
+3875,Boambee,109
+3876,Bodalla,109
+3877,Boddington,109
+3878,Bogangar,109
+3879,Bolong,109
+3880,Bomaderry,109
+3881,Bonbeach,109
+3882,Bondi,109
+3883,Bondi Beach,109
+3884,Bondi Junction,109
+3885,Bongaree,109
+3886,Bonnells Bay,109
+3887,Bonny Hills,109
+3888,Bonville,109
+3889,Booker Bay,109
+3890,Boonah,109
+3891,Booragoon,109
+3892,Booval,109
+3893,Bordertown,109
+3894,Boronia,109
+3895,Botany,109
+3896,Bowden,109
+3897,Bowen,109
+3898,Bowral,109
+3899,Box Hill,109
+3900,Boyne Island,109
+3901,Braidwood,109
+3902,Bramston Beach,109
+3903,Bray Park,109
+3904,Breadalbane,109
+3905,Bremer Bay,109
+3906,Briabane,109
+3907,Briagolong,109
+3908,Bribie Island,109
+3909,Bridgetown,109
+3910,Bridport,109
+3911,Bright,109
+3912,Brighton,109
+3913,Brighton le Sands,109
+3914,Brisabne,109
+3915,Brisbane,109
+3916,Brisbane - Australia,109
+3917,brisbane au,109
+3918,Brisbane Australia,109
+3919,Brisbane QLD,109
+3920,Brisbane Region,109
+3921,Brisbane. Asutralia,109
+3922,Broadbeach,109
+3923,Broadbeach Waters,109
+3924,Broadmeadows,109
+3925,Broadwater,109
+3926,Broke,109
+3927,Broken Hill,109
+3928,Bronte,109
+3929,Brooklyn Park,109
+3930,Brookvale,109
+3931,Broome,109
+3932,Browns Plains,109
+3933,Brunswick,109
+3934,Brunswick East,109
+3935,Brunswick Heads,109
+3936,Buddina,109
+3937,Buderim,109
+3938,Budgewoi,109
+3939,Buff Point,109
+3940,Bulahdelah,109
+3941,Bull Creek,109
+3942,Bulleen,109
+3943,Bulli,109
+3944,Bullsbrook,109
+3945,Bunbury,109
+3946,Bunbury Western Australia,109
+3947,Bundaberg,109
+3948,Bundall,109
+3949,Bundalong,109
+3950,Bundanoon,109
+3951,Bundeena,109
+3952,Bundoora,109
+3953,Bungendore,109
+3954,Bunya Mountains,109
+3955,Bunyip,109
+3956,Burleigh Heads,109
+3957,Burleigh Waters,109
+3958,Burnie,109
+3959,Burns Beach,109
+3960,Burnside,109
+3961,Burpengary,109
+3962,Burra,109
+3963,Burradoo,109
+3964,Burswood,109
+3965,Busselton,109
+3966,Butler,109
+3967,Buxton,109
+3968,Byford,109
+3969,Byron Bay,109
+3970,Cabarita,109
+3971,Cabarita Beach,109
+3972,Caboolture,109
+3973,Cairns,109
+3974,Cairns Region,109
+3975,Callington,109
+3976,Caloundra,109
+3977,Camberwell,109
+3978,Cambewarra,109
+3979,Campbelltown,109
+3980,Canada Bay,109
+3981,Canberra,109
+3982,Canning Vale,109
+3983,Cannington,109
+3984,Cannon Creek,109
+3985,Cannonvale,109
+3986,Canowindra,109
+3987,Canterbury,109
+3988,Capalaba,109
+3989,Cape Cleveland,109
+3990,Cape Tribulation,109
+3991,Cape Woolamai,109
+3992,Capel,109
+3993,Capel Sound,109
+3994,Carbrook,109
+3995,Cardiff,109
+3996,Cardwell,109
+3997,Caringbah,109
+3998,Carlingford,109
+3999,Carlton,109
+4000,Carnarvon,109
+4001,Carnarvon WA,109
+4002,carnarvon western australia,109
+4003,Carnegie,109
+4004,Caroline Springs,109
+4005,Carramar,109
+4006,Carrum,109
+4007,carrum downs,109
+4008,Casino,109
+4009,Castle Hill,109
+4010,Castlecrag,109
+4011,Castlemaine,109
+4012,Casuarina,109
+4013,Casula,109
+4014,Caulfield,109
+4015,Caversham,109
+4016,Caves Beach,109
+4017,Ceduna,109
+4018,Central Australia,109
+4019,central coast,109
+4020,central coast nsw,109
+4021,Central Mangrove,109
+4022,Cessnock,109
+4023,Charlestown,109
+4024,Chatswood,109
+4025,Chelsea,109
+4026,Chelsea Heights,109
+4027,Cheltenham,109
+4028,Cherrybrook,109
+4029,Chidlow,109
+4030,Chifley,109
+4031,Childers,109
+4032,Chillingham. NSW.,109
+4033,Chiltern,109
+4034,Chinchilla,109
+4035,Chinderah,109
+4036,Chipping Norton,109
+4037,Chirnside Park,109
+4038,Chittaway Bay,109
+4039,Christie Downs,109
+4040,Christies Beach,109
+4041,Christmas Island,109
+4042,City Beach,109
+4043,City of Greater Geelong,109
+4044,City of Greater Wollongong,109
+4045,Clare,109
+4046,Claremont,109
+4047,Clarence Gardens,109
+4048,Clarence Town,109
+4049,Clarendon,109
+4050,Clarkson,109
+4051,Clayton,109
+4052,Clear Island Waters,109
+4053,Clermont,109
+4054,Cleveland,109
+4055,Clifton Beach,109
+4056,Clifton Hill,109
+4057,Clifton Springs,109
+4058,Clinton,109
+4059,Cloncurry,109
+4060,Clontarf,109
+4061,Clovelly,109
+4062,Cloverdale,109
+4063,Clunes,109
+4064,Cobar,109
+4065,Cobden,109
+4066,Cobram,109
+4067,Coburg,109
+4068,Coburg North,109
+4069,Cockburn,109
+4070,Coffs Harbour,109
+4071,Cohuna,109
+4072,Colac,109
+4073,Coleambally,109
+4074,Collaroy,109
+4075,Collaroy Beach,109
+4076,Collie,109
+4077,Collingwood,109
+4078,Como,109
+4079,Concord,109
+4080,Condobolin,109
+4081,Connolly,109
+4082,Coogee,109
+4083,Cooktown,109
+4084,Coolamon,109
+4085,Coolangatta,109
+4086,Coolgardie,109
+4087,Cooloola Cove,109
+4088,Coolum Beach,109
+4089,Coombabah,109
+4090,Coomera,109
+4091,Coonabarabran,109
+4092,Coonamble,109
+4093,Cooroy,109
+4094,Cootamundra,109
+4095,Copacabana,109
+4096,Coral Cove,109
+4097,Corindi,109
+4098,Corinella,109
+4099,Corio,109
+4100,Corowa,109
+4101,Corrigin,109
+4102,Corrimal,109
+4103,Cottesloe,109
+4104,country Victoria,109
+4105,Country WA,109
+4106,Cowaramup,109
+4107,Cowes,109
+4108,Cowra,109
+4109,Crafers,109
+4110,Craigieburn,109
+4111,Craigmore,109
+4112,Cranbourne,109
+4113,Cranbourne East,109
+4114,Cremorne,109
+4115,Crescent Head,109
+4116,Creswick,109
+4117,Crib Point,109
+4118,Cronulla,109
+4119,Cronulla Beach,109
+4120,Crows Nest,109
+4121,Croydon,109
+4122,Cuballing,109
+4123,Culburra Beach,109
+4124,Cunderdin,109
+4125,Curl Curl,109
+4126,Currambine,109
+4127,Currarong,109
+4128,Currimundi,109
+4129,Currumbin,109
+4130,Cygnet,109
+4131,Daisy Hill,109
+4132,Dalby,109
+4133,Dalkeith,109
+4134,Dalmeny,109
+4135,DALY RIVER NT,109
+4136,Dalyellup,109
+4137,Dampier,109
+4138,Dampier Peninsula,109
+4139,Dandaragan,109
+4140,Dandenong,109
+4141,Dapto,109
+4142,Darch,109
+4143,Dardanup,109
+4144,Darling Downs,109
+4145,Darlington,109
+4146,Darwin,109
+4147,Davistown,109
+4148,dawesville,109
+4149,Daylesford,109
+4150,Deception Bay,109
+4151,Dee Why,109
+4152,Deepwater,109
+4153,Deer Park,109
+4154,Delacombe,109
+4155,Deloraine,109
+4156,Denham,109
+4157,Deniliquin,109
+4158,Deniliquin NSW,109
+4159,Denman,109
+4160,Denmark,109
+4161,Derby,109
+4162,Derrimut,109
+4163,Deviot,109
+4164,Devonport,109
+4165,Diamond Beach,109
+4166,Diamond Creek,109
+4167,Dianella,109
+4168,Diddillibah,109
+4169,Diggers Rest,109
+4170,Dingley Village,109
+4171,Dixons Creek,109
+4172,Dodges Ferry,109
+4173,Doncaster East,109
+4174,Dongara,109
+4175,Donnybrook,109
+4176,Doreen,109
+4177,Double Bay,109
+4178,Dowerin,109
+4179,Dromana,109
+4180,Drouin,109
+4181,Drummoyne,109
+4182,Drysdale,109
+4183,Dubbo,109
+4184,Dullwich Hill,109
+4185,Dunbogan,109
+4186,Duncraig,109
+4187,Dunsborogh,109
+4188,Dunsborough,109
+4189,Dwellingup,109
+4190,Eagleby,109
+4191,East Coast,109
+4192,East Corrimal,109
+4193,East Fremantle,109
+4194,East Maitland,109
+4195,Eastern Creek,109
+4196,Eaton,109
+4197,Echuca,109
+4198,Eden,109
+4199,Edenhope,109
+4200,Edge Hill,109
+4201,Edgecliff,109
+4202,Edgeworth,109
+4203,Eidsvold,109
+4204,Eildon,109
+4205,Eimeo,109
+4206,Elanora,109
+4207,Elderslie,109
+4208,Elizabeth,109
+4209,Ellenbrook,109
+4210,Elsternwick,109
+4211,Eltham,109
+4212,Elwood,109
+4213,Emerald,109
+4214,Emerald Beach,109
+4215,Emu Plains,109
+4216,Encounter Bay,109
+4217,Endeavour Hills,109
+4218,Enfield,109
+4219,Engadine,109
+4220,Epping,109
+4221,Erina,109
+4222,Ermington,109
+4223,Esperance,109
+4224,Essendon North,109
+4225,Ettalong Beach,109
+4226,Eudlo,109
+4227,Eumundi,109
+4228,Euroa,109
+4229,Euston,109
+4230,Evandale,109
+4231,Evans Head,109
+4232,Everton Hills,109
+4233,Everton Park,109
+4234,Ewingsdale,109
+4235,Exmouth,109
+4236,Fairfield,109
+4237,Fairlight,109
+4238,Fairy Meadow,109
+4239,Falcon,109
+4240,Far North Coast,109
+4241,Faulconbridge,109
+4242,Fawkner,109
+4243,Fern Bay,109
+4244,Ferntree Gully,109
+4245,Fernvale,109
+4246,Findon,109
+4247,Fingal,109
+4248,Fingal Bay,109
+4249,Fingal Head,109
+4250,Fitzroy,109
+4251,Five Dock,109
+4252,Footscray,109
+4253,Forde,109
+4254,Forest Creek,109
+4255,Forestville,109
+4256,Forrest,109
+4257,Forster,109
+4258,Forth,109
+4259,Foster,109
+4260,Frankston,109
+4261,Frederickton,109
+4262,Fremantle,109
+4263,Fremantle West Australia,109
+4264,Frenchs Forest,109
+4265,freshpho,109
+4266,Freshwater,109
+4267,Frewville,109
+4268,Fulham,109
+4269,Gardenvale,109
+4270,Gatton,109
+4271,Gawler,109
+4272,Geelong,109
+4273,Geelong & Bellarine,109
+4274,Geelong Bellarine,109
+4275,George Town,109
+4276,Georgetown,109
+4277,Geraldton,109
+4278,Gerang Gerung,109
+4279,Gerringong,109
+4280,Gerroa,109
+4281,Gingin,109
+4282,Gippsland,109
+4283,Gisborne,109
+4284,Gladesville,109
+4285,Gladstone,109
+4286,Glanville,109
+4287,Glass House Mountains,109
+4288,Gledswood Hills,109
+4289,Glen Iris,109
+4290,Glen Osmond,109
+4291,Glen Waverley,109
+4292,Glenelg,109
+4293,Glenelg North,109
+4294,Glenhaven,109
+4295,Glenmore Park,109
+4296,Glenorchy,109
+4297,Glenrowan,109
+4298,Glenroy,109
+4299,Glenside,109
+4300,Gnarabup,109
+4301,Gnowangerup,109
+4302,Gol Gol,109
+4303,Gold Coast,109
+4304,Gold coast Australia,109
+4305,Gold Coast Hinterland,109
+4306,Gold Coast QLD,109
+4307,Gold Coast. Australia,109
+4308,goldcoast,109
+4309,Golden Beach,109
+4310,Golden Grove,109
+4311,goolwa,109
+4312,Goomalling,109
+4313,Goondiwindi,109
+4314,Gordon,109
+4315,Gorokan,109
+4316,Gosford,109
+4317,Gosnells,109
+4318,Goulburn,109
+4319,Gove,109
+4320,Gracemere,109
+4321,Grafton,109
+4322,Grafton Australia,109
+4323,Great Ocean Road,109
+4324,Great Western,109
+4325,Greater Adelaide,109
+4326,Greater Bendigo,109
+4327,Greater Hobart,109
+4328,Greater Melbourne,109
+4329,Greater Newcastle,109
+4330,Greater Perth,109
+4331,Greater Sydney,109
+4332,Green Point,109
+4333,Greenacre,109
+4334,Greenmount,109
+4335,Greenock,109
+4336,Greensborough,109
+4337,Greenvale,109
+4338,Greenwell Point,109
+4339,Griffith,109
+4340,Grovedale,109
+4341,Guildford,109
+4342,gulgong,109
+4343,Gunbalanya,109
+4344,Gungahlin,109
+4345,Gunnedah,109
+4346,Gwandalan,109
+4347,Gympie,109
+4348,Gympie Region,109
+4349,Hahndorf,109
+4350,Halfway Creek,109
+4351,Hallett Cove,109
+4352,Hallidays Point,109
+4353,Halls Creek,109
+4354,Halls Gap,109
+4355,Hamilton,109
+4356,Hamilton Hill,109
+4357,Hamilton Island,109
+4358,Hamlyn Terrace,109
+4359,Hampton,109
+4360,Hampton East,109
+4361,Harden-Murrumburrah,109
+4362,Harrington,109
+4363,Harris Park,109
+4364,Harrison,109
+4365,Harvey,109
+4366,Hawks Nest,109
+4367,Hawthorn,109
+4368,Hayborough,109
+4369,Hayman Island,109
+4370,Haynes,109
+4371,Hazelbrook,109
+4372,Hazelwood North,109
+4373,Healesville,109
+4374,Heathcote,109
+4375,Heatherton,109
+4376,Heidelberg,109
+4377,Heidelberg West,109
+4378,Helensvale,109
+4379,Henley Beach,109
+4380,Henley Brook,109
+4381,Herne Hill,109
+4382,Hervey Bay,109
+4383,Heyfield,109
+4384,High Wycombe,109
+4385,Highett,109
+4386,Highgate,109
+4387,Highland Park,109
+4388,Highton,109
+4389,Hillarys,109
+4390,Hillcrest,109
+4391,Hilllbank,109
+4392,Hillside,109
+4393,hillston,109
+4394,Hindmarsh Island,109
+4395,Hobart,109
+4396,Hobartian,109
+4397,Hocking,109
+4398,Holden Hill,109
+4399,Holloways Beach,109
+4400,Home Hill,109
+4401,Homebush,109
+4402,Hope Island,109
+4403,Hoppers Crossing,109
+4404,Hornsby,109
+4405,Horsfield Bay,109
+4406,Horsham,109
+4407,Horsley Park,109
+4408,Howard Springs,109
+4409,Howlong,109
+4410,Howrah,109
+4411,Hughesdale,109
+4412,Humpty Doo,109
+4413,Hunter Valley,109
+4414,Hunters Hill,109
+4415,Huonville,109
+4416,Hurstbridge,109
+4417,Hurstville,109
+4418,Huskisson,109
+4419,Illawarra,109
+4420,Illawong Sydney australia,109
+4421,Iluka,109
+4422,Imanpa,109
+4423,Indented Head,109
+4424,Ingham,109
+4425,Inglewood,109
+4426,Innisfail,109
+4427,Inverell,109
+4428,Inverloch,109
+4429,Invermay,109
+4430,Ipswich,109
+4431,Irymple,109
+4432,Ivanhoe,109
+4433,Jan Juc,109
+4434,Jandakot,109
+4435,Jarrahdale,109
+4436,Jerrabomberra,109
+4437,Jerramungup,109
+4438,Jervis Bay,109
+4439,Jilliby,109
+4440,Jindabyne,109
+4441,Jindalee,109
+4442,Joondalup,109
+4443,Jordan Springs,109
+4444,Kadina,109
+4445,Kahibah,109
+4446,Kakadu National Park,109
+4447,Kalamunda,109
+4448,Kalbarri,109
+4449,Kalgoorlie,109
+4450,Kalgoorlie Western Australia,109
+4451,Kalgoorlie-Boulder,109
+4452,Kallangur,109
+4453,Kambalda,109
+4454,Kangaroo Flat,109
+4455,Kangaroo Ground,109
+4456,Kangaroo Island,109
+4457,Kangaroo Valley,109
+4458,Kaniva,109
+4459,Kanmantoo,109
+4460,Kanwal,109
+4461,Kapunda,109
+4462,Karalee,109
+4463,Karratha,109
+4464,Karridale,109
+4465,Karrinyup,109
+4466,Karrinyup West Australia,109
+4467,Katamatite,109
+4468,Katanning,109
+4469,Katherine,109
+4470,Katherine NT,109
+4471,Katoomba,109
+4472,Kawana,109
+4473,Kawana Island,109
+4474,Kayena,109
+4475,Kearns,109
+4476,Keilor Downs,109
+4477,Kellyville,109
+4478,Kelmscott,109
+4479,Kempsey,109
+4480,Kendall,109
+4481,Kenmore,109
+4482,Kensington,109
+4483,Kentucky,109
+4484,Keswick,109
+4485,Kettering,109
+4486,Kew,109
+4487,Kewarra Beach,109
+4488,Keysborough,109
+4489,Kialla,109
+4490,Kiama,109
+4491,Kiama Downs,109
+4492,Kiama Municipality,109
+4493,Kilcoy,109
+4494,Kilcunda,109
+4495,Killara,109
+4496,Killarney,109
+4497,Killarney Vale,109
+4498,Kilmore,109
+4499,Kilsyth,109
+4500,Kincumber,109
+4501,Kingaroy,109
+4502,Kinglake,109
+4503,Kings Beach,109
+4504,Kingscliff,109
+4505,Kingscote,109
+4506,Kingsford,109
+4507,Kingsley,109
+4508,Kingston,109
+4509,Kingston Beach,109
+4510,Kingston SE,109
+4511,Kingsville,109
+4512,Kingswood,109
+4513,Kinross WA,109
+4514,Kirrawee,109
+4515,Kirwan,109
+4516,Kondinin,109
+4517,Koorda,109
+4518,Koo-Wee-Rup,109
+4519,Koroit,109
+4520,Korumburra,109
+4521,Krowera,109
+4522,Kununurra,109
+4523,Kuranda,109
+4524,Kurrajong,109
+4525,Kurralta Park,109
+4526,Kurunjang,109
+4527,Kurwongbah,109
+4528,Kwinana,109
+4529,Kyabram,109
+4530,Kyneton,109
+4531,Kyogle,109
+4532,Labrador,109
+4533,Lake Cathie,109
+4534,Lake Grace,109
+4535,Lake Haven,109
+4536,Lake Macquarie,109
+4537,Lake Munmorah,109
+4538,Lakes Entrance,109
+4539,Lalor,109
+4540,Lancefield,109
+4541,Lancelin,109
+4542,Landsdale,109
+4543,Lane Cove,109
+4544,Lang Lang,109
+4545,Langwarrin,109
+4546,Langwarrin South. Victoria. Australia,109
+4547,Lara,109
+4548,Largs Bay,109
+4549,Latrobe,109
+4550,latrobe valley,109
+4551,Launceston,109
+4552,Lavers Hill,109
+4553,Lavington,109
+4554,Lawson,109
+4555,Leederville,109
+4556,Leeming,109
+4557,Leeton,109
+4558,Legana,109
+4559,Leichhardt,109
+4560,Lennox Head,109
+4561,Lennox head australia,109
+4562,Leongatha,109
+4563,Leopold,109
+4564,Leppington,109
+4565,Lesmurdie,109
+4566,Leura,109
+4567,Lewisham,109
+4568,Lidcombe,109
+4569,Lilydale,109
+4570,Lindisfarne,109
+4571,Lismore,109
+4572,Liston,109
+4573,Lithgow,109
+4574,Littlehampton,109
+4575,Liverpool,109
+4576,Lobethal,109
+4577,Lochinvar,109
+4578,Lockyer Valley,109
+4579,Logan City,109
+4580,Loganholme,109
+4581,Long Jetty,109
+4582,Longford,109
+4583,Longreach,109
+4584,Longwarry,109
+4585,Lord Howe Island,109
+4586,Lorn,109
+4587,Lovedale,109
+4588,Lovely Banks,109
+4589,Lowden,109
+4590,Lower Templestowe,109
+4591,Loxton,109
+4592,Lurnea,109
+4593,Lynbrook,109
+4594,Lyndoch,109
+4595,Mackay,109
+4596,Maclean,109
+4597,Macleay Island,109
+4598,Macleod,109
+4599,Macmasters Beach,109
+4600,Maddington,109
+4601,Madeley,109
+4602,Magenta,109
+4603,Magill,109
+4604,Magnetic Island,109
+4605,Maida Vale,109
+4606,Maiden Gully,109
+4607,Maidstone,109
+4608,Main Beach,109
+4609,Maitland,109
+4610,maitland nsw australia,109
+4611,Malabar,109
+4612,Malaysia/Singapore/Australia,109
+4613,Maleny,109
+4614,Mallacoota,109
+4615,Malvern,109
+4616,Mandurah,109
+4617,Mandurah and Peel Region,109
+4618,Mango Hill,109
+4619,Mangrove Mountain,109
+4620,Maningrida,109
+4621,Manjimup,109
+4622,Manly,109
+4623,Manly Vale,109
+4624,Mannering Park,109
+4625,Mannum,109
+4626,Mansfield,109
+4627,Mapleton,109
+4628,Marcus Beach,109
+4629,Mareeba,109
+4630,Margaret River,109
+4631,Margaret River WA,109
+4632,Margate,109
+4633,Marian,109
+4634,Marion,109
+4635,Marlo,109
+4636,Marmion,109
+4637,Maroochydore,109
+4638,Maroondah,109
+4639,Maroubra,109
+4640,Marrickville,109
+4641,Maryborough,109
+4642,Mascot,109
+4643,Maslin Beach,109
+4644,Matcham,109
+4645,Matraville,109
+4646,Mawson Lakes,109
+4647,Maylands,109
+4648,McCrae,109
+4649,McLaren Vale,109
+4650,McMahons Point,109
+4651,Meadowbank,109
+4652,Medlow Bath,109
+4653,Medowie,109
+4654,Meeniyan,109
+4655,Melb,109
+4656,melb Australia,109
+4657,Melb Vict,109
+4658,MelbAustralia,109
+4659,Melboourne,109
+4660,Melboure Australia,109
+4661,Melbourne,109
+4662,Melbourne - Australia,109
+4663,Melbourne Aus,109
+4664,Melbourne Aust,109
+4665,Melbourne Australia,109
+4666,Melbourne- Australia,109
+4667,Melbourne Vic,109
+4668,Melbourne.,109
+4669,mellbourne,109
+4670,Melton,109
+4671,Melton South,109
+4672,Melville,109
+4673,Menai,109
+4674,Meningie,109
+4675,Mentone,109
+4676,merewether,109
+4677,Merewether NSW,109
+4678,Meridan Plains,109
+4679,Merimbula,109
+4680,Mermaid Beach,109
+4681,Mermaid Waters,109
+4682,Mernda,109
+4683,Merredin,109
+4684,Merriwa,109
+4685,Merrylands,109
+4686,Metung,109
+4687,Miami,109
+4688,miami qld,109
+4689,Mickleham,109
+4690,Middle Dural,109
+4691,Middle Swan,109
+4692,Middleton,109
+4693,Midginbil,109
+4694,Midland,109
+4695,Milawa,109
+4696,Mildura,109
+4697,Mill Park,109
+4698,Millbridge,109
+4699,Millicent,109
+4700,Milperra,109
+4701,Milsons Point,109
+4702,Milton,109
+4703,Mindarie,109
+4704,Miners Rest,109
+4705,Minmi,109
+4706,minninme,109
+4707,Miranda,109
+4708,Mirrabooka,109
+4709,Mission Beach,109
+4710,mission beach australia,109
+4711,Mitcham,109
+4712,Mittagong,109
+4713,Moama,109
+4714,Moana,109
+4715,Moe,109
+4716,Mole Creek,109
+4717,Mollymook,109
+4718,Molong,109
+4719,Mona Vale,109
+4720,Monash,109
+4721,Mont Albert,109
+4722,Montmorency,109
+4723,Monto,109
+4724,Montrose,109
+4725,Montville,109
+4726,Mooloolaba,109
+4727,Moonee Ponds,109
+4728,Moora,109
+4729,Moore Park Beach,109
+4730,Mooroolbark,109
+4731,Mooroopna,109
+4732,Moranbah,109
+4733,Morayfield,109
+4734,Mordialloc,109
+4735,Morisset,109
+4736,Morley,109
+4737,Mornington,109
+4738,Mornington Peninsula,109
+4739,Morphett Vale,109
+4740,Morphettville,109
+4741,Mortdale,109
+4742,Mortlake,109
+4743,Moruya,109
+4744,Morwell,109
+4745,Mosman,109
+4746,Mosman Park,109
+4747,Moss Vale,109
+4748,Mossy Point,109
+4749,Mount Annan,109
+4750,Mount Barker,109
+4751,Mount Coolum,109
+4752,Mount Cotton,109
+4753,Mount Dandenong,109
+4754,Mount Duneed,109
+4755,Mount Franklin,109
+4756,Mount Gambier,109
+4757,Mount Gravatt,109
+4758,Mount Hawthorn,109
+4759,Mount Helena,109
+4760,Mount Isa,109
+4761,Mount Lawley,109
+4762,Mount Macedon,109
+4763,Mount martha,109
+4764,Mount Nathan,109
+4765,Mount Pleasant,109
+4766,Mount Samson,109
+4767,Mount Victoria,109
+4768,Mount Waverley,109
+4769,Mountain Creek,109
+4770,Moura,109
+4771,mt burr,109
+4772,Mt Eliza,109
+4773,Mt Gambier,109
+4774,Mt Martha,109
+4775,Muchea,109
+4776,Mudgee,109
+4777,Mudgeeraba,109
+4778,Mudjimba,109
+4779,Mulgrave,109
+4780,Mullaloo,109
+4781,Mullumbimby,109
+4782,Mulwala,109
+4783,Mundingburra,109
+4784,Munno Para,109
+4785,Murchison,109
+4786,Murray Bridge,109
+4787,Murrumba Downs,109
+4788,Murrumbateman,109
+4789,Murwillumbah,109
+4790,Mylestom,109
+4791,N.E. Vic,109
+4792,N.S.W,109
+4793,N.S.W. Australia,109
+4794,Nabiac,109
+4795,Nagambie,109
+4796,Nairne,109
+4797,Nambour,109
+4798,Nambucca Heads,109
+4799,Nannup,109
+4800,Nannup Western Australia,109
+4801,Naracoorte,109
+4802,Narangba,109
+4803,Narara,109
+4804,Narbethong,109
+4805,Narellan,109
+4806,Narooma,109
+4807,Narrabeen,109
+4808,Narrabri,109
+4809,Narrawallee,109
+4810,Narraweena,109
+4811,Narre Warren,109
+4812,Narrogin,109
+4813,Narromine,109
+4814,Neerim South,109
+4815,Nelson Bay,109
+4816,Nerang,109
+4817,Neutral Bay,109
+4818,New Lambton,109
+4819,New South Wales,109
+4820,Newcastle,109
+4821,Newhaven,109
+4822,Newington,109
+4823,Newman,109
+4824,Newport,109
+4825,Newstead,109
+4826,Newton,109
+4827,Newtown,109
+4828,Nhulunbuy,109
+4829,Niagara Park,109
+4830,Nicholson,109
+4831,Niddrie,109
+4832,Nightcliff,109
+4833,Nimbin,109
+4834,Ningaloo,109
+4835,Noarlunga Centre,109
+4836,Noosa,109
+4837,Noosa Heads,109
+4838,Noosa Heads Australia,109
+4839,Noosaville,109
+4840,Norah Head,109
+4841,Norfolk Island,109
+4842,Normanville,109
+4843,North Arm Cove,109
+4844,North Beach,109
+4845,North Fremantle,109
+4846,North Geelong,109
+4847,North Lakes,109
+4848,North Mackay,109
+4849,North Nowra,109
+4850,North Perth,109
+4851,North Queensland,109
+4852,North Ryde,109
+4853,North Shields,109
+4854,North Sydney,109
+4855,North Ward,109
+4856,North Willoughby,109
+4857,North Wollongong,109
+4858,North Wonthaggi,109
+4859,Northam,109
+4860,Northbridge,109
+4861,Northcote,109
+4862,Northern Beaches,109
+4863,Northern NSW,109
+4864,Northern Territory,109
+4865,Northmead,109
+4866,Norton Summit,109
+4867,Novar Gardens,109
+4868,nowra,109
+4869,nth avoca,109
+4870,Nth Qld Australia,109
+4871,Nubeena,109
+4872,Nullagine,109
+4873,Numurkah,109
+4874,Nunawading,109
+4875,Nuriootpa,109
+4876,Oak Flats,109
+4877,Oakford,109
+4878,Oaklands Park,109
+4879,Oakleigh,109
+4880,Oatley,109
+4881,Ocean Grove,109
+4882,Ocean Shores,109
+4883,Officer,109
+4884,O'Halloran Hill,109
+4885,Old Bar,109
+4886,Old Reynella,109
+4887,One Tree Hill,109
+4888,Onslow,109
+4889,Orange,109
+4890,Orbost,109
+4891,Ormeau,109
+4892,Ormond,109
+4893,Ourimbah,109
+4894,Outback Queensland,109
+4895,Ouyen,109
+4896,Oxenford,109
+4897,Pacific Coast Australia,109
+4898,Pacific Paradise,109
+4899,Pacific Pines,109
+4900,Padbury,109
+4901,Padstow,109
+4902,Pakenham,109
+4903,Palm Beach,109
+4904,Palm Cove,109
+4905,Palmerston,109
+4906,Palmview,109
+4907,Palmwoods,109
+4908,Pambula,109
+4909,Panania,109
+4910,Pannawonica,109
+4911,Para Hills,109
+4912,Paraburdoo,109
+4913,Paradise Point,109
+4914,Paralowie,109
+4915,Paringa,109
+4916,Park Orchards,109
+4917,Parkdale,109
+4918,Parkerville,109
+4919,Parkes,109
+4920,Parklea,109
+4921,Parkside,109
+4922,Parkwood,109
+4923,Parramatta,109
+4924,Parrearra,109
+4925,Pascoe Vale,109
+4926,Patterson Lakes,109
+4927,Paynesville,109
+4928,Peachester,109
+4929,Peakhurst,109
+4930,Pearcedale,109
+4931,Penneshaw,109
+4932,Pennington,109
+4933,pennyroyal,109
+4934,Penrith,109
+4935,Penshurst,109
+4936,Peppermint Grove,109
+4937,Peppermint Grove Beach,109
+4938,Peregian Beach,109
+4939,Peregian Springs,109
+4940,Perth,109
+4941,Perth (Tasmania),109
+4942,Perth Aust,109
+4943,Perth Australia,109
+4944,Perth City,109
+4945,Perth Hills,109
+4946,Perth W Australia,109
+4947,Perth WA,109
+4948,perth west australia,109
+4949,Perth Western Australia,109
+4950,Perth. WA,109
+4951,perthwa,109
+4952,Peterborough,109
+4953,Petersham,109
+4954,Phillip Island,109
+4955,Picnic Bay,109
+4956,Picton,109
+4957,Pilbara,109
+4958,Pimpama,109
+4959,Pingelly,109
+4960,Pinjarra,109
+4961,Pipers Creek,109
+4962,Pipers River,109
+4963,Plainland,109
+4964,Playford,109
+4965,Point Clare,109
+4966,Point Cook,109
+4967,Point Lonsdale,109
+4968,Point Lookout,109
+4969,Point Samson,109
+4970,Pokolbin,109
+4971,Pomona,109
+4972,Porepunkah,109
+4973,Port Adelaide,109
+4974,Port Augusta,109
+4975,Port Douglas,109
+4976,Port Elliot,109
+4977,Port Fairy,109
+4978,Port Hedland,109
+4979,Port Hughes,109
+4980,Port Kennedy,109
+4981,Port Lincoln,109
+4982,Port MacDonnell,109
+4983,Port Macquarie,109
+4984,port macqurie,109
+4985,Port Melbourne,109
+4986,Port Noarlunga,109
+4987,Port Phillip,109
+4988,Port Pirie,109
+4989,Port Sorell,109
+4990,Port Stephens,109
+4991,Port Vincent,109
+4992,Port Welpool,109
+4993,Port Willunga,109
+4994,Portand,109
+4995,Portland,109
+4996,portsea,109
+4997,Pottsville,109
+4998,Prahran,109
+4999,Preston Beach WA,109
+5000,Primrose Sands,109
+5001,Proserpine,109
+5002,Prospect,109
+5003,Prospect Vale,109
+5004,Pymble,109
+5005,Qld,109
+5006,qld australia,109
+5007,Quakers Hill,109
+5008,Queanbeyan,109
+5009,Quedjinup,109
+5010,Queenscliff,109
+5011,Queensland,109
+5012,queensland australia,109
+5013,Quinns Rocks,109
+5014,Quorn,109
+5015,Quuensland,109
+5016,Rainbow Beach,109
+5017,Ramsgate,109
+5018,Randwick,109
+5019,Ravenswood,109
+5020,Red Cliffs,109
+5021,Redcliffe,109
+5022,Redhead,109
+5023,redland bay,109
+5024,Redland City,109
+5025,Reedy Creek,109
+5026,Regional Victoria,109
+5027,Renmark,109
+5028,Research,109
+5029,Reservoir,109
+5030,Retreat,109
+5031,Revesby,109
+5032,Reynella,109
+5033,Rhodes,109
+5034,Richmond,109
+5035,Riddells Creek,109
+5036,Ringwood,109
+5037,River Heads,109
+5038,Riverton,109
+5039,Rivervale,109
+5040,Robe,109
+5041,Robina,109
+5042,Rochedale South,109
+5043,Rockbank,109
+5044,Rockdale,109
+5045,Rockhampton,109
+5046,Rockingham,109
+5047,Roma,109
+5048,Romsey,109
+5049,Rose Bay,109
+5050,Rosebery,109
+5051,Rosebud,109
+5052,Rosemount,109
+5053,Rosetown,109
+5054,Rosetta,109
+5055,Rostrevor,109
+5056,Rottnest Island,109
+5057,Rowville,109
+5058,Roxburgh Park,109
+5059,Roxby Downs,109
+5060,Royal Park,109
+5061,Rozelle,109
+5062,Runaway Bay,109
+5063,rural West Aussie,109
+5064,Rutherford,109
+5065,Ryde,109
+5066,Rye,109
+5067,Safety Bay,109
+5068,Saint Kilda,109
+5069,Salamanderbay,109
+5070,Sale,109
+5071,Salisbury,109
+5072,Samford,109
+5073,San Remo,109
+5074,Sanctuary Point,109
+5075,Sandringham,109
+5076,Sandy Bay,109
+5077,Sandy Beach,109
+5078,Sapphire Beach,109
+5079,Sapphire Coast,109
+5080,Sarina,109
+5081,Sawtell,109
+5082,Scamander,109
+5083,Scarborough,109
+5084,Scone,109
+5085,Scoresby,109
+5086,Seaford,109
+5087,Sebastopol,109
+5088,Secret Harbour,109
+5089,Seddon,109
+5090,Seisia,109
+5091,Semaphore,109
+5092,Sensational Adelaide,109
+5093,Seventeen Mile Rocks,109
+5094,Seymour,109
+5095,Shailer Park,109
+5096,Shearwater,109
+5097,Sheffield,109
+5098,Shell Cove,109
+5099,Shelley,109
+5100,Shellharbour,109
+5101,Shelly Beach,109
+5102,Shepparton,109
+5103,Shoal Bay,109
+5104,Shoalhaven,109
+5105,Shoalhaven Heads,109
+5106,Silvan,109
+5107,Simpson,109
+5108,Singleton,109
+5109,Sippy Downs,109
+5110,Smithfield,109
+5111,Smiths Lake,109
+5112,Smithton,109
+5113,Smythesdale,109
+5114,Soldiers Point,109
+5115,Somerset,109
+5116,Somerville,109
+5117,Sorrento,109
+5118,south australia,109
+5119,South Australia Port Lincoln,109
+5120,South Coast,109
+5121,South Fremantle,109
+5122,South Hedland,109
+5123,South Melbourne,109
+5124,South Mission Beach,109
+5125,South Morang,109
+5126,South Perth,109
+5127,South West Rocks,109
+5128,South Yarra,109
+5129,South Yunderup,109
+5130,Southbank,109
+5131,Southern Highlands,109
+5132,Southern Queensland,109
+5133,Southern River,109
+5134,Southport,109
+5135,Spearwood,109
+5136,Speers Point,109
+5137,Speewah,109
+5138,Spotswood,109
+5139,spring mountain queensland,109
+5140,Springfield,109
+5141,Springfield Central,109
+5142,Springfield Lakes,109
+5143,Springwood,109
+5144,St Andrews,109
+5145,St Clair,109
+5146,St Helens,109
+5147,St Kilda,109
+5148,St Kilda East,109
+5149,St Leonards,109
+5150,St Peters,109
+5151,St. Kilda,109
+5152,Stanhope Gardens,109
+5153,Stanley,109
+5154,Stansbury,109
+5155,Stanthorpe,109
+5156,Stanwell Park,109
+5157,Star707,109
+5158,Stirling,109
+5159,Stokers Siding,109
+5160,Strahan,109
+5161,Stratford,109
+5162,Strathalbyn,109
+5163,Strathfield,109
+5164,Strathfield South,109
+5165,Strathpine,109
+5166,Streaky Bay,109
+5167,Subiaco,109
+5168,Success,109
+5169,Suffolk Park,109
+5170,Sunbury,109
+5171,Sunny Coast,109
+5172,Sunnybank Hills,109
+5173,Sunrise Beach,109
+5174,Sunshine Beach,109
+5175,Sunshine Coast,109
+5176,Sunshine Coast Australia,109
+5177,Sunshine Coast Hinterland,109
+5178,Sunshine Coast Qld.,109
+5179,Sunshine Coast Queensland,109
+5180,Surfers Paradise,109
+5181,Surrey Hills,109
+5182,Sussex Inlet,109
+5183,Sutherland Shire,109
+5184,Swan Hill,109
+5185,Swan Reach,109
+5186,Swan Valley,109
+5187,Swan View,109
+5188,Swanbourne,109
+5189,Swansea,109
+5190,Sweers Island,109
+5191,Swifts Creek,109
+5192,Sydenham,109
+5193,Sydney,109
+5194,Sydney - Australia,109
+5195,Sydney Aussie,109
+5196,Sydney Australia,109
+5197,Sydney NSW,109
+5198,Sydney Olympic Park,109
+5199,Sydney/Melbourne,109
+5200,sydneyaustralia,109
+5201,Sylvania Waters,109
+5202,Tacoma,109
+5203,Tallebudgera,109
+5204,Tamborine,109
+5205,Tamborine Mountain,109
+5206,Tamworth,109
+5207,tanawha,109
+5208,Tannum Sands,109
+5209,Tanunda,109
+5210,Taradale,109
+5211,Taree,109
+5212,Tarneit,109
+5213,Tarrawanna,109
+5214,Tas,109
+5215,Tasmania,109
+5216,Tathra,109
+5217,Tatura,109
+5218,Taylors Beach,109
+5219,Taylors Lakes,109
+5220,Tea Gardens,109
+5221,Tea Tree,109
+5222,Tecoma,109
+5223,Temora,109
+5224,Templestowe,109
+5225,Templestowe Lower,109
+5226,Tennant Creek,109
+5227,Tenterfield,109
+5228,Terang,109
+5229,Terranora,109
+5230,Terrigal,109
+5231,Terrigal NSW,109
+5232,Tewantin,109
+5233,The Entrance,109
+5234,The Gold Coast,109
+5235,The Gums,109
+5236,The Ponds,109
+5237,The Vines,109
+5238,Thirlmere,109
+5239,Thirroul,109
+5240,Thomastown,109
+5241,Thornbury,109
+5242,Thornlands,109
+5243,Thornlie,109
+5244,Thornton,109
+5245,Thursday Island,109
+5246,Tin Can Bay,109
+5247,Tin Can Bay QLD,109
+5248,Tinana,109
+5249,Tiwi Islands,109
+5250,Tocumwal,109
+5251,Tolmie,109
+5252,Tom Price,109
+5253,Tom Price Australia,109
+5254,Toodyay,109
+5255,Toodyay WA,109
+5256,Toogoom,109
+5257,Toongabbie,109
+5258,Toora,109
+5259,Tooradin,109
+5260,Tootgarook,109
+5261,Toowoomba,109
+5262,Toowoomba Queensland,109
+5263,Toronto,109
+5264,Torquay,109
+5265,Torquay Vic,109
+5266,Toukley,109
+5267,Townsville,109
+5268,Traralgon,109
+5269,Traralgon South,109
+5270,Trentham,109
+5271,Trigg,109
+5272,Trinity Beach,109
+5273,Tuart Hill,109
+5274,Tuggerah,109
+5275,Tuggeranong,109
+5276,Tugun,109
+5277,Tullamarine,109
+5278,Tumbi Umbi,109
+5279,Tumby Bay,109
+5280,Tuncurry,109
+5281,Turramurra,109
+5282,Turvey Park,109
+5283,Tweed Heads,109
+5284,Two Rocks,109
+5285,Two Wells,109
+5286,Tyabb,109
+5287,Tyers,109
+5288,Ulladulla,109
+5289,Uluru-Kata Tjuta National Park,109
+5290,Ulverstone,109
+5291,Umina Beach,109
+5292,Unley,109
+5293,Upper Caboolture,109
+5294,Upper Coomera,109
+5295,Upwey,109
+5296,Urandangie,109
+5297,Urangan,109
+5298,Vacy,109
+5299,Valla,109
+5300,Valla Beach,109
+5301,Valley Heights,109
+5302,Varsity Lakes,109
+5303,Vasse,109
+5304,Vaucluse,109
+5305,Vctoria,109
+5306,Ventnor,109
+5307,Venus Bay,109
+5308,Vermont,109
+5309,Vermont South,109
+5310,Vic,109
+5311,Victor Harbor,109
+5312,Victoria,109
+5313,Victoria Falls,109
+5314,Victoria Park,109
+5315,Victoria Point,109
+5316,Vincentia,109
+5317,Virginia,109
+5318,Wagga Wagga,109
+5319,Wahroonga,109
+5320,Waikerie,109
+5321,Waitara,109
+5322,Walcha,109
+5323,Wallan,109
+5324,Wallarah,109
+5325,Wallaroo,109
+5326,Wallington,109
+5327,Wallsend,109
+5328,Walmer,109
+5329,Walpole,109
+5330,Wamberal,109
+5331,Wandering,109
+5332,Wandong,109
+5333,Wangara,109
+5334,Wangaratta,109
+5335,Wangi Wangi,109
+5336,Wanneroo,109
+5337,Waratah,109
+5338,Warburton,109
+5339,Warialda,109
+5340,Warnbro,109
+5341,Warners Bay,109
+5342,Waroona,109
+5343,Warracknabeal,109
+5344,Warradale,109
+5345,Warragul,109
+5346,Warrandyte,109
+5347,Warrawong,109
+5348,Warriewood,109
+5349,Warrnambool,109
+5350,warrnambool Australia,109
+5351,Warwick,109
+5352,Wauchope,109
+5353,Waurn Ponds,109
+5354,Waverley,109
+5355,Waverton,109
+5356,Weipa,109
+5357,Welshpool,109
+5358,Wembley,109
+5359,Wentowrthville,109
+5360,Wentworth Falls,109
+5361,Werribee,109
+5362,Werrington,109
+5363,West Beach,109
+5364,West Lakes,109
+5365,West Pennant Hills,109
+5366,West Ryde,109
+5367,West Swan,109
+5368,Western Australia,109
+5369,western australia/dunsbrough,109
+5370,Westmeadows,109
+5371,Weston,109
+5372,Wheelers Hill,109
+5373,Whitebridge,109
+5374,Whitsunday Island,109
+5375,Whitsunday Islands,109
+5376,Whitsundays,109
+5377,Whittlesea,109
+5378,Whyalla,109
+5379,Wickham,109
+5380,Wilberforce,109
+5381,Willagee,109
+5382,Willaston,109
+5383,Willetton,109
+5384,Williams,109
+5385,Williamstown,109
+5386,Willoughby,109
+5387,Willunga,109
+5388,Wilton,109
+5389,Winchelsea,109
+5390,Windaroo,109
+5391,Windsor,109
+5392,Wingham,109
+5393,Winmalee,109
+5394,Winston Hills,109
+5395,Winthrop,109
+5396,Witchcliffe,109
+5397,Wodonga,109
+5398,Wolli Creek,109
+5399,Wollongong,109
+5400,wollongong nsw,109
+5401,wollongong sydney nsw,109
+5402,Wondai,109
+5403,Wonga Park,109
+5404,Wongaling Beach,109
+5405,Wonthaggi,109
+5406,Woodburn,109
+5407,Woodcroft,109
+5408,Woodend,109
+5409,Woodford,109
+5410,Woodgate,109
+5411,Woodside,109
+5412,Woodvale,109
+5413,Woodville,109
+5414,Woodville Gardens,109
+5415,Woollahra,109
+5416,Woolooware,109
+5417,Woolwich,109
+5418,Woombye,109
+5419,Woonona,109
+5420,Woori Yallock,109
+5421,Wooroloo,109
+5422,Worongary,109
+5423,worrigee,109
+5424,Woy Woy,109
+5425,Wudinna,109
+5426,Wundowie,109
+5427,Wurtulla,109
+5428,Wye River,109
+5429,Wyee,109
+5430,Wyndham,109
+5431,Wynnum West,109
+5432,Wynyard,109
+5433,Wyong,109
+5434,Wyongah,109
+5435,Yackandandah,109
+5436,Yallingup,109
+5437,Yallourn North,109
+5438,Yamba,109
+5439,Yanchep,109
+5440,Yandina,109
+5441,Yangebup,109
+5442,Yankalilla,109
+5443,Yannathan,109
+5444,Yarloop,109
+5445,Yarra,109
+5446,Yarra Valley,109
+5447,Yarraville,109
+5448,Yarrawonga,109
+5449,Yass,109
+5450,Yeppoon,109
+5451,Yerong Creek,109
+5452,Yinnar,109
+5453,Yokine,109
+5454,York,109
+5455,York Western Australia,109
+5456,Yorke Peninsula,109
+5457,Yorkeys Knob,109
+5458,YUGAR,109
+5459,Yulara,109
+5460,Yungaburra,109
+5461,Colo-I-Suva,110
+5462,Denarau Island,110
+5463,Fiji,110
+5464,Malolo Island,110
+5465,Suva,110
+5466,Viti Levu,110
+5467,Bora Bora,111
+5468,French Polynesia,111
+5469,Moorea,111
+5470,Papeete,111
+5471,Tahiti,111
+5472,Dededo,112
+5473,Guam,112
+5474,Saipan,112
+5475,Tamuning,112
+5476,Ebeye Island,113
+5477,Kwajalein Island,113
+5478,NoumÃ©a,114
+5479,Noumea,114
+5480,Albany,115
+5481,Alexandra,115
+5482,Anakiwa,115
+5483,Arrowtown,115
+5484,Ashburton,115
+5485,Ashhurst,115
+5486,Auckand,115
+5487,Auckland,115
+5488,Auckland Central,115
+5489,auckland new zealand,115
+5490,Auckland NZ,115
+5491,Auckland Region,115
+5492,Awhitu,115
+5493,Balclutha,115
+5494,Bay of Islands,115
+5495,Bay of Plenty Region,115
+5496,Beachlands,115
+5497,Birkenhead,115
+5498,Blenheim,115
+5499,Blockhouse Bay,115
+5500,Bombay,115
+5501,Broad Bay,115
+5502,Cambridge,115
+5503,Campbells Bay,115
+5504,Canterbury Region,115
+5505,Carterton,115
+5506,Christchurch,115
+5507,Cook Islands,115
+5508,Coromandel,115
+5509,Cromwell,115
+5510,Devonport,115
+5511,Dunedin,115
+5512,Ellerslie,115
+5513,Epsom,115
+5514,Fairlie,115
+5515,Featherston,115
+5516,Feilding,115
+5517,Forrest Hill,115
+5518,Frankton,115
+5519,Gisborne,115
+5520,Gisborne Region,115
+5521,Glenfield,115
+5522,Golden Bay,115
+5523,Greenlane,115
+5524,Greymouth,115
+5525,Hamilton,115
+5526,Hamilton & Waikato Region,115
+5527,Hamilton NZ,115
+5528,hamiton new zealand,115
+5529,Hanmer Springs,115
+5530,Hastings,115
+5531,Havelock North,115
+5532,Hawera,115
+5533,Hawke's Bay Region,115
+5534,Henderson,115
+5535,Huntly,115
+5536,Invercargill,115
+5537,Kaiapoi,115
+5538,Kaikoura,115
+5539,Kaitaia,115
+5540,Kapiti Coast,115
+5541,Karaka,115
+5542,Kaukapakapa,115
+5543,Kawerau,115
+5544,Kerikeri,115
+5545,Kinloch,115
+5546,Lake Hayes,115
+5547,Lake Tekapo,115
+5548,Levin,115
+5549,Little River,115
+5550,Lower Hutt,115
+5551,Lyttelton,115
+5552,Manawatu-Wanganui Region,115
+5553,Manukau,115
+5554,Mapua,115
+5555,Martinborough,115
+5556,Masterton,115
+5557,Matakana,115
+5558,Matamata,115
+5559,Matatoki,115
+5560,Maungatapere,115
+5561,Milford Sound,115
+5562,Mission Bay,115
+5563,Morrinsville,115
+5564,Mosgiel,115
+5565,Mount Maunganui,115
+5566,Napier,115
+5567,Nelson,115
+5568,nelson new zealand,115
+5569,Nelson-Tasman Region,115
+5570,New Brighton North,115
+5571,New Plymouth,115
+5572,New Zealand,115
+5573,Newplmouth Newzealand,115
+5574,Ngaruawahia,115
+5575,North Shore,115
+5576,Northcote,115
+5577,Northridge,115
+5578,NZ,115
+5579,NZL,115
+5580,Oamaru,115
+5581,Ocean View,115
+5582,Ohakune,115
+5583,Ohaupo,115
+5584,Ohoka,115
+5585,Ohope,115
+5586,Ohope Beach,115
+5587,Omokoroa Beach,115
+5588,Onehunga,115
+5589,Opunake,115
+5590,Orewa,115
+5591,Otahuhu,115
+5592,Otaki Beach,115
+5593,Paekakariki,115
+5594,Paengaroa,115
+5595,Paihia,115
+5596,Palmerston North,115
+5597,Papakura,115
+5598,Papamoa,115
+5599,Papamoa Beach,115
+5600,Paraparaumu,115
+5601,Peka Peka,115
+5602,Picton,115
+5603,Pirinoa,115
+5604,Pokeno,115
+5605,Ponsonby,115
+5606,Porirua,115
+5607,pukapuka,115
+5608,Pukekohe,115
+5609,Queenstown,115
+5610,Raglan,115
+5611,Rakaia,115
+5612,Rangiora,115
+5613,Raumati Beach,115
+5614,Raumati South,115
+5615,Red Beach,115
+5616,Remuera,115
+5617,Renwick,115
+5618,Richmond,115
+5619,Riverhead,115
+5620,Rolleston,115
+5621,Rotorua,115
+5622,Rotorua District,115
+5623,Russell,115
+5624,Sandringham,115
+5625,Selandia Baru,115
+5626,Silverdale,115
+5627,South Island,115
+5628,St Helier,115
+5629,St Heliers,115
+5630,Stewart Island,115
+5631,Tairua,115
+5632,Takaka,115
+5633,Takanini,115
+5634,Takapuna,115
+5635,Tamahere,115
+5636,Tapawera,115
+5637,Taupo,115
+5638,Taupo District,115
+5639,Tauranga,115
+5640,Te Anau,115
+5641,Te Arai,115
+5642,Te Aroha,115
+5643,Te Atatu,115
+5644,Te Hana,115
+5645,Te Kauwhata,115
+5646,Te Kuiti,115
+5647,Te Puke,115
+5648,Thames,115
+5649,Timaru,115
+5650,Titirangi,115
+5651,Tokoroa,115
+5652,Torbay,115
+5653,Tuakau,115
+5654,Tuatapere,115
+5655,Tutukaka,115
+5656,Twizel,115
+5657,Upper Hutt,115
+5658,Waiheke Island,115
+5659,Waihi,115
+5660,Waihi Beach,115
+5661,Waihi New Zealand,115
+5662,Waikanae,115
+5663,Waikato Region,115
+5664,Waikuku beach,115
+5665,Waipu,115
+5666,Wairarapa,115
+5667,Waitakere City,115
+5668,Waiuku,115
+5669,Wanaka,115
+5670,Warkworth,115
+5671,Wellington,115
+5672,Westport,115
+5673,Whakatane,115
+5674,Whangamata,115
+5675,Whanganui,115
+5676,Whangaparaoa,115
+5677,Whangarei,115
+5678,Whangarei Heads,115
+5679,Whitianga,115
+5680,Lae,116
+5681,Port Moresby,116
+5682,Rabaul,116
+5683,Solomon Islands,117
+5684,Vava'u Islands,118
+5685,Port Vila,119
+5686,South Pacific,119
+5687,EU,120
+5688,Europe,120
+5689,Absam,121
+5690,Austria,121
+5691,Austrian Alps,121
+5692,Bad Hall,121
+5693,Bali&Austria,121
+5694,Biberwier,121
+5695,Bregenz,121
+5696,Bruck am Ziller,121
+5697,Bruck an der Mur,121
+5698,Dornbirn,121
+5699,Gerlos,121
+5700,Graz,121
+5701,Hartkirchen,121
+5702,Innsbruck,121
+5703,Ischgl,121
+5704,Klagenfurt,121
+5705,Kufstein,121
+5706,Leithaprodersdorf,121
+5707,Leoben,121
+5708,Lienz,121
+5709,Linz,121
+5710,linzilu,121
+5711,Maria Enzersdorf,121
+5712,Melk,121
+5713,perchtoldsdorf,121
+5714,Salzburg,121
+5715,Salzburg Region,121
+5716,Sankt Paul im Lavanttal,121
+5717,Scharding,121
+5718,St Johann in Tirol,121
+5719,Steyr,121
+5720,Upper Austria,121
+5721,Vienna,121
+5722,Vorchdorf,121
+5723,Wels,121
+5724,Werfenweng,121
+5725,Wien,121
+5726,Wiener Neustadt,121
+5727,Baska,122
+5728,Cakovec,122
+5729,Central Croatia,122
+5730,Croatia,122
+5731,Dubrovnik,122
+5732,Hvar,122
+5733,Klis,122
+5734,Koprivnica,122
+5735,Mlini,122
+5736,Opatija,122
+5737,Pazin,122
+5738,Postira,122
+5739,Pristina,122
+5740,Pula,122
+5741,Rijeka,122
+5742,Split,122
+5743,Trogir,122
+5744,Umag,122
+5745,Velika Gorica,122
+5746,Vodice,122
+5747,Zadar,122
+5748,Zagreb,122
+5749,Zagreb County,122
+5750,Zapresic,122
+5751,-,123
+5752,Benesov,123
+5753,Beroun,123
+5754,Bilovice Nad Svitavou,123
+5755,Brandys nad Labem-Stara Boleslav,123
+5756,Brno,123
+5757,Celadna,123
+5758,Ceska Kamenice,123
+5759,Ceska Lipa,123
+5760,Ceske Budejovice,123
+5761,Cesky Krumlov,123
+5762,Frenstat pod Radhostem,123
+5763,Holesov,123
+5764,Hradec Kralove,123
+5765,Jermanice,123
+5766,Jesenice,123
+5767,Jesenik,123
+5768,Karlovy Vary,123
+5769,Kladno,123
+5770,Krkonose National Park,123
+5771,Liberec,123
+5772,Lisny,123
+5773,Litomerice,123
+5774,Loket,123
+5775,Lovosice,123
+5776,Marianske Lazne,123
+5777,Nachod,123
+5778,Olomouc Region,123
+5779,Orlova,123
+5780,Pardubice,123
+5781,Pilsen,123
+5782,Prague,123
+5783,Praha,123
+5784,Prostejov,123
+5785,Rokycany,123
+5786,Roztoky,123
+5787,Rychnov nad Kneznou,123
+5788,South Moravian Region,123
+5789,Spindleruv Mlyn,123
+5790,Trebic,123
+5791,Uherske Hradiste,123
+5792,Usti nad Labem,123
+5793,Zlin Region,123
+5794,estonia,124
+5795,Harju County,124
+5796,Jarva County,124
+5797,Keila,124
+5798,Kuressaare,124
+5799,Parnu,124
+5800,Saaremaa,124
+5801,Sangaste,124
+5802,Tallinn,124
+5803,Tartu,124
+5804,Viimsi,124
+5805,Viljandi,124
+5806,Aachen,125
+5807,Aichhalden,125
+5808,Altdorf bei Nurnberg,125
+5809,Altenkirchen,125
+5810,Ansbach,125
+5811,Augsburg,125
+5812,Baar-Ebenhausen,125
+5813,Bad DÃ¼rkheim,125
+5814,Bad Nenndorf,125
+5815,Bad Neuenahr-Ahrweiler,125
+5816,Bad Oeynhausen,125
+5817,Bad Saarow,125
+5818,Baden-Baden,125
+5819,Baden-WÃ¼rttemberg,125
+5820,Barsinghausen,125
+5821,Bavaria,125
+5822,Bergheim,125
+5823,Bergisch Gladbach,125
+5824,Berlin,125
+5825,Biberach (Riss),125
+5826,Bielefeld,125
+5827,Boblingen,125
+5828,Bochum,125
+5829,Bonn,125
+5830,Braunschweig,125
+5831,Breberen,125
+5832,Bremen,125
+5833,Bremerhaven,125
+5834,Buhl,125
+5835,Castrop-Rauxel,125
+5836,Chemnitz,125
+5837,Coburg,125
+5838,Cologne,125
+5839,Cottbus,125
+5840,DÃ¼sseldorf,125
+5841,Dachau,125
+5842,Darmstadt,125
+5843,Deggendorf,125
+5844,Deutschland,125
+5845,Dinslaken,125
+5846,Ditzingen,125
+5847,Dormagen,125
+5848,Dornstetten,125
+5849,Dortmund,125
+5850,Dresden,125
+5851,Duisburg,125
+5852,Dusseldorf,125
+5853,Erlangen,125
+5854,Erlensee,125
+5855,Eschborn,125
+5856,Essen,125
+5857,Esslingen am Neckar,125
+5858,Fehmarn,125
+5859,Feldkirchen-Westerham,125
+5860,Flensburg,125
+5861,Frankfurt,125
+5862,Frankfurt (Oder),125
+5863,Freiberg am Neckar,125
+5864,Freiburg im Breisgau,125
+5865,Friedberg,125
+5866,Friedrichshafen,125
+5867,Furstenfeldbruck,125
+5868,Gaggenau,125
+5869,Garmisch-Partenkirchen,125
+5870,Gelsenkirchen,125
+5871,Germany,125
+5872,Giessen,125
+5873,Goettingen,125
+5874,Gohlis,125
+5875,goldie,125
+5876,Grafenhausen,125
+5877,Grasbrunn,125
+5878,Greven,125
+5879,Gross-Zimmern,125
+5880,Gruenwald,125
+5881,Gutersloh,125
+5882,Hagen,125
+5883,Halle (Saale),125
+5884,Hamburg,125
+5885,Hanau,125
+5886,Hannover,125
+5887,Haslach im Kinzigtal,125
+5888,Hattingen,125
+5889,Hausham,125
+5890,Heidelberg,125
+5891,Heilbronn,125
+5892,Heinsberg,125
+5893,Hemmingen,125
+5894,Herford,125
+5895,Hessdorf,125
+5896,Hesse,125
+5897,Hessen,125
+5898,Heusweiler,125
+5899,Hilden,125
+5900,Horneburg,125
+5901,Iffeldorf,125
+5902,Immenstaad,125
+5903,Ingolstadt,125
+5904,Ismaning,125
+5905,Jena,125
+5906,KÃ¶nigs Wusterhausen,125
+5907,KÃ¶nigstein im Taunus,125
+5908,Kaiserslautern,125
+5909,Karlsruhe,125
+5910,Kassel,125
+5911,Kaufbeuren,125
+5912,Kelsterbach,125
+5913,Kempten,125
+5914,Ketsch,125
+5915,Kiel,125
+5916,Kitzingen,125
+5917,Klotten,125
+5918,Koblenz,125
+5919,Koeln,125
+5920,Konstanz,125
+5921,Krefeld,125
+5922,Kreiensen,125
+5923,kroland,125
+5924,Kronberg im Taunus,125
+5925,Kuenzelsau,125
+5926,Landshut,125
+5927,Leinfelden-Echterdingen,125
+5928,Leipzig,125
+5929,Lenggries,125
+5930,Leonberg,125
+5931,Leverkusen,125
+5932,Liechtenstein,125
+5933,Lindau,125
+5934,Lingen,125
+5935,Lower Saxony,125
+5936,Lubeck,125
+5937,Ludwigsburg,125
+5938,Ludwigshafen,125
+5939,MÃ¶nchengladbach,125
+5940,MÃ¼nchen,125
+5941,Magdeburg,125
+5942,Maikammer,125
+5943,Mainz,125
+5944,Mannheim,125
+5945,Marburg,125
+5946,Meerbusch,125
+5947,Meersburg (Bodensee),125
+5948,Messel,125
+5949,Michelstadt,125
+5950,Morfelden-Walldorf,125
+5951,Muenster,125
+5952,Muhltal,125
+5953,Munchen,125
+5954,Munich,125
+5955,Munster,125
+5956,Mutterstadt,125
+5957,Neckartailfingen,125
+5958,Neulingen,125
+5959,Neuried,125
+5960,Neuss,125
+5961,Niederstetten,125
+5962,Niefern,125
+5963,Norddeutschland,125
+5964,Norderstedt,125
+5965,North Germany,125
+5966,Nuertingen,125
+5967,Nuremberg,125
+5968,Oberhausen,125
+5969,Oberstaufen,125
+5970,Oberstdorf,125
+5971,Oberursel (Taunus),125
+5972,Offenbach,125
+5973,Olching,125
+5974,Oldenburg,125
+5975,OsnabrÃ¼ck,125
+5976,Ottobrunn,125
+5977,Paderborn,125
+5978,Peine,125
+5979,Pfaffenhofen an der Ilm,125
+5980,Pforzheim,125
+5981,Planegg,125
+5982,potsdam,125
+5983,Prien am Chiemsee,125
+5984,Radolfzell am Bodensee,125
+5985,Ramstein-Miesenbach,125
+5986,Ratingen,125
+5987,Ravensburg,125
+5988,Regensburg,125
+5989,Reinbek,125
+5990,Rhede,125
+5991,Rietheim-Weilheim,125
+5992,Rosenheim,125
+5993,Rostock,125
+5994,saarbruecken,125
+5995,Sailauf,125
+5996,Saint-Petersburg,125
+5997,Schweiz,125
+5998,Schwetzingen,125
+5999,Solingen,125
+6000,Sonthofen,125
+6001,Southern Germany,125
+6002,Spitzingsee,125
+6003,State of Bremen,125
+6004,straubing,125
+6005,Stuttgart,125
+6006,Sursee,125
+6007,Swabia,125
+6008,TÃ¼bingen,125
+6009,Tiefenbach,125
+6010,Trier,125
+6011,Troisdorf,125
+6012,Ulm,125
+6013,Usedom Island,125
+6014,Utting am Ammersee,125
+6015,Vechta,125
+6016,Velbert,125
+6017,Viernheim,125
+6018,Voerde,125
+6019,Waldburg,125
+6020,Waldenbuch,125
+6021,Waltrop,125
+6022,Walzbachtal,125
+6023,Wasbek,125
+6024,Wasserburg am Inn,125
+6025,Weiden,125
+6026,Weinheim,125
+6027,Weissenburg,125
+6028,wertheim,125
+6029,Wiehl,125
+6030,Wiesbaden,125
+6031,Wittlich,125
+6032,Wolfsburg,125
+6033,Wuelfrath,125
+6034,Wurzburg,125
+6035,Wutha-Farnroda,125
+6036,Zeiskam,125
+6037,Balatonfured,126
+6038,Balatonlelle,126
+6039,Budapest,126
+6040,Debrecen,126
+6041,Eger,126
+6042,Hungary,126
+6043,Kaposvar,126
+6044,Keszthely,126
+6045,Miskolc,126
+6046,Pecs,126
+6047,Piliscsaba,126
+6048,Pilisvorosvar,126
+6049,Pomaz,126
+6050,Sarvar,126
+6051,Szazhalombatta,126
+6052,Szeged,126
+6053,Szigetszentmiklos,126
+6054,Szigliget,126
+6055,Szombathely,126
+6056,Ujkigyos,126
+6057,Vac,126
+6058,Veszprem,126
+6059,Dreilini,127
+6060,Jelgava,127
+6061,Jurmala,127
+6062,Riga,127
+6063,Salacgriva,127
+6064,Ventspils,127
+6065,Druskininkai,128
+6066,Gargzdai,128
+6067,Karmelava,128
+6068,Kaunas,128
+6069,Kedainiai,128
+6070,Klaipeda,128
+6071,Palanga,128
+6072,Ramuciai,128
+6073,Vilnius,128
+6074,Vilnius County,128
+6075,Kayl,129
+6076,Kehlen,129
+6077,Koerich,129
+6078,Luxembourg,129
+6079,Luxembourg City,129
+6080,Luxembourg District,129
+6081,Peppange,129
+6082,Sanem,129
+6083,Augustow,130
+6084,Barlinek,130
+6085,Bialystok,130
+6086,Bielawa,130
+6087,Bydgoszcz,130
+6088,Bytom,130
+6089,Cekcyn,130
+6090,Central Poland,130
+6091,Gdansk,130
+6092,Gdynia,130
+6093,Gliwice,130
+6094,Katowice,130
+6095,Konstancin-Jeziorna,130
+6096,Koszalin,130
+6097,KrakÃ³w,130
+6098,Krakow,130
+6099,Lodz,130
+6100,Minsk Mazowiecki,130
+6101,Nowy Targ,130
+6102,Olsztyn,130
+6103,opole,130
+6104,Piotrkow Trybunalski,130
+6105,Poland,130
+6106,Poreba,130
+6107,Poznan,130
+6108,Ruda Slaska,130
+6109,Rybnik,130
+6110,Rzeszow,130
+6111,Sopot,130
+6112,Southern Poland,130
+6113,Swiebodzin,130
+6114,Szczecin,130
+6115,Tczew,130
+6116,Tychy,130
+6117,Warsaw,130
+6118,Warszawa,130
+6119,Wawer,130
+6120,Wroclaw,130
+6121,Zielona Gora,130
+6122,Zory,130
+6123,Arad,131
+6124,Bacau,131
+6125,Baia Mare,131
+6126,Bistrita,131
+6127,Braila,131
+6128,Brasov,131
+6129,Bucharest,131
+6130,Bucharesti,131
+6131,Bucuresti,131
+6132,Cluj-Napoca,131
+6133,Constanta,131
+6134,Corabia,131
+6135,craiova,131
+6136,Dumbravita,131
+6137,Focsani,131
+6138,Ghimbav,131
+6139,Iasi,131
+6140,Iasi County,131
+6141,Northeast Romania,131
+6142,Northwest Romania,131
+6143,Oradea,131
+6144,Otopeni,131
+6145,Ploiesti,131
+6146,Ramnicu Valcea,131
+6147,Reghin,131
+6148,Roman,131
+6149,Romania,131
+6150,Sfantu Gheorghe,131
+6151,Sibiu,131
+6152,Sinaia,131
+6153,Slatina,131
+6154,Targu Mures,131
+6155,Timisoara,131
+6156,Belgrade,132
+6157,Kragujevac,132
+6158,Lazarevac,132
+6159,Nis,132
+6160,Novi Sad,132
+6161,Serbia,132
+6162,Uzice,132
+6163,Bratislava,133
+6164,Bratislava Region,133
+6165,Dunajska Streda,133
+6166,Karlova Ves,133
+6167,Kosice,133
+6168,Limbach,133
+6169,Liptovsky Mikulas,133
+6170,Piestany,133
+6171,Pohronska Polhora,133
+6172,Presov,133
+6173,Ruzomberok,133
+6174,Senec,133
+6175,Slovakia,133
+6176,Slovenska Lupca,133
+6177,Stupava,133
+6178,Sturovo,133
+6179,Trnava,133
+6180,Velky Meder,133
+6181,Zilina,133
+6182,Branik,134
+6183,Celje,134
+6184,Crnomelj,134
+6185,Grosuplje,134
+6186,Izola,134
+6187,Kamnik,134
+6188,Koper,134
+6189,Kranj,134
+6190,Ljubljana,134
+6191,Logatec,134
+6192,Maribor,134
+6193,Medvode,134
+6194,Miklavz na Dravskem Polju,134
+6195,Nova Gorica,134
+6196,Poljcane,134
+6197,Prebold,134
+6198,Radomlje,134
+6199,Ribnica,134
+6200,Slovenia,134
+6201,Spodnja Idrija,134
+6202,Velenje,134
+6203,Vrhnika,134
+6204,Zgornji Brnik,134
+6205,Aarau,135
+6206,Aclens,135
+6207,Affoltern am Albis,135
+6208,Altdorf,135
+6209,Asuel,135
+6210,Baar,135
+6211,Baden,135
+6212,Bannwil,135
+6213,Basel,135
+6214,Bassersdorf,135
+6215,Bellinzona,135
+6216,Bern,135
+6217,Bernese Oberland,135
+6218,Bernex,135
+6219,Biel,135
+6220,Blonay,135
+6221,Boudry,135
+6222,Busserach,135
+6223,Canton of Basel,135
+6224,Canton of Bern,135
+6225,Canton of Fribourg,135
+6226,Canton of Geneva,135
+6227,Canton of Valais,135
+6228,Canton of Zug,135
+6229,Canton of Zurich,135
+6230,Cham,135
+6231,Chatel-Saint Denis,135
+6232,Cheserex,135
+6233,Chur,135
+6234,Confignon,135
+6235,Coppet,135
+6236,DelÃ©mont,135
+6237,Dietikon,135
+6238,Dietlikon,135
+6239,Dubendorf,135
+6240,Ecublens,135
+6241,Embrach,135
+6242,Ennetbuergen,135
+6243,Fribourg,135
+6244,Geneva,135
+6245,Gersau,135
+6246,Glis,135
+6247,Goldach,135
+6248,Gommiswald,135
+6249,Kerns,135
+6250,Klosters,135
+6251,Kriens,135
+6252,Langenthal,135
+6253,Lantsch/Lenz,135
+6254,Lausanne,135
+6255,Lauterbrunnen,135
+6256,Lavigny,135
+6257,Le Chable,135
+6258,Liebefeld,135
+6259,Lucerne,135
+6260,Lugano,135
+6261,Lutry,135
+6262,Lyss,135
+6263,Magadino,135
+6264,Magliaso,135
+6265,Mannedorf,135
+6266,Mettmenstetten,135
+6267,Monthey,135
+6268,Montreux,135
+6269,Morges,135
+6270,Murten,135
+6271,NeuchÃ¢tel,135
+6272,Neuhausen am Rheinfall,135
+6273,Niederrohrdorf,135
+6274,Nyon,135
+6275,Oberglatt,135
+6276,Obfelden,135
+6277,Olten,135
+6278,Onex,135
+6279,Opfikon,135
+6280,Orbe,135
+6281,Orselina,135
+6282,Ostermundigen,135
+6283,Port,135
+6284,Preles,135
+6285,Rapperswil,135
+6286,Rheinfelden,135
+6287,Riehen,135
+6288,Rochefort,135
+6289,Ronco sopra Ascona,135
+6290,Rudolfstetten,135
+6291,Saanen,135
+6292,Saas-Fee,135
+6293,Savigny,135
+6294,Schaffhausen,135
+6295,Scuol,135
+6296,Sion,135
+6297,Sissach,135
+6298,Soleure,135
+6299,St. Gallen,135
+6300,StÃ¤fa,135
+6301,Strengelbach,135
+6302,Sursee,135
+6303,Swiss Alps,135
+6304,Switzerland,135
+6305,Teufen,135
+6306,Thalwil,135
+6307,Thun,135
+6308,Untervaz-Bahnhof,135
+6309,Uzwil,135
+6310,Valais,135
+6311,Verbier,135
+6312,Versoix,135
+6313,Vevey,135
+6314,Villars-Sainte-Croix,135
+6315,Vilters,135
+6316,Vitznau,135
+6317,Volleges,135
+6318,Waedenswil,135
+6319,Wiesendangen,135
+6320,Wil,135
+6321,Winterthur,135
+6322,Yens,135
+6323,Zermatt,135
+6324,Zuerich,135
+6325,Zug,135
+6326,Zurich,135
+6327,Zweisimmen,135
+6328,Azerbaijan,136
+6329,Baku,136
+6330,Minsk,137
+6331,Minsk Region,137
+6332,Alpharetta,138
+6333,Atlanta,138
+6334,Augusta,138
+6335,Austell,138
+6336,Bakuriani,138
+6337,Bridgeboro,138
+6338,Calhoun,138
+6339,Cumming,138
+6340,Decatur,138
+6341,Duluth,138
+6342,Flowery Branch,138
+6343,Gainesville,138
+6344,Georgia,138
+6345,Johns Creek,138
+6346,Lithia Springs,138
+6347,Loganville,138
+6348,Macon,138
+6349,Marietta,138
+6350,Newnan,138
+6351,Powder Springs,138
+6352,Richmond Hill,138
+6353,Roswell,138
+6354,Saint Simons Island,138
+6355,Savannah,138
+6356,Smyrna,138
+6357,Tbilisi,138
+6358,Warm Springs,138
+6359,Woodstock,138
+6360,Blagoveshchensk,139
+6361,Central Russia,139
+6362,Chelyabinsk,139
+6363,Danki,139
+6364,Dolgoprudny,139
+6365,Domodedovo,139
+6366,Esto-Sadok,139
+6367,Far Eastern,139
+6368,Goryachy Klyuch,139
+6369,Greater Sochi,139
+6370,Irkutsk,139
+6371,kaliningrad,139
+6372,Kazan,139
+6373,Khabarovsk,139
+6374,Khimki,139
+6375,Korolev,139
+6376,Krasnaya Polyana,139
+6377,Krasnogorsk,139
+6378,Krasnoyarsk,139
+6379,Krylatskoe,139
+6380,Lipetsk,139
+6381,Moscow,139
+6382,Mosta,139
+6383,Nakhabino,139
+6384,Nizhny Novgorod,139
+6385,Novosibirsk,139
+6386,Oryol,139
+6387,Perm,139
+6388,Pervaya Rechka,139
+6389,Russia,139
+6390,Saint Petersburg,139
+6391,Saint-Petersburg,139
+6392,Samara,139
+6393,Sevastopol Municipality,139
+6394,Sochi,139
+6395,St. Petersburg,139
+6396,Syktyvkar,139
+6397,Tunguska,139
+6398,Ufa,139
+6399,Vladivostok,139
+6400,Voronezh,139
+6401,Yuzhno-Sakhalinsk,139
+6402,Dnipro,140
+6403,Ivano-Frankivsk,140
+6404,Kharkiv,140
+6405,Kiev,140
+6406,Kyiv,140
+6407,Lviv,140
+6408,Lviv Oblast,140
+6409,Mriya,140
+6410,Odessa,140
+6411,Rivne,140
+6412,Ukraine,140
+6413,Zhytomyr,140
+6414,Aalborg,141
+6415,Aalsgaarde,141
+6416,Aarhus,141
+6417,Bagsvaerd,141
+6418,Birkerod,141
+6419,Bornholm,141
+6420,BrÃ¸nshÃ¸j,141
+6421,Bramming,141
+6422,Brande,141
+6423,Charlottenlund,141
+6424,Copenhagen,141
+6425,Copenhagen Region,141
+6426,Denmark,141
+6427,Denmark WA,141
+6428,Dragoer,141
+6429,Ebeltoft,141
+6430,Egedal Municipality,141
+6431,Esbjerg,141
+6432,Fakse Ladeplads,141
+6433,Fredensborg,141
+6434,Fredericia,141
+6435,Frederiksberg,141
+6436,Frederikssund,141
+6437,Frederiksvaerk,141
+6438,Gentofte,141
+6439,Gentofte Municipality,141
+6440,Glostrup,141
+6441,Greve,141
+6442,Haderslev,141
+6443,Hadsund,141
+6444,Haslev,141
+6445,Hellerup,141
+6446,Helsinge,141
+6447,Helsingoer,141
+6448,Herlev,141
+6449,Herning,141
+6450,Hillerod,141
+6451,Hobro,141
+6452,Holbaek,141
+6453,Hornbaek,141
+6454,Horsens,141
+6455,Humlebaek,141
+6456,Hvidovre,141
+6457,Ishoej,141
+6458,Jyllinge,141
+6459,Kastrup,141
+6460,Knebel,141
+6461,Koege,141
+6462,Kokkedal,141
+6463,Kolding,141
+6464,Kongens Lyngby,141
+6465,Korsoer,141
+6466,Lemvig,141
+6467,Lystrup,141
+6468,Mariager,141
+6469,Middelfart,141
+6470,Naestved,141
+6471,Niva,141
+6472,Noerre Aaby,141
+6473,Odense,141
+6474,Oesterbro,141
+6475,Olstykke,141
+6476,Pandrup,141
+6477,Randers,141
+6478,Ringe,141
+6479,Ringsted,141
+6480,Risskov,141
+6481,Roedovre,141
+6482,Roemoe,141
+6483,Roervig,141
+6484,Roskilde,141
+6485,Rungsted,141
+6486,Silkeborg,141
+6487,Sindal,141
+6488,Skagen,141
+6489,Skanderborg,141
+6490,Skive,141
+6491,Skovlunde,141
+6492,Slagelse,141
+6493,Soborg,141
+6494,Soenderborg,141
+6495,Solroed Strand,141
+6496,Soroe,141
+6497,South Denmark,141
+6498,Sydals,141
+6499,Taastrup,141
+6500,Vaerloese,141
+6501,Valby,141
+6502,Vanlose,141
+6503,Vejle,141
+6504,Viborg,141
+6505,Vildbjerg,141
+6506,Virum,141
+6507,Vissenbjerg,141
+6508,Ekenas,142
+6509,Espoo,142
+6510,Finland,142
+6511,Hameenlinna,142
+6512,Helsinki,142
+6513,Iisalmi,142
+6514,Jarvenpaa,142
+6515,Joensuu,142
+6516,Juuma,142
+6517,JyvÃ¤skylÃ¤,142
+6518,Kimito Island,142
+6519,Kirkkonummi,142
+6520,Kokkola,142
+6521,Kuopio,142
+6522,Lahti,142
+6523,Lapland,142
+6524,Lappeenranta,142
+6525,Lieto,142
+6526,Lohja,142
+6527,Luumaki,142
+6528,Mariehamn,142
+6529,Muurame,142
+6530,Naantali,142
+6531,Narpes,142
+6532,Nokia,142
+6533,Nurmijarvi,142
+6534,Oulu,142
+6535,Porvoo,142
+6536,Rauma,142
+6537,Riihimaki,142
+6538,Rovaniemi,142
+6539,Salo,142
+6540,Savonlinna,142
+6541,Seinajoki,142
+6542,Southern Finland,142
+6543,Tampere,142
+6544,Turku,142
+6545,Tuusula,142
+6546,Vaasa,142
+6547,Vantaa,142
+6548,Western Finland,142
+6549,Akranes,143
+6550,Akureyri,143
+6551,Blonduos,143
+6552,Grindavik,143
+6553,Hafnarfjordur,143
+6554,Hveragerdi,143
+6555,Iceland,143
+6556,Keflavik,143
+6557,Kopavogur,143
+6558,ReykjavÃ­k,143
+6559,Reykjavik,143
+6560,Seltjarnarnes,143
+6561,Vik,143
+6562,Akershus,144
+6563,Alesund,144
+6564,Arendal,144
+6565,Baerum Municipality,144
+6566,Bekkjarvik,144
+6567,Bergen,144
+6568,BodÃ¸,144
+6569,Drammen,144
+6570,Eastern Norway,144
+6571,Egersund,144
+6572,Eidsvoll,144
+6573,Elverum,144
+6574,Finnsnes,144
+6575,Flekkefjord,144
+6576,Forde,144
+6577,Fornebu,144
+6578,Froya Municipality,144
+6579,Gardermoen,144
+6580,Grimstad,144
+6581,Halden,144
+6582,Hamar Municipality,144
+6583,Haugesund,144
+6584,Hemsedal,144
+6585,Hokksund,144
+6586,Horten,144
+6587,Hovik,144
+6588,Jessheim,144
+6589,Kirkenes,144
+6590,Kleppe,144
+6591,Kongsberg,144
+6592,Kongsvinger,144
+6593,Kristiansand,144
+6594,Leirfjord,144
+6595,Lillehammer,144
+6596,Lillestrom,144
+6597,Longyearbyen,144
+6598,Lorenskog Municipality,144
+6599,Lysaker,144
+6600,Lysekloster,144
+6601,Molde,144
+6602,Myrkdalen,144
+6603,Narvik,144
+6604,Nedre Eiker Municipality,144
+6605,Nesbru,144
+6606,Nesna,144
+6607,Norway,144
+6608,Orkanger,144
+6609,Oslo,144
+6610,Raufoss,144
+6611,Risor,144
+6612,Roros,144
+6613,Sande Municipality,144
+6614,Sandefjord,144
+6615,Sandnes,144
+6616,Ski Municipality,144
+6617,Skien,144
+6618,Skreia,144
+6619,Sogndal Municipality,144
+6620,Sola Municipality,144
+6621,Son,144
+6622,Southern Norway,144
+6623,Stabekk,144
+6624,Stavanger,144
+6625,Stord Municipality,144
+6626,Stranda,144
+6627,Strommen,144
+6628,Tjeldsund,144
+6629,Tjome,144
+6630,Tonsberg,144
+6631,Tonsberg Municipality,144
+6632,TromsÃ¸,144
+6633,Tromso,144
+6634,Trondheim,144
+6635,Vinterbro,144
+6636,Vradal,144
+6637,Western Norway,144
+6638,Akersberga,145
+6639,Almhult,145
+6640,Aneby,145
+6641,Angelholm,145
+6642,Boras,145
+6643,Bromma,145
+6644,Eksjo,145
+6645,Eskilstuna,145
+6646,EslÃ¶v,145
+6647,Falun,145
+6648,Finspang,145
+6649,GÃ¤vle,145
+6650,Gimo,145
+6651,Gothenburg,145
+6652,Gotland,145
+6653,HÃ¤rnÃ¶sand,145
+6654,Halmstad,145
+6655,Handen,145
+6656,Helsingborg,145
+6657,Huddinge,145
+6658,Huskvarna,145
+6659,JÃ¶nkÃ¶ping,145
+6660,Jarfalla,145
+6661,Jarvso,145
+6662,Karlshamn,145
+6663,Karlskrona,145
+6664,Katrineholm,145
+6665,Kiruna,145
+6666,Kristianstad,145
+6667,Kungalv,145
+6668,Kungsbacka,145
+6669,Laholm,145
+6670,Landskrona,145
+6671,Lerum,145
+6672,LinkÃ¶ping,145
+6673,Linköping,145
+6674,Ljunghusen,145
+6675,Lomma,145
+6676,LuleÃ¥,145
+6677,Lund,145
+6678,Lundsbrunn,145
+6679,Lycksele,145
+6680,Lysekil,145
+6681,MalmÃ¶,145
+6682,Mellerud,145
+6683,Molndal,145
+6684,Molnlycke,145
+6685,Nacka,145
+6686,NorrkÃ¶ping,145
+6687,NorrtÃ¤lje,145
+6688,Orby,145
+6689,Orebro,145
+6690,ornskoldsvik,145
+6691,Oulu,145
+6692,Saltsjo-Boo,145
+6693,Scandinavia,145
+6694,Skane County,145
+6695,Skanor,145
+6696,Sollentuna,145
+6697,Solna,145
+6698,Staffanstorp,145
+6699,Stenungsund,145
+6700,Sthlm,145
+6701,Stockholm,145
+6702,Stockholm County,145
+6703,Strangnas,145
+6704,Sundsvall,145
+6705,Sweden,145
+6706,TÃ¤by,145
+6707,Torshalla,145
+6708,Tranemo,145
+6709,Trollhattan,145
+6710,Tullinge,145
+6711,Tyreso,145
+6712,Uddevalla,145
+6713,UmeÃ¥,145
+6714,Uppsala,145
+6715,Varberg,145
+6716,Varnamo,145
+6717,Vasteras,145
+6718,Vaxjo,145
+6719,Vetlanda,145
+6720,Vikarbyn,145
+6721,Vikbolandet,145
+6722,Albany,146
+6723,Durres,146
+6724,Saranda,146
+6725,Tirana,146
+6726,Banja Luka,147
+6727,Gradacac,147
+6728,Mostar,147
+6729,Sarajevo,147
+6730,Tuzla,147
+6731,Visoko,147
+6732,Bulgaria,148
+6733,Burgas,148
+6734,German,148
+6735,Plovdiv,148
+6736,Plovdiv Province,148
+6737,Ruse,148
+6738,Sandanski,148
+6739,Shumen,148
+6740,Sofia,148
+6741,Sofia Region,148
+6742,Stara Zagora,148
+6743,Varna,148
+6744,Varna Province,148
+6745,Agios Nikolaos,150
+6746,Agios Pavlos,150
+6747,Agios Stefanos,150
+6748,Arachova,150
+6749,Athens,150
+6750,Athens Greece,150
+6751,Chania Town,150
+6752,Corfu,150
+6753,Crete,150
+6754,Drapetsona,150
+6755,East Aegean,150
+6756,Epano Gouves,150
+6757,Fira,150
+6758,Glyfada,150
+6759,Greece,150
+6760,Heraklion Prefecture,150
+6761,Kardamena,150
+6762,Kefalonia,150
+6763,Koroni,150
+6764,Lagonisi,150
+6765,Lefkada,150
+6766,Malia,150
+6767,Mykonos,150
+6768,Nikaia,150
+6769,Nikiana,150
+6770,Oia,150
+6771,Orestiada,150
+6772,Ouranoupolis,150
+6773,Paleo Faliro,150
+6774,Paros,150
+6775,Pelion,150
+6776,Perissa,150
+6777,Piraeus,150
+6778,Rethymnon,150
+6779,Rhodes,150
+6780,Samos,150
+6781,Santorini,150
+6782,Sidari,150
+6783,Symi,150
+6784,Syros,150
+6785,Syvota,150
+6786,Thessaloniki,150
+6787,Thessaloniki Region,150
+6788,Tinos,150
+6789,Tsikalaria,150
+6790,Volos,150
+6791,Zakinthos,150
+6792,Zakynthos,150
+6793,Agrate Brianza,151
+6794,Ancona,151
+6795,Appiano sulla Strada del Vino,151
+6796,Arese,151
+6797,Arezzo,151
+6798,Arona,151
+6799,Arzignano,151
+6800,Asiago,151
+6801,Assisi,151
+6802,Avellino,151
+6803,Bari,151
+6804,Bassano Del Grappa,151
+6805,Bee,151
+6806,Bergamo,151
+6807,Biella,151
+6808,Bologna,151
+6809,Bracciano,151
+6810,Brescia,151
+6811,Bressanone,151
+6812,Brindisi,151
+6813,Busto Arsizio,151
+6814,Cagliari,151
+6815,Cantu,151
+6816,Capo d'Orlando,151
+6817,Casale Monferrato,151
+6818,Castano Primo,151
+6819,Catania,151
+6820,Cattolica,151
+6821,Cernobbio,151
+6822,Cesena,151
+6823,Chiavari,151
+6824,CiriÃ¨,151
+6825,Como,151
+6826,Cortina d'Ampezzo,151
+6827,Crema,151
+6828,Cremona,151
+6829,Crevalcore,151
+6830,Crevoladossola,151
+6831,Fasano,151
+6832,Ferrara,151
+6833,Filicudi,151
+6834,firenze,151
+6835,Fiumedinisi,151
+6836,Fiumicino,151
+6837,Florence,151
+6838,Foiano Della Chiana,151
+6839,Follonica,151
+6840,Fondi,151
+6841,Forte Dei Marmi,151
+6842,Gaggi,151
+6843,Genoa,151
+6844,Gorizia,151
+6845,Grosseto,151
+6846,Gussago,151
+6847,Imola,151
+6848,Imperia,151
+6849,Isnello,151
+6850,Italy,151
+6851,Laveno-Mombello,151
+6852,Lecco,151
+6853,Legnano,151
+6854,Lercara Friddi,151
+6855,Levico Terme,151
+6856,Lipari,151
+6857,Livigno,151
+6858,Livorno,151
+6859,Livorno Ferraris,151
+6860,Magenta,151
+6861,Maiori,151
+6862,Marina di Carrara,151
+6863,Marina di Caulonia,151
+6864,Matera,151
+6865,mchiovetti,151
+6866,Mediglia,151
+6867,Milan,151
+6868,Milano,151
+6869,Milano Marittima,151
+6870,Mirandola,151
+6871,Moneglia,151
+6872,Montecchio Emilia,151
+6873,Montegrotto Terme,151
+6874,Monvalle,151
+6875,Monza,151
+6876,Murano,151
+6877,Naples,151
+6878,Nettuno,151
+6879,Unknown,151
+6880,Novara,151
+6881,Novello,151
+6882,Padua,151
+6883,Palermo,151
+6884,Parma,151
+6885,Perugia,151
+6886,Pesaro,151
+6887,Pescara,151
+6888,Pezzana,151
+6889,Piano di Sorrento,151
+6890,Pietrasanta,151
+6891,Pisa,151
+6892,Polignano a Mare,151
+6893,Pompeii,151
+6894,Ponte San Nicolo,151
+6895,Porto Santo Stefano,151
+6896,Positano,151
+6897,Province of Bergamo,151
+6898,Province of Bologna,151
+6899,Province of Cagliari,151
+6900,Province of Cuneo,151
+6901,Province of Milan,151
+6902,Province of Monza and Brianza,151
+6903,Province of Siena,151
+6904,Province of Verbano-Cusio-Ossola,151
+6905,Pusiano,151
+6906,Quarrata,151
+6907,Ravenna,151
+6908,Rho,151
+6909,Riccione,151
+6910,Rimini,151
+6911,Rivoli,151
+6912,Rome,151
+6913,Rovereto,151
+6914,Salerno,151
+6915,Salo,151
+6916,San Cassiano,151
+6917,San Cataldo,151
+6918,San Giovanni in Marignano,151
+6919,San Marino,151
+6920,San Martino alla Palma,151
+6921,San Martino in Badia,151
+6922,San Priamo,151
+6923,Santa Margherita Ligure,151
+6924,Saronno,151
+6925,Selva di Val Gardena,151
+6926,seriate,151
+6927,Sicily,151
+6928,Siena,151
+6929,Sovicille,151
+6930,Sulmona,151
+6931,Termoli,151
+6932,Terni,151
+6933,Tivoli,151
+6934,Torino,151
+6935,toscana,151
+6936,Trapani,151
+6937,Trento,151
+6938,Treviso,151
+6939,Trieste,151
+6940,Turin,151
+6941,Udine,151
+6942,Varese,151
+6943,Venice,151
+6944,Ventimiglia,151
+6945,Verbania,151
+6946,Verona,151
+6947,Vicenza,151
+6948,Villafranca in Lunigiana,151
+6949,Attard,152
+6950,Birgu (Vittoriosa),152
+6951,Birkirkara,152
+6952,Floriana,152
+6953,Island of Gozo,152
+6954,Island of Malta,152
+6955,Malta,152
+6956,Marsalforn,152
+6957,Marsascala,152
+6958,Marsaxlokk,152
+6959,Mellieha,152
+6960,Mgarr,152
+6961,Mosta,152
+6962,Mqabba,152
+6963,Nadur,152
+6964,Paola,152
+6965,Qormi,152
+6966,Saint Julian's,152
+6967,Senglea,152
+6968,Sliema,152
+6969,St. Paul's Bay,152
+6970,Valletta,152
+6971,Victoria,152
+6972,Chisinau,153
+6973,Moldova,153
+6974,Montenegro,154
+6975,Tivat,154
+6976,Albufeira,155
+6977,Algarve,155
+6978,Algarvia,155
+6979,Almancil,155
+6980,Amadora,155
+6981,Ansiao,155
+6982,Aveiro,155
+6983,Azeitao,155
+6984,Baleal,155
+6985,Barcelos,155
+6986,Belas,155
+6987,Belem,155
+6988,Braga,155
+6989,Carcavelos,155
+6990,Cascais,155
+6991,Central Portugal,155
+6992,Charneca da Caparica,155
+6993,Coimbra,155
+6994,Ega,155
+6995,Ericeira,155
+6996,Ermesinde,155
+6997,Espinho,155
+6998,Esposende,155
+6999,Faro,155
+7000,Fatima,155
+7001,Ferragudo,155
+7002,Figueira da Foz,155
+7003,Foz do Arelho,155
+7004,Funchal,155
+7005,Guimaraes,155
+7006,Joao do Estoril,155
+7007,Lagos,155
+7008,Leiria,155
+7009,Lisbon,155
+7010,Lousa,155
+7011,Nazare,155
+7012,Northern Portugal,155
+7013,Obidos,155
+7014,Ourique,155
+7015,Parede,155
+7016,Paredes,155
+7017,Ponta Delgada,155
+7018,Ponte da Barca,155
+7019,Porches,155
+7020,Portimao,155
+7021,Porto,155
+7022,Porto District,155
+7023,Portugal,155
+7024,Povoa de Santa Iria,155
+7025,Seixal,155
+7026,Sintra,155
+7027,Tavira,155
+7028,Tomar,155
+7029,Valenca,155
+7030,Vila Nova,155
+7031,Vila Nova de Gaia,155
+7032,Viseu,155
+7033,Bitola,156
+7034,Kavadarci,156
+7035,Skopje,156
+7036,Adeje,157
+7037,Alcala De Henares,157
+7038,Alcudia,157
+7039,Algeciras,157
+7040,Algete,157
+7041,Alhaurin el Grande,157
+7042,Alicante,157
+7043,Almeria,157
+7044,Almunecar,157
+7045,Altea,157
+7046,Anso,157
+7047,Aranjuez,157
+7048,Arguineguin,157
+7049,Badalona,157
+7050,Banyoles,157
+7051,Barbarroja,157
+7052,Barcelona,157
+7053,BCn,157
+7054,Benahavis,157
+7055,Benalmadena,157
+7056,Benidorm,157
+7057,Benitachell,157
+7058,Bilbao,157
+7059,Cadaques,157
+7060,Cala Vadella,157
+7061,Canary Islands,157
+7062,Casares,157
+7063,Castelldefels,157
+7064,Castelltersol,157
+7065,Catalonia,157
+7066,Cerdanyola del Valles,157
+7067,Chiclana de la Frontera,157
+7068,Ciutadella,157
+7069,Community of Madrid,157
+7070,Cordoba,157
+7071,Corralejo,157
+7072,Cortes de Baza,157
+7073,Costa Adeje,157
+7074,Costa Brava,157
+7075,Costa Teguise,157
+7076,Denia,157
+7077,donostia,157
+7078,El FondÃ³ de les Neus,157
+7079,El Masnou,157
+7080,Elche,157
+7081,Espana,157
+7082,Fuerteventura,157
+7083,Garachico,157
+7084,Gata de Gorgos,157
+7085,Getafe,157
+7086,Getxo,157
+7087,Girona,157
+7088,Gran Canaria,157
+7089,Granada,157
+7090,Grenada,157
+7091,Guadalajara,157
+7092,Guardamar del Segura,157
+7093,Hernani,157
+7094,Ibiza,157
+7095,Ibiza Town,157
+7096,Igualada,157
+7097,Inca,157
+7098,Javea,157
+7099,La Campana,157
+7100,La Coruna,157
+7101,La Isleta,157
+7102,La Jonquera,157
+7103,Lanzarote,157
+7104,Las Palmas de Gran Canaria,157
+7105,Las Virtudes,157
+7106,Leon,157
+7107,Les Franqueses del Valles,157
+7108,L'Escala,157
+7109,Llivia,157
+7110,Lloret de Mar,157
+7111,Lugo,157
+7112,Madrid,157
+7113,Magaluf,157
+7114,Mahon,157
+7115,Majorca,157
+7116,Malaga,157
+7117,Manilva,157
+7118,Manresa,157
+7119,Manzanares el Real,157
+7120,Marbella,157
+7121,Maspalomas,157
+7122,Mataro,157
+7123,Mijas,157
+7124,Mijas Pueblo,157
+7125,Mino,157
+7126,Moraira,157
+7127,Murcia,157
+7128,Nerja,157
+7129,Nueva Andalucia,157
+7130,Oliva,157
+7131,Olot,157
+7132,Ondara,157
+7133,Orihuela Costa,157
+7134,Ourense,157
+7135,palafrugell,157
+7136,Palamos,157
+7137,Palau-Sator,157
+7138,Palma de Mallorca,157
+7139,Pamplona,157
+7140,Playa de las Americas,157
+7141,Playa de Mogan,157
+7142,Playa Paraiso,157
+7143,Porto Cristo,157
+7144,Portocolom,157
+7145,Portonovo,157
+7146,Province of Alicante,157
+7147,Province of Barcelona,157
+7148,Province of Cadiz,157
+7149,Province of Girona,157
+7150,Province of Seville,157
+7151,Pucol,157
+7152,Puerto Banus,157
+7153,Puerto de la Cruz,157
+7154,Region of Murcia,157
+7155,Roses,157
+7156,Rota,157
+7157,Sabadell,157
+7158,San Antonio Bay,157
+7159,San Cayetano,157
+7160,San Sebastian de los Reyes,157
+7161,sant andreu de llavaneres,157
+7162,Sant Antoni de Portmany,157
+7163,Sant Just Desvern,157
+7164,Sant Llorenc de Balafia,157
+7165,Sant Quirze del Valles,157
+7166,Santa Eulalia del RÃ­o,157
+7167,Santa Marta de Tormes,157
+7168,Santander,157
+7169,Seville,157
+7170,Sitges,157
+7171,Sotogrande,157
+7172,Spain,157
+7173,Tarifa,157
+7174,Tarragona,157
+7175,Tenerife,157
+7176,Teulada,157
+7177,Toledo,157
+7178,Torre del Mar,157
+7179,Torremolinos,157
+7180,Torrevieja,157
+7181,Tortosa,157
+7182,Valencia,157
+7183,Valencian Country,157
+7184,Valladolid,157
+7185,Valor,157
+7186,Vic,157
+7187,Vigo,157
+7188,Vilanova i la Geltru,157
+7189,Vilassar de Mar,157
+7190,Vitoria-Gasteiz,157
+7191,Zaragoza,157
+7192,Aalst,158
+7193,Aarschot,158
+7194,Affligem,158
+7195,Antwerp,158
+7196,Antwerp Province,158
+7197,Antwerpen,158
+7198,arendonnk,158
+7199,Asse,158
+7200,Aubel,158
+7201,Averbode,158
+7202,belgium,158
+7203,Belsele,158
+7204,Beringen,158
+7205,Bierbeek,158
+7206,Boechout,158
+7207,Bornem,158
+7208,Borsbeek,158
+7209,Brasschaat,158
+7210,Brecht,158
+7211,Breendonk,158
+7212,Bruges,158
+7213,brugge,158
+7214,Brussels,158
+7215,Court-Saint-Etienne,158
+7216,Damme,158
+7217,De Panne,158
+7218,Dendermonde,158
+7219,Deurne,158
+7220,Diegem,158
+7221,Diepenbeek,158
+7222,Dilbeek,158
+7223,Duffel,158
+7224,East Flanders Province,158
+7225,Edegem,158
+7226,Eke,158
+7227,Erpe-Mere,158
+7228,Evergem,158
+7229,Flanders,158
+7230,Genk,158
+7231,Gent,158
+7232,Ghent,158
+7233,Ghent - Belgium,158
+7234,Grimbergen,158
+7235,Halle,158
+7236,Hannut,158
+7237,Harelbeke,158
+7238,Hasselt,158
+7239,Heist-op-den-Berg,158
+7240,Heusden,158
+7241,Hoogstraten,158
+7242,Ieper (Ypres),158
+7243,Ixelles,158
+7244,Jodoigne,158
+7245,Kampenhout,158
+7246,Kapellen,158
+7247,Keerbergen,158
+7248,Kessel-Lo,158
+7249,Kieldrecht,158
+7250,Knokke,158
+7251,Knokke-Heist,158
+7252,Kontich,158
+7253,Kortessem,158
+7254,Kortrijk,158
+7255,Kuurne,158
+7256,Laakdal,158
+7257,Lanaken,158
+7258,Landen,158
+7259,Lanklaar,158
+7260,Lebbeke,158
+7261,Leopoldsburg,158
+7262,Leuven,158
+7263,Liege,158
+7264,Lier,158
+7265,Lobbes,158
+7266,Lochristi,158
+7267,Lommel,158
+7268,Londerzeel,158
+7269,Lubbeek,158
+7270,Lummen,158
+7271,Maaseik,158
+7272,Machelen,158
+7273,Maldegem,158
+7274,Marche-en-Famenne,158
+7275,Mechelen,158
+7276,Merchtem,158
+7277,Merksem,158
+7278,Modave,158
+7279,Mol,158
+7280,Mons,158
+7281,Namur,158
+7282,Namur Province,158
+7283,Nijlen Belgium,158
+7284,Oosterzele,158
+7285,Oostkamp,158
+7286,Ostend,158
+7287,Ottignies-Louvain-la-Neuve,158
+7288,oudenaarde,158
+7289,Overijse,158
+7290,Province De LiÃ¨ge,158
+7291,Ramsel,158
+7292,Ranst,158
+7293,Roeselare,158
+7294,Ronse,158
+7295,Roosdaal,158
+7296,Rumst,158
+7297,Saint Nicolas,158
+7298,Schilde,158
+7299,Schoten,158
+7300,Sint-Gillis-Waas,158
+7301,Sint-Niklaas,158
+7302,Sint-Pieters-Leeuw,158
+7303,Sint-Truiden,158
+7304,Somme-Leuze,158
+7305,Spa,158
+7306,Temse,158
+7307,Ternat,158
+7308,Tessenderlo,158
+7309,Tielt,158
+7310,Tienen,158
+7311,Tongeren,158
+7312,Torhout,158
+7313,Tremelo,158
+7314,Turnhout,158
+7315,Uccle,158
+7316,Vielsalm,158
+7317,Vilvoorde,158
+7318,Waasmunster,158
+7319,Wachtebeke,158
+7320,Waterloo,158
+7321,Wavre,158
+7322,Werchter,158
+7323,Westerlo,158
+7324,Wetteren,158
+7325,Wielsbeke,158
+7326,Wilrijk,158
+7327,Wommelgem,158
+7328,Zandhoven,158
+7329,Zeebrugge,158
+7330,Zele,158
+7331,Zoutleeuw,158
+7332,Zuienkerke,158
+7333,Zwalm,158
+7334,Acigne,159
+7335,Aigues-Mortes,159
+7336,Aix-en-Provence,159
+7337,Aix-les-Bains,159
+7338,Amiens,159
+7339,Amsterdam-Paris,159
+7340,Angers,159
+7341,Angouleme,159
+7342,Annecy,159
+7343,Annemasse,159
+7344,Antibes,159
+7345,Antony,159
+7346,Arcachon,159
+7347,Arcueil,159
+7348,Argentiere,159
+7349,Argentine,159
+7350,Ars-en-Re,159
+7351,Asnieres-sur-Seine,159
+7352,Atlanta,159
+7353,Aulnay-sous-Bois,159
+7354,Auray,159
+7355,Avoriaz,159
+7356,Azur,159
+7357,Beaune,159
+7358,Belcodene,159
+7359,Belfort,159
+7360,Belves,159
+7361,Biarritz,159
+7362,Bischwiller,159
+7363,Blaesheim,159
+7364,Bordeaux,159
+7365,Bordeaux Saint Clair,159
+7366,Bougival,159
+7367,Boujan sur Libron,159
+7368,Boulogne-Billancourt,159
+7369,Bourg Saint Maurice,159
+7370,Brest,159
+7371,Bry-sur-Marne,159
+7372,Bussy St Georges,159
+7373,Cabries,159
+7374,Cachan,159
+7375,Caen,159
+7376,Campagnac-les-Quercy,159
+7377,Cannes,159
+7378,Cannes Ecluse,159
+7379,Carcassonne,159
+7380,Caylus,159
+7381,Cerizay,159
+7382,Chambery,159
+7383,Chamonix,159
+7384,Chardonnay,159
+7385,Chartres,159
+7386,Chatel,159
+7387,chatou,159
+7388,Chauray,159
+7389,Chennevieres-sur-Marne,159
+7390,Cherbourg-Octeville,159
+7391,Clamart,159
+7392,Clermont-Ferrand,159
+7393,Clichy,159
+7394,Colmar,159
+7395,Combrit,159
+7396,Compiegne City,159
+7397,Concarneau,159
+7398,Confort,159
+7399,Courbevoie,159
+7400,Coux-et-Bigaroque,159
+7401,Croix,159
+7402,Crolles,159
+7403,Dax,159
+7404,Dieppe,159
+7405,Dijon,159
+7406,Divonne-les-Bains,159
+7407,Dombasle-sur-Meurthe,159
+7408,Domont,159
+7409,Eguisheim,159
+7410,Elancourt,159
+7411,Entrecasteaux,159
+7412,Ermont,159
+7413,Eurre,159
+7414,Evian-les-Bains,159
+7415,Fongrave,159
+7416,Fontenilles,159
+7417,Forges-les-Eaux,159
+7418,France,159
+7419,French Riviera - Cote d'Azur,159
+7420,Galan,159
+7421,Gareoult,159
+7422,Gex,159
+7423,Gif-sur-Yvette,159
+7424,Grenoble,159
+7425,Gretz-Armainvilliers,159
+7426,Hauts-de-France,159
+7427,Henansal,159
+7428,Honfleur,159
+7429,Hyeres,159
+7430,Ile-de-France,159
+7431,Illkirch-Graffenstaden,159
+7432,Issy-les-Moulineaux,159
+7433,Jouars-Pontchartrain,159
+7434,La Brede,159
+7435,La Dagueniere,159
+7436,La Garenne-Colombes,159
+7437,La Rochelle,159
+7438,La Salle les Alpes,159
+7439,La Ville-aux-Bois-les-Pontavert,159
+7440,Lambersart,159
+7441,Le Cannet,159
+7442,Le Havre,159
+7443,Le Mesnil-Saint-Denis,159
+7444,Le Perreux-sur-Marne,159
+7445,Le Pouliguen,159
+7446,Le Touquet â€“ Paris-Plage,159
+7447,Le Tremblay-sur-Mauldre,159
+7448,Le Vesinet,159
+7449,Les Avenieres,159
+7450,Les Deux-Alpes,159
+7451,Les Pavillons Sous Bois,159
+7452,Levallois-Perret,159
+7453,Lille,159
+7454,L'Isle-sur-la-Sorgue,159
+7455,Lorgues,159
+7456,Lorient,159
+7457,Lot-et-Garonne,159
+7458,Lucon,159
+7459,Lumbin,159
+7460,Lyon,159
+7461,Marlenheim,159
+7462,Marly-le-Roi,159
+7463,Marne-la-Vallee,159
+7464,Marseille,159
+7465,MegÃ¨ve,159
+7466,Mery sur Oise,159
+7467,Metz,159
+7468,Molsheim,159
+7469,Montagny-les-Beaune,159
+7470,Montpellier,159
+7471,Montpon-Menesterol,159
+7472,Montreal,159
+7473,Montry,159
+7474,Moret-sur-Loing,159
+7475,Morzine,159
+7476,Mulhouse,159
+7477,Nancy,159
+7478,Nanterre,159
+7479,Nantes,159
+7480,Narbonne,159
+7481,Neuilly-sur-Seine,159
+7482,Nice,159
+7483,Nimes,159
+7484,Niort,159
+7485,Nogent-sur-Marne,159
+7486,Noisy-le-Grand,159
+7487,Noisy-le-Sec,159
+7488,Nouvelle-Aquitaine,159
+7489,Oraison,159
+7490,Orcieres,159
+7491,Orgeval,159
+7492,Orleans,159
+7493,Ouistreham,159
+7494,Paris,159
+7495,Paris 12,159
+7496,Paris Ontario,159
+7497,Peillon,159
+7498,Perigueux,159
+7499,Perpignan,159
+7500,Poitiers,159
+7501,Prades,159
+7502,Prayssac,159
+7503,Prevessin,159
+7504,Puteaux,159
+7505,Pyla-sur-Mer,159
+7506,Raches,159
+7507,Rambouillet,159
+7508,Reims,159
+7509,Rennes,159
+7510,Rognes,159
+7511,Rosny-sous-Bois,159
+7512,Roumazieres-Loubert,159
+7513,Royan,159
+7514,Rueil-Malmaison,159
+7515,Saillant,159
+7516,Saint Martin Boulogne,159
+7517,Saint Ouen,159
+7518,Saint-Germain-en-Laye,159
+7519,Saint-Gervais-les-Bains,159
+7520,Saint-Gilles-Croix-de-Vie,159
+7521,Saint-Gilles-Les-Bains,159
+7522,Saint-Hippolyte-du-Fort,159
+7523,Saint-Ismier,159
+7524,Saint-Jean-de-Verges,159
+7525,Saint-Jean-en-Royans,159
+7526,Saint-Leu,159
+7527,Saint-Malo,159
+7528,Saint-Martin-le-Vinoux,159
+7529,Saint-Maur-des-Fosses,159
+7530,Saint-Maximin-la-Sainte-Baume,159
+7531,Saint-Raphael,159
+7532,Saint-Rome-de-Tarn,159
+7533,Saint-Venant,159
+7534,Sarlat-la-CanÃ©da,159
+7535,Sceaux,159
+7536,Sciez,159
+7537,Seltz,159
+7538,Senlis,159
+7539,Sete,159
+7540,Silhac,159
+7541,Sollies-Pont,159
+7542,Sollies-Toucas,159
+7543,Sommieres,159
+7544,St Vincent de Tyrosse,159
+7545,St.-Thibault-des-vignes,159
+7546,Strasbourg,159
+7547,Tignes,159
+7548,Toulon,159
+7549,Toulouse,159
+7550,Toulouse-le-Chateau,159
+7551,Tournon-sur-Rhone,159
+7552,Tours,159
+7553,Val d'IsÃ¨re,159
+7554,val d'oise,159
+7555,Valbonne,159
+7556,Valence,159
+7557,Vannes,159
+7558,Vanves,159
+7559,Vedene,159
+7560,Veigy-Foncenex,159
+7561,Vence,159
+7562,Vendome,159
+7563,Vernon,159
+7564,Versailles,159
+7565,Vienne,159
+7566,Villebon-sur-Yvette,159
+7567,Villefranche-sur-Saone,159
+7568,Villiers-sur-Marne,159
+7569,Vincennes,159
+7570,Xonrupt-Longemer,159
+7571,Ardee,160
+7572,Birr,160
+7573,Carlow,160
+7574,Cashel,160
+7575,Castlemaine,160
+7576,Cavan,160
+7577,Clonakilty,160
+7578,Clondalkin,160
+7579,Clonmel,160
+7580,Cork,160
+7581,County Carlow,160
+7582,County Cork,160
+7583,County Dublin,160
+7584,County Kildare,160
+7585,County Mayo,160
+7586,County Meath,160
+7587,County Monaghan,160
+7588,County Sligo,160
+7589,County Westmeath,160
+7590,County Wexford,160
+7591,County Wicklow,160
+7592,Donegal,160
+7593,Drogheda,160
+7594,Dublin,160
+7595,Dundalk,160
+7596,Dungarvan,160
+7597,Ennis,160
+7598,Enniskerry,160
+7599,Galway,160
+7600,Glengarriff,160
+7601,Gorey,160
+7602,Greystones,160
+7603,Howth,160
+7604,Ireland,160
+7605,Kerry,160
+7606,kildare,160
+7607,Killarney,160
+7608,Kilrush,160
+7609,Leitrim,160
+7610,Leixlip,160
+7611,Limerick,160
+7612,Monasteraden,160
+7613,Navan,160
+7614,Offaly,160
+7615,Ratoath,160
+7616,Rosslare,160
+7617,Shannon,160
+7618,Sligo,160
+7619,Stillorgan,160
+7620,Sutton Cross,160
+7621,Swords,160
+7622,Tipperary,160
+7623,Tralee,160
+7624,Trim,160
+7625,Tullamore,160
+7626,Waterford,160
+7627,Western Ireland,160
+7628,Wicklow,160
+7629,Wild Atlantic Way,160
+7630,Monaco,161
+7631,Monte-Carlo,161
+7632,Aalsmeer,162
+7633,Alkmaar,162
+7634,Almelo,162
+7635,Almere,162
+7636,Alphen aan den Rijn,162
+7637,Amen,162
+7638,Amersfoort,162
+7639,Amstelveen,162
+7640,Amsterdam,162
+7641,Apeldoorn,162
+7642,Arnhem,162
+7643,Assen,162
+7644,Assendelft,162
+7645,Asten,162
+7646,Baarlo,162
+7647,Badhoevedorp,162
+7648,Barendrecht,162
+7649,Beek en Donk,162
+7650,Beekbergen,162
+7651,Belfeld,162
+7652,Bennebroek,162
+7653,Bergen,162
+7654,Bergen aan Zee,162
+7655,Bergen op Zoom,162
+7656,Berghem,162
+7657,Bergschenhoek,162
+7658,Berkel en Rodenrijs,162
+7659,Best,162
+7660,Beuningen,162
+7661,Beusichem,162
+7662,Beverwijk,162
+7663,Bilthoven,162
+7664,Blaricum,162
+7665,Boekel,162
+7666,Boelenslaan,162
+7667,Bonaire,162
+7668,Boskoop,162
+7669,Bovenkarspel,162
+7670,Boxtel,162
+7671,Breda,162
+7672,Brielle,162
+7673,Budel,162
+7674,Buinen,162
+7675,Bussum,162
+7676,Capelle aan den IJssel,162
+7677,CapelleaandenIjssel,162
+7678,Castricum,162
+7679,Culemborg,162
+7680,Damwald,162
+7681,De Lier,162
+7682,Delden,162
+7683,Delft,162
+7684,Den Bosch,162
+7685,Den Dolder,162
+7686,Den Helder,162
+7687,Deventer,162
+7688,Diemen,162
+7689,Dinteloord,162
+7690,Doetinchem,162
+7691,Dongen,162
+7692,Doorn,162
+7693,Dordrecht,162
+7694,Drenthe Province,162
+7695,Driebergen,162
+7696,Dronten,162
+7697,Drunen,162
+7698,Duiven,162
+7699,Ede,162
+7700,Eersel,162
+7701,Egmond aan den Hoef,162
+7702,Egmond-Binnen,162
+7703,Eindhoven,162
+7704,Elst,162
+7705,emmeloord,162
+7706,Emmen,162
+7707,Enschede,162
+7708,Erica,162
+7709,Ermelo,162
+7710,Etten-Leur,162
+7711,Friesland Province,162
+7712,Geervliet,162
+7713,Gelderland Province,162
+7714,Geldrop,162
+7715,Geleen,162
+7716,Gennep,162
+7717,Giethoorn,162
+7718,Goes,162
+7719,Gouda,162
+7720,Groningen,162
+7721,Groningen Province,162
+7722,Gulpen,162
+7723,Haaren,162
+7724,Haarlem,162
+7725,Haarlemmermeer,162
+7726,Harderwijk,162
+7727,Haren,162
+7728,Harlingen,162
+7729,Harmelen,162
+7730,Heeg,162
+7731,Heelsum,162
+7732,Heemskerk,162
+7733,Heemstede,162
+7734,Heenweg,162
+7735,Heerhugowaard,162
+7736,Heerjansdam,162
+7737,Heerlen,162
+7738,Heesch,162
+7739,Heiloo,162
+7740,Hellendoorn,162
+7741,Hellevoetsluis,162
+7742,Helmond,162
+7743,Hendrik-Ido-Ambacht,162
+7744,Hengelo,162
+7745,hengelo (ov),162
+7746,Heukelum,162
+7747,Hillegom,162
+7748,Hilversum,162
+7749,Hoek van Holland,162
+7750,Hoevelaken,162
+7751,Holland,162
+7752,Hoofddorp,162
+7753,Hoogland,162
+7754,Hoogvliet,162
+7755,Hoorn,162
+7756,Houten,162
+7757,Huis ter Heide,162
+7758,Huizen,162
+7759,Hulst,162
+7760,Ijmuiden,162
+7761,Kaag,162
+7762,Kampen,162
+7763,Kapelle,162
+7764,Katwijk,162
+7765,Krabbendijke,162
+7766,Krimpen aan den IJssel,162
+7767,Krommenie,162
+7768,Kwintsheul,162
+7769,Landgraaf,162
+7770,Leerdam,162
+7771,Leeuwarden,162
+7772,Leiden,162
+7773,Leiderdorp,162
+7774,Leidschendam,162
+7775,Lelystad,162
+7776,Leusden,162
+7777,Lisse,162
+7778,Lobith,162
+7779,Lochem,162
+7780,Loenen aan de Vecht,162
+7781,Loosdrecht,162
+7782,Lopik,162
+7783,Losser,162
+7784,Maastricht,162
+7785,Medemblik,162
+7786,Middelburg,162
+7787,Mierlo,162
+7788,Mijdrecht,162
+7789,Mijsnheerenland,162
+7790,Mill,162
+7791,Moergestel,162
+7792,Monster,162
+7793,Muiden,162
+7794,Muiderberg,162
+7795,Naaldwijk,162
+7796,Naarden,162
+7797,Netherlands,162
+7798,Nieuwegein,162
+7799,Nieuw-Vennep,162
+7800,Nijkerkerveen,162
+7801,Nijmegen,162
+7802,Nootdorp,162
+7803,North Holland Province,162
+7804,Nuenen,162
+7805,Ochten,162
+7806,Oegstgeest,162
+7807,Oirschot,162
+7808,Oosterhout,162
+7809,Oost-Souburg,162
+7810,Oostzaan,162
+7811,Oudemirdum,162
+7812,Ouderkerk aan de Amstel,162
+7813,Oud-Zuilen,162
+7814,Overveen,162
+7815,Papendrecht,162
+7816,Purmerend,162
+7817,Purrmerend,162
+7818,Putten,162
+7819,Raalte,162
+7820,Raamsdonksveer,162
+7821,Ravenstein,162
+7822,Renesse,162
+7823,Renkum,162
+7824,Reusel,162
+7825,Ridderkerk,162
+7826,Rijnsaterwoude,162
+7827,Rijssen,162
+7828,Rijswijk,162
+7829,Roden,162
+7830,Roermond,162
+7831,Roosendaal,162
+7832,Rosmalen,162
+7833,Rotterdam,162
+7834,Sassenheim,162
+7835,Schalkhaar,162
+7836,Scheveningen,162
+7837,Schiedam,162
+7838,Schiermonnikoog,162
+7839,Schijndel,162
+7840,Schin op Geul,162
+7841,Schinnen,162
+7842,Schiphol,162
+7843,Schoorl,162
+7844,Sint-Oedenrode,162
+7845,Sittard,162
+7846,Sloten,162
+7847,Sneek,162
+7848,Soest,162
+7849,South Holland Province,162
+7850,Spijkenisse,162
+7851,Stadskanaal,162
+7852,Stavenisse,162
+7853,Steenwijk,162
+7854,Strijensas,162
+7855,Ter Aar,162
+7856,Terneuzen,162
+7857,The Hague,162
+7858,The Netherlands,162
+7859,Tiel,162
+7860,Tilburg,162
+7861,Uden,162
+7862,Udenhout,162
+7863,Uithoorn,162
+7864,Ulvenhout,162
+7865,Utrecht,162
+7866,Utrecht Province,162
+7867,Vaassen,162
+7868,Valkenswaard,162
+7869,Veenendaal,162
+7870,Veghel,162
+7871,Veldhoven,162
+7872,Velp,162
+7873,Venlo,162
+7874,Vianen,162
+7875,Vlaardingen,162
+7876,Vlijmen,162
+7877,Vlissingen,162
+7878,Volendam,162
+7879,Voorburg,162
+7880,Voorschoten,162
+7881,Vught,162
+7882,Waalre,162
+7883,Waalwijk,162
+7884,Waarland,162
+7885,Waddinxveen,162
+7886,Wageningen,162
+7887,Warnsveld,162
+7888,Wassenaar,162
+7889,Wateringen,162
+7890,Weert,162
+7891,Westervoort,162
+7892,Wijchen,162
+7893,Woerden,162
+7894,Wormer,162
+7895,Wouw,162
+7896,Zaandam,162
+7897,Zaandijk,162
+7898,Zaltbommel,162
+7899,Zandvoort,162
+7900,Zeist,162
+7901,Zevenaar,162
+7902,Zevenhuizen,162
+7903,Zoetermeer,162
+7904,Zoeterwoude,162
+7905,Zoutelande,162
+7906,Zuidoostbeemster,162
+7907,Zutphen,162
+7908,Zwaag,162
+7909,Zwolle,162
+7910,-,163
+7911,Aberaeron,163
+7912,Aberdare,163
+7913,Aberdeen,163
+7914,Aberdeenshire,163
+7915,Abergavenny,163
+7916,Aberporth,163
+7917,Abertillery,163
+7918,Aberystwyth,163
+7919,Abingdon,163
+7920,Addlestone,163
+7921,Admaston,163
+7922,Alderley Edge,163
+7923,Aldershot,163
+7924,Aldgate,163
+7925,Aldridge,163
+7926,Alfold,163
+7927,Allendale,163
+7928,Alton,163
+7929,Altrincham,163
+7930,Alvechurch,163
+7931,Alyth,163
+7932,Amble,163
+7933,Ambleside,163
+7934,Amersham,163
+7935,Amesbury,163
+7936,Ampthill,163
+7937,Andover,163
+7938,Anglesey,163
+7939,Angus,163
+7940,Antrim,163
+7941,Appin,163
+7942,Appleby-in-Westmorland,163
+7943,Arbroath,163
+7944,Ardingly,163
+7945,Arlesey,163
+7946,Arundel,163
+7947,Ascot,163
+7948,Ash Vale,163
+7949,Ashbourne,163
+7950,Ashby de la Zouch,163
+7951,Asheldham,163
+7952,Ashford,163
+7953,Ashington,163
+7954,Ashtead,163
+7955,Ashton-under-Lyne,163
+7956,Aspley Guise,163
+7957,Astwood Bank,163
+7958,Atherstone,163
+7959,Attleborough,163
+7960,Aylburton,163
+7961,Aylesbury,163
+7962,Ayr,163
+7963,Balloch,163
+7964,Ballyclare,163
+7965,Balsall Common,163
+7966,Bamburgh,163
+7967,Banbury,163
+7968,Banff,163
+7969,Bangor,163
+7970,Barlestone,163
+7971,Barnsley,163
+7972,Barnstaple,163
+7973,Barrow-in-Furness,163
+7974,Barry,163
+7975,Barton-on-Sea,163
+7976,Barwell,163
+7977,Basildon,163
+7978,Basingstoke,163
+7979,Bath,163
+7980,Bathgate,163
+7981,Batley,163
+7982,battersea,163
+7983,Bawtry,163
+7984,Beaconsfield,163
+7985,Beccles,163
+7986,Beckenham,163
+7987,Beckermet,163
+7988,Bedale,163
+7989,Bedford,163
+7990,Bedfordshire,163
+7991,Bedlington,163
+7992,Bedord,163
+7993,Beith,163
+7994,Belfast,163
+7995,Belper,163
+7996,Benenden,163
+7997,Benfleet,163
+7998,Bentley,163
+7999,Bentworth,163
+8000,Berkhamsted,163
+8001,berkshire,163
+8002,Berkshire UK,163
+8003,Bermuda,163
+8004,Bethersden,163
+8005,Beverley,163
+8006,Bewdley,163
+8007,Bexhill-on-Sea,163
+8008,Bexley,163
+8009,Bexleyheath,163
+8010,Bicester,163
+8011,Bideford,163
+8012,Biggleswade,163
+8013,Billericay,163
+8014,Billingshurst,163
+8015,Binfield,163
+8016,Bingham,163
+8017,Bingley,163
+8018,Birchington,163
+8019,Birkenhead,163
+8020,Birmingham,163
+8021,Birmingham England,163
+8022,Bishop Auckland,163
+8023,Bishops Stortford,163
+8024,Bishop's Waltham,163
+8025,Bisley,163
+8026,Bispham,163
+8027,Blackburn,163
+8028,Blackheath,163
+8029,Blackpool,163
+8030,Blairgowrie,163
+8031,Blakedown,163
+8032,Blantyre,163
+8033,Bletchingley,163
+8034,Bletchley,163
+8035,Blyth,163
+8036,Bodelwyddan,163
+8037,Bognor,163
+8038,Bognor Regis,163
+8039,Bolsover,163
+8040,Bolton,163
+8041,bolton england,163
+8042,Borehamwood,163
+8043,Boston,163
+8044,Botley,163
+8045,Boundary,163
+8046,Bourne,163
+8047,Bourne End,163
+8048,Bournemouth,163
+8049,Brackley,163
+8050,Bracknell,163
+8051,Bradford,163
+8052,Bradford On Avon,163
+8053,Braintree,163
+8054,Bramhall,163
+8055,Bramley,163
+8056,Brand Green,163
+8057,Branston,163
+8058,Bratton Fleming,163
+8059,Brentwood,163
+8060,Bridgend,163
+8061,Bridgend County,163
+8062,Bridgwater,163
+8063,Bridlington,163
+8064,Bridport,163
+8065,Brighouse,163
+8066,Brightlingsea,163
+8067,Brighton,163
+8068,Brighton and Hove,163
+8069,brighton england,163
+8070,Brimington,163
+8071,Bristol,163
+8072,bristol uk,163
+8073,British Virgin Islands,163
+8074,Brixham,163
+8075,Broadstairs,163
+8076,Bromborough,163
+8077,Bromley,163
+8078,Bromley Kent.uk,163
+8079,Bromsgrove,163
+8080,Brotton,163
+8081,Brough,163
+8082,Buckingham,163
+8083,Buckinghamshire,163
+8084,Bucklers Hard,163
+8085,Bude,163
+8086,Budleigh Salterton,163
+8087,Builth Wells,163
+8088,Burbage,163
+8089,Burford,163
+8090,Burnham,163
+8091,Burnley,163
+8092,Burntwood,163
+8093,Burscough,163
+8094,Burton Latimer,163
+8095,Burton upon Trent,163
+8096,Bury,163
+8097,Bury St. Edmunds,163
+8098,Bury. Lancs,163
+8099,Bushmills,163
+8100,Buxton,163
+8101,Caddington,163
+8102,Caernarfon,163
+8103,Caerphilly,163
+8104,Caldicot,163
+8105,Callington,163
+8106,Calne,163
+8107,camberley,163
+8108,Cambridge,163
+8109,Cambridge UK,163
+8110,Cambridgeshire,163
+8111,Cannington,163
+8112,Cannock,163
+8113,Canterbury,163
+8114,Cardiff,163
+8115,Carlisle,163
+8116,Carmarthen,163
+8117,Carshalton,163
+8118,Castle Combe,163
+8119,Castle Donington,163
+8120,Castle Douglas,163
+8121,Castleford,163
+8122,Castleton,163
+8123,Castletown,163
+8124,Caterham,163
+8125,ceeceedeeuk,163
+8126,Chadwell St Mary,163
+8127,Charlton Kings,163
+8128,Chatham,163
+8129,Chatteris,163
+8130,Cheadle,163
+8131,Cheddar,163
+8132,Chelmsford,163
+8133,Chelsfield,163
+8134,Cheltenham,163
+8135,Chepstow,163
+8136,Chesham,163
+8137,Cheshire,163
+8138,Cheshunt,163
+8139,Chessington,163
+8140,Chester,163
+8141,Chesterfield,163
+8142,Chester-le-Street,163
+8143,Chew Magna,163
+8144,Chichester,163
+8145,Chigwell,163
+8146,Chillingham,163
+8147,Chippenham,163
+8148,Chipping Norton,163
+8149,Chislehurst,163
+8150,Chiswick,163
+8151,Chobham,163
+8152,Chorley,163
+8153,Christchurch,163
+8154,Churchdown,163
+8155,Churchill,163
+8156,Cirencester,163
+8157,City of London,163
+8158,Clacton-on-Sea,163
+8159,Cleckheaton,163
+8160,Cleethorpes,163
+8161,Clevedon,163
+8162,Clitheroe,163
+8163,Cobham,163
+8164,Cockermouth,163
+8165,Codicote,163
+8166,Colchester,163
+8167,Collingham,163
+8168,Colwyn Bay,163
+8169,Congleton,163
+8170,Corby,163
+8171,Cornwall,163
+8172,Cornwall England,163
+8173,Corsham,163
+8174,Cotswolds,163
+8175,County Durham,163
+8176,County Londonderry,163
+8177,Coventry,163
+8178,Cowdenbeath,163
+8179,Cowplain,163
+8180,Cramlington,163
+8181,Cranbrook,163
+8182,Cranleigh,163
+8183,Crawley,163
+8184,Crayford,163
+8185,Crediton,163
+8186,Crewe,163
+8187,Cromer,163
+8188,Crouch End,163
+8189,Crowborough,163
+8190,Croxley Green,163
+8191,Croydon,163
+8192,Croydon North,163
+8193,Cullercoats,163
+8194,cullercots,163
+8195,Cumbria,163
+8196,Cupar,163
+8197,Cwmbran,163
+8198,Dalgety Bay,163
+8199,Dalton-on-Tees,163
+8200,Danbury,163
+8201,Darenth Kent,163
+8202,Daresbury,163
+8203,Darlington,163
+8204,Dartford,163
+8205,Darwen,163
+8206,Daventry,163
+8207,Denham,163
+8208,Denny,163
+8209,Derby,163
+8210,Derbyshire,163
+8211,Dereham,163
+8212,Derry,163
+8213,Desborough,163
+8214,Desford,163
+8215,Devizes,163
+8216,Devon,163
+8217,Dewsbury,163
+8218,Dickens Heath,163
+8219,Didcot,163
+8220,Dobcross,163
+8221,Doncaster,163
+8222,Dorchester,163
+8223,Dorking,163
+8224,Dorset,163
+8225,Douglas,163
+8226,Dover,163
+8227,Downham Market,163
+8228,Driffield,163
+8229,Droitwich,163
+8230,Dromore,163
+8231,Dronfield,163
+8232,Drymen,163
+8233,Dudley,163
+8234,Dumfries,163
+8235,Dunbeath,163
+8236,Dundee,163
+8237,Dundonald,163
+8238,Dunfermline,163
+8239,Dungiven,163
+8240,Dunoon,163
+8241,Dunstable,163
+8242,Durham,163
+8243,Dyffryn Ardudwy,163
+8244,Ealing,163
+8245,East Drayton,163
+8246,East Grinstead,163
+8247,East Kilbride,163
+8248,East Lothian,163
+8249,East Midlands,163
+8250,East Stour,163
+8251,East Susex,163
+8252,East Sussex,163
+8253,Eastbourne,163
+8254,Eastleigh,163
+8255,Ebbw Vale,163
+8256,Eccles,163
+8257,Edgware,163
+8258,Edinburgh,163
+8259,Elgin,163
+8260,Elland,163
+8261,Ellesmere Port,163
+8262,Elsenham,163
+8263,Ely,163
+8264,Empingham,163
+8265,Emsworth,163
+8266,Enfield,163
+8267,England,163
+8268,England-,163
+8269,england/corfu,163
+8270,Epsom,163
+8271,Esher,163
+8272,Essex,163
+8273,essex uk,163
+8274,Evesham,163
+8275,Exeter,163
+8276,Exmouth,163
+8277,Fairford,163
+8278,Falkirk,163
+8279,Falkirk District,163
+8280,Falmouth,163
+8281,Fareham,163
+8282,Farnborough,163
+8283,Farnham,163
+8284,Farnham Common,163
+8285,featherstone,163
+8286,Felbridge,163
+8287,Felixstowe,163
+8288,Fencehouses,163
+8289,Ferndown,163
+8290,Fifers fae Scotland,163
+8291,Filey,163
+8292,Flagg,163
+8293,Flamstead,163
+8294,Fleet,163
+8295,Fleetwood,163
+8296,Folkestone,163
+8297,Fordingbridge,163
+8298,Forfar,163
+8299,Formby,163
+8300,Forres,163
+8301,Fort William,163
+8302,fotheringay,163
+8303,Framlingham,163
+8304,Fraserburgh,163
+8305,Freckenham,163
+8306,Frimley,163
+8307,Frome,163
+8308,Fulham,163
+8309,Funk,163
+8310,Gainsborough,163
+8311,Galashiels,163
+8312,Garstang,163
+8313,Gateshead,163
+8314,Gerrards Cross,163
+8315,Gibraltar,163
+8316,Giltbrook,163
+8317,Glasgow,163
+8318,Glastonbury,163
+8319,Glenrothes,163
+8320,Glossop,163
+8321,Gloucester,163
+8322,Gloucestershire,163
+8323,Gloucs,163
+8324,Godalming,163
+8325,goggs fae edinburgh,163
+8326,Gorleston-on-Sea,163
+8327,Gosforth,163
+8328,Gosport,163
+8329,Grantham,163
+8330,Gravesend,163
+8331,Grays Thurrock,163
+8332,Greasby,163
+8333,Great Baddow,163
+8334,Great Barr,163
+8335,Great Bookham,163
+8336,Great Dunmow,163
+8337,Great Harwood,163
+8338,Great Malvern,163
+8339,Great Yarmouth,163
+8340,Greater London,163
+8341,Greater Manchester,163
+8342,Greenhithe,163
+8343,Greenock,163
+8344,Greenwich,163
+8345,Gresford,163
+8346,Grimsby,163
+8347,Gringley on the Hill,163
+8348,Guernsey,163
+8349,Guildford,163
+8350,Guisborough,163
+8351,Gunnislake,163
+8352,Gwersyllt,163
+8353,Hadleigh,163
+8354,Hadlow Down,163
+8355,Hailsham,163
+8356,Halifax,163
+8357,Haltwhistle,163
+8358,Ham,163
+8359,Hamble,163
+8360,Hampshire,163
+8361,Hampton Hill,163
+8362,Haringey,163
+8363,Harlington,163
+8364,Harlow,163
+8365,Harpenden,163
+8366,Harpole,163
+8367,Harrogate,163
+8368,Harrow,163
+8369,Hartford,163
+8370,Hartlepool,163
+8371,Harvington,163
+8372,Haslemere,163
+8373,Hastings,163
+8374,hastings UK,163
+8375,Hatfield,163
+8376,Hatherleigh,163
+8377,Haverhill,163
+8378,Hawarden,163
+8379,Haworth,163
+8380,Hayle,163
+8381,Hayling Island,163
+8382,Hay-on-Wye,163
+8383,Haywards Heath,163
+8384,Headley,163
+8385,Heath Hayes - UK,163
+8386,Heathfield,163
+8387,Heaton,163
+8388,Hebburn,163
+8389,Hebden Bridge,163
+8390,Hedge End,163
+8391,Hednesford,163
+8392,Helensburgh,163
+8393,Hemel Hempstead,163
+8394,hemsby,163
+8395,Henley-on-Thames,163
+8396,Henlow,163
+8397,Hereford,163
+8398,Herne Bay,163
+8399,Hernhill,163
+8400,Hertford,163
+8401,Hertford Hertfordshire UK,163
+8402,Hertfordshire,163
+8403,Hertfordshire UK,163
+8404,Herts,163
+8405,Hessle,163
+8406,Hetton-le-Hole,163
+8407,High Wycombe,163
+8408,Highbridge,163
+8409,Hill Head,163
+8410,Hillingdon,163
+8411,Hillsborough,163
+8412,Hilton,163
+8413,Hitchin,163
+8414,Hockley,163
+8415,Hoddesdon,163
+8416,Holmes Chapel,163
+8417,Holmfirth,163
+8418,Holsworthy,163
+8419,Holt,163
+8420,Holyhead,163
+8421,Honiton,163
+8422,Hook,163
+8423,Horley,163
+8424,Hornchurch,163
+8425,Hornsea,163
+8426,Horsforth,163
+8427,Horsham,163
+8428,Horwich,163
+8429,Houghton-le-Spring,163
+8430,Hounslow,163
+8431,Hove,163
+8432,Howden,163
+8433,Hoylake,163
+8434,Huddersfield,163
+8435,Hudswell,163
+8436,Hullbridge,163
+8437,Hungerford,163
+8438,Hunstanton,163
+8439,Huntingdon,163
+8440,Huntly,163
+8441,Hurst Green,163
+8442,Hyde,163
+8443,Ickenham,163
+8444,Ilchester,163
+8445,Ilford,163
+8446,Ilfracombe,163
+8447,Ilkley,163
+8448,Ilminster,163
+8449,Insch,163
+8450,Inverness,163
+8451,Inverurie,163
+8452,Ipswich,163
+8453,Irlam,163
+8454,Irthlingborough,163
+8455,Irvine,163
+8456,Irvinestown,163
+8457,Isle of Bute,163
+8458,Isle of Man,163
+8459,Isle of Mull,163
+8460,Isle of Portland,163
+8461,Isle of Sheppey,163
+8462,Isle of Wight,163
+8463,Iver,163
+8464,Jarrow,163
+8465,Jersey,163
+8466,Kegworth,163
+8467,Keighley,163
+8468,Keith,163
+8469,Kendal,163
+8470,Kenilworth,163
+8471,Kent,163
+8472,Keswick,163
+8473,Kettering,163
+8474,Kibworth Beauchamp,163
+8475,Kidderminster,163
+8476,Kilmarnock,163
+8477,Kilsyth,163
+8478,Kilwinning,163
+8479,Kinghorn,163
+8480,kingS Lynn,163
+8481,King's Lynn,163
+8482,Kingsbridge,163
+8483,Kingsbury,163
+8484,Kingsteignton,163
+8485,Kingston,163
+8486,Kingston upon Hull,163
+8487,Kingston upon Thames,163
+8488,Kingstone,163
+8489,Kingston-upon-Hull,163
+8490,Kingswood,163
+8491,Kinver,163
+8492,Kirby Muxloe,163
+8493,Kirkby Mallory,163
+8494,Kirkby Stephen,163
+8495,Kirkcaldy,163
+8496,Kirton in Lindsey,163
+8497,Knaresborough,163
+8498,Knowle,163
+8499,Knutsford,163
+8500,Lanark,163
+8501,Lancashire,163
+8502,Lancashire UK,163
+8503,lancaster,163
+8504,Langho,163
+8505,Larkfield,163
+8506,Larkhall,163
+8507,Launceston,163
+8508,Laxey,163
+8509,Layer de la Haye,163
+8510,Le Mont Felard,163
+8511,Leamington Spa,163
+8512,Leatherhead,163
+8513,Leeds,163
+8514,Leek,163
+8515,Leicester,163
+8516,Leicester UK,163
+8517,Leicestershire,163
+8518,Leicestershire UK,163
+8519,Leics,163
+8520,Leigh,163
+8521,Leigh-on Sea,163
+8522,Leighton Buzzard,163
+8523,Leominster,163
+8524,Letchworth Garden City,163
+8525,Leven,163
+8526,Lewes,163
+8527,Leyland,163
+8528,Leyton,163
+8529,Lichfield,163
+8530,Lincoln,163
+8531,lincolnshire,163
+8532,Lindale,163
+8533,Lindy from london,163
+8534,Linton,163
+8535,Lisburn,163
+8536,Little Hereford,163
+8537,Little Sutton,163
+8538,Littleborough,163
+8539,Littlebourne,163
+8540,Littlehampton,163
+8541,Littleport,163
+8542,Liverpool,163
+8543,Liversedge,163
+8544,Livingston,163
+8545,Llan Ffestiniog,163
+8546,Llangollen,163
+8547,Llangybi,163
+8548,Llanrug,163
+8549,Llantwit Major,163
+8550,Llanvair Kilgeddin,163
+8551,Llechryd,163
+8552,Llwyngwril,163
+8553,Loch Lomond and The Trossachs National Park,163
+8554,Lochwinnoch,163
+8555,Lofthouse,163
+8556,London,163
+8557,london - uk,163
+8558,London England,163
+8559,London Ont,163
+8560,london uk,163
+8561,london-bedfordshire,163
+8562,londres,163
+8563,Long Hanborough,163
+8564,Long Stratton,163
+8565,Longwell Green,163
+8566,Longworth,163
+8567,Lonodn,163
+8568,Lossiemouth,163
+8569,Loughborough,163
+8570,Loughton,163
+8571,Lound,163
+8572,Louth,163
+8573,Lowestoft,163
+8574,Ludlow,163
+8575,Lurgan,163
+8576,Luton,163
+8577,Lydney,163
+8578,Lymington,163
+8579,Lympstone,163
+8580,Lynton,163
+8581,Lytham St Anne's,163
+8582,Macclesfield,163
+8583,Macduff,163
+8584,Madeley,163
+8585,Magheralin,163
+8586,Maidenhead,163
+8587,Maidstone,163
+8588,Mallaig,163
+8589,Malton,163
+8590,Malvern Hills,163
+8591,Manchester,163
+8592,Mansfield,163
+8593,Marazion,163
+8594,Margate,163
+8595,Market Bosworth,163
+8596,Market Deeping,163
+8597,Market Harborough,163
+8598,Marlborough,163
+8599,Marlow,163
+8600,Marple,163
+8601,Marston Moretaine,163
+8602,Martock,163
+8603,Maryport,163
+8604,Maulden,163
+8605,Maylands,163
+8606,Medstead,163
+8607,medway,163
+8608,Melbourn,163
+8609,Melbourne,163
+8610,Mellor,163
+8611,Melton Mowbray,163
+8612,Meopham,163
+8613,Meppershall,163
+8614,Mersea Island,163
+8615,Merton,163
+8616,Michaelston-y-Fedw,163
+8617,Mid Sussex,163
+8618,Middlesborough,163
+8619,Middlesbrough,163
+8620,Middleton,163
+8621,Middlewich,163
+8622,Midhurst,163
+8623,Midlands,163
+8624,Milford Haven,163
+8625,Milford on Sea,163
+8626,Milton Keynes,163
+8627,Mirfield,163
+8628,Mobberley,163
+8629,Montrose,163
+8630,Moreton,163
+8631,Moreton-in-Marsh,163
+8632,Morfa Bychan,163
+8633,Morley,163
+8634,Motherwell,163
+8635,Mottram in Longdendale,163
+8636,Musbury,163
+8637,musselburgh,163
+8638,N Wales UK,163
+8639,N. Wales,163
+8640,Nantwich,163
+8641,Neath,163
+8642,New Castle NH,163
+8643,New Forest National Park Hampshire,163
+8644,New Forest National Park Wiltshire,163
+8645,New Malden,163
+8646,New Milton,163
+8647,Newark-on-Trent,163
+8648,Newbury,163
+8649,Newcastle,163
+8650,Newcastle and Gateshead,163
+8651,Newcastle NSW,163
+8652,Newcastle upon Tyne,163
+8653,Newcastle-under-Lyme,163
+8654,Newcastle-upon-Tyne,163
+8655,Newhaven,163
+8656,Newmarket,163
+8657,Newport,163
+8658,Newquay,163
+8659,Newry,163
+8660,Newton Abbot,163
+8661,Newton Aycliffe,163
+8662,Newtownards,163
+8663,Norfolk,163
+8664,Norfolk UK,163
+8665,North East England,163
+8666,North Elmham,163
+8667,North Finchley,163
+8668,North Leigh,163
+8669,North Shields,163
+8670,North Thoresby,163
+8671,North Wales,163
+8672,North West,163
+8673,North West England,163
+8674,North York Moors National Park,163
+8675,North Yorks,163
+8676,North Yorkshire,163
+8677,Northallerton,163
+8678,Northampton,163
+8679,Northamptonshire,163
+8680,Northants,163
+8681,Northern Ireland,163
+8682,Northumberland,163
+8683,Northwich,163
+8684,Northwood,163
+8685,Norton Fitzwarren,163
+8686,Norwich,163
+8687,Nottingham,163
+8688,Nottinghamshire,163
+8689,Notts,163
+8690,Nth Lincolnshire,163
+8691,nuneaton,163
+8692,Nympsfield,163
+8693,Oakham,163
+8694,Odiham,163
+8695,Old Basing,163
+8696,Old Newton,163
+8697,Old Warden,163
+8698,oldbury,163
+8699,Oldham,163
+8700,Ollerton,163
+8701,Olney,163
+8702,Orkney Islands,163
+8703,Ormskirk,163
+8704,Orpington,163
+8705,Orsett,163
+8706,Oswestry,163
+8707,Ottershaw,163
+8708,Oulton Broad,163
+8709,Oundle,163
+8710,Oxford,163
+8711,OXFORD UK,163
+8712,Oxfordshire,163
+8713,Oxshott,163
+8714,Padiham,163
+8715,Paget Parish,163
+8716,Pagham,163
+8717,Paignton,163
+8718,Paisley,163
+8719,Pant,163
+8720,Peacehaven,163
+8721,Pembroke,163
+8722,Pembrokeshire,163
+8723,Penarth,163
+8724,Penrith,163
+8725,Penryn,163
+8726,Penwortham,163
+8727,Pershore,163
+8728,Perth,163
+8729,Perth and Kinross,163
+8730,Peterborough,163
+8731,Peterlee,163
+8732,Petersfield,163
+8733,Petworth,163
+8734,Pickering,163
+8735,Pilton,163
+8736,Pinner,163
+8737,Pitstone,163
+8738,Plymouth,163
+8739,Plympton,163
+8740,Pocklington,163
+8741,Polmont,163
+8742,Pontefract,163
+8743,Pontyclun,163
+8744,Pontypool,163
+8745,Pontypridd,163
+8746,Poole,163
+8747,Port Erin,163
+8748,Port Talbot,163
+8749,Portadown,163
+8750,Porthcawl,163
+8751,Porthmadog,163
+8752,Portishead,163
+8753,Portsmouth,163
+8754,Potters Bar,163
+8755,Poulton Le Fylde,163
+8756,Prees,163
+8757,Preesall,163
+8758,Prescot,163
+8759,Preston,163
+8760,Prestwich,163
+8761,Prestwick,163
+8762,Princes Risborough,163
+8763,Pudsey,163
+8764,Purfleet,163
+8765,Purley,163
+8766,Queen Charlotte,163
+8767,Queenborough,163
+8768,Queensbury,163
+8769,Queensferry,163
+8770,Radcliffe,163
+8771,Radnage,163
+8772,raglan,163
+8773,Rainford,163
+8774,Rainham,163
+8775,Ramsbottom,163
+8776,Ramsgate,163
+8777,Rawmarsh,163
+8778,Rawtenstall,163
+8779,Rayleigh,163
+8780,Raywell,163
+8781,Reading,163
+8782,Redbourn,163
+8783,Redditch,163
+8784,Redhill,163
+8785,Redruth,163
+8786,Reigate,163
+8787,Renfrew,163
+8788,Rhoose,163
+8789,Rhos-on-Sea,163
+8790,Rhuddlan,163
+8791,Richmond,163
+8792,Richmond-upon-Thames,163
+8793,Rickmansworth,163
+8794,Ringwood,163
+8795,Ripley,163
+8796,Ripon,163
+8797,Ripponden,163
+8798,Robin Hoods Bay,163
+8799,Rochdale,163
+8800,Rochester,163
+8801,Rochford,163
+8802,Romford,163
+8803,Romsey,163
+8804,Ropley,163
+8805,ross on wye,163
+8806,Rossendale,163
+8807,Ross-on-Wye,163
+8808,Rotherfield,163
+8809,Rotherham,163
+8810,Rotherwick,163
+8811,Rothesay,163
+8812,Rowlands Castle,163
+8813,Royal Tunbridge Wells,163
+8814,Royal Wootton Bassett,163
+8815,Roydon,163
+8816,Royston,163
+8817,Rugby,163
+8818,Rugeley,163
+8819,Ruislip,163
+8820,Runcorn,163
+8821,Rushden,163
+8822,Ruthin,163
+8823,Ryde,163
+8824,Ryton,163
+8825,Saffron Walden,163
+8826,Sale,163
+8827,Salford,163
+8828,Salisbury,163
+8829,Saltash,163
+8830,Saltburn-by-the-Sea,163
+8831,Sambrook,163
+8832,Sandbach,163
+8833,Sandhurst,163
+8834,Sandown,163
+8835,Sandwell,163
+8836,Sandwich,163
+8837,Sawbridgeworth,163
+8838,Scarborough,163
+8839,Scarva,163
+8840,Scot near London,163
+8841,Scotland,163
+8842,Scunthorpe,163
+8843,Seaford,163
+8844,Seasalter,163
+8845,Seaton,163
+8846,Sedgefield,163
+8847,Selby,163
+8848,Sevenoaks,163
+8849,Shadwell,163
+8850,Sharnbrook,163
+8851,Shawbury,163
+8852,Sheffield,163
+8853,Shepperton,163
+8854,Shepton Mallet,163
+8855,Sherborne,163
+8856,Shipley,163
+8857,Shipston on Stour,163
+8858,Shoreham,163
+8859,Shoreham-by-Sea,163
+8860,Shrewsbury,163
+8861,Shrivenham,163
+8862,Shropshire,163
+8863,Sidmouth,163
+8864,Silverdale,163
+8865,Sittingbourne,163
+8866,Skewen,163
+8867,Skipton,163
+8868,Sleaford,163
+8869,Slough,163
+8870,Solihull,163
+8871,Solugh,163
+8872,Somerset,163
+8873,South Devon,163
+8874,South East England,163
+8875,South East London,163
+8876,South Ferriby,163
+8877,South Lanarkshire,163
+8878,South Milford,163
+8879,South Molton,163
+8880,South Ockendon,163
+8881,South Shields,163
+8882,South Wales,163
+8883,South West England,163
+8884,South West UK,163
+8885,South Yorkshire,163
+8886,Southall,163
+8887,Southampton,163
+8888,Southend-on-Sea,163
+8889,Southport,163
+8890,Southwark,163
+8891,Southwell,163
+8892,Sowerby Bridge,163
+8893,Spalding,163
+8894,Spennymoor,163
+8895,St Austell,163
+8896,St Columb Major,163
+8897,St Helens,163
+8898,St Ives,163
+8899,St Leonards-on-Sea,163
+8900,St Monans,163
+8901,St Newlyn East,163
+8902,St Peter Port,163
+8903,St Stephen,163
+8904,St. Albans,163
+8905,St. Helier,163
+8906,St. Neots,163
+8907,Stafford,163
+8908,Staffordshire,163
+8909,Staines,163
+8910,Stainfield,163
+8911,Stamford,163
+8912,Stamford Bridge,163
+8913,Stanford-Le-Hope,163
+8914,Stanmore,163
+8915,Stanstead Abbotts,163
+8916,Stansted,163
+8917,Stanwell,163
+8918,Stapleford,163
+8919,Stenhousemuir,163
+8920,Stevenage,163
+8921,Steventon,163
+8922,Steyning,163
+8923,Stirling,163
+8924,Stockbridge,163
+8925,Stockport,163
+8926,Stockton Heath,163
+8927,Stockton-on-Tees,163
+8928,Stoke-on-Trent,163
+8929,Stonehaven,163
+8930,Stonehouse,163
+8931,Stourbridge,163
+8932,Stow-on-the-Wold,163
+8933,Strand,163
+8934,Stratford City,163
+8935,Stratford-upon-Avon,163
+8936,Strathaven,163
+8937,Street,163
+8938,Stroud,163
+8939,Studham,163
+8940,studley,163
+8941,Sudbury,163
+8942,Suffolk,163
+8943,Sunbury,163
+8944,Sunbury-On-Thames,163
+8945,Sunderland,163
+8946,Sunninghill,163
+8947,Surbiton,163
+8948,Surlingham,163
+8949,Surrey,163
+8950,Surrey England,163
+8951,Surrey/UK,163
+8952,sussex,163
+8953,Sutton,163
+8954,Swadlincote,163
+8955,Swanage,163
+8956,Swansea,163
+8957,Swansea County,163
+8958,Swanwick,163
+8959,Swindon,163
+8960,Tadworth,163
+8961,Taff's Well,163
+8962,Tamworth,163
+8963,Taplow,163
+8964,Tarbert,163
+8965,Tatenhill,163
+8966,Taunton,163
+8967,Taverham,163
+8968,Tayport,163
+8969,Teddington,163
+8970,Teesside,163
+8971,Teignmouth,163
+8972,Telford,163
+8973,Tenby,163
+8974,Tewkesbury,163
+8975,Thame,163
+8976,Thames Ditton,163
+8977,Thatcham,163
+8978,Thaxted,163
+8979,The Royal Town of Sutton Coldfield,163
+8980,Thetford,163
+8981,Thirsk,163
+8982,THORNBURY,163
+8983,Thornton Heath,163
+8984,Thornton-Le-Dale,163
+8985,Thruxton,163
+8986,Thurso,163
+8987,Tickton,163
+8988,Timperley,163
+8989,Tisbury,163
+8990,Tiverton,163
+8991,Tonbridge,163
+8992,Torpoint,163
+8993,Torquay,163
+8994,Tortworth,163
+8995,Tostock,163
+8996,Totnes,163
+8997,Tregadillett,163
+8998,Tring,163
+8999,Trowbridge,163
+9000,Truro,163
+9001,Tunbridge Wells,163
+9002,Twickenham,163
+9003,U.K.,163
+9004,Uckfield,163
+9005,Uddingston,163
+9006,Uffington,163
+9007,Ullapool,163
+9008,Ulverston,163
+9009,United Kingdom,163
+9010,Uppermill,163
+9011,Upton upon Severn,163
+9012,Uttoxeter,163
+9013,Uxbridge,163
+9014,Ventnor,163
+9015,Verwood,163
+9016,Waddington,163
+9017,Wadebridge,163
+9018,Wadhurst,163
+9019,Wakefield,163
+9020,Walberswick,163
+9021,Walderslade,163
+9022,Wales,163
+9023,WALES ENGLAND,163
+9024,Wallington,163
+9025,Wallington Surrey,163
+9026,Walmer,163
+9027,Walsall,163
+9028,Walsall UK,163
+9029,Waltham Abbey,163
+9030,Walthamstow,163
+9031,Walton-On-Thames,163
+9032,Wantage,163
+9033,Wardle,163
+9034,Waringstown,163
+9035,Warkworth,163
+9036,Warminster,163
+9037,Warrington,163
+9038,Warwick,163
+9039,Warwickshire,163
+9040,Washington,163
+9041,Watford,163
+9042,Wawne,163
+9043,Wednesbury,163
+9044,Welling,163
+9045,Wellingborough,163
+9046,Wells,163
+9047,Welshpool,163
+9048,Welwyn,163
+9049,Welwyn Garden City,163
+9050,Wembley,163
+9051,Wendover,163
+9052,Wentworth,163
+9053,West Kirby,163
+9054,West Lothian,163
+9055,West Malling,163
+9056,West Midlands,163
+9057,West Sussex,163
+9058,West Timperley,163
+9059,West Wales,163
+9060,West Wickham,163
+9061,West Yorkshire,163
+9062,Westbury,163
+9063,Westcott,163
+9064,Weston,163
+9065,Weston on the Green,163
+9066,Weston super Mare,163
+9067,Wetherby,163
+9068,Weybridge,163
+9069,Weymouth,163
+9070,weymouth dorset england,163
+9071,Whaddon,163
+9072,Whitby,163
+9073,Whitchurch,163
+9074,Whitefield,163
+9075,Whitehaven,163
+9076,Whitehead,163
+9077,Whiteley,163
+9078,Whitley Bay,163
+9079,Whitstable,163
+9080,Wickford,163
+9081,Wickham,163
+9082,Wickwar,163
+9083,Widnes,163
+9084,Wigan,163
+9085,Wigston,163
+9086,Wigton,163
+9087,Willaston,163
+9088,Willingdon,163
+9089,Williton,163
+9090,Wilmslow,163
+9091,Wilsden,163
+9092,Wiltshire,163
+9093,Wimbledon,163
+9094,Wimborne Minster,163
+9095,Winchester,163
+9096,windermere U.K,163
+9097,Windsor,163
+9098,Windsor and Maidenhead,163
+9099,Winkfield,163
+9100,Winnersh,163
+9101,Winsford,163
+9102,Winslow,163
+9103,Winterslow,163
+9104,Wirral,163
+9105,Wisbech,163
+9106,Wishaw,163
+9107,Witney,163
+9108,Wiveliscombe,163
+9109,Woking,163
+9110,Wokingham,163
+9111,Wolverhampton,163
+9112,Wombourne,163
+9113,Wooburn,163
+9114,Woodford,163
+9115,Woodhall Spa,163
+9116,Woodhouse Eaves,163
+9117,Woodstock,163
+9118,Woodville,163
+9119,Woolavington,163
+9120,Worcester,163
+9121,Worcester Park,163
+9122,Worcestershire,163
+9123,Worcs,163
+9124,Workington,163
+9125,Worksop,163
+9126,Worsley,163
+9127,Worthing,163
+9128,Wotton-under-Edge,163
+9129,Wrea Green,163
+9130,Wrexham,163
+9131,Wroughton,163
+9132,Yardley Gobion,163
+9133,Yarm,163
+9134,Yate,163
+9135,Yaxham,163
+9136,Yeadon,163
+9137,Yelverton,163
+9138,Yeovil,163
+9139,York,163
+9140,Yorkshire,163
+9141,Zaandam,163
+9142,Sanaa,164

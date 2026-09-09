@@ -1,0 +1,375 @@
+{
+  "regression": {
+    "selected_model": "gradient_boosting (GradientBoostingRegressor)",
+    "test_metrics": {
+      "r2": 0.0724,
+      "mae": 0.7752,
+      "mse": 0.9459,
+      "rmse": 0.9725
+    },
+    "baseline_test_metrics": {
+      "r2": -0.0033,
+      "mae": 0.8043,
+      "mse": 1.023,
+      "rmse": 1.0114
+    },
+    "validation_metrics": {
+      "r2": 0.1066,
+      "mae": 0.7999,
+      "mse": 1.044,
+      "rmse": 1.0218
+    },
+    "split_info": {
+      "n_total": 49208,
+      "n_inner_train": 33388,
+      "n_inner_val": 5816,
+      "n_train_full": 39204,
+      "n_test": 10004,
+      "test_boundary_period": 24222,
+      "val_boundary_period": 24212,
+      "inner_train_period_range": [
+        24157,
+        24211
+      ],
+      "inner_val_period_range": [
+        24212,
+        24221
+      ],
+      "train_full_period_range": [
+        24157,
+        24221
+      ],
+      "test_period_range": [
+        24222,
+        24274
+      ],
+      "test_year_counts": {
+        "2018": 3820,
+        "2019": 5420,
+        "2020": 491,
+        "2021": 34,
+        "2022": 239
+      }
+    },
+    "corrected_calendar_coverage": {
+      "inner_train_period_range": [
+        24157,
+        24211
+      ],
+      "inner_val_period_range": [
+        24212,
+        24221
+      ],
+      "test_period_range": [
+        24222,
+        24274
+      ],
+      "inner_train_calendar": "Jan 2013 - Jul 2017",
+      "inner_val_calendar": "Aug 2017 - May 2018",
+      "train_full_calendar": "Jan 2013 - May 2018",
+      "test_calendar": "Jun 2018 - Oct 2022"
+    },
+    "top_features": [
+      {
+        "feature": "attraction_avg_rating",
+        "importance": 0.5998871287658277
+      },
+      {
+        "feature": "attraction_rating_std",
+        "importance": 0.0828797410715496
+      },
+      {
+        "feature": "VisitMonth",
+        "importance": 0.07822361463213423
+      },
+      {
+        "feature": "attraction_distinct_users",
+        "importance": 0.04092283571894839
+      },
+      {
+        "feature": "attraction_total_visits",
+        "importance": 0.03213171225468921
+      },
+      {
+        "feature": "is_ambiguous_repeat",
+        "importance": 0.022055644000448158
+      },
+      {
+        "feature": "user_avg_rating",
+        "importance": 0.016371257671716464
+      }
+    ],
+    "leakage_validation": {
+      "target_not_in_feature_columns": true,
+      "transaction_id_not_in_feature_columns": true,
+      "transaction_id_not_used_for_split_order": true,
+      "no_missing_values_in_features": true,
+      "train_periods_strictly_precede_val_periods": true,
+      "train_val_periods_strictly_precede_test_periods": true,
+      "each_calendar_period_in_exactly_one_split": true,
+      "test_transaction_ids_disjoint_from_train_val": true,
+      "all_passed": true
+    },
+    "reload_check_passed": true
+  },
+  "classification": {
+    "selected_model": "random_forest (RandomForestClassifier)",
+    "test_metrics": {
+      "accuracy": 0.425,
+      "macro_precision": 0.3134,
+      "macro_recall": 0.3522,
+      "macro_f1": 0.2811
+    },
+    "baseline_test_metrics": {
+      "accuracy": 0.4295,
+      "macro_precision": 0.0859,
+      "macro_recall": 0.2,
+      "macro_f1": 0.1202
+    },
+    "per_class_test_metrics": {
+      "Business": {
+        "precision": 0.0559,
+        "recall": 0.4286,
+        "f1": 0.0989,
+        "support": 105
+      },
+      "Couples": {
+        "precision": 0.5283,
+        "recall": 0.6442,
+        "f1": 0.5805,
+        "support": 4297
+      },
+      "Family": {
+        "precision": 0.6224,
+        "recall": 0.3735,
+        "f1": 0.4668,
+        "support": 3015
+      },
+      "Friends": {
+        "precision": 0.2379,
+        "recall": 0.0583,
+        "f1": 0.0936,
+        "support": 1768
+      },
+      "Solo": {
+        "precision": 0.1222,
+        "recall": 0.2564,
+        "f1": 0.1655,
+        "support": 819
+      }
+    },
+    "confusion_matrix_labels": [
+      "Business",
+      "Couples",
+      "Family",
+      "Friends",
+      "Solo"
+    ],
+    "confusion_matrix_test": [
+      [
+        45,
+        13,
+        6,
+        19,
+        22
+      ],
+      [
+        241,
+        2768,
+        425,
+        132,
+        731
+      ],
+      [
+        226,
+        1168,
+        1126,
+        112,
+        383
+      ],
+      [
+        215,
+        882,
+        196,
+        103,
+        372
+      ],
+      [
+        78,
+        408,
+        56,
+        67,
+        210
+      ]
+    ],
+    "split_info": {
+      "n_total": 49208,
+      "n_inner_train": 33388,
+      "n_inner_val": 5816,
+      "n_train_full": 39204,
+      "n_test": 10004,
+      "test_boundary_period": 24222,
+      "val_boundary_period": 24212,
+      "inner_train_period_range": [
+        24157,
+        24211
+      ],
+      "inner_val_period_range": [
+        24212,
+        24221
+      ],
+      "train_full_period_range": [
+        24157,
+        24221
+      ],
+      "test_period_range": [
+        24222,
+        24274
+      ],
+      "test_year_counts": {
+        "2018": 3820,
+        "2019": 5420,
+        "2020": 491,
+        "2021": 34,
+        "2022": 239
+      }
+    },
+    "top_features": [
+      {
+        "feature": "attraction_rating_std",
+        "importance": 0.11855296959477529
+      },
+      {
+        "feature": "attraction_avg_rating",
+        "importance": 0.11820364664859082
+      },
+      {
+        "feature": "attraction_distinct_users",
+        "importance": 0.09870238067082752
+      },
+      {
+        "feature": "attraction_total_visits",
+        "importance": 0.09645061604653668
+      },
+      {
+        "feature": "VisitMonth",
+        "importance": 0.06832046968877131
+      },
+      {
+        "feature": "UserRegion_South East Asia",
+        "importance": 0.04605534767531523
+      },
+      {
+        "feature": "AttractionTypeName_Water Parks",
+        "importance": 0.042048457541835164
+      }
+    ],
+    "leakage_validation": {
+      "rating_not_in_feature_columns": true,
+      "target_not_in_feature_columns": true,
+      "transaction_id_not_in_feature_columns": true,
+      "no_missing_values_in_features": true,
+      "train_periods_strictly_precede_val_periods": true,
+      "train_val_periods_strictly_precede_test_periods": true,
+      "each_calendar_period_in_exactly_one_split": true,
+      "test_transaction_ids_disjoint_from_train_val": true,
+      "historical_features_match_regression": true,
+      "row_count_matches_regression": true,
+      "all_passed": true
+    },
+    "reload_check_passed": true
+  },
+  "recommendation": {
+    "approach": "content/profile-based (attraction type + normalized rating + normalized popularity; no collaborative filtering, no hybrid, no deep learning)",
+    "weights": {
+      "w_affinity": 0.6,
+      "w_quality": 0.25,
+      "w_popularity": 0.15,
+      "fallback_quality": 0.5,
+      "fallback_popularity": 0.5
+    },
+    "metrics_by_segment": {
+      "warm": {
+        "k=5": {
+          "n_users_evaluated": 726,
+          "precision_at_k": 0.1140495867768595,
+          "recall_at_k": 0.4544765840220386,
+          "map_at_k": 0.20590679522497707
+        },
+        "k=10": {
+          "n_users_evaluated": 726,
+          "precision_at_k": 0.09724517906336087,
+          "recall_at_k": 0.7567722681359045,
+          "map_at_k": 0.2547881958109231
+        }
+      },
+      "cold": {
+        "k=5": {
+          "n_users_evaluated": 4106,
+          "precision_at_k": 0.17413541159279106,
+          "recall_at_k": 0.7107972073388538,
+          "map_at_k": 0.45761182821886665
+        },
+        "k=10": {
+          "n_users_evaluated": 4106,
+          "precision_at_k": 0.09912323429128106,
+          "recall_at_k": 0.8149780808572821,
+          "map_at_k": 0.47289161621784614
+        }
+      }
+    },
+    "metrics_overall": {
+      "k=5": {
+        "n_users_evaluated": 4832,
+        "precision_at_k": 0.16510761589403972,
+        "recall_at_k": 0.6722854580573951,
+        "map_at_k": 0.41979356374172183
+      },
+      "k=10": {
+        "n_users_evaluated": 4832,
+        "precision_at_k": 0.098841059602649,
+        "recall_at_k": 0.8062327538631345,
+        "map_at_k": 0.4401219384000841
+      }
+    },
+    "random_baseline": {
+      "recall_at_k": {
+        "5": 0.1667,
+        "10": 0.3333
+      },
+      "precision_at_k": {
+        "warm": 0.0433,
+        "cold": 0.0411,
+        "overall": 0.0415
+      }
+    },
+    "eval_time_cutoff_year": 2018,
+    "cold_start_strategy": "popularity/rating fallback score = 0.5*norm_quality + 0.5*norm_popularity, used whenever a user has no rated history",
+    "validation_results": {
+      "real_attractions_only": "PASS",
+      "previously_visited_excluded": "PASS",
+      "deterministic_scores": "PASS",
+      "cold_start_users_work": "PASS",
+      "saved_artifacts_load_correctly": "PASS",
+      "fresh_process_inference": "PASS",
+      "evaluation_runs": "PASS",
+      "no_future_information_leakage": "PASS",
+      "reproducibility": "PASS"
+    }
+  },
+  "cross_model_consistency_checks": {
+    "regression_selected_model_matches_config": true,
+    "classification_selected_model_matches_config": true,
+    "regression_classification_share_identical_split_boundaries": false,
+    "recommendation_uses_independent_temporal_split": true,
+    "note_on_recommendation_split": "Recommendation uses a separate, coarser (calendar-year) time cutoff (VisitYear<=2018 train / >2018 test) than regression/classification's period-level (VisitYear*12+VisitMonth) split. This is expected \u2014 it is a different script evaluating a different task on a different feature table (recommendation_interactions.csv has only 30 attractions vs. the 49,208-row regression/classification universe) \u2014 not a contradiction."
+  },
+  "inconsistencies_found": [
+    {
+      "location": "docs/regression_report.md (\u00a72) and docs/classification_report.md (\u00a72), prose calendar-coverage captions",
+      "issue": "The prose text describes the split as inner_train='2013 \u2013 May 2018', inner_val='Jun 2018 \u2013 Mar 2019', test='Apr 2019 \u2013 2022'. Decoding the *actual* period integers stored in the same reports' own metrics.json (`_period = VisitYear*12 + VisitMonth`, verified directly against `regression_features.csv`) gives a different mapping: inner_train=Jan 2013 - Jul 2017, inner_val=Aug 2017 - May 2018, test=Jun 2018 - Oct 2022. This is corroborated by `test_year_counts` in `docs/regression/metrics.json`, which shows 3,820 test rows from 2018 \u2014 impossible if the test window only started Apr 2019 as the prose claims.",
+      "impact": "Documentation-only. The split boundaries themselves (the period integers, the leakage checks, the row counts, and every reported metric) are correct and unaffected \u2014 only the human-readable calendar caption in the two existing per-model reports is mislabeled. Not a leakage issue: train periods still strictly precede val periods, which still strictly precede test periods.",
+      "fix_applied_here": "This consolidated report uses the corrected calendar mapping, computed directly from the period integers and cross-verified against the raw processed data. The original regression_report.md / classification_report.md files were left untouched, per the instruction not to modify existing regression/classification implementations or reports \u2014 this is noted here for the record instead."
+    }
+  ]
+}

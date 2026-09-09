@@ -1,0 +1,26 @@
+continent,visit_mode,total_visits,pct_within_continent
+Africa,Couples,423,48.79
+Africa,Family,190,21.91
+Africa,Friends,186,21.45
+Africa,Solo,64,7.38
+Africa,Business,4,0.46
+America,Couples,3328,44.32
+America,Friends,1722,22.93
+America,Family,1442,19.2
+America,Solo,933,12.43
+America,Business,84,1.12
+Asia,Couples,4850,33.85
+Asia,Family,4445,31.02
+Asia,Friends,3369,23.51
+Asia,Solo,1331,9.29
+Asia,Business,333,2.32
+Australia & Oceania,Family,5531,39.1
+Australia & Oceania,Couples,5302,37.48
+Australia & Oceania,Friends,2488,17.59
+Australia & Oceania,Solo,772,5.46
+Australia & Oceania,Business,52,0.37
+Europe,Couples,6402,51.8
+Europe,Family,2549,20.62
+Europe,Friends,2316,18.74
+Europe,Solo,1004,8.12
+Europe,Business,88,0.71

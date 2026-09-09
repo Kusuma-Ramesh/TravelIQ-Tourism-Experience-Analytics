@@ -1,0 +1,66 @@
+feature,importance
+attraction_avg_rating,0.5998871287658277
+attraction_rating_std,0.0828797410715496
+VisitMonth,0.07822361463213423
+attraction_distinct_users,0.04092283571894839
+attraction_total_visits,0.03213171225468921
+is_ambiguous_repeat,0.022055644000448158
+user_avg_rating,0.016371257671716464
+AttractionTypeName_Water Parks,0.010555071209637036
+AttractionTypeName_Historic Sites,0.010101427238471716
+UserContinent_Asia,0.009582354043280379
+UserRegion_South Asia,0.008790412252066839
+AttractionTypeName_Points of Interest & Landmarks,0.007881966137523214
+UserRegion_Northern Europe,0.006299422224640805
+AttractionTypeName_Nature & Wildlife Areas,0.006132010839192121
+VisitYear,0.006094456841492798
+AttractionTypeName_Beaches,0.0059715152355975295
+AttractionTypeName_Volcanos,0.004569574605792016
+user_rating_std,0.004385418247975894
+user_total_visits,0.004132327929371941
+UserContinent_America,0.0040753516454430675
+UserContinent_Europe,0.003487766765076163
+AttractionCityName_Yogyakarta,0.003480160064134186
+AttractionTypeName_Religious Sites,0.003189701837337374
+VisitModeName_Business,0.0028518882255952997
+UserRegion_South East Asia,0.0018746488388553275
+VisitModeName_Couples,0.0017730102673989517
+AttractionTypeName_National Parks,0.0016707253274241708
+has_user_history,0.0016500844371679587
+user_distinct_attractions,0.001478719889757989
+UserRegion_Middle East,0.0012224786540605988
+UserRegion_Northern America,0.0010870738935881581
+AttractionTypeName_Flea & Street Markets,0.0010414016275971513
+UserRegion_Australia,0.0009661745519996447
+UserRegion_Southern Europe,0.0009561423338751836
+VisitModeName_Solo,0.0009484884430351996
+UserRegion_Western Europe,0.0009382669156236828
+AttractionTypeName_Ballets,0.0009359785962185363
+AttractionTypeName_History Museums,0.0008395626377502767
+UserRegion_Southern Africa,0.0008240959868260912
+UserContinent_Africa,0.0007976123365527972
+UserContinent_Australia & Oceania,0.0007948337600428891
+UserRegion_-,0.0007886783922901151
+VisitModeName_Family,0.0007215717716410089
+VisitModeName_Friends,0.0005877250736685874
+AttractionTypeName_Waterfalls,0.0005786496921330172
+UserRegion_Oceania,0.0005289508276517721
+UserRegion_Central Asia,0.00044115639394787926
+UserRegion_South America,0.000403931094039559
+UserRegion_Central America,0.0003725464388850615
+AttractionCityName_Malang,0.0003261342181066103
+UserRegion_East Asia,0.00031709435425791453
+UserRegion_North Africa,0.0002620697044098382
+AttractionTypeName_Ancient Ruins,0.00024015621071634397
+has_attraction_history,0.00021913697495724922
+AttractionTypeName_Speciality Museums,0.00014896250617885324
+UserRegion_Eastern Europe,0.00013626124535715857
+AttractionTypeName_Neighborhoods,7.491714604239298e-05
+UserRegion_Central Europe,0.0
+UserRegion_East Africa,0.0
+UserRegion_Central Africa,0.0
+UserRegion_Caribbean,0.0
+AttractionTypeName_Caverns & Caves,0.0
+UserRegion_West Africa,0.0
+AttractionTypeName_Spas,0.0
+AttractionCityName_Bali,0.0

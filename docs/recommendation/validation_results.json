@@ -1,0 +1,11 @@
+{
+  "real_attractions_only": "PASS",
+  "previously_visited_excluded": "PASS",
+  "deterministic_scores": "PASS",
+  "cold_start_users_work": "PASS",
+  "saved_artifacts_load_correctly": "PASS",
+  "fresh_process_inference": "PASS",
+  "evaluation_runs": "PASS",
+  "no_future_information_leakage": "PASS",
+  "reproducibility": "PASS"
+}

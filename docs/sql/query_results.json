@@ -1,0 +1,1237 @@
+{
+  "n_queries": 24,
+  "queries": [
+    {
+      "id": "01_total_visits",
+      "title": "Total visits",
+      "purpose": "How many recorded visit/rating transactions exist in the dataset?",
+      "sql": "SELECT COUNT(*) AS total_visits\nFROM fact_transaction;",
+      "row_count": 1,
+      "columns": [
+        "total_visits"
+      ],
+      "preview": [
+        {
+          "total_visits": 49208
+        }
+      ]
+    },
+    {
+      "id": "02_unique_travelers",
+      "title": "Unique travelers",
+      "purpose": "How many distinct travelers generated these transactions?",
+      "sql": "SELECT COUNT(*) AS unique_travelers\nFROM dim_user;",
+      "row_count": 1,
+      "columns": [
+        "unique_travelers"
+      ],
+      "preview": [
+        {
+          "unique_travelers": 33530
+        }
+      ]
+    },
+    {
+      "id": "03_unique_attractions",
+      "title": "Unique attractions visited",
+      "purpose": "How many distinct attractions appear in the transaction log?",
+      "sql": "SELECT COUNT(DISTINCT AttractionId) AS unique_attractions_visited\nFROM fact_transaction;",
+      "row_count": 1,
+      "columns": [
+        "unique_attractions_visited"
+      ],
+      "preview": [
+        {
+          "unique_attractions_visited": 30
+        }
+      ]
+    },
+    {
+      "id": "04_visits_by_country",
+      "title": "Visits by traveler home country",
+      "purpose": "Which home countries generate the most visits/transactions? Direct input to origin-market marketing prioritization.",
+      "sql": "SELECT\n    c.CountryName                          AS country,\n    COUNT(*)                               AS total_visits,\n    ROUND(100.0 * COUNT(*) / (SELECT COUNT(*) FROM fact_transaction), 2) AS pct_of_total\nFROM fact_transaction f\nJOIN dim_user u    ON u.UserId = f.UserId\nJOIN dim_country c ON c.CountryId = u.CountryId\nGROUP BY c.CountryName\nORDER BY total_visits DESC\nLIMIT 15;",
+      "row_count": 15,
+      "columns": [
+        "country",
+        "total_visits",
+        "pct_of_total"
+      ],
+      "preview": [
+        {
+          "country": "Australia",
+          "total_visits": 12683,
+          "pct_of_total": 25.77
+        },
+        {
+          "country": "United Kingdom",
+          "total_visits": 6302,
+          "pct_of_total": 12.81
+        },
+        {
+          "country": "United States",
+          "total_visits": 5695,
+          "pct_of_total": 11.57
+        },
+        {
+          "country": "Indonesia",
+          "total_visits": 4412,
+          "pct_of_total": 8.97
+        },
+        {
+          "country": "Singapore",
+          "total_visits": 2527,
+          "pct_of_total": 5.14
+        },
+        {
+          "country": "India",
+          "total_visits": 2375,
+          "pct_of_total": 4.83
+        },
+        {
+          "country": "New Zealand",
+          "total_visits": 1414,
+          "pct_of_total": 2.87
+        },
+        {
+          "country": "Canada",
+          "total_visits": 1393,
+          "pct_of_total": 2.83
+        },
+        {
+          "country": "Malaysia",
+          "total_visits": 1337,
+          "pct_of_total": 2.72
+        },
+        {
+          "country": "Netherlands",
+          "total_visits": 811,
+          "pct_of_total": 1.65
+        }
+      ]
+    },
+    {
+      "id": "05_visits_by_region",
+      "title": "Visits by traveler home region",
+      "purpose": "Coarser-grained view of #4 for regional demand planning.",
+      "sql": "SELECT\n    r.RegionName                           AS region,\n    COUNT(*)                               AS total_visits,\n    ROUND(100.0 * COUNT(*) / (SELECT COUNT(*) FROM fact_transaction), 2) AS pct_of_total\nFROM fact_transaction f\nJOIN dim_user u   ON u.UserId = f.UserId\nJOIN dim_region r ON r.RegionId = u.RegionId\nGROUP BY r.RegionName\nORDER BY total_visits DESC;",
+      "row_count": 22,
+      "columns": [
+        "region",
+        "total_visits",
+        "pct_of_total"
+      ],
+      "preview": [
+        {
+          "region": "Australia",
+          "total_visits": 12683,
+          "pct_of_total": 25.77
+        },
+        {
+          "region": "South East Asia",
+          "total_visits": 9377,
+          "pct_of_total": 19.06
+        },
+        {
+          "region": "Western Europe",
+          "total_visits": 8008,
+          "pct_of_total": 16.27
+        },
+        {
+          "region": "Northern America",
+          "total_visits": 7186,
+          "pct_of_total": 14.6
+        },
+        {
+          "region": "South Asia",
+          "total_visits": 2691,
+          "pct_of_total": 5.47
+        },
+        {
+          "region": "Central Europe",
+          "total_visits": 2118,
+          "pct_of_total": 4.3
+        },
+        {
+          "region": "Oceania",
+          "total_visits": 1462,
+          "pct_of_total": 2.97
+        },
+        {
+          "region": "Middle East",
+          "total_visits": 1190,
+          "pct_of_total": 2.42
+        },
+        {
+          "region": "East Asia",
+          "total_visits": 1034,
+          "pct_of_total": 2.1
+        },
+        {
+          "region": "Southern Europe",
+          "total_visits": 939,
+          "pct_of_total": 1.91
+        }
+      ]
+    },
+    {
+      "id": "06_visits_by_continent",
+      "title": "Visits by traveler home continent",
+      "purpose": "Highest-level view of traveler origin demand.",
+      "sql": "SELECT\n    co.ContinentName                       AS continent,\n    COUNT(*)                               AS total_visits,\n    ROUND(100.0 * COUNT(*) / (SELECT COUNT(*) FROM fact_transaction), 2) AS pct_of_total\nFROM fact_transaction f\nJOIN dim_user u       ON u.UserId = f.UserId\nJOIN dim_continent co ON co.ContinentId = u.ContinentId\nGROUP BY co.ContinentName\nORDER BY total_visits DESC;",
+      "row_count": 5,
+      "columns": [
+        "continent",
+        "total_visits",
+        "pct_of_total"
+      ],
+      "preview": [
+        {
+          "continent": "Asia",
+          "total_visits": 14328,
+          "pct_of_total": 29.12
+        },
+        {
+          "continent": "Australia & Oceania",
+          "total_visits": 14145,
+          "pct_of_total": 28.75
+        },
+        {
+          "continent": "Europe",
+          "total_visits": 12359,
+          "pct_of_total": 25.12
+        },
+        {
+          "continent": "America",
+          "total_visits": 7509,
+          "pct_of_total": 15.26
+        },
+        {
+          "continent": "Africa",
+          "total_visits": 867,
+          "pct_of_total": 1.76
+        }
+      ]
+    },
+    {
+      "id": "07_visits_by_attraction",
+      "title": "Visits by attraction (full ranking)",
+      "purpose": "Complete demand ranking across all 30 attractions.",
+      "sql": "SELECT\n    a.Attraction                           AS attraction,\n    at.AttractionTypeName                  AS attraction_type,\n    a.AttractionCityName                   AS city,\n    COUNT(*)                               AS total_visits\nFROM fact_transaction f\nJOIN dim_attraction a       ON a.AttractionId = f.AttractionId\nJOIN dim_attraction_type at ON at.AttractionTypeId = a.AttractionTypeId\nGROUP BY a.Attraction, at.AttractionTypeName, a.AttractionCityName\nORDER BY total_visits DESC;",
+      "row_count": 30,
+      "columns": [
+        "attraction",
+        "attraction_type",
+        "city",
+        "total_visits"
+      ],
+      "preview": [
+        {
+          "attraction": "Sacred Monkey Forest Sanctuary",
+          "attraction_type": "Nature & Wildlife Areas",
+          "city": "Bali",
+          "total_visits": 12369
+        },
+        {
+          "attraction": "Waterbom Bali",
+          "attraction_type": "Water Parks",
+          "city": "Bali",
+          "total_visits": 6079
+        },
+        {
+          "attraction": "Tegalalang Rice Terrace",
+          "attraction_type": "Points of Interest & Landmarks",
+          "city": "Bali",
+          "total_visits": 5585
+        },
+        {
+          "attraction": "Uluwatu Temple",
+          "attraction_type": "Religious Sites",
+          "city": "Bali",
+          "total_visits": 3216
+        },
+        {
+          "attraction": "Tanah Lot Temple",
+          "attraction_type": "Religious Sites",
+          "city": "Bali",
+          "total_visits": 3198
+        },
+        {
+          "attraction": "Sanur Beach",
+          "attraction_type": "Beaches",
+          "city": "Bali",
+          "total_visits": 2930
+        },
+        {
+          "attraction": "Seminyak Beach",
+          "attraction_type": "Beaches",
+          "city": "Bali",
+          "total_visits": 2832
+        },
+        {
+          "attraction": "Kuta Beach - Bali",
+          "attraction_type": "Beaches",
+          "city": "Bali",
+          "total_visits": 2641
+        },
+        {
+          "attraction": "Tegenungan Waterfall",
+          "attraction_type": "Waterfalls",
+          "city": "Bali",
+          "total_visits": 2184
+        },
+        {
+          "attraction": "Nusa Dua Beach",
+          "attraction_type": "Beaches",
+          "city": "Bali",
+          "total_visits": 2016
+        }
+      ]
+    },
+    {
+      "id": "08_top_10_attractions",
+      "title": "Top 10 most popular attractions",
+      "purpose": "Which attractions should get the most capacity/staffing/on-site investment priority?",
+      "sql": "SELECT\n    a.Attraction AS attraction,\n    COUNT(*)     AS total_visits\nFROM fact_transaction f\nJOIN dim_attraction a ON a.AttractionId = f.AttractionId\nGROUP BY a.Attraction\nORDER BY total_visits DESC\nLIMIT 10;",
+      "row_count": 10,
+      "columns": [
+        "attraction",
+        "total_visits"
+      ],
+      "preview": [
+        {
+          "attraction": "Sacred Monkey Forest Sanctuary",
+          "total_visits": 12369
+        },
+        {
+          "attraction": "Waterbom Bali",
+          "total_visits": 6079
+        },
+        {
+          "attraction": "Tegalalang Rice Terrace",
+          "total_visits": 5585
+        },
+        {
+          "attraction": "Uluwatu Temple",
+          "total_visits": 3216
+        },
+        {
+          "attraction": "Tanah Lot Temple",
+          "total_visits": 3198
+        },
+        {
+          "attraction": "Sanur Beach",
+          "total_visits": 2930
+        },
+        {
+          "attraction": "Seminyak Beach",
+          "total_visits": 2832
+        },
+        {
+          "attraction": "Kuta Beach - Bali",
+          "total_visits": 2641
+        },
+        {
+          "attraction": "Tegenungan Waterfall",
+          "total_visits": 2184
+        },
+        {
+          "attraction": "Nusa Dua Beach",
+          "total_visits": 2016
+        }
+      ]
+    },
+    {
+      "id": "09_least_visited_attractions",
+      "title": "10 least visited attractions",
+      "purpose": "Identify under-utilized attractions \u2014 candidates for either promotion or de-prioritization.",
+      "sql": "SELECT\n    a.Attraction AS attraction,\n    COUNT(*)     AS total_visits\nFROM fact_transaction f\nJOIN dim_attraction a ON a.AttractionId = f.AttractionId\nGROUP BY a.Attraction\nORDER BY total_visits ASC\nLIMIT 10;",
+      "row_count": 10,
+      "columns": [
+        "attraction",
+        "total_visits"
+      ],
+      "preview": [
+        {
+          "attraction": "Khayangan Reflexology & Massage",
+          "total_visits": 28
+        },
+        {
+          "attraction": "Museum Malang Tempo Doeloe",
+          "total_visits": 31
+        },
+        {
+          "attraction": "Balekambang Beach",
+          "total_visits": 36
+        },
+        {
+          "attraction": "Jodipan Colorful Village",
+          "total_visits": 43
+        },
+        {
+          "attraction": "Goa Cina Beach",
+          "total_visits": 53
+        },
+        {
+          "attraction": "Sempu Island",
+          "total_visits": 53
+        },
+        {
+          "attraction": "Coban Rondo Waterfall",
+          "total_visits": 55
+        },
+        {
+          "attraction": "Malang City Square",
+          "total_visits": 64
+        },
+        {
+          "attraction": "Mount Semeru Volcano",
+          "total_visits": 83
+        },
+        {
+          "attraction": "Kalibiru National Park",
+          "total_visits": 115
+        }
+      ]
+    },
+    {
+      "id": "10_overall_average_rating",
+      "title": "Overall average rating",
+      "purpose": "Single headline satisfaction metric across all transactions.",
+      "sql": "SELECT\n    ROUND(AVG(Rating), 3) AS avg_rating,\n    COUNT(*)              AS n_ratings\nFROM fact_transaction;",
+      "row_count": 1,
+      "columns": [
+        "avg_rating",
+        "n_ratings"
+      ],
+      "preview": [
+        {
+          "avg_rating": 4.156,
+          "n_ratings": 49208
+        }
+      ]
+    },
+    {
+      "id": "11_rating_distribution",
+      "title": "Rating distribution (1-5 stars)",
+      "purpose": "How skewed is satisfaction? Needed context before trusting any single average-rating figure.",
+      "sql": "SELECT\n    Rating,\n    COUNT(*)                                                           AS n,\n    ROUND(100.0 * COUNT(*) / (SELECT COUNT(*) FROM fact_transaction), 2) AS pct\nFROM fact_transaction\nGROUP BY Rating\nORDER BY Rating;",
+      "row_count": 5,
+      "columns": [
+        "Rating",
+        "n",
+        "pct"
+      ],
+      "preview": [
+        {
+          "Rating": 1,
+          "n": 1205,
+          "pct": 2.45
+        },
+        {
+          "Rating": 2,
+          "n": 1946,
+          "pct": 3.95
+        },
+        {
+          "Rating": 3,
+          "n": 7122,
+          "pct": 14.47
+        },
+        {
+          "Rating": 4,
+          "n": 16637,
+          "pct": 33.81
+        },
+        {
+          "Rating": 5,
+          "n": 22298,
+          "pct": 45.31
+        }
+      ]
+    },
+    {
+      "id": "12_avg_rating_by_attraction",
+      "title": "Average rating by attraction (min. 50 ratings)",
+      "purpose": "Which specific attractions most/least satisfy visitors, filtered to a minimum sample size so single-digit-count attractions don't distort the ranking.",
+      "sql": "SELECT\n    a.Attraction   AS attraction,\n    COUNT(*)       AS n_ratings,\n    ROUND(AVG(f.Rating), 3) AS avg_rating\nFROM fact_transaction f\nJOIN dim_attraction a ON a.AttractionId = f.AttractionId\nGROUP BY a.Attraction\nHAVING COUNT(*) >= 50\nORDER BY avg_rating DESC;",
+      "row_count": 26,
+      "columns": [
+        "attraction",
+        "n_ratings",
+        "avg_rating"
+      ],
+      "preview": [
+        {
+          "attraction": "Mount Semeru Volcano",
+          "n_ratings": 83,
+          "avg_rating": 4.699
+        },
+        {
+          "attraction": "Waterbom Bali",
+          "n_ratings": 6079,
+          "avg_rating": 4.646
+        },
+        {
+          "attraction": "Bromo Tengger Semeru National Park",
+          "n_ratings": 381,
+          "avg_rating": 4.612
+        },
+        {
+          "attraction": "Jomblang Cave",
+          "n_ratings": 129,
+          "avg_rating": 4.504
+        },
+        {
+          "attraction": "Nusa Dua Beach",
+          "n_ratings": 2016,
+          "avg_rating": 4.272
+        },
+        {
+          "attraction": "Sacred Monkey Forest Sanctuary",
+          "n_ratings": 12369,
+          "avg_rating": 4.265
+        },
+        {
+          "attraction": "Uluwatu Temple",
+          "n_ratings": 3216,
+          "avg_rating": 4.218
+        },
+        {
+          "attraction": "Ullen Sentalu Museum",
+          "n_ratings": 770,
+          "avg_rating": 4.212
+        },
+        {
+          "attraction": "Sempu Island",
+          "n_ratings": 53,
+          "avg_rating": 4.208
+        },
+        {
+          "attraction": "Tanah Lot Temple",
+          "n_ratings": 3198,
+          "avg_rating": 4.2
+        }
+      ]
+    },
+    {
+      "id": "13_avg_rating_by_attraction_type",
+      "title": "Average rating by attraction type",
+      "purpose": "Which categories of experience (beaches, temples, water parks, ...) satisfy travelers most, independent of any single site?",
+      "sql": "SELECT\n    at.AttractionTypeName          AS attraction_type,\n    COUNT(*)                       AS n_ratings,\n    ROUND(AVG(f.Rating), 3)        AS avg_rating,\n    ROUND(100.0 * SUM(CASE WHEN f.Rating <= 2 THEN 1 ELSE 0 END) / COUNT(*), 2) AS pct_low_ratings\nFROM fact_transaction f\nJOIN dim_attraction a       ON a.AttractionId = f.AttractionId\nJOIN dim_attraction_type at ON at.AttractionTypeId = a.AttractionTypeId\nGROUP BY at.AttractionTypeName\nORDER BY avg_rating DESC;",
+      "row_count": 17,
+      "columns": [
+        "attraction_type",
+        "n_ratings",
+        "avg_rating",
+        "pct_low_ratings"
+      ],
+      "preview": [
+        {
+          "attraction_type": "Water Parks",
+          "n_ratings": 6079,
+          "avg_rating": 4.646,
+          "pct_low_ratings": 1.25
+        },
+        {
+          "attraction_type": "Spas",
+          "n_ratings": 28,
+          "avg_rating": 4.571,
+          "pct_low_ratings": 3.57
+        },
+        {
+          "attraction_type": "Caverns & Caves",
+          "n_ratings": 129,
+          "avg_rating": 4.504,
+          "pct_low_ratings": 1.55
+        },
+        {
+          "attraction_type": "National Parks",
+          "n_ratings": 496,
+          "avg_rating": 4.427,
+          "pct_low_ratings": 4.84
+        },
+        {
+          "attraction_type": "Neighborhoods",
+          "n_ratings": 43,
+          "avg_rating": 4.302,
+          "pct_low_ratings": 4.65
+        },
+        {
+          "attraction_type": "Nature & Wildlife Areas",
+          "n_ratings": 12422,
+          "avg_rating": 4.265,
+          "pct_low_ratings": 3.82
+        },
+        {
+          "attraction_type": "History Museums",
+          "n_ratings": 770,
+          "avg_rating": 4.212,
+          "pct_low_ratings": 5.32
+        },
+        {
+          "attraction_type": "Religious Sites",
+          "n_ratings": 6414,
+          "avg_rating": 4.209,
+          "pct_low_ratings": 4.68
+        },
+        {
+          "attraction_type": "Ballets",
+          "n_ratings": 328,
+          "avg_rating": 4.192,
+          "pct_low_ratings": 6.4
+        },
+        {
+          "attraction_type": "Points of Interest & Landmarks",
+          "n_ratings": 5973,
+          "avg_rating": 4.133,
+          "pct_low_ratings": 6.11
+        }
+      ]
+    },
+    {
+      "id": "14_visit_mode_distribution",
+      "title": "Visit Mode distribution",
+      "purpose": "What share of trips are Couples/Family/Friends/Solo/Business? Core segmentation for product and marketing.",
+      "sql": "SELECT\n    m.VisitModeName AS visit_mode,\n    COUNT(*)        AS total_visits,\n    ROUND(100.0 * COUNT(*) / (SELECT COUNT(*) FROM fact_transaction), 2) AS pct_of_total\nFROM fact_transaction f\nJOIN dim_mode m ON m.VisitModeId = f.VisitMode\nGROUP BY m.VisitModeName\nORDER BY total_visits DESC;",
+      "row_count": 5,
+      "columns": [
+        "visit_mode",
+        "total_visits",
+        "pct_of_total"
+      ],
+      "preview": [
+        {
+          "visit_mode": "Couples",
+          "total_visits": 20305,
+          "pct_of_total": 41.26
+        },
+        {
+          "visit_mode": "Family",
+          "total_visits": 14157,
+          "pct_of_total": 28.77
+        },
+        {
+          "visit_mode": "Friends",
+          "total_visits": 10081,
+          "pct_of_total": 20.49
+        },
+        {
+          "visit_mode": "Solo",
+          "total_visits": 4104,
+          "pct_of_total": 8.34
+        },
+        {
+          "visit_mode": "Business",
+          "total_visits": 561,
+          "pct_of_total": 1.14
+        }
+      ]
+    },
+    {
+      "id": "15_visit_mode_by_continent",
+      "title": "Visit Mode by traveler home continent",
+      "purpose": "Does trip type vary by where travelers come from? Useful for continent-targeted product/marketing messaging.",
+      "sql": "SELECT\n    co.ContinentName AS continent,\n    m.VisitModeName  AS visit_mode,\n    COUNT(*)         AS total_visits,\n    ROUND(100.0 * COUNT(*) / SUM(COUNT(*)) OVER (PARTITION BY co.ContinentName), 2) AS pct_within_continent\nFROM fact_transaction f\nJOIN dim_user u       ON u.UserId = f.UserId\nJOIN dim_continent co ON co.ContinentId = u.ContinentId\nJOIN dim_mode m        ON m.VisitModeId = f.VisitMode\nGROUP BY co.ContinentName, m.VisitModeName\nORDER BY co.ContinentName, total_visits DESC;",
+      "row_count": 25,
+      "columns": [
+        "continent",
+        "visit_mode",
+        "total_visits",
+        "pct_within_continent"
+      ],
+      "preview": [
+        {
+          "continent": "Africa",
+          "visit_mode": "Couples",
+          "total_visits": 423,
+          "pct_within_continent": 48.79
+        },
+        {
+          "continent": "Africa",
+          "visit_mode": "Family",
+          "total_visits": 190,
+          "pct_within_continent": 21.91
+        },
+        {
+          "continent": "Africa",
+          "visit_mode": "Friends",
+          "total_visits": 186,
+          "pct_within_continent": 21.45
+        },
+        {
+          "continent": "Africa",
+          "visit_mode": "Solo",
+          "total_visits": 64,
+          "pct_within_continent": 7.38
+        },
+        {
+          "continent": "Africa",
+          "visit_mode": "Business",
+          "total_visits": 4,
+          "pct_within_continent": 0.46
+        },
+        {
+          "continent": "America",
+          "visit_mode": "Couples",
+          "total_visits": 3328,
+          "pct_within_continent": 44.32
+        },
+        {
+          "continent": "America",
+          "visit_mode": "Friends",
+          "total_visits": 1722,
+          "pct_within_continent": 22.93
+        },
+        {
+          "continent": "America",
+          "visit_mode": "Family",
+          "total_visits": 1442,
+          "pct_within_continent": 19.2
+        },
+        {
+          "continent": "America",
+          "visit_mode": "Solo",
+          "total_visits": 933,
+          "pct_within_continent": 12.43
+        },
+        {
+          "continent": "America",
+          "visit_mode": "Business",
+          "total_visits": 84,
+          "pct_within_continent": 1.12
+        }
+      ]
+    },
+    {
+      "id": "16_visit_mode_by_attraction_type",
+      "title": "Visit Mode by attraction type",
+      "purpose": "Do certain attraction types skew toward specific trip types (e.g. Family at Water Parks vs. Couples at Temples)? Informs attraction-level marketing and on-site experience design.",
+      "sql": "SELECT\n    at.AttractionTypeName AS attraction_type,\n    m.VisitModeName       AS visit_mode,\n    COUNT(*)              AS total_visits,\n    ROUND(100.0 * COUNT(*) / SUM(COUNT(*)) OVER (PARTITION BY at.AttractionTypeName), 2) AS pct_within_type\nFROM fact_transaction f\nJOIN dim_attraction a       ON a.AttractionId = f.AttractionId\nJOIN dim_attraction_type at ON at.AttractionTypeId = a.AttractionTypeId\nJOIN dim_mode m              ON m.VisitModeId = f.VisitMode\nGROUP BY at.AttractionTypeName, m.VisitModeName\nORDER BY at.AttractionTypeName, total_visits DESC;",
+      "row_count": 84,
+      "columns": [
+        "attraction_type",
+        "visit_mode",
+        "total_visits",
+        "pct_within_type"
+      ],
+      "preview": [
+        {
+          "attraction_type": "Ancient Ruins",
+          "visit_mode": "Couples",
+          "total_visits": 161,
+          "pct_within_type": 34.26
+        },
+        {
+          "attraction_type": "Ancient Ruins",
+          "visit_mode": "Family",
+          "total_visits": 124,
+          "pct_within_type": 26.38
+        },
+        {
+          "attraction_type": "Ancient Ruins",
+          "visit_mode": "Friends",
+          "total_visits": 105,
+          "pct_within_type": 22.34
+        },
+        {
+          "attraction_type": "Ancient Ruins",
+          "visit_mode": "Solo",
+          "total_visits": 69,
+          "pct_within_type": 14.68
+        },
+        {
+          "attraction_type": "Ancient Ruins",
+          "visit_mode": "Business",
+          "total_visits": 11,
+          "pct_within_type": 2.34
+        },
+        {
+          "attraction_type": "Ballets",
+          "visit_mode": "Couples",
+          "total_visits": 107,
+          "pct_within_type": 32.62
+        },
+        {
+          "attraction_type": "Ballets",
+          "visit_mode": "Friends",
+          "total_visits": 97,
+          "pct_within_type": 29.57
+        },
+        {
+          "attraction_type": "Ballets",
+          "visit_mode": "Family",
+          "total_visits": 65,
+          "pct_within_type": 19.82
+        },
+        {
+          "attraction_type": "Ballets",
+          "visit_mode": "Solo",
+          "total_visits": 45,
+          "pct_within_type": 13.72
+        },
+        {
+          "attraction_type": "Ballets",
+          "visit_mode": "Business",
+          "total_visits": 14,
+          "pct_within_type": 4.27
+        }
+      ]
+    },
+    {
+      "id": "17_yearly_trend",
+      "title": "Yearly visit volume and average rating",
+      "purpose": "How has demand and satisfaction evolved 2013-2022? Surfaces the COVID-19 disruption directly from the data.",
+      "sql": "SELECT\n    VisitYear,\n    COUNT(*)                AS total_visits,\n    ROUND(AVG(Rating), 3)   AS avg_rating\nFROM fact_transaction\nGROUP BY VisitYear\nORDER BY VisitYear;",
+      "row_count": 10,
+      "columns": [
+        "VisitYear",
+        "total_visits",
+        "avg_rating"
+      ],
+      "preview": [
+        {
+          "VisitYear": 2013,
+          "total_visits": 2876,
+          "avg_rating": 4.175
+        },
+        {
+          "VisitYear": 2014,
+          "total_visits": 4612,
+          "avg_rating": 4.169
+        },
+        {
+          "VisitYear": 2015,
+          "total_visits": 8319,
+          "avg_rating": 4.213
+        },
+        {
+          "VisitYear": 2016,
+          "total_visits": 11772,
+          "avg_rating": 4.163
+        },
+        {
+          "VisitYear": 2017,
+          "total_visits": 8608,
+          "avg_rating": 4.077
+        },
+        {
+          "VisitYear": 2018,
+          "total_visits": 6837,
+          "avg_rating": 4.061
+        },
+        {
+          "VisitYear": 2019,
+          "total_visits": 5420,
+          "avg_rating": 4.251
+        },
+        {
+          "VisitYear": 2020,
+          "total_visits": 491,
+          "avg_rating": 4.283
+        },
+        {
+          "VisitYear": 2021,
+          "total_visits": 34,
+          "avg_rating": 4.529
+        },
+        {
+          "VisitYear": 2022,
+          "total_visits": 239,
+          "avg_rating": 4.377
+        }
+      ]
+    },
+    {
+      "id": "18_monthly_seasonality",
+      "title": "Monthly seasonality (all years combined)",
+      "purpose": "Which calendar months see the most/least demand, independent of year-over-year growth? Informs staffing/pricing calendars.",
+      "sql": "SELECT\n    VisitMonth,\n    COUNT(*)              AS total_visits,\n    ROUND(AVG(Rating), 3) AS avg_rating\nFROM fact_transaction\nGROUP BY VisitMonth\nORDER BY VisitMonth;",
+      "row_count": 12,
+      "columns": [
+        "VisitMonth",
+        "total_visits",
+        "avg_rating"
+      ],
+      "preview": [
+        {
+          "VisitMonth": 1,
+          "total_visits": 4150,
+          "avg_rating": 4.111
+        },
+        {
+          "VisitMonth": 2,
+          "total_visits": 3383,
+          "avg_rating": 4.104
+        },
+        {
+          "VisitMonth": 3,
+          "total_visits": 3511,
+          "avg_rating": 4.097
+        },
+        {
+          "VisitMonth": 4,
+          "total_visits": 4154,
+          "avg_rating": 4.161
+        },
+        {
+          "VisitMonth": 5,
+          "total_visits": 4077,
+          "avg_rating": 4.154
+        },
+        {
+          "VisitMonth": 6,
+          "total_visits": 4088,
+          "avg_rating": 4.168
+        },
+        {
+          "VisitMonth": 7,
+          "total_visits": 4572,
+          "avg_rating": 4.144
+        },
+        {
+          "VisitMonth": 8,
+          "total_visits": 4643,
+          "avg_rating": 4.174
+        },
+        {
+          "VisitMonth": 9,
+          "total_visits": 4576,
+          "avg_rating": 4.234
+        },
+        {
+          "VisitMonth": 10,
+          "total_visits": 4409,
+          "avg_rating": 4.227
+        }
+      ]
+    },
+    {
+      "id": "19_yearly_visit_mode_mix",
+      "title": "Visit Mode share by year",
+      "purpose": "Has the traveler segment mix shifted over time (e.g. Business travel share collapsing during 2020-2021)?",
+      "sql": "SELECT\n    f.VisitYear,\n    m.VisitModeName AS visit_mode,\n    COUNT(*)        AS total_visits,\n    ROUND(100.0 * COUNT(*) / SUM(COUNT(*)) OVER (PARTITION BY f.VisitYear), 2) AS pct_within_year\nFROM fact_transaction f\nJOIN dim_mode m ON m.VisitModeId = f.VisitMode\nGROUP BY f.VisitYear, m.VisitModeName\nORDER BY f.VisitYear, total_visits DESC;",
+      "row_count": 49,
+      "columns": [
+        "VisitYear",
+        "visit_mode",
+        "total_visits",
+        "pct_within_year"
+      ],
+      "preview": [
+        {
+          "VisitYear": 2013,
+          "visit_mode": "Couples",
+          "total_visits": 1035,
+          "pct_within_year": 35.99
+        },
+        {
+          "VisitYear": 2013,
+          "visit_mode": "Family",
+          "total_visits": 1024,
+          "pct_within_year": 35.61
+        },
+        {
+          "VisitYear": 2013,
+          "visit_mode": "Friends",
+          "total_visits": 565,
+          "pct_within_year": 19.65
+        },
+        {
+          "VisitYear": 2013,
+          "visit_mode": "Solo",
+          "total_visits": 219,
+          "pct_within_year": 7.61
+        },
+        {
+          "VisitYear": 2013,
+          "visit_mode": "Business",
+          "total_visits": 33,
+          "pct_within_year": 1.15
+        },
+        {
+          "VisitYear": 2014,
+          "visit_mode": "Couples",
+          "total_visits": 1669,
+          "pct_within_year": 36.19
+        },
+        {
+          "VisitYear": 2014,
+          "visit_mode": "Family",
+          "total_visits": 1553,
+          "pct_within_year": 33.67
+        },
+        {
+          "VisitYear": 2014,
+          "visit_mode": "Friends",
+          "total_visits": 1004,
+          "pct_within_year": 21.77
+        },
+        {
+          "VisitYear": 2014,
+          "visit_mode": "Solo",
+          "total_visits": 334,
+          "pct_within_year": 7.24
+        },
+        {
+          "VisitYear": 2014,
+          "visit_mode": "Business",
+          "total_visits": 52,
+          "pct_within_year": 1.13
+        }
+      ]
+    },
+    {
+      "id": "20_repeat_vs_onetime_travelers",
+      "title": "Repeat vs. one-time travelers",
+      "purpose": "What share of the traveler base is repeat vs. one-time? Directly relevant to how much a recommender can rely on user history.",
+      "sql": "SELECT\n    CASE WHEN visit_count = 1 THEN 'One-time' ELSE 'Repeat' END AS traveler_type,\n    COUNT(*)                                                     AS n_travelers,\n    ROUND(100.0 * COUNT(*) / (SELECT COUNT(*) FROM dim_user), 2) AS pct_of_travelers\nFROM (\n    SELECT UserId, COUNT(*) AS visit_count\n    FROM fact_transaction\n    GROUP BY UserId\n) t\nGROUP BY traveler_type;",
+      "row_count": 2,
+      "columns": [
+        "traveler_type",
+        "n_travelers",
+        "pct_of_travelers"
+      ],
+      "preview": [
+        {
+          "traveler_type": "One-time",
+          "n_travelers": 24256,
+          "pct_of_travelers": 72.34
+        },
+        {
+          "traveler_type": "Repeat",
+          "n_travelers": 9274,
+          "pct_of_travelers": 27.66
+        }
+      ]
+    },
+    {
+      "id": "21_popularity_vs_quality",
+      "title": "Popularity vs. quality per attraction",
+      "purpose": "Are the most-visited attractions also the best-rated ones, or are popularity and satisfaction independent? Direct input to whether a recommender should rank by raw popularity or by rating.",
+      "sql": "SELECT\n    a.Attraction            AS attraction,\n    COUNT(*)                AS total_visits,\n    ROUND(AVG(f.Rating), 3) AS avg_rating\nFROM fact_transaction f\nJOIN dim_attraction a ON a.AttractionId = f.AttractionId\nGROUP BY a.Attraction\nORDER BY total_visits DESC;",
+      "row_count": 30,
+      "columns": [
+        "attraction",
+        "total_visits",
+        "avg_rating"
+      ],
+      "preview": [
+        {
+          "attraction": "Sacred Monkey Forest Sanctuary",
+          "total_visits": 12369,
+          "avg_rating": 4.265
+        },
+        {
+          "attraction": "Waterbom Bali",
+          "total_visits": 6079,
+          "avg_rating": 4.646
+        },
+        {
+          "attraction": "Tegalalang Rice Terrace",
+          "total_visits": 5585,
+          "avg_rating": 4.158
+        },
+        {
+          "attraction": "Uluwatu Temple",
+          "total_visits": 3216,
+          "avg_rating": 4.218
+        },
+        {
+          "attraction": "Tanah Lot Temple",
+          "total_visits": 3198,
+          "avg_rating": 4.2
+        },
+        {
+          "attraction": "Sanur Beach",
+          "total_visits": 2930,
+          "avg_rating": 3.974
+        },
+        {
+          "attraction": "Seminyak Beach",
+          "total_visits": 2832,
+          "avg_rating": 3.805
+        },
+        {
+          "attraction": "Kuta Beach - Bali",
+          "total_visits": 2641,
+          "avg_rating": 3.41
+        },
+        {
+          "attraction": "Tegenungan Waterfall",
+          "total_visits": 2184,
+          "avg_rating": 3.894
+        },
+        {
+          "attraction": "Nusa Dua Beach",
+          "total_visits": 2016,
+          "avg_rating": 4.272
+        }
+      ]
+    },
+    {
+      "id": "22_top_attraction_per_type",
+      "title": "Top attraction within each attraction type",
+      "purpose": "For each category (Beaches, Temples, ...), which single attraction leads on visit volume? Useful for category-level \"flagship\" marketing.",
+      "sql": "SELECT attraction_type, attraction, total_visits\nFROM (\n    SELECT\n        at.AttractionTypeName AS attraction_type,\n        a.Attraction          AS attraction,\n        COUNT(*)              AS total_visits,\n        RANK() OVER (PARTITION BY at.AttractionTypeName ORDER BY COUNT(*) DESC) AS rnk\n    FROM fact_transaction f\n    JOIN dim_attraction a       ON a.AttractionId = f.AttractionId\n    JOIN dim_attraction_type at ON at.AttractionTypeId = a.AttractionTypeId\n    GROUP BY at.AttractionTypeName, a.Attraction\n)\nWHERE rnk = 1\nORDER BY total_visits DESC;",
+      "row_count": 17,
+      "columns": [
+        "attraction_type",
+        "attraction",
+        "total_visits"
+      ],
+      "preview": [
+        {
+          "attraction_type": "Nature & Wildlife Areas",
+          "attraction": "Sacred Monkey Forest Sanctuary",
+          "total_visits": 12369
+        },
+        {
+          "attraction_type": "Water Parks",
+          "attraction": "Waterbom Bali",
+          "total_visits": 6079
+        },
+        {
+          "attraction_type": "Points of Interest & Landmarks",
+          "attraction": "Tegalalang Rice Terrace",
+          "total_visits": 5585
+        },
+        {
+          "attraction_type": "Religious Sites",
+          "attraction": "Uluwatu Temple",
+          "total_visits": 3216
+        },
+        {
+          "attraction_type": "Beaches",
+          "attraction": "Sanur Beach",
+          "total_visits": 2930
+        },
+        {
+          "attraction_type": "Waterfalls",
+          "attraction": "Tegenungan Waterfall",
+          "total_visits": 2184
+        },
+        {
+          "attraction_type": "Volcanos",
+          "attraction": "Merapi Volcano",
+          "total_visits": 1576
+        },
+        {
+          "attraction_type": "Flea & Street Markets",
+          "attraction": "Malioboro Road",
+          "total_visits": 946
+        },
+        {
+          "attraction_type": "History Museums",
+          "attraction": "Ullen Sentalu Museum",
+          "total_visits": 770
+        },
+        {
+          "attraction_type": "Historic Sites",
+          "attraction": "Yogyakarta Palace",
+          "total_visits": 673
+        }
+      ]
+    },
+    {
+      "id": "23_business_travelers_top_attractions",
+      "title": "Top attractions among Business travelers",
+      "purpose": "Business is the smallest but highest-rating Visit Mode segment (see query 14) \u2014 where do these travelers actually go, so a dedicated Business offering can be targeted correctly?",
+      "sql": "SELECT\n    a.Attraction AS attraction,\n    COUNT(*)     AS business_visits,\n    ROUND(AVG(f.Rating), 3) AS avg_rating\nFROM fact_transaction f\nJOIN dim_attraction a ON a.AttractionId = f.AttractionId\nJOIN dim_mode m        ON m.VisitModeId = f.VisitMode\nWHERE m.VisitModeName = 'Business'\nGROUP BY a.Attraction\nORDER BY business_visits DESC\nLIMIT 10;",
+      "row_count": 10,
+      "columns": [
+        "attraction",
+        "business_visits",
+        "avg_rating"
+      ],
+      "preview": [
+        {
+          "attraction": "Nusa Dua Beach",
+          "business_visits": 65,
+          "avg_rating": 4.462
+        },
+        {
+          "attraction": "Merapi Volcano",
+          "business_visits": 59,
+          "avg_rating": 4.254
+        },
+        {
+          "attraction": "Sacred Monkey Forest Sanctuary",
+          "business_visits": 53,
+          "avg_rating": 4.472
+        },
+        {
+          "attraction": "Uluwatu Temple",
+          "business_visits": 46,
+          "avg_rating": 4.587
+        },
+        {
+          "attraction": "Malioboro Road",
+          "business_visits": 41,
+          "avg_rating": 4.049
+        },
+        {
+          "attraction": "Tegalalang Rice Terrace",
+          "business_visits": 39,
+          "avg_rating": 4.333
+        },
+        {
+          "attraction": "Kuta Beach - Bali",
+          "business_visits": 35,
+          "avg_rating": 3.543
+        },
+        {
+          "attraction": "Ullen Sentalu Museum",
+          "business_visits": 34,
+          "avg_rating": 4.353
+        },
+        {
+          "attraction": "Sanur Beach",
+          "business_visits": 31,
+          "avg_rating": 4.065
+        },
+        {
+          "attraction": "Tanah Lot Temple",
+          "business_visits": 28,
+          "avg_rating": 4.25
+        }
+      ]
+    },
+    {
+      "id": "24_ambiguous_repeat_summary",
+      "title": "Ambiguous repeat-visit rows",
+      "purpose": "How many transactions share the same (user, attraction, year, month) but differ in rating/mode \u2014 a data-quality caveat noted in the data dictionary, quantified here via SQL for the SQL deliverable's own documentation completeness.",
+      "sql": "SELECT\n    is_ambiguous_repeat,\n    COUNT(*) AS n_transactions,\n    ROUND(100.0 * COUNT(*) / (SELECT COUNT(*) FROM fact_transaction), 2) AS pct\nFROM fact_transaction\nGROUP BY is_ambiguous_repeat;",
+      "row_count": 2,
+      "columns": [
+        "is_ambiguous_repeat",
+        "n_transactions",
+        "pct"
+      ],
+      "preview": [
+        {
+          "is_ambiguous_repeat": 0,
+          "n_transactions": 46672,
+          "pct": 94.85
+        },
+        {
+          "is_ambiguous_repeat": 1,
+          "n_transactions": 2536,
+          "pct": 5.15
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "total_visits_matches_consolidated": true,
+    "unique_travelers_matches_consolidated": true,
+    "unique_attractions_matches_consolidated": true,
+    "overall_avg_rating_matches_consolidated": "True",
+    "top_10_attractions_match_consolidated": true,
+    "top_10_attraction_visit_counts_match": true,
+    "visit_mode_distribution_matches_consolidated": true,
+    "yearly_visit_counts_match_consolidated": true,
+    "ambiguous_repeat_count_matches_consolidated": true,
+    "all_passed": true
+  }
+}

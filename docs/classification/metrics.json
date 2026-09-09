@@ -1,0 +1,263 @@
+{
+  "split_info": {
+    "n_total": 49208,
+    "n_inner_train": 33388,
+    "n_inner_val": 5816,
+    "n_train_full": 39204,
+    "n_test": 10004,
+    "test_boundary_period": 24222,
+    "val_boundary_period": 24212,
+    "inner_train_period_range": [
+      24157,
+      24211
+    ],
+    "inner_val_period_range": [
+      24212,
+      24221
+    ],
+    "train_full_period_range": [
+      24157,
+      24221
+    ],
+    "test_period_range": [
+      24222,
+      24274
+    ],
+    "boundaries_source": "reused from docs/regression/metrics.json split_info (not recomputed)"
+  },
+  "leakage_validation": {
+    "rating_not_in_feature_columns": true,
+    "target_not_in_feature_columns": true,
+    "transaction_id_not_in_feature_columns": true,
+    "no_missing_values_in_features": true,
+    "train_periods_strictly_precede_val_periods": true,
+    "train_val_periods_strictly_precede_test_periods": true,
+    "each_calendar_period_in_exactly_one_split": true,
+    "test_transaction_ids_disjoint_from_train_val": true,
+    "historical_features_match_regression": true,
+    "row_count_matches_regression": true,
+    "all_passed": true
+  },
+  "class_distribution_full_dataset": {
+    "Couples": 20305,
+    "Family": 14157,
+    "Friends": 10081,
+    "Solo": 4104,
+    "Business": 561
+  },
+  "model_comparison_on_validation": {
+    "baseline_most_frequent": {
+      "val": {
+        "accuracy": 0.4603,
+        "macro_precision": 0.0921,
+        "macro_recall": 0.2,
+        "macro_f1": 0.1261
+      }
+    },
+    "logistic_regression": {
+      "val": {
+        "accuracy": 0.3152,
+        "macro_precision": 0.2741,
+        "macro_recall": 0.3143,
+        "macro_f1": 0.1959
+      }
+    },
+    "random_forest": {
+      "val": {
+        "accuracy": 0.3692,
+        "macro_precision": 0.2668,
+        "macro_recall": 0.3028,
+        "macro_f1": 0.2381
+      }
+    },
+    "gradient_boosting": {
+      "val": {
+        "accuracy": 0.4728,
+        "macro_precision": 0.298,
+        "macro_recall": 0.2415,
+        "macro_f1": 0.2214
+      }
+    },
+    "selected_model": "random_forest",
+    "final": {
+      "baseline_most_frequent_test": {
+        "accuracy": 0.4295,
+        "macro_precision": 0.0859,
+        "macro_recall": 0.2,
+        "macro_f1": 0.1202
+      },
+      "random_forest_train_full": {
+        "accuracy": 0.4252,
+        "macro_precision": 0.3772,
+        "macro_recall": 0.4907,
+        "macro_f1": 0.343
+      },
+      "random_forest_test": {
+        "accuracy": 0.425,
+        "macro_precision": 0.3134,
+        "macro_recall": 0.3522,
+        "macro_f1": 0.2811
+      }
+    }
+  },
+  "selected_model": "random_forest",
+  "confusion_matrix_labels": [
+    "Business",
+    "Couples",
+    "Family",
+    "Friends",
+    "Solo"
+  ],
+  "confusion_matrix_test": [
+    [
+      45,
+      13,
+      6,
+      19,
+      22
+    ],
+    [
+      241,
+      2768,
+      425,
+      132,
+      731
+    ],
+    [
+      226,
+      1168,
+      1126,
+      112,
+      383
+    ],
+    [
+      215,
+      882,
+      196,
+      103,
+      372
+    ],
+    [
+      78,
+      408,
+      56,
+      67,
+      210
+    ]
+  ],
+  "per_class_test_metrics": {
+    "Business": {
+      "precision": 0.0559,
+      "recall": 0.4286,
+      "f1": 0.0989,
+      "support": 105
+    },
+    "Couples": {
+      "precision": 0.5283,
+      "recall": 0.6442,
+      "f1": 0.5805,
+      "support": 4297
+    },
+    "Family": {
+      "precision": 0.6224,
+      "recall": 0.3735,
+      "f1": 0.4668,
+      "support": 3015
+    },
+    "Friends": {
+      "precision": 0.2379,
+      "recall": 0.0583,
+      "f1": 0.0936,
+      "support": 1768
+    },
+    "Solo": {
+      "precision": 0.1222,
+      "recall": 0.2564,
+      "f1": 0.1655,
+      "support": 819
+    }
+  },
+  "feature_importance_top20": [
+    {
+      "feature": "attraction_rating_std",
+      "importance": 0.11855296959477529
+    },
+    {
+      "feature": "attraction_avg_rating",
+      "importance": 0.11820364664859082
+    },
+    {
+      "feature": "attraction_distinct_users",
+      "importance": 0.09870238067082752
+    },
+    {
+      "feature": "attraction_total_visits",
+      "importance": 0.09645061604653668
+    },
+    {
+      "feature": "VisitMonth",
+      "importance": 0.06832046968877131
+    },
+    {
+      "feature": "UserRegion_South East Asia",
+      "importance": 0.04605534767531523
+    },
+    {
+      "feature": "AttractionTypeName_Water Parks",
+      "importance": 0.042048457541835164
+    },
+    {
+      "feature": "VisitYear",
+      "importance": 0.03886158745059149
+    },
+    {
+      "feature": "AttractionCityName_Bali",
+      "importance": 0.029778937237186793
+    },
+    {
+      "feature": "AttractionCityName_Yogyakarta",
+      "importance": 0.027617448649028924
+    },
+    {
+      "feature": "UserContinent_Asia",
+      "importance": 0.027289717008289097
+    },
+    {
+      "feature": "user_avg_rating",
+      "importance": 0.02568874515816399
+    },
+    {
+      "feature": "UserContinent_Australia & Oceania",
+      "importance": 0.02316065021790838
+    },
+    {
+      "feature": "user_total_visits",
+      "importance": 0.018751087395230192
+    },
+    {
+      "feature": "UserRegion_Australia",
+      "importance": 0.01855498205149817
+    },
+    {
+      "feature": "user_distinct_attractions",
+      "importance": 0.01651048723160953
+    },
+    {
+      "feature": "AttractionTypeName_Beaches",
+      "importance": 0.013337745898899417
+    },
+    {
+      "feature": "is_ambiguous_repeat",
+      "importance": 0.012644709266949803
+    },
+    {
+      "feature": "user_rating_std",
+      "importance": 0.012504983649673661
+    },
+    {
+      "feature": "AttractionTypeName_Nature & Wildlife Areas",
+      "importance": 0.011817040794755714
+    }
+  ],
+  "reload_check_passed": true
+}
