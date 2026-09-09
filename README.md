@@ -1,66 +1,193 @@
-# TravelIQ — Tourism Experience Analytics
+TravelIQ — Tourism Experience Analytics
 
-Classification, Prediction, and Recommendation System — a Streamlit
-frontend for a Labmentix portfolio project.
+Classification, Prediction, and Recommendation System built as a Labmentix portfolio project using Python, Streamlit, Pandas, Plotly, Scikit-learn, SQLite, and Joblib.
 
-## Status: Part 2 — Premium UI, Animations, and Memory Passport
+TravelIQ is an end-to-end tourism analytics platform for exploring tourism patterns, predicting attraction ratings, classifying likely visit modes, and recommending attractions.
 
-Part 1 shipped the architecture and navigation. This part adds the full
-glassmorphism polish pass, 200–400ms hover/transition treatment
-throughout, the signature scrapbook-style **Memory Passport**, a
-sidebar passport preview card, polished predictor/analytics empty
-states, and a small hidden easter egg. **Still no data cleaning, EDA,
-or ML** — all values remain explicit demo data.
+Project Status
 
-## Run it
+Complete — integrated, tested, and ready for deployment.
 
-```bash
+Included
+
+Data cleaning and preprocessing
+
+Exploratory data analysis and interactive visualizations
+
+SQL-based tourism analysis
+
+Rating prediction
+
+Visit mode classification
+
+Personalized attraction recommendations
+
+Memory Passport traveler history
+
+Premium dark travel-tech Streamlit interface
+
+Dataset
+
+49,208 tourism transactions
+
+33,530 travelers
+
+30 attractions in the transaction catalogue
+
+5 visit modes
+
+153 traveler-origin countries
+
+2013–2022 historical period
+
+4.16 / 5 average rating
+
+The raw source data is intentionally excluded from the repository. Cleaned and processed datasets required by the application are included.
+
+Machine Learning
+
+Rating Prediction — Regression
+
+Selected model: Gradient Boosting Regressor
+
+Metric
+
+Test Result
+
+R²
+
+0.0724
+
+MAE
+
+0.7752
+
+MSE
+
+0.9459
+
+RMSE
+
+0.9725
+
+Visit Mode Classification
+
+Selected model: Random Forest Classifier
+
+Classes: Business, Couples, Family, Friends, Solo
+
+Metric
+
+Test Result
+
+Accuracy
+
+0.4250
+
+Macro Precision
+
+0.3134
+
+Macro Recall
+
+0.3522
+
+Macro F1
+
+0.2811
+
+Attraction Recommendation
+
+A deterministic content/profile-based recommender combines traveler attraction-type preferences, attraction quality, popularity, and visited-attraction exclusion. Cold-start recommendations are supported for new or unknown travelers.
+
+Metric
+
+Top-5
+
+Top-10
+
+Precision
+
+0.1651
+
+0.0988
+
+Recall
+
+0.6723
+
+0.8062
+
+MAP
+
+0.4198
+
+0.4401
+
+The recommendation system was evaluated with a time-based train/test cutoff and checked for leakage, deterministic output, real attraction IDs, and visited-attraction exclusion.
+
+Streamlit Pages
+
+Home — tourism overview, KPIs, destinations, trending attractions, and world explorer
+
+Tourism Analytics — visit modes, ratings, countries, attractions, yearly trends, and seasonality
+
+Rating Predictor — estimates an expected attraction rating
+
+Visit Mode Predictor — predicts Business, Couples, Family, Friends, or Solo
+
+Attraction Recommendations — personalized or cold-start attraction suggestions
+
+Memory Passport — traveler-specific history and memory stamps
+
+About Project — objective, workflow, and technology stack
+
+Tech Stack
+
+Python · Streamlit · Pandas · Plotly · Scikit-learn · SQLite · Joblib
+
+Project Structure
+
+tourism_project/
+├── app.py
+├── pages/
+├── components/
+├── data/
+│   ├── cleaned/
+│   └── processed/
+├── database/
+├── docs/
+├── models/
+│   ├── regression/
+│   ├── classification/
+│   └── recommendation/
+├── scripts/
+├── styles/
+├── requirements.txt
+└── README.md
+
+Run Locally
+
 pip install -r requirements.txt
 streamlit run app.py
-```
 
-## Structure
+Data and Leakage Controls
 
-```
-tourism_project/
-├── app.py                  # entrypoint: page config, CSS, navigation/routing
-├── pages/
-│   ├── home.py              # hero + KPI overview + preview panels
-│   ├── analytics.py         # Tourism Analytics (empty states)
-│   ├── rating_predictor.py  # Rating Predictor (empty states)
-│   ├── visit_mode.py        # Visit Mode Predictor (empty states)
-│   ├── recommendations.py   # Attraction Recommendations (empty states)
-│   ├── passport.py          # Memory Passport (scrapbook stamps, demo data)
-│   └── about.py             # About Project
-├── components/
-│   ├── navigation.py         # single source of truth for the nav structure
-│   ├── sidebar.py            # custom glass sidebar (brand, nav, traveler footer)
-│   ├── cards.py               # KPI cards, glass cards, page headers, empty states
-│   ├── passport.py            # stamp + progress-bar visuals
-│   └── charts.py               # themed plotly chart helpers
-├── styles/
-│   └── main.css                 # glassmorphism dark travel-tech theme
-├── data/                          # (empty — real dataset lands in a later part)
-├── models/                        # (empty — trained models land in a later part)
-└── assets/                        # (empty — static assets go here)
-```
+Model training uses time-aware historical features. User and attraction statistics are calculated only from information available before the relevant visit period, with cold-start fallbacks when prior history is unavailable. The classification inference pipeline excludes the target rating.
 
-## Notes for the next parts
+Documentation
 
-- `data/`, `models/` are placeholders — nothing reads from them yet.
-- KPI values in `pages/home.py` and stamps in `pages/passport.py` are
-  hardcoded demo data, clearly commented as such — swap for real
-  dataframe calculations once the pipeline exists.
-- Predictor pages disable their submit buttons and show
-  "model not connected yet" placeholders rather than fabricating
-  results (see `components/cards.py::prediction_placeholder`).
-- Sidebar passport counts (`components/sidebar.py::render_footer`) are
-  demo values — wire them to real visit history alongside the full
-  passport page.
-- The compass easter egg on the Memory Passport page lives entirely in
-  `pages/passport.py` via `st.session_state["compass_clicks"]` — no
-  custom JS component involved.
-- Google Fonts (`Caveat`, `Space Grotesk`) are pulled in via `@import`
-  at the top of `styles/main.css` for the passport's handwritten look;
-  swap for self-hosted fonts if the deployment target has no internet
-  access to fonts.googleapis.com.
+The docs/ directory contains the data dictionary, cleaning decisions, EDA report and artifacts, SQL analysis, model evaluation, recommendation evaluation, leakage checks, and reproducibility checks.
+
+Deployment
+
+Platform: Streamlit Community Cloud
+Live application: To be added after deployment
+
+Repository
+
+https://github.com/Kusuma-Ramesh/TravelIQ-Tourism-Experience-Analytics
+
+Project Goal
+
+TravelIQ brings analytics, machine learning, recommendation, and interactive visualization together into one end-to-end tourism experience platform — helping users discover smarter and travel better.
