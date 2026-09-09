@@ -1,153 +1,219 @@
-TravelIQ — Tourism Experience Analytics
+# TravelIQ — Tourism Experience Analytics
 
-Classification, Prediction, and Recommendation System built as a Labmentix portfolio project using Python, Streamlit, Pandas, Plotly, Scikit-learn, SQLite, and Joblib.
+> **Classification, Prediction, and Recommendation System**  
+> An end-to-end tourism analytics and machine learning platform built as a Labmentix portfolio project.
 
-TravelIQ is an end-to-end tourism analytics platform for exploring tourism patterns, predicting attraction ratings, classifying likely visit modes, and recommending attractions.
+TravelIQ combines tourism data analysis, machine learning, recommendation, SQL analytics, and an interactive Streamlit dashboard into one travel-tech application.
 
-Project Status
+---
 
-Complete — integrated, tested, and ready for deployment.
+## Table of Contents
 
-Included
+- [Project Overview](#project-overview)
+- [Key Dataset Facts](#key-dataset-facts)
+- [Key Features](#key-features)
+- [Machine Learning](#machine-learning)
+- [Streamlit Application](#streamlit-application)
+- [Analytics and SQL](#analytics-and-sql)
+- [Data Leakage and Validation](#data-leakage-and-validation)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Run Locally](#run-locally)
+- [Documentation](#documentation)
+- [Deployment](#deployment)
+- [Limitations](#limitations)
+- [Project Goal](#project-goal)
 
-Data cleaning and preprocessing
+---
 
-Exploratory data analysis and interactive visualizations
+## Project Overview
 
-SQL-based tourism analysis
+TravelIQ is designed to answer three practical tourism questions:
 
-Rating prediction
+| Capability | What it does |
+|---|---|
+| **Rating Prediction** | Estimates the rating a traveler is likely to give an attraction |
+| **Visit Mode Classification** | Predicts Business, Couples, Family, Friends, or Solo |
+| **Attraction Recommendation** | Suggests attractions using traveler preferences, historical quality, and popularity |
 
-Visit mode classification
+### Project Status
 
-Personalized attraction recommendations
+**Complete — integrated, tested, and ready for deployment.**
 
-Memory Passport traveler history
+---
 
-Premium dark travel-tech Streamlit interface
+## Key Dataset Facts
 
-Dataset
+| Metric | Value |
+|---|---:|
+| Tourism transactions | **49,208** |
+| Travelers | **33,530** |
+| Attractions | **30** |
+| Visit modes | **5** |
+| Traveler-origin countries | **153** |
+| Historical period | **2013–2022** |
+| Average rating | **4.16 / 5** |
 
-49,208 tourism transactions
+The raw source dataset is intentionally excluded from the repository. Cleaned and processed datasets required by the application are included.
 
-33,530 travelers
+---
 
-30 attractions in the transaction catalogue
+## Key Features
 
-5 visit modes
+### Tourism Analytics
 
-153 traveler-origin countries
+- Tourism transaction KPIs
+- Visit-mode distribution
+- Rating distribution
+- Traveler-origin analysis
+- Attraction popularity
+- Yearly tourism trends
+- Monthly seasonality
+- Average rating trends
+- Top- and bottom-rated attractions
+- Interactive world explorer
 
-2013–2022 historical period
+### Prediction and Recommendation
 
-4.16 / 5 average rating
+- Rating prediction
+- Visit mode prediction
+- Personalized recommendations
+- Cold-start recommendations
+- Previously visited attraction exclusion
 
-The raw source data is intentionally excluded from the repository. Cleaned and processed datasets required by the application are included.
+### Memory Passport
 
-Machine Learning
+- Traveler-specific visit history
+- Destinations explored
+- Attractions explored
+- Average rating
+- Most common visit mode
+- Travel-year summary
+- Memory stamps
 
-Rating Prediction — Regression
+---
 
-Selected model: Gradient Boosting Regressor
+# Machine Learning
 
-Metric
+## 1. Rating Prediction — Regression
 
-Test Result
+**Selected model:** Gradient Boosting Regressor
 
-R²
+| Metric | Test Result |
+|---|---:|
+| **R²** | **0.0724** |
+| **MAE** | **0.7752** |
+| **MSE** | **0.9459** |
+| **RMSE** | **0.9725** |
 
-0.0724
+The training pipeline uses time-aware historical features to prevent future information from being used for earlier visits.
 
-MAE
+---
 
-0.7752
+## 2. Visit Mode Classification
 
-MSE
+**Selected model:** Random Forest Classifier
 
-0.9459
+| Class |
+|---|
+| Business |
+| Couples |
+| Family |
+| Friends |
+| Solo |
 
-RMSE
+### Test Performance
 
-0.9725
+| Metric | Test Result |
+|---|---:|
+| **Accuracy** | **0.4250** |
+| **Macro Precision** | **0.3134** |
+| **Macro Recall** | **0.3522** |
+| **Macro F1** | **0.2811** |
 
-Visit Mode Classification
+The inference pipeline uses safe pre-visit features and excludes the target `Rating`.
 
-Selected model: Random Forest Classifier
+---
 
-Classes: Business, Couples, Family, Friends, Solo
+## 3. Attraction Recommendation
 
-Metric
+TravelIQ uses a deterministic **content/profile-based recommendation approach**.
 
-Test Result
+| Component | Weight |
+|---|---:|
+| Traveler attraction-type affinity | **60%** |
+| Attraction quality | **25%** |
+| Attraction popularity | **15%** |
 
-Accuracy
+### Recommendation Evaluation
 
-0.4250
+| Metric | Top-5 | Top-10 |
+|---|---:|---:|
+| **Precision** | **0.1651** | **0.0988** |
+| **Recall** | **0.6723** | **0.8062** |
+| **MAP** | **0.4198** | **0.4401** |
 
-Macro Precision
+Cold-start recommendations use attraction quality and popularity when traveler history is unavailable.
 
-0.3134
+---
 
-Macro Recall
+# Streamlit Application
 
-0.3522
+| Page | Purpose |
+|---|---|
+| **Home** | Tourism overview, KPIs, destinations, trending attractions, and world explorer |
+| **Tourism Analytics** | Interactive tourism statistics and visualizations |
+| **Rating Predictor** | Estimate an expected attraction rating |
+| **Visit Mode Predictor** | Predict Business, Couples, Family, Friends, or Solo |
+| **Attraction Recommendations** | Personalized or cold-start attraction suggestions |
+| **Memory Passport** | Traveler-specific history and memory stamps |
+| **About Project** | Objective, workflow, and technology stack |
 
-Macro F1
+---
 
-0.2811
+# Analytics and SQL
 
-Attraction Recommendation
+### Exploratory Data Analysis
 
-A deterministic content/profile-based recommender combines traveler attraction-type preferences, attraction quality, popularity, and visited-attraction exclusion. Cold-start recommendations are supported for new or unknown travelers.
+The EDA covers traveler demographics, visit-mode patterns, attraction popularity, rating behavior, geographic distribution, yearly trends, monthly seasonality, and attraction comparisons.
 
-Metric
+### SQL Analysis
 
-Top-5
+A SQLite database is included with structured tourism tables and reusable SQL queries for analytical questions.
 
-Top-10
+---
 
-Precision
+# Data Leakage and Validation
 
-0.1651
+Model training uses **time-aware historical features**. User and attraction statistics are calculated only from information available before the relevant visit period.
 
-0.0988
+| Split | Historical period |
+|---|---|
+| Training | Jan 2013 – Jul 2017 |
+| Validation | Aug 2017 – May 2018 |
+| Test | Jun 2018 – Oct 2022 |
 
-Recall
+Cold-start fallbacks are used when prior history is unavailable. The project also includes leakage checks and reproducibility checks.
 
-0.6723
+---
 
-0.8062
+# Tech Stack
 
-MAP
+| Technology | Purpose |
+|---|---|
+| **Python** | Core development and machine learning |
+| **Streamlit** | Interactive web application |
+| **Pandas** | Data processing and analysis |
+| **Plotly** | Interactive visualizations |
+| **Scikit-learn** | Machine learning and preprocessing |
+| **SQLite** | SQL-based tourism analysis |
+| **Joblib** | Model artifact storage and loading |
 
-0.4198
+---
 
-0.4401
+# Project Structure
 
-The recommendation system was evaluated with a time-based train/test cutoff and checked for leakage, deterministic output, real attraction IDs, and visited-attraction exclusion.
-
-Streamlit Pages
-
-Home — tourism overview, KPIs, destinations, trending attractions, and world explorer
-
-Tourism Analytics — visit modes, ratings, countries, attractions, yearly trends, and seasonality
-
-Rating Predictor — estimates an expected attraction rating
-
-Visit Mode Predictor — predicts Business, Couples, Family, Friends, or Solo
-
-Attraction Recommendations — personalized or cold-start attraction suggestions
-
-Memory Passport — traveler-specific history and memory stamps
-
-About Project — objective, workflow, and technology stack
-
-Tech Stack
-
-Python · Streamlit · Pandas · Plotly · Scikit-learn · SQLite · Joblib
-
-Project Structure
-
+```text
 tourism_project/
 ├── app.py
 ├── pages/
@@ -163,31 +229,55 @@ tourism_project/
 │   └── recommendation/
 ├── scripts/
 ├── styles/
+│   └── main.css
 ├── requirements.txt
 └── README.md
+```
 
-Run Locally
+---
 
+# Run Locally
+
+```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
-Data and Leakage Controls
+---
 
-Model training uses time-aware historical features. User and attraction statistics are calculated only from information available before the relevant visit period, with cold-start fallbacks when prior history is unavailable. The classification inference pipeline excludes the target rating.
+# Documentation
 
-Documentation
+| Location | Contents |
+|---|---|
+| `docs/data_dictionary.md` | Dataset fields and cleaning decisions |
+| `docs/eda_report.md` | Exploratory analysis |
+| `docs/eda/` | EDA statistics and supporting artifacts |
+| `docs/model_evaluation_report.md` | Model evaluation |
+| `database/` | SQL schema, queries, and database |
 
-The docs/ directory contains the data dictionary, cleaning decisions, EDA report and artifacts, SQL analysis, model evaluation, recommendation evaluation, leakage checks, and reproducibility checks.
+---
 
-Deployment
+# Deployment
 
-Platform: Streamlit Community Cloud
-Live application: To be added after deployment
+**Platform:** Streamlit Community Cloud
 
-Repository
+**Live application:** _To be added after deployment_
 
-https://github.com/Kusuma-Ramesh/TravelIQ-Tourism-Experience-Analytics
+**GitHub:** https://github.com/Kusuma-Ramesh/TravelIQ-Tourism-Experience-Analytics
 
-Project Goal
+---
 
-TravelIQ brings analytics, machine learning, recommendation, and interactive visualization together into one end-to-end tourism experience platform — helping users discover smarter and travel better.
+# Limitations
+
+- The recommendation interaction catalogue contains **30 attractions**, while the broader source catalogue is larger.
+- Visit-mode classification is affected by class imbalance, particularly for Business.
+- Rating prediction has modest held-out R² and should be interpreted as an estimate.
+- Predictions beyond the historical 2013–2022 period are extrapolations.
+
+---
+
+# Project Goal
+
+TravelIQ brings **analytics, machine learning, recommendation, and interactive visualization** together into one end-to-end tourism experience platform.
+
+> **Discover smarter. Travel better.**
